@@ -1,15 +1,21 @@
-# Palisades NRC data
+# Palisades Record
 
-Fetches the NRC's current-quarter descriptor and the corresponding Palisades findings JSON using Node 24. No dependencies or third-party scraping relay are required.
+[Open the dashboard](https://jvanderberg.github.io/palisades-nrc-data/) · [Update history](https://github.com/jvanderberg/palisades-nrc-data/actions/workflows/refresh-nrc.yml) · [Published JSON](https://jvanderberg.github.io/palisades-nrc-data/data/findings.json)
 
-GitHub Actions runs daily at 11:17 UTC (6:17 a.m. Central daylight time; 5:17 a.m. Central standard time) and can also be run manually. Schedules can be delayed by GitHub. Each successful run commits `data/findings.json`, including the NRC source URL, source update date, and retrieval time. Failed requests or invalid responses fail the workflow without replacing the last successful snapshot.
+Public NRC inspection findings dashboard hosted on GitHub Pages. Search, filter classifications, open original reports, and export JSON.
 
-Run locally with `node scripts/fetch-nrc.mjs`. Optionally set `NRC_OUTPUT_DIR` to another output directory.
+## Nightly updates
 
-This is a quarterly findings feed, not an exhaustive inventory of violations or unresolved issues. It can omit newer inspection reports, minor violations, licensee-identified findings, and nonpublic security details.
+GitHub Actions runs at **08:17 UTC** every night (3:17 a.m. Central daylight time; 2:17 a.m. Central standard time). GitHub may delay scheduled runs. Manual runs and pushes affecting website code also update the site.
 
-## Dashboard integration
+Node 24 fetches the current NRC quarter and corresponding Palisades findings JSON, validates it, commits `data/findings.json`, and publishes the dashboard. No dependencies, private credentials, or third-party relay are needed. Failed fetches leave the previous snapshot and published site intact. Successful runs record the retrieval time even if NRC has not changed its data.
 
-The dashboard should read this snapshot on each page load and label its `fetchedAt` time as the last successful NRC retrieval. Warn when that time is more than 48 hours old. A failed scheduled run must not be presented as an empty findings list.
+Every visit reads the published snapshot with browser caching disabled. Reloading checks the snapshot; it does not contact NRC or trigger the workflow. Pages propagation and CDN caching may briefly delay a new publication. A warning appears when data is over 48 hours old. GitHub can disable scheduled workflows in public repositories after 60 days without activity; check Actions if updates stop.
 
-This repository is private. A separately hosted dashboard needs a server-side, read-only GitHub credential scoped to this repository to read `data/findings.json` through the GitHub Contents API. Never put that credential in browser JavaScript. Repository creation does not automatically connect or update the dashboard.
+## Scope
+
+This quarterly feed is not an exhaustive inventory of violations or unresolved issues. It can omit newer reports, minor violations, licensee-identified findings, and security details. The August 31, 2026 radiation report is linked separately while absent from the feed. Green is not an overall plant safety rating.
+
+## Local use
+
+Run `node scripts/fetch-nrc.mjs` with Node 24. Optionally set `NRC_OUTPUT_DIR`. To preview, copy the contents of `web/` and the `data/` directory into one static serving directory, as the workflow does. Relative URLs support the repository Pages path.
