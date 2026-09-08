@@ -1,5 +1,5 @@
-import { ArrowUpRight, Download, RefreshCw, ShieldCheck } from 'lucide-react';
-import { useCallback, useEffect, useState } from 'react';
+import { ArrowUpRight, Download, ShieldCheck } from 'lucide-react';
+import { useEffect, useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { type Archive, base, loadArchive } from '@/lib/data';
@@ -9,7 +9,6 @@ const options = (values: string[]) => [...new Set(values)].sort();
 
 export default function App() {
 	const [data, setData] = useState<Archive | null>(null);
-	const [loading, setLoading] = useState(true);
 	const [error, setError] = useState('');
 	const [query, setQuery] = useState('');
 	const [year, setYear] = useState('All');
@@ -29,27 +28,22 @@ export default function App() {
 			});
 		}
 	};
-	const refresh = useCallback(async (signal?: AbortSignal) => {
-		setLoading(true);
-		setError('');
-		try {
-			setData(await loadArchive(signal));
-		} catch (failure) {
-			if (!signal?.aborted)
-				setError(
-					failure instanceof Error
-						? failure.message
-						: 'Could not load CSV data',
-				);
-		} finally {
-			if (!signal?.aborted) setLoading(false);
-		}
-	}, []);
 	useEffect(() => {
 		const controller = new AbortController();
-		void refresh(controller.signal);
+		loadArchive(controller.signal)
+			.then((archive) => {
+				if (!controller.signal.aborted) setData(archive);
+			})
+			.catch((failure) => {
+				if (!controller.signal.aborted)
+					setError(
+						failure instanceof Error
+							? failure.message
+							: 'Could not load CSV data',
+					);
+			});
 		return () => controller.abort();
-	}, [refresh]);
+	}, []);
 	const findings = data?.findings ?? [];
 	const reports = data?.reports ?? [];
 	const visible = findings.filter(
@@ -92,15 +86,6 @@ export default function App() {
 							since {data?.status.startDate ?? '2024-01-01'}
 						</p>
 					</div>
-					<Button
-						variant="outline"
-						size="lg"
-						disabled={loading}
-						onClick={() => void refresh()}
-					>
-						<RefreshCw size={15} />
-						{loading ? 'Loading…' : 'Reload data'}
-					</Button>
 				</div>
 				<div className="freshness">
 					<span>
@@ -122,10 +107,7 @@ export default function App() {
 				)}
 				{error && (
 					<p className="coverage-note" role="alert">
-						{error}.{' '}
-						{data
-							? 'Previously loaded records remain displayed.'
-							: 'Use Reload data to try again.'}
+						{error}. Refresh the page to try again.
 					</p>
 				)}
 				<div className="stats">
