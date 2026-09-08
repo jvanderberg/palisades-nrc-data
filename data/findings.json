@@ -1,0 +1,78 @@
+{
+  "fetchedAt": "2026-09-08T21:52:28.236Z",
+  "sourceUpdatedAt": "2026-08-26T17:36:31.472994-04:00",
+  "quarter": "2Q/2026",
+  "sourceUrl": "https://www.nrc.gov/sites/default/files/doc_library/cdn/data/performance-indicators/2026q2/docketpim/pali.json",
+  "findings": [
+    {
+      "id": "MsFindings|Failure to Provide Work Instructions Appropriate for Work Activities|Jun 30, 2026|2026002",
+      "title": "Failure to Provide Work Instructions Appropriate for Work Activities",
+      "category": "Mitigating Systems",
+      "rating": "Green",
+      "type": "Non-Cited Violation (NCV)",
+      "by": "Self - Revealed",
+      "date": "Jun 30, 2026",
+      "summary": "The inspectors identified a Green finding and associated non-cited violation (NCV) of Technical Specification Section 5.4.1.a when the licensee failed to provide work instructions appropriate for the work activities. Specifically, in the first example, Work Order (WO) 588976-09 lacked sufficient detail for work near buried utilities. Second, troubleshooting activities were performed on the failed cables without written work instructions.",
+      "reports": [
+        {
+          "number": "2026002",
+          "accession": "ML26225A336",
+          "url": "https://www.nrc.gov/docs/ML2622/ML26225A336.pdf"
+        }
+      ]
+    },
+    {
+      "id": "MsFindings|Failure to Maintain Adequate Fire Protection System Functional Test Procedure  |Mar 31, 2026|2026001",
+      "title": "Failure to Maintain Adequate Fire Protection System Functional Test Procedure",
+      "category": "Mitigating Systems",
+      "rating": "Green",
+      "type": "Non-Cited Violation (NCV)",
+      "by": "NRC - Identified",
+      "date": "Mar 31, 2026",
+      "summary": "The inspectors identified a finding of very-low safety significance and associated violation of Technical Specification 5.4.1, “Procedures,” for the licensee’s failure to maintain fire protection system functional test procedure. Specifically, the licensee failed to maintain Procedure RO-52, “Fire Suppression Water System Functional Test and Fire Pump Capacity Test”, by failing to include appropriate acceptance criteria in the procedure to demonstrate fire protection system functionality.",
+      "reports": [
+        {
+          "number": "2026001",
+          "accession": "ML26125A118",
+          "url": "https://www.nrc.gov/docs/ML2612/ML26125A118.pdf"
+        }
+      ]
+    },
+    {
+      "id": "BiFindings|License Amendment Required for Change of Critical Heat Flux Correlations Used in the Main Steam Line Break Analysis to Predict the Minimum Departure of Nucleate Boiling Ratio|Oct 31, 2025|2025005",
+      "title": "License Amendment Required for Change of Critical Heat Flux Correlations Used in the Main Steam Line Break Analysis to Predict the Minimum Departure of Nucleate Boiling Ratio",
+      "category": "Barrier Integrity",
+      "rating": "Green",
+      "type": "Non-Cited Violation (NCV)",
+      "by": "NRC - Identified",
+      "date": "Oct 31, 2025",
+      "summary": "The inspectors identified a very low safety significant (Green) and associated severity level IV non-cited violation of Title 10 of the Code of Federal Regulations (10 CFR) 50.59 because the licensee failed to obtain NRC approval prior to changing the critical heat flux correlations applied in their main steam line break analysis to predict the minimum departure from nucleate boiling ratio. Subsequently, the licensee submitted a license amendment request which was approved by the NRC as license amendment number 279 (ADAMS Accession No. ML25156A045).",
+      "reports": [
+        {
+          "number": "2025005",
+          "accession": "ML25357A093",
+          "url": "https://www.nrc.gov/docs/ML2535/ML25357A093.pdf"
+        }
+      ]
+    }
+  ],
+  "reports": [
+    {
+      "number": "2026002",
+      "accession": "ML26225A336",
+      "url": "https://www.nrc.gov/docs/ML2622/ML26225A336.pdf"
+    },
+    {
+      "number": "2026001",
+      "accession": "ML26125A118",
+      "url": "https://www.nrc.gov/docs/ML2612/ML26125A118.pdf"
+    },
+    {
+      "number": "2025005",
+      "accession": "ML25357A093",
+      "url": "https://www.nrc.gov/docs/ML2535/ML25357A093.pdf"
+    }
+  ],
+  "securityDetailsAvailable": false,
+  "retrieval": "Scheduled NRC fetch via GitHub Actions"
+}
