@@ -1,0 +1,354 @@
+                                          January 24, 2025
+Mike Mlynarek
+Site Vice President
+Holtec Decommissioning
+International, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Highway
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2024013
+
+Dear Mike Mlynarek:
+
+On December 31, 2024, the U.S. Nuclear Regulatory Commission (NRC) completed an
+inspection at the Palisades Nuclear Plant. The enclosed inspection report documents the
+inspection results, which the inspectors discussed on January 8, 2024, with M. Mlynarek and
+other members of your staff.
+
+No violations of more than minor significance were identified during this inspection.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the Reactor
+Vessel,” (ADAMS Accession No. ML22164A067). On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations at
+Palisades (ADAMS Accession No. ML23271A140). The NRC’s initial acceptance to review
+Palisades’ request for exemptions was documented in ADAMS at Accession No. ML23291A440
+on November 3, 2023.
+M. Mlynarek                                      2
+
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Nguyen, April
+                                                                      on 01/24/25
+
+
+
+                                              April M. Nguyen, Lead
+                                              Palisades Restart Team
+                                              Division of Operating Reactor Safety
+
+Docket No. 05000255
+License No. DPR-20
+
+Enclosure:
+As stated
+
+cc w/ encl: Distribution via LISTSERV®
+M. Mlynarek                                    3
+
+
+Letter to Mike Mlynarek from April Nguyen dated January 24, 2025.
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2024013
+
+DISTRIBUTION:
+Alejandro Alen Arias
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Jack Giessner
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+Harral Logaras
+David Curtis
+R3-DORS
+
+
+
+
+ADAMS ACCESSION NUMBER: ML25024A083
+                             ☒ Non-Sensitive                        ☒ Publicly Available
+   ☒ SUNSI Review
+                             ☐ Sensitive                            ☐ Non-Publicly Available
+ OFFICE RIII
+ NAME    ANguyen:sw
+ DATE    01/24/2025
+
+
+                                   OFFICIAL RECORD COPY
+                    U.S. NUCLEAR REGULATORY COMMISSION
+                               Inspection Report
+
+
+Docket Number:         05000255
+
+
+License Number:        DPR-20
+
+
+Report Number:         05000255/2024013
+
+
+Licensee:              Holtec Decommissioning International, LLC
+
+
+Facility:              Palisades Nuclear Plant
+
+
+Location:              Covert, MI
+
+
+Inspection Dates:      October 01, 2024 to December 31, 2024
+
+
+Inspectors:            J. Austin, Senior Project Engineer, Region II
+                       E. Fernandez, Senior Reactor Inspector, Region III
+                       E. Magnuson, Reactor Inspector, Region III
+                       J. Mancuso, Senior Resident Inspector
+                       T. Okamoto, Resident Inspector
+                       A. Sanchez, Senior Project Engineer, Region IV
+                       S. Schwind, Senior Resident Inspector, Callaway
+                       C. Speer, Reactor Systems Engineer, NRR
+                       T. Steadham, Senior Resident Inspector, Browns Ferry
+                       D. Werkheiser, Senior Reactor Analyst, Region I
+                       J. Winslow, Senior Project Engineer, Restart Team
+
+
+Approved By:           April M. Nguyen, Lead
+                       Palisades Restart Team
+                       Division of Operating Reactor Safety
+
+
+
+
+                                                                              Enclosure
+                                          SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) performed inspections of the licensee’s
+activities to verify that the reactor coolant system boundary, reactor vessel head, and
+risk-significant piping system boundaries are appropriately monitored for degradation and that
+required repairs and replacements are appropriately examined and accepted; systems,
+structures, and components (SSCs) are appropriately inspected, maintained, and tested to
+ensure they can perform their required safety functions for potential restart; and human
+performance issues are being appropriately addressed at a low threshold to prevent more
+significant issues from occurring.
+
+                               List of Findings and Violations
+
+None.
+
+                                  Additional Tracking Items
+
+None.
+
+
+
+
+                                               2
+PLANT STATUS
+
+The Palisades Nuclear Plant ceased power operations and subsequently removed all fuel from
+the reactor, as certified in a letter to the NRC on June 13, 2022. On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of 10 CFR 50.82(a)(2) to pursue the
+potential reauthorization of power operations. The NRC is conducting inspections to evaluate
+and assess the licensee’s activities for potential restoration to an operational status.
+
+The Resident Inspector office was staffed in December 2024 to provide daily, on-site oversight
+and inspection of Holtec’s potential restart activities.
+
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the referenced inspection
+procedures (IPs) in effect at the beginning of the inspection unless otherwise noted. Currently
+approved IPs with their attached revision histories are located on the public website at
+http://www.nrc.gov/reading-rm/doc-collections/insp-manual/inspection-procedure/index.html.
+
+REACTOR SAFETY CORNERSTONES
+
+71111.08P - Inservice Inspection Activities (PWR)
+
+From November 14, 2024, to December 18, 2024, the inspectors observed and verified Holtec
+Palisades’ nondestructive examination (NDE) and repair/replacement activities of the reactor
+pressure vessel head and Alloy 600 welds, conducted in accordance with the requirements of
+the ASME Code Section XI. The purpose of these inspections was to verify that the reactor
+coolant system boundary, reactor pressure vessel head, and risk-significant piping system
+boundaries are appropriately monitored for degradation. The inspectors also verified that the
+examination results were thoroughly reviewed and appropriately evaluated, and that required
+corrective actions to address identified indications and defects will be appropriately
+implemented. During this quarter, the licensee completed NDE activities and evaluation of data
+for both the reactor pressure vessel head and Alloy 600 welds in the primary coolant system
+and began repair/replacement activities in both areas. Further NRC inspections will monitor
+repair/replacement activities as they are conducted.
+
+The inspectors verified that the following nondestructive examination and repair/replacement
+activities were conducted appropriately per the ASME Code or required standard, and that any
+potential indications and defects were identified and evaluated at the proper thresholds:
+
+Nondestructive Examination and Welding Activities (IP Section 03.01)
+
+Alloy 600 Weld Inspection and Mitigation (November 14, 2024–December 18, 2024)
+    • Dye Penetrant (PT) Examination of weld overlay locations
+    • Phased Array Ultrasonic Testing (PAUT) of safety injection piping
+    • Fabrication of full structural weld overlay on hot leg 2 shutdown cooling line
+
+Vessel Upper Head Penetration Inspection Activities (IP Section 03.02)
+
+Reactor Pressure Vessel Head (November 14, 2024–December 18, 2024)
+
+
+                                                3
+   •   Preparatory machining activities for control rod drive mechanism (CRDM) nozzle repairs
+   •   PT examination of reactor vessel head vent line
+   •   Inner diameter (ID) profilometry of CRDM nozzle #5
+
+OTHER BASELINE ACTIVITIES
+
+71152 - Problem Identification and Resolution
+
+Annual Follow-up of Selected Issues (IP Section 03.03)
+
+The inspectors reviewed the licensee’s implementation of its corrective action program related
+to the following issues:
+
+  (1) PAL-02885, “Adverse Trend in Human Performance Incidents,” August 9, 2024
+
+A summary of this review and the inspectors’ observations are documented in the Results
+Section below.
+
+System Return to Service
+
+On December 2, 2024, the inspectors commenced reviews of Phases I and II of the licensee’s
+system return to service (SRTS) plans. The SRTS plans document licensee activities to verify
+that the configuration and condition of Systems, Structures, and Components (SSCs) are
+consistent with the design and licensing bases to support potential restart. The inspectors
+began initial reviews on Phases I and II of the SRTS plans, which include areas such as
+licensing and design-basis functions, system material conditions, reviewing open and deferred
+work prior to shutdown, and program applicability. The inspectors conducted these reviews
+using IP 71152, “Problem Identification and Resolution,” and IP 71111.21M, “Comprehensive
+Engineering Team Inspection (CETI),” as applicable.
+
+The inspectors commenced reviews of the SRTS plans for the following systems:
+   • Auxiliary Feedwater (AFW)
+   • AC Power Systems
+   • Service Water
+   • DC Power Systems
+   • Emergency Diesel Generators (EDGs)
+   • Low Pressure Safety Injection and Shutdown Cooling
+
+These systems were selected based on the importance of the SSCs during normal and
+emergency plant operating conditions, risk significance and defense-in-depth of the SSCs’
+specific functions and required work/modifications of the SSCs scheduled prior to potential
+restart.
+
+
+
+
+                                                4
+INSPECTION RESULTS
+
+  Assessment: Adverse Trend in Human Performance Incidents                              71152
+
+  On August 9, 2024, the licensee wrote issue report (IR) PAL-02885 identifying an adverse
+  trend in human performance incidents at the site. Five incidents in July and August 2024
+  were noted as part of the trend. An apparent cause evaluation (ACE) was performed to
+  understand the incidents and implement actions to arrest the trend. As part of the ACE
+  analysis, the licensee reviewed additional IRs that identified similar human performance
+  incidents. Additionally, a previous safety and human performance trend identified in
+  IR PAL-01857 on February 21, 2024, and associated corrective actions were reviewed.
+
+  The licensee identified five causal factors documented in the ACE associated with
+  reinforcement of standards, guidance for procedures “on hold,” standards and expectations
+  for new personnel, ineffective communications on safety and human performance issues, and
+  less than adequate evaluation and corrective actions from previously identified issue reports.
+  Corrective actions completed or planned include, but are not limited to, development of a
+  safety and human performance monitoring and communications plan, reinforcement of
+  expectations for site employees, and performance of an effectiveness review.
+
+  The inspectors reviewed the licensee’s ACE, including IRs for the human performance
+  incidents reviewed as part of the ACE. They also reviewed the identified causal factors and
+  completed and planned corrective actions discussed in the ACE. The inspectors determined
+  that the corrective actions were appropriate to the circumstances.
+
+  The licensee has planned to perform an effectiveness review of the corrective actions after all
+  actions have been implemented. The inspectors noted that the methods of verification,
+  process attributes, and success criteria for the effectiveness review are still being identified.
+
+
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •   On January 8, 2024, the inspectors presented the inspection results to M. Mlynarek,
+       Site Vice President, and other members of the licensee staff.
+
+
+
+
+                                                 5
+DOCUMENTS REVIEWED
+
+
+Inspection   Type             Designation        Description or Title                                          Revision or
+Procedure                                                                                                      Date
+71111.08P    Corrective Action PAL-04217         PT Indications for Alloy 600 Weld Overlay                     11/18/2024
+             Documents         PAL-04220         PT Indications on the Stainless on 1A Safety Injection        11/18/2024
+                               PAL-04282         PT Indications on 2B Safety Injection Stainless Steel Valve   11/22/2024
+                               PAL-04303         As-measured Palisades RVCH Thickness                          11/25/2024
+                               PAL-04316         PT Indication on 2A Cold Leg SI Nozzle                        11/25/2024
+                               PAL-04614         PT Indications Following Vent Line Machining                  12/18/2024
+             NDE Reports       CR-2024-3181-     UT Thickness Measurements of RVCH                             11/15/2024
+                               10-UT-001
+                               CR-2024-3181-     UT Thickness Measurements of RVCH                             11/22/2024
+                               10-UT-002
+                               CR-2024-3406-     UT Thickness Measurements of RVCH                             11/26/2024
+                               07-UT-001
+                               CR-2024-3406-     UT Thickness Measurements of RVCH                             12/02/2024
+                               08-UT-001
+                               SI-1A-80-00-PT-   Liquid Penetrant Examination of 1A SI Nozzle                  11/16/2024
+                               001
+                               SI-1B-80-00-PT-   Liquid Penetrant Examination of 1B SI Nozzle                  11/26/2024
+                               001
+                               SI-2A-80-00-PT-   Liquid Penetrant Examination of 2A SI Nozzle                  11/25/2024
+                               001
+                               SI-2B-80-00-PT-   Liquid Penetrant Examination of 2B SI Nozzle                  11/22/2024
+                               001
+             Procedures        54-PT-200-026     Color Contrast Solvent Removable Liquid Penetrant             26
+                                                 Examination of Components
+                               LMT-10-PAUT-      Fully Encoded Phased Array Ultrasonic Examination of          3
+                               007               Dissimilar Metal Piping Welds
+                               LMT-10-PAUT-      Manual Phased Array Ultrasonic Examination of Dissimilar      0
+                               019               Metal Piping Welds
+71152        Corrective Action PAL-02643         Westinghouse PCS Decon Skid Operator Entered Incorrect        07/10/2024
+             Documents                           Value
+
+
+
+                                                              6
+Inspection   Type         Designation   Description or Title                                 Revision or
+Procedure                                                                                    Date
+                          PAL-02768     Wire Rope Contacting Electrical Cable                07/30/2024
+                          PAL-02770     Extraction of Personnel from Spider Man Basket       07/30/2024
+                          PAL-02885     Adverse Trend in Human Performance Incidents         08/09/2024
+                          PAL-02911     Personal Vehicle/Forklift Incident                   08/12/2024
+                          PAL-03651     NSRB Issue - Human Performance                       10/17/2024
+             Procedures   ENG-105       System Return to Service Plans                       1
+                          OM-126        Management and Oversight of Supplemental Personnel   0
+                          RA-102        Corrective Action Program                            0
+
+
+
+
+                                                     7
+

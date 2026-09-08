@@ -1,0 +1,433 @@
+                                           February 2, 2026
+Michael Mlynarek
+Site Vice President,
+Palisades Energy, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Hwy
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2025006
+
+Dear Michael Mlynarek:
+
+On December 31, 2025, the U.S. Nuclear Regulatory Commission (NRC) completed an
+inspection at the Palisades Nuclear Plant. The enclosed inspection report documents the
+inspection results, which the inspectors discussed on January 20, 2026, with yourself and
+other members of your staff.
+
+No findings or violations of more than minor significance were identified during this inspection.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the
+Reactor Vessel,” (ADAMS Accession No. ML22164A067). On September 28, 2023,
+Holtec Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations
+at Palisades (ADAMS Accession No. ML23271A140).
+
+On July 24, 2025, the NRC approved an exemption from the requirements of
+10 CFR 50.82(a)(2), as detailed in the letter, “Palisades Nuclear Plant – Exemption from
+the requirements of 10 CFR 50.82(a)(2) Concerning the Prohibition to Operate and Emplace
+Fuel in the Reactor Vessel,” (ADAMS Accession No. ML25163A182) and a set of licensing
+actions supporting reauthorization of Palisades Nuclear Plant. On August 25, 2025,
+Palisades notified the NRC that they rescinded their 10 CFR 50.82(a)(1) certification,
+which removed the prohibition on operation and emplacement of fuel in the reactor
+(ADAMS Accession No. ML25237A317). Palisades also implemented the set of licensing
+actions to support reimplementation of their operational licensing basis.
+M. Mlynarek                                      2
+
+
+On August 25, 2025, the NRC transitioned oversight of Palisades to the Reactor Oversight
+Process (ROP).
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Nguyen, April
+                                                                      on 02/02/26
+
+
+
+                                              April M. Nguyen, Lead
+                                              Palisades Restart Team
+                                              Division of Operating Reactor Safety
+
+Docket No. 05000255
+License No. DPR–20
+
+Enclosure:
+As stated
+
+cc w/ encl: Distribution via GovDelivery
+M. Mlynarek                                     3
+
+
+Letter to Michael Mlynarek from April M. Nguyen dated February 2, 2026.
+
+SUBJECT:        PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+                05000255/2025006
+
+DISTRIBUTION:
+Rodney Clagg
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+Deborah Piskura
+Shelbie Lewman
+Jennifer Dalzell
+R3-DORS
+
+
+
+
+ADAMS Accession Number: ML26030A166
+                              ☒ Non-Sensitive                       ☒ Publicly Available
+   ☒    SUNSI Review
+                              ☐ Sensitive                           ☐ Non-Publicly Available
+ OFFICE R-III               R-III
+ NAME    JWinslow:anm       ANguyen
+ DATE    01/30/2026         02/02/2026
+
+
+                                      OFFICIAL RECORD COPY
+                       U.S. NUCLEAR REGULATORY COMMISSION
+                                  Inspection Report
+
+
+Docket Number:       05000255
+
+
+License Number:      DPR‑20
+
+
+Report Number:       05000255/2025006
+
+
+Enterprise Identifier: I‑2025‑006-0045
+
+
+Licensee:            Palisades Energy, LLC
+
+
+Facility:            Palisades Nuclear Plant
+
+
+Location:            Covert, MI
+
+
+Inspection Dates:    November 01, 2025, to December 31, 2025
+
+
+Inspectors:          J. Cassidy, Senior Health Physicist
+                     A. Dahbur, Senior Reactor Inspector
+                     Z. Helgert, Resident Inspector
+                     J. Mancuso, Senior Resident Inspector
+                     M. McConnell, Senior Electrical Engineer
+                     V. Myers, Senior Health Physicist
+                     A. Nguyen, Team Leader
+                     T. Okamoto, Resident Inspector
+                     A. Shaikh, Senior Reactor Inspector
+                     C. St. Peters, Senior Project Engineer
+                     J. Winslow, Senior Project Engineer
+
+
+
+Approved By:         April M. Nguyen, Lead
+                     Palisades Restart Team
+                     Division of Operating Reactor Safety
+
+
+
+
+                                                                Enclosure
+                                           SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) performed inspection activities of the
+licensee’s performance associated with the return to an operational status. As available,
+the NRC monitored the licensee’s performance by conducting an integrated inspection at
+Palisades Nuclear Plant, in accordance with the Reactor Oversight Process. The Reactor
+Oversight Process is the NRC’s program for overseeing the safe operation of commercial
+nuclear power reactors. Refer to https://www.nrc.gov/reactors/operating/oversight.html
+for more information.
+
+                                List of Findings and Violations
+
+No findings or violations of more than minor significance were identified.
+
+                                   Additional Tracking Items
+
+None.
+
+
+
+
+                                                2
+PLANT STATUS
+
+On August 25, 2025, Palisades notified the NRC that they rescinded their 10 CFR 50.82(a)(1)
+certification, which removed the prohibition on operation and emplacement of fuel in the reactor.
+Palisades also implemented the set of licensing actions to support reimplementation of their
+operational licensing basis. On August 25, 2025, the NRC transitioned oversight of Palisades
+to the Reactor Oversight Process (ROP).
+
+The NRC is conducting inspections to evaluate and assess the licensee’s activities for
+restoration to an operating status. The resident inspectors, as well as supplemental inspectors,
+continue to provide daily oversight of the restart activities occurring at the site.
+
+The unit ended the inspection period in a defueled status.
+
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the referenced inspection
+procedures (IPs) in effect at the beginning of the inspection unless otherwise noted.
+Currently approved IPs with their attached revision histories are located on the public website
+at https://www.nrc.gov/reading-rm/doc-collections/insp-manual/inspection-procedure/index.
+As available, samples were declared complete when the IP requirements most appropriate
+to the inspection activity were met consistent with Inspection Manual Chapter (IMC) 2515,
+“Light-Water Reactor Inspection Program - Operations Phase.” The inspectors reviewed
+selected procedures and records, observed activities, and interviewed personnel to assess
+licensee performance and compliance with Commission rules and regulations, license
+conditions, site procedures, and standards.
+
+REACTOR SAFETY
+
+71111.05 - Fire Protection
+
+Fire Area Walkdown and Inspection Sample (IP Section 03.01) (1 Sample)
+
+   The inspectors evaluated the implementation of the fire protection program by conducting
+   a walkdown and performing a review to verify program compliance, equipment functionality,
+   material condition, and operational readiness of the following fire areas:
+
+   (1)    Pre-Fire Plan 2 / Room 224: cable spreading room, elevation 607'-6"
+          on December 3, 2025
+
+71111.07A - Heat Exchanger/Sink Performance
+
+Annual Review (IP Section 03.01) (1 Partial)
+
+   The inspectors evaluated readiness and performance of:
+
+   (1)    (Partial)
+          E-60B, shutdown cooling heat exchanger, on December 23, 2025
+
+
+
+
+                                                3
+71111.08P - Inservice Inspection Activities (PWR)
+
+Vessel Upper Head Penetration Inspection Activities (IP Section 03.02) (1 Sample)
+
+   (1) Reactor Vessel Closure Head (RVCH) bare metal visual examination
+
+Steam Generator Tube Inspection Activities (IP Section 03.04) (1 Sample)
+
+    (1) Steam generators ‘A’ and ‘B’ chemical cleaning
+
+71111.15 - Operability Determinations and Functionality Assessments
+
+Operability Determination or Functionality Assessment (IP Section 03.01) (3 Samples)
+
+   The inspectors evaluated the licensee’s justifications and actions associated with the
+   following operability determinations and functionality assessments:
+
+   (1)    Engineering Changes (ECs) 93737, 93739, and 93766, Operability Acceptance
+          Documents to meet Technical Specifications (TS) Limiting Condition for
+          Operation (LCO) 3.8.5, Right Train DC Sources - Shutdown, TS LCO 3.8.8,
+          Right Train Inverters - Shutdown, and TS LCO 3.8.10, Right Train Distribution
+          Systems - Shutdown during movement of irradiated fuel
+   (2)    EC 93743, Operability Acceptance Review to meet TS LCO 3.7.10, Control Room
+          Ventilation Filtration for right and left train control room HVAC and TS LCO 3.7.11
+          Control Room Ventilation Cooling for right train control room HVAC during movement
+          of irradiated fuel
+   (3)    EC 93739, Operability Acceptance Review to meet TS LCO 3.8.2 AC
+          Sources - Shutdown for Emergency Diesel Generator 1-2 and TS LCO 3.8.3
+          Diesel Fuel, Lube Oil and Starting Air for Emergency Diesel Generator 1-2 during
+          movement of irradiated fuel
+
+71111.18 - Plant Modifications
+
+Temporary Modifications and/or Permanent Modifications (IP Section 03.01 and/or 03.02)
+(3 Samples)
+
+   The inspectors evaluated the following temporary or permanent modifications:
+
+   (1)    EC 93764, Installation of portable air compressors to support compressor C-2A/B/C
+          replacement
+   (2)    EC 93508, Permanent Primary Coolant System Cold Leg Safety Injection Nozzle
+          Thermal Sleeve Removal
+   (3)    EC 93369, Temporary removal of component cooling water valves CV-0977B and
+          CV-0944 to support alternate spent fuel pool cooling permanent modification
+
+
+
+
+                                               4
+71111.24 - Testing and Maintenance of Equipment Important to Risk
+
+The inspectors evaluated the following testing and maintenance activities to verify system
+operability and/or functionality:
+
+Post-Maintenance Testing (PMT) (IP Section 03.01) (1 Sample)
+
+   (1)    Work Order (WO) 598521-01, Post-maintenance testing of diesel fire pump P-9B
+          following alternator replacement on November 5, 2025
+
+Surveillance Testing (IP Section 03.01) (1 Sample)
+
+   (1)    RI-59C, LTOP pressure transmitter calibrations, on December 4, 2025
+
+RADIATION SAFETY
+
+71124.01 - Radiological Hazard Assessment and Exposure Controls
+
+Instructions to Workers (IP Section 03.02) (1 Sample)
+
+   (1)    The inspectors evaluated how the licensee instructed workers on radiological hazards
+          and the radiation protection requirements for flushing and opening of the shutdown
+          cooling heat exchanger.
+
+Radiological Hazards Control and Work Coverage (IP Section 03.04) (1 Sample)
+
+   The inspectors evaluated the licensee’s control of radiological hazards for the following
+   radiological work:
+
+   (1)    Flushing and opening of the shutdown cooling heat exchanger
+
+71124.03 - In-Plant Airborne Radioactivity Control and Mitigation
+
+Temporary Ventilation Systems (IP Section 03.02) (1 Sample)
+
+   The inspectors evaluated the configuration of the following temporary ventilation systems:
+
+   (1)    HEPA ventilation established for the shutdown cooling heat exchanger eddy current
+          testing
+
+Use of Respiratory Protection Devices (IP Section 03.03) (1 Partial)
+
+   (1)    (Partial)
+          The inspectors observed issuance and use of powered air purifying respirators
+          for shutdown cooling heat exchanger work
+
+
+
+
+                                               5
+71124.04 - Occupational Dose Assessment
+
+Special Dosimetric Situations (IP Section 03.04) (1 Sample)
+
+   The inspectors evaluated the following special dosimetric situations:
+
+   (1)     Lapel air sampler use for shutdown cooling heat exchanger work
+
+OTHER BASELINE ACTIVITIES
+
+71152 – Problem Identification and Resolution
+
+System Return to Service
+
+During the inspection period, the inspectors continued reviews of Phases I and II of the
+licensee’s system return to service (SRTS) plans and associated topics. The SRTS plans
+document licensee activities to verify that the configuration and condition of systems, structures,
+and components (SSCs) are consistent with the design and licensing bases to support potential
+restart. The inspectors reviewed Phases I and II of the SRTS plans, which include areas
+such as licensing and design-basis functions, system material conditions, reviewing open
+and deferred work prior to shutdown, and program applicability. The inspectors conducted
+these reviews using IP 71152, “Problem Identification and Resolution,” and IP 71111.21M,
+“Comprehensive Engineering Team Inspection (CETI),” as applicable.
+
+The inspectors continued reviews of the SRTS plans for the following topics:
+
+   •     Environmental qualification of components
+   •     Reactor vessel and reactor vessel internals
+
+INSPECTION RESULTS
+
+No findings were identified.
+
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •     On January 20, 2026, the inspectors presented the inspection results to M. Mlynarek,
+         Site Vice President, and other members of the licensee staff.
+
+
+
+
+                                                 6
+DOCUMENTS REVIEWED
+
+Inspection Type                Designation       Description or Title                                      Revision or
+Procedure                                                                                                  Date
+71111.05   Fire Plans          PFP               Pre Fire Plans Manual                                     6
+71111.07A Corrective Action    25015224          E-60B Shutdown Heat Exchanger Channel Cover Weight        12/15/2025
+           Documents
+71111.08P Corrective Action    2025-3693         Palisades RVCH: All CRDM Ext. Nozzles Having Issues       12/06/2025
+           Documents                             Being Installed
+           NDE Reports         1R28-ISI-VT-123   Bare Metal Visual Examination of RVCH Surface             12/15/2025
+           Procedures          03-9398550        Palisades Steam Generator Cleaning Sequence Control       000
+                                                 Procedure
+           Work Orders         00589951-25       E-50A: Perform Steam Generator Secondary Chemical         10/13/2025
+                                                 Cleaning
+                               00589951-35       E-50B: Perform Steam Generator Secondary Chemical         11/18/2025
+                                                 Cleaning
+71111.15   Corrective Action   PMCR 25014377     Frequency Change for 72-18 and 72-28                      11/13/2025
+           Documents
+           Operability         EC 93739          System Operability Acceptance TS LCO 3.8.2, AC            0
+           Evaluations                           Sources - Shutdown (Right Train)
+                               EC 93739          System Operability Acceptance for TS LCO 3.8.5,           0
+                                                 DC Sources - Shutdown (Right Train)
+                               EC 93743          System Operability Acceptance, CRV - A/B Filtration and   0
+                                                 B Cooling Trains
+                               EC 93766          System Operability Acceptance for TS LCO 3.8.8,           0
+                                                 Inverters - Shutdown (Right Train)
+                               System            Emergency Diesel Generator K-6B (EDG 1-2) LCO 3.8.2 &     0
+                               Operability       Fuel Oil System (FOS) LCO 3.8.3
+                               Acceptance
+           Procedures          Admin 4.11        Safety Function Determination Program                     7
+71111.18   Corrective Action   25014179          Questions Raised Prior to CCW System Tagging              11/08/2025
+           Documents           25014189          Component Cooling Water System Alignment                  11/09/2025
+           Engineering         EC 93508          PCS Cold Leg Safety Injection Nozzle Thermal Sleeve       0
+           Changes                               Removal
+                               EC 93764          Temporary Installation of Portable Air Compressors to     0
+                                                 Support Compressor C-2A/B/C
+
+                                                            7
+Inspection   Type                Designation      Description or Title                                         Revision or
+Procedure                                                                                                      Date
+                                                  Replacement
+             Procedures          03-9393324       Palisades Cold Leg Safety Injection Nozzle Thermal Sleeve    0
+                                                  Removal
+71111.24     Corrective Action   25014044         P-9B Diesel Driven Fire Pump Outside of Normal Speed         11/04/2025
+             Documents                            Range
+                                 25014926         Low Temperature Over Pressure Transmitter PT-0104B           12/04/2025
+                                                  Out of As Found Tolerance
+             Procedures          MO-7B            Fire Water Pumps P-9A, P-9B, and P-41                        44
+                                 RI-59C           LTOP Pressure Transmitter Calibrations                       8
+             Work Orders         52957096-01      RI-59C LTOP Pressure Transmitter Calibrations                12/04/2025
+                                 598521-01        Troubleshoot CR#25010331 P-9B Diesel Fire Pump Tripped       11/05/2025
+71124.01     ALARA Plans         2025-0574        ALARA Plan for RWP 20250574
+             Radiation           2025-2283        Flush of Shutdown Cooling Heat Exchanger                     12/04/2025
+             Surveys             2025-2352        Demobilization of Shutdown Cooling Heat Exchanger Drain      12/12/2025
+                                                  Pipe
+                                 2025-2405        West Safeguards                                              12/22/2025
+             Radiation Work      20250574         Eddy Current Inspections on E-60B Shutdown Cooling Heat      01
+             Permits (RWPs)                       Exchanger
+71152        Engineering         51-9392765-000   Corrosion Evaluation for Palisades Reactor Vessel Cladding   09/08/2025
+             Evaluations                          Indications
+
+
+
+
+                                                             8
+

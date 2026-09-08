@@ -1,0 +1,623 @@
+                                          July 17, 2025
+Mike Mlynarek
+Site Vice President
+Holtec Decommissioning
+International, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Highway
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2025003
+
+Dear Mr. Mike Mlynarek:
+
+On June 30, 2025, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection at
+the Palisades Nuclear Plant. The enclosed inspection report documents the inspection results,
+which the inspectors discussed on July 15, 2025, with yourself and other members of your staff.
+
+No violations of more than minor significance were identified during this inspection.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the Reactor
+Vessel,” (ADAMS Accession No. ML22164A067). On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations at
+Palisades (ADAMS Accession No. ML23271A140). The NRC’s initial acceptance to review
+Palisades’ request for exemptions was documented in ADAMS at Accession No. ML23291A440
+on November 3, 2023.
+M. Mlynarek                                      2
+
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Nguyen, April
+                                                                      on 07/17/25
+
+
+
+                                              April M. Nguyen, Lead
+                                              Palisades Restart Team
+                                              Division of Operating Reactor Safety
+
+Docket No. 05000255
+License No. DPR–20
+
+Enclosure:
+As stated
+
+cc: Distribution via LISTSERV®
+M. Mlynarek                                     3
+
+
+Letter to Mike Mlynarek from April Nguyen dated July 17, 2025.
+
+SUBJECT:        PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+                05000255/2025003
+
+DISTRIBUTION:
+Tim Steadham
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Jack Giessner
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+John Pelchat
+Jared Heck
+Jenniffer Dalzell
+R3-DORS
+
+
+
+
+ADAMS Accession Number: ML25197A764
+                              ☒ Non-Sensitive                    ☒ Publicly Available
+   ☒    SUNSI Review
+                              ☐ Sensitive                        ☐ Non-Publicly Available
+ OFFICE R-III               R-III
+ NAME    JWinslow:anm       ANguyen
+ DATE    07/16/2025         07/17/2025
+
+
+                                      OFFICIAL RECORD COPY
+                         U.S. NUCLEAR REGULATORY COMMISSION
+                                    Inspection Report
+
+
+Docket Number:              05000255
+
+
+License Number:             DPR–20
+
+
+Report Number:              05000255/2025003
+
+
+Enterprise Identifier:      I-2025-003-0065
+
+
+Licensee:                   Holtec Decommissioning International, LLC
+
+
+Facility:                   Palisades Nuclear Plant
+
+
+Location:                   Covert, MI
+
+
+Inspection Dates:           May 01, 2025, to June 30, 2025
+
+
+Inspectors:                 P. Cataldo, Senior Reactor Inspector, Region I
+                            L. Flores, Resident Inspector, South Texas Project
+                            N. Floyd, Senior Reactor Inspector, Region I
+                            A. Golio, Reactor Inspector, Region I
+                            N. Hansing, Mechanical Engineer
+                            D. Hoang, Civil Engineer
+                            K. Kirchbaum, Senior Operations Engineer, Region II
+                            D. Lanyi, Senior Operations Engineer, Region II
+                            J. Mancuso, Senior Resident Inspector
+                            K. Mangan, Senior Reactor Inspector
+                            D. McHugh, Reactor Inspector
+                            E. Miller, Senior Reactor Inspector
+                            V. Myers, Senior Health Physicist
+                            T. Okamoto, Resident Inspector
+                            C. Padilla, Reactor Inspector
+                            J. Robb, Operations Engineer
+                            A. Shaikh, Senior Reactor Inspector
+                            C. Speer, Reactor Systems Engineer
+                            C. St. Peters, Senior Project Engineer
+                            K. Warner, Senior Health Physicist, Region I
+                            J. Winslow, Senior Project Engineer
+
+
+
+
+                                                                                  Enclosure
+Approved By:   April M. Nguyen, Lead
+               Palisades Restart Team
+               Division of Operating Reactor Safety
+
+
+
+
+                                2
+                                            SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) performed inspections of the licensee’s
+activities to verify that modifications performed during increased risk-significant configurations
+that could cause initiating events or impact the availability and functional capability of mitigating
+systems or barriers are identified and resolved; to verify that the safety functions of important
+safety systems and the design bases, licensing bases, and performance capability of systems,
+structures, and components (SSCs) have not been degraded through modifications; to verify
+that appropriate risk assessments and corresponding work controls and risk management
+actions are implemented during planned and emergent maintenance activities; to verify that the
+reactor coolant system boundary, reactor vessel head, and risk-significant piping system
+boundaries are appropriately monitored for degradation and that required repairs and
+replacements are appropriately examined and accepted; SSCs are appropriately inspected,
+maintained, and tested to ensure they can perform their required safety functions for potential
+restart; and radiation safety activities are appropriately performed.
+
+                                 List of Findings and Violations
+
+None.
+
+                                    Additional Tracking Items
+
+None.
+
+
+
+
+                                                  3
+PLANT STATUS
+
+The Palisades Nuclear Plant ceased power operations and subsequently removed all fuel from
+the reactor, as certified in a letter to the NRC on June 13, 2022. On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of 10 CFR 50.82(a)(2) to pursue the
+potential reauthorization of power operations. The NRC is conducting inspections to evaluate
+and assess the licensee’s activities for potential restoration to an operational status.
+
+The resident inspectors, as well as supplemental inspectors, continue to provide daily oversight
+of the restart activities occurring at the site.
+
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the referenced inspection
+procedures (IPs) in effect at the beginning of the inspection unless otherwise noted. Currently
+approved IPs with their attached revision histories are located on the public website at
+http://www.nrc.gov/reading-rm/doc-collections/insp-manual/inspection-procedure/index.html.
+
+REACTOR SAFETY
+
+71111.01 – Adverse Weather Protection
+
+Impending Severe Weather (IP Section 03.02)
+
+   (1)   The inspectors evaluated the adequacy of the overall preparations to protect
+         risk-significant systems from impending heavy rainfall during the week of
+         June 23, 2025. The inspectors focused their reviews on external flood protection
+         measures for the service water system and turbine building.
+
+71111.04 – Equipment Alignment
+
+Partial Walkdown (IP Section 03.01)
+
+    The inspectors evaluated system configurations during a partial walkdown of the following
+    system/train:
+
+    (1) Emergency diesel generator 1-1 during the rear-bus outage on May 7, 2025
+
+71111.05 – Fire Protection
+
+Fire Area Walkdown and Inspection (IP Section 03.01)
+
+    The inspectors evaluated the implementation of the fire protection program during work
+    on the National Fire Protection Association (NFPA) 805 modification project by conducting
+    a walkdown and performing a review to verify program compliance, equipment functionality,
+    material condition, and operational readiness of the following fire areas:
+
+    (1) Pre-fire Plan Area 3: 1D switchgear room & north cableway on May 22, 2025
+
+
+
+
+                                                4
+71111.07 – Heat Exchanger/Sink Performance
+
+Annual Review (IP Section 03.01)
+
+    The inspectors observed and evaluated the licensee’s inspection and maintenance
+    activities of the following heat exchanger:
+
+    (1) Component cooling water (CCW) heat exchanger E-54A from May 29, 2025 through
+        June 12, 2025
+
+71111.08P - Inservice Inspection Activities (PWR)
+
+    From May 1 through June 30, 2025, the inspectors observed and verified the
+    licensee’s nondestructive examination (NDE) and repair/replacement activities of the
+    reactor vessel closure head, Alloy 600 weld mitigation activities, and steam generator
+    plugging, stabilization, and sleeving, conducted in accordance with the requirements of the
+    ASME Code Section XI and other guidance documents. The purpose of these inspections
+    was to verify that the reactor coolant system boundary, reactor vessel closure head, steam
+    generators, and risk-significant piping system boundaries are appropriately monitored for
+    degradation. The inspectors also verified that the examination results were thoroughly
+    reviewed and appropriately evaluated, and that required corrective actions to address
+    identified indications and defects are being appropriately implemented. During this quarter,
+    the licensee conducted repair/replacement activities for the reactor vessel closure head,
+    steam generator tubes, and Alloy 600 welds in the primary coolant system and in other
+    areas. Further NRC inspections will monitor repair/replacement activities as they are
+    conducted.
+
+    The inspectors verified that the following NDE and repair/replacement activities were
+    conducted appropriately per the ASME Code or required standard, and that any potential
+    indications and defects were identified and evaluated at the proper thresholds:
+
+Nondestructive Examination and Welding Activities (IP Section 03.01)
+
+    (1) Safety Injection nozzle 1A, 1B, 2A, and 2B weld overlays ultrasonic examination reports
+    (2) Safety Injection valve 1A, 1B, 2A, and 2B weld overlays ultrasonic examination reports
+    (3) Pressurizer surge line nozzle weld overlay ultrasonic examination reports
+
+Vessel Upper Head Penetration Inspection Activities (IP Section 03.02)
+
+   (1) Reactor head penetration Alloy 690 nozzle welding
+
+Steam Generator Tube Inspection Activities (IP Section 03.04)
+
+    (1) Steam generator ‘A’ tube sleeving and eddy current testing
+
+
+
+
+                                               5
+71111.13 – Maintenance Risk Assessments and Emergent Work Control
+
+Risk Assessment and Management (IP Section 03.01)
+
+    The inspectors evaluated the accuracy and completeness of risk assessments for the
+    following planned work activities to ensure configuration changes and appropriate work
+    controls were addressed:
+
+    (1) Risk management for the coordination of activities involving foreign material recovery
+        during steam generator ‘A’ repair work, reactor vessel head weld machine
+        troubleshooting, and rear-bus outage during the work week of May 5, 2025
+
+71111.18 – Plant Modifications
+
+Permanent Modifications (IP Section 03.02)
+
+    The inspectors evaluated the following permanent modification:
+
+    (1) Alternate spent fuel pool cooling modification and core boring activities on June 2, 2025
+
+71111.20 – Refueling and Other Outage Activities
+
+Refueling/Other Outage Sample (IP Section 03.01)
+
+The inspectors verified that the following outage activities important to safety were appropriately
+managed:
+
+   (1) Control room performance during primary coolant system drain-down to midloop and
+       temporary head lift on May 22, 2025
+   (2) Clearance and foreign material exclusion control during steam generator ‘B’ nozzle
+       dam installation mock-up training on June 11, 2025
+
+RADIATION SAFETY
+
+Radiation Safety – Occupational and Public
+
+From June 23, 2025, to June 27, 2025, the inspectors evaluated various activities related to
+occupational and public radiation safety. The inspectors looked at various aspects of the
+radiological effluent controls and radiological environmental monitoring programs. This included
+review of the newly revised Offsite Dose Calculation Manual (ODCM) that, for restart purposes,
+re-incorporated portions of the manual that had been removed while in decommissioning.
+This included review of items such as iodine sampling in the environment and secondary side
+effluent monitoring instrumentation requirements. The inspectors reviewed this revision against
+the revision in place prior to shutdown and assessed any difference between these revisions
+for technical validity. The inspectors also reviewed the 2024 Radioactive Effluent Release
+Report and Radiological Environmental Operating Report. In addition, the inspectors observed
+preparation of a liquid batch discharge (LRW-062625). This included direct observations of
+
+
+
+                                                 6
+tank sampling, analysis of the samples for gamma emitters and tritium, preparation of the liquid
+discharge permit, and dose calculations.
+
+The inspectors also focused on various aspects of the installed radiation monitoring
+instrumentation system. This included review of calibration/maintenance records for the spent
+fuel pool area radiation monitors (RIA-2313 and RIA-5709) and the radwaste ventilation monitor
+(RIA-1809), which have been maintained since the facility was shutdown. In addition, the
+inspectors assessed aspects of radiation monitoring instrumentation that are not required in the
+current state but are expected to be re-incorporated into the operational Technical
+Specifications (TS). This included a record review of the recent calibration of the west
+engineered safeguards room ventilation radiation monitor (RIA-1811) and direct observation of
+the calibration of the containment atmosphere gaseous activity monitor (RIA-1817) from both
+the control room and the detector location in containment.
+
+In addition, the inspectors performed various walkdowns of the facility. This included walkdowns
+of the auxiliary building and track alley, which contain components of the liquid and gaseous
+effluent systems. The inspectors also walked down the containment building to observe
+radiological postings and controls for ongoing work activities and interviewed staff in relation to
+radiological controls.
+
+The inspectors conducted these reviews using IP 71124.01 Radiological Hazard Assessment
+and Exposure Controls, IP 71124.05, “Radiation Monitoring Instrumentation,” IP 71124.06
+“Radioactive Gaseous and Liquid Effluent Treatment,” and IP 71124.07 “Radiological
+Environmental Monitoring Program.”
+
+OTHER BASELINE ACTIVITIES
+
+71152 – Problem Identification and Resolution
+
+System Return to Service
+
+During the inspection period, the inspectors continued reviews of Phases I and II of the
+licensee’s system return to service (SRTS) plans. The SRTS plans document licensee activities
+to verify that the configuration and condition of Systems, Structures, and Components (SSCs)
+are consistent with the design and licensing bases to support potential restart. The inspectors
+reviewed Phases I and II of the SRTS plans, which include areas such as licensing and
+design-basis functions, system material conditions, reviewing open and deferred work prior to
+shutdown, and program applicability. The inspectors conducted these reviews using IP 71152,
+“Problem Identification and Resolution,” and IP 71111.21M, “Comprehensive Engineering Team
+Inspection (CETI),” as applicable.
+
+The inspectors commenced reviews of the SRTS plans for the following systems:
+   • alternate shutdown panel
+   • buildings and grounds
+   • chemical addition
+   • containment isolations and penetrations
+   • containment purge
+
+
+                                                 7
+   •   containment air coolers
+   •   digital electro-hydraulics
+   •   turbine electro-hydraulic controls
+   •   emergency lighting
+   •   feedwater purity air
+   •   main steam
+   •   spent fuel pool and auxiliary building
+
+The inspectors completed initial reviews of the SRTS plans for the following systems:
+   • air ejection
+   • steam generator blowdown
+   • condensate and condenser
+   • containment building and miscellaneous equipment
+   • containment spray
+   • diesel generator room heating, ventilation, and air conditioning (HVAC)
+   • demineralized makeup water
+   • domestic water
+   • high pressure safety injection
+   • engineered safeguards room HVAC
+   • fuel handling
+   • heaters, extraction steam, and drains
+   • high pressure air
+   • hydrogen monitoring
+   • instrument air and service air
+   • miscellaneous gas
+   • pressurizer pressure and level control
+   • radiation monitoring
+   • liquid radioactive waste
+   • solid radioactive waste
+   • reactor primary shield cooling
+   • electrical equipment, switchgear, and cable spreading room HVAC
+   • switchyard
+   • waste gas system
+
+These systems were selected based on the importance of the SSCs during normal and
+emergency plant operating conditions, risk significance and defense-in-depth of the SSC’s
+specific functions and required work/modifications of the SSCs scheduled prior to potential
+restart.
+
+The inspectors evaluated the initial SRTS plans for each system to identify if planned licensee
+activities will verify that the configuration and condition of the SSCs are consistent with the
+proposed operational design and licensing bases to support restart and verify readiness of the
+SSCs to support a return to service. The inspectors noted that the SRTS plans are intended to
+be living documents with a phased approach to SRTS. As the licensee progresses through the
+
+
+
+
+                                                8
+SRTS phases, the SRTS plans will undergo additional reviews by NRC inspector to ensure
+appropriate SSC restoration and operability/functionality.
+
+INSPECTION RESULTS
+
+No additional inspection results.
+
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •   On July 15, 2025, the inspectors presented the inspection results to M. Mlynarek,
+       Site Vice President, and other members of the licensee staff.
+
+
+
+
+                                               9
+DOCUMENTS REVIEWED
+
+
+Inspection   Type                Designation       Description or Title                                           Revision or
+Procedure                                                                                                         Date
+71111.01     Engineering         DBD-7.08          Plant Protection Against Flooding                              6
+             Evaluations
+             Procedures          AOP-38            Acts of Nature                                                 23
+71111.04     Corrective Action   PAL-03759         K-6A EDG 1-1 Exhaust and Lube Oil Leak                         10/22/2025
+             Documents           PAl-03897         Oil On EDG 1-1 3L Head Cover                                   10/29/2025
+                                 PAL-03899         EDG 1-1 Minor Lube Oil Leak                                    10/29/2025
+                                 PAL-03900         EDG 1-1 Jacket Water Leak                                      10/29/2024
+             Procedures          SOP-22            Emergency Diesel Generator 1-1                                 85
+71111.05     Fire Plans          PFP               Pre-Fire Plan                                                  6
+             Procedures          EN-MA-133         Control of Scaffolding                                         25
+71111.07A    Corrective Action   PAL-07568         CCW Heat Exchanger, E54-A, Drawing M0014, Sh. 0026,            06/06/2025
+             Documents                             Rev. 8 Error
+                                 PAL-07821         Tubes Identified for Plugging on E-54A CCW Heat Exchanger      06/16/2025
+                                 PAL-07956         Weeping Welded Plugs Identified on E-54A                       06/20/2025
+             Procedures          SEP-HX-PLP-       Heat Exchanger Condition Assessment Program                    0
+                                 001
+                                 WI-MA-302       Component Cooling Water Heat Exchanger Maintenance               0
+             Work Orders         WO 00583173-07 E-54A Inspect “As-Found” Condition of Heat Exchanger Tubes        05/29/2025
+                                 WO 583173-08    Eddy Current Report for Holtec International Palisades Nuclear   06/2025
+                                                 Power Plant Unit 1 CCW E-54A
+71111.08P    NDE Reports         PAL1-ISI-VE-24- Pressurizer Surge Elbow to Safe End Weld                         03/05/2025
+                                 0004
+                                 PAL1-ISI-VE-24- Pressure Operated Relief Valve (PORV) Nozzle to Safe End Weld    03/05/2025
+                                 001
+                                 PAL1-ISI-VE-24- Pressurizer Surge Line Nozzle to Safe End Weld                   03/05/2025
+                                 002
+                                 PAL1-ISI-VE-24- Pressurizer Safe End to Elbow Weld                               03/05/2025
+                                 003
+                                 PAL1-ISI-VE-24- Pressurizer Surge Line Nozzle to Safe End Weld                   03/05/2025
+                                 005
+
+
+
+                                                             10
+Inspection   Type                Designation       Description or Title                                              Revision or
+Procedure                                                                                                            Date
+                                 PAL1-ISI-VE-24-   1A Safety Injection Valve to Safe End Weld                        03/05/2025
+                                 006
+                                 PAL1-ISI-VE-24-   1A Safety Injection Nozzle to Safe End Weld                       03/05/2025
+                                 007
+                                 PAL1-ISI-VE-24-   1B Safety Injection Valve to Safe End Weld                        03/13/2025
+                                 008
+                                 PAL1-ISI-VE-24-   1B Safety Injection Nozzle to Safe End Weld                       03/05/2025
+                                 009
+                                 PAL1-ISI-VE-24-   2A Safety Injection Valve to Safe End Weld                        03/05/2025
+                                 010
+                                 PAL1-ISI-VE-24-   2A Safety Injection Nozzle to Safe End Weld                       03/05/2025
+                                 011
+                                 PAL1-ISI-VE-24-   2B Safety Injection Valve to Safe End Weld                        03/05/2025
+                                 012
+                                 PAL1-ISI-VE-24-   2B Safety Injection Nozzle to Safe End Weld                       03/05/2025
+                                 013
+             Procedures          55-GWP01-024      Framatome General Welding Procedure                               07/31/2024
+                                 55-OI0033-022     Framatome Ambient I.D.T.B Welding of CEDM/CET Penetration         03/19/2025
+                                                   of Reactor Vessel Closure Heads Utilizing Modified Local Cavity
+                                                   Weld Head
+                                 55-SPP09-013      Framatome Special Process Procedure                               12/05/2019
+71111.13     Corrective Action   PAL-06910         Unannounced MIOSHA Visit                                          05/08/2025
+             Documents
+71111.18     Engineering         AWA-01            Advance Work Authorization for WO 587572                          3
+             Changes             EC 93369          Alternate Component Cooling Water Connections to SFP Heat         10/03/2024
+                                                   Exchanger E-53A/E-53B
+71111.20     Corrective Action   PAL-07259         Temporary Reactor Head Is Leaking                                 05/23/2025
+             Documents
+             Procedures          RFL-SG-2          S/G Primary Nozzle Dam Installation and Removal                   11
+                                 SOP-1B            Primary Coolant System Cooldown                                   21
+                                 SOP-1B            PCS Equipment Elevations and Volumes                              21
+                                 Attachment 8
+                                 SOP-3             Safety Injection and Shutdown Cooling System                      109
+
+
+
+                                                             11
+Inspection   Type                Designation      Description or Title                                       Revision or
+Procedure                                                                                                    Date
+71124.01     Corrective Action   PAL-07410        Worker Cutting Through Posted Area                         05/31/2025
+             Documents
+             Radiation           20251075         Containment 607 Radiological Survey                        05/30/2025
+             Surveys
+71124.05     Procedures          RR-9M         Containment Atmosphere Gas Monitor RIA-1817 Calibration and   16
+                                               Channel Functional Test
+             Work Orders         50084215      RIA-1809 Calibration                                          08/08/2024
+                                 52985234      RIA-1811 Calibration                                          05/20/2025
+                                 53008855      Area Monitor Operation Check                                  12/13/2024
+71124.06     Miscellaneous       LRW-062625    Liquid Discharge Permit for Tanks 87 A/B                      06/26/2025
+                                 N/A           Land Use Census Report                                        08/07/2024
+                                 ODCM          Offsite Dose Calculation Manual                               36
+             Procedures          CH 6.42       LADTAP                                                        9
+                                 CHM-101       Radioactive Liquid Release                                    0
+                                 CHM-311       TRICARB Liquid Scintillation                                  0
+71152        Miscellaneous       PLP-SRTSP-AES Air Ejectors                                                  Draft A
+                                 PLP-SRTSP-ASP Alternate Shutdown Panel                                      0
+                                 PLP-SRTSP-    Buildings and Grounds                                         Draft B
+                                 BAG
+                                 PLP-SRTSP-BLD Steam Generator Blowdown                                      Draft A
+                                 PLP-SRTSP-    Condensate and Condenser                                      Draft A
+                                 CDS
+                                 PLP-SRTSP-    Chemical Addition                                             Draft A
+                                 CHM
+                                 PLP-SRTSP-CIS Containment Isolations and Penetrations (Airlocks)            Draft A
+                                 PLP-SRTSP-CLP Containment Building and Miscellaneous Equipment              Draft B
+                                 PLP-SRTSP-    Containment Purge                                             Draft A
+                                 CPG
+                                 PLP-SRTSP-    Containment Air Coolers                                       Draft A
+                                 CRS
+                                 PLP-SRTSP-    Containment Spray System                                      Draft A
+                                 CSS
+
+
+
+
+                                                            12
+Inspection   Type   Designation     Description or Title                     Revision or
+Procedure                                                                    Date
+                    PLP-SRTSP-      Digital Electro-Hydraulics               Draft A
+                    DEH
+                    PLP-SRTSP-      Diesel Generator Room HVAC               Draft A
+                    DGV
+                    PLP-SRTSP-      Demineralized Makeup Water               Draft A
+                    DMW
+                    PLP-SRTSP-      Domestic Water                           Draft A
+                    DWS
+                    PLP-SRTSP-      Turbine Electro-Hydraulic Controls       Draft A
+                    EHC
+                    PLP-SRTSP-ELU   Emergency Lighting                       Draft A
+                    PLP-SRTSP-ESV   Engineered Safeguards Room HVAC          Draft A
+                    PLP-SRTSP-FHS   Fuel Handling                            Draft A
+                    PLP-SRTSP-FPA   Feedwater Purity Air                     Draft A
+                    PLP-SRTSP-      Heaters, Extraction Steam, and Drains    Draft A
+                    HED
+                    PLP-SRTSP-      High Pressure Air                        Draft A
+                    HPA
+                    PLP-SRTSP-HPI   High Pressure Safety Injection           Draft A
+                    PLP-SRTSP-      Hydrogen Monitoring                      Draft A
+                    HYM
+                    PLP-SRTSP-IAS   Instrument Air and Service Air           Draft A
+                    PLP-SRTSP-      Liquid Radioactive Waste                 Draft A
+                    LRW
+                    PLP-SRTSP-      Miscellaneous Gas                        Draft A
+                    MGS
+                    PLP-SRTSP-      Main Steam System                        Draft A
+                    MSS
+                    PLP-SRTSP-PZR   Pressurizer Pressure and Level Control   0
+                    PLP-SRTSP-RIA   Radiation Monitoring                     0
+                    PLP-SRTSP-      Reactor Primary Shield Cooling           0
+                    SCS
+
+
+
+
+                                              13
+Inspection   Type   Designation     Description or Title                                         Revision or
+Procedure                                                                                        Date
+                    PLP-SRTSP-      Electrical Equipment, Switchgear, and Cable Spreading Room   Draft A
+                    SCV             HVAC
+                    PLP-SRTSP-      Solid Radioactive Waste                                      Draft A
+                    SRW
+                    PLP-SRTSP-      345KV Switchyard                                             Draft A
+                    SWY
+                    PLP-SRTSP-VAS   Spent Fuel Pool and Auxiliary Building HVAC                  Draft A
+                    PLP-SRTSP-      Waste Gas System                                             Draft A
+                    WGS
+
+
+
+
+                                              14
+

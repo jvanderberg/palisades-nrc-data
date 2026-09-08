@@ -1,0 +1,364 @@
+                                           July 15, 2024
+Mike Mlynarek
+Site Vice President
+Holtec Decommissioning
+International, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Highway
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2024011
+
+Dear Mike Mlynarek:
+
+On May 1, 2024, and May 10, 2024, respectively, the U.S. Nuclear Regulatory Commission
+(NRC) completed two inspections at the Palisades Nuclear Plant. The enclosed inspection
+report documents these inspection results, which the inspectors discussed on May 1, 2024, and
+May 10, 2024, with you and other members of your staff.
+
+Based on the results of these inspections, no findings or violations were identified.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the Reactor
+Vessel,” (ADAMS Accession No. ML22164A067). On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations at
+Palisades (ADAMS Accession No. ML23271A140). The NRC’s initial acceptance to review
+Palisades’ request for exemptions was documented in ADAMS at Accession No. ML23291A440
+on November 3, 2023.
+M. Mlynarek                                      2
+
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Nguyen, April
+                                                                      on 07/15/24
+
+
+
+                                              April M. Nguyen, Lead
+                                              Palisades Restart Team
+                                              Division of Operating Reactor Safety
+
+Docket No. 05000255
+License No. DPR-20
+
+Enclosure:
+As stated
+
+cc w/ encl: Distribution via LISTSERV®
+M. Mlynarek                                    3
+
+
+Letter to Mike Mylnarek from April Nguyen dated July 15, 2024.
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2024011
+
+DISTRIBUTION:
+Michelle Simmons
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Jack Giessner
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+Allan Barker
+David Curtis
+Jonathan Feibus
+R3-DORS
+
+
+
+
+ADAMS ACCESSION NUMBER: ML24197A185
+                             ☒ Non-Sensitive                     ☒ Publicly Available
+   ☒ SUNSI Review
+                             ☐ Sensitive                         ☐ Non-Publicly Available
+ OFFICE RIII
+ NAME    ANguyen:sw
+ DATE    07/15/2024
+
+
+                                    OFFICIAL RECORD COPY
+                    U.S. NUCLEAR REGULATORY COMMISSION
+                               Inspection Report
+
+
+Docket Number:         05000255
+
+
+License Number:        DPR-20
+
+
+Report Number:         05000255/2024011
+
+
+Licensee:              Holtec Decommissioning International, LLC
+
+
+Facility:              Palisades Nuclear Plant
+
+
+Location:              Covert, MI
+
+
+Inspection Dates:      April 29 – May 10, 2024
+
+
+Inspectors:            B. Bergeon, Senior Operations Engineer
+                       J. Cassidy, Senior Health Physicist
+                       T. Henning, Senior Operations Engineer
+
+
+Approved By:           April M. Nguyen, Lead
+                       Palisades Restart Team
+                       Division of Operating Reactor Safety
+
+
+
+
+                                                                   Enclosure
+                                           SUMMARY
+
+This report covers announced inspections completed by regional inspectors.
+
+The U.S. Nuclear Regulatory Commission (NRC) performed inspections of the licensee’s
+activities to ensure the adequate protection of workers and the public under the radiation safety
+cornerstone and to assess requalification training and evaluation of previously licensed
+operators under the reactor safety cornerstones.
+
+                                List of Findings and Violations
+
+No findings or violations of more than minor significance were identified.
+
+                                   Additional Tracking Items
+
+None.
+
+
+
+
+                                                2
+PLANT STATUS
+
+The Palisades Nuclear Plant ceased permanent power operations and subsequently removed
+all fuel from the reactor, as certified in a letter to the NRC on June 13, 2022. On
+September 28, 2023, Holtec Decommissioning International, LLC (Holtec) submitted a letter to
+the NRC requesting exemptions from certain portions of the requirements of 10 CFR 50.82(a)(2)
+to pursue the potential reauthorization of power operations. The NRC is conducting inspections
+to evaluate and assess the licensee’s activities for potential restoration to an operational status.
+
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the referenced inspection
+procedures (IPs) in effect at the beginning of the inspection unless otherwise noted. Currently
+approved IPs with their attached revision histories are located on the public website at
+http://www.nrc.gov/reading-rm/doc-collections/insp-manual/inspection-procedure/index.html.
+
+REACTOR SAFETY CORNERSTONES
+
+71111.11B - Licensed Operator Requalification Program and Licensed Operator Performance
+
+(1)   Biennial Requalification Written Examinations
+
+      The inspectors evaluated the quality of the licensed operator biennial requalification
+      written examinations administered on April 26, May 3, and May 10, 2024.
+
+      Annual Requalification Operating Tests
+
+      The inspectors evaluated the adequacy of the facility licensee’s annual requalification
+      operating tests administered during the weeks of April 22, April 29, and May 6, 2024.
+
+      Administration of an Annual Requalification Operating Test
+
+      The inspectors evaluated the effectiveness of the facility licensee in administering
+      requalification operating tests required by 10 CFR 55.59(a)(2) and that the facility
+      licensee is effectively evaluating their licensed operators for mastery of training
+      objectives.
+
+      Requalification Examination Security
+
+      The inspectors evaluated the ability of the facility licensee to safeguard examination
+      material, such that the examination is not compromised.
+
+      Remedial Training and Re-examinations
+
+      The inspectors evaluated the effectiveness of remedial training conducted by the
+      licensee, and reviewed the adequacy of re-examinations for licensed operators who
+      did not pass a required requalification examination.
+
+
+
+
+                                                 3
+     Operator License Conditions
+
+     The inspectors evaluated the licensee’s program for ensuring that licensed operators
+     meet the conditions of their licenses.
+
+     Control Room Simulator
+
+     The inspectors evaluated the adequacy of the facility licensee’s control room simulator
+     in modeling the actual plant, and for meeting the requirements contained in
+     10 CFR 55.46. Control room simulator fidelity was previously evaluated on
+     March 13, 2024, and documented in Inspection Report 05000255/2024010
+     (ADAMS Accession No. ML24078A315).
+
+RADIATION SAFETY CORNERSTONE
+
+71124.01 - Radiological Hazard Assessment and Exposure Controls
+
+Radiological Hazard Assessment (IP Section 03.01)
+
+   (1)   The inspectors evaluated how the licensee identifies the magnitude and extent of
+         radiation levels and the concentrations and quantities of radioactive materials and how
+         the licensee assesses radiological hazards.
+
+Instructions to Workers (IP Section 03.02)
+
+   (1)   The inspectors evaluated how the licensee instructs workers on plant-related
+         radiological hazards and the radiation protection requirements intended to protect
+         workers from those hazards.
+
+Radiological Hazards Control and Work Coverage (IP Section 03.04)
+
+   The inspectors evaluated the licensee’s control of radiological hazards for the following
+   radiological work:
+
+   (1)   Unit 1 lifting the reactor head from the reactor cavity to the reactor head stand
+   (2)   Unit 1 removal and replacement of the reactor head O-ring
+   (3)   Cleaning and decontamination of the Unit 1 reactor flange and O-ring groove
+
+High Radiation Area and Very High Radiation Area Controls (IP Section 03.05)
+
+   The inspectors evaluated licensee controls of the following High Radiation Areas and
+   Very High Radiation Areas:
+
+   (1)   Unit 1 containment building
+   (2)   Unit 1 reactor cavity
+   (3)   Unit 1 head stand area when reactor head was on stand
+
+
+
+
+                                                 4
+Radiation Worker Performance and Radiation Protection Technician Proficiency
+(IP Section 03.06)
+
+   (1)    The inspectors evaluated radiation worker and radiation protection technician
+          performance as it pertains to radiation protection requirements.
+
+
+INSPECTION RESULTS
+
+No findings or violations were identified during these inspections.
+
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •     On May 1, 2024, the inspectors presented the radiation protection inspection results to
+         G. Wright, Radiation Protection Manager, and other members of the licensee staff.
+   •     On May 10, 2024, the inspectors presented the licensed operator requalification program
+         results to M. Mlynarek, Site Vice President, and other members of the licensee staff.
+
+
+
+
+                                                 5
+DOCUMENTS REVIEWED
+
+Inspection   Type            Designation   Description or Title                               Revision or
+Procedure                                                                                     Date
+71111.11B    Miscellaneous                 Simulator Scenario SES-245                         2
+                                           Simulator Scenario SES-246                         2
+                                           Simulator Scenario SES-249                         2
+                                           Simulator Scenario SES-270                         1
+                                           Simulator Scenario SES-277                         1
+                                           Simulator Scenario SES-278                         1
+                                           Simulator Scenario SES-300                         0
+                                           Job Performance Measure PLJPM-LOR-RO Admin 17      1
+                                           Job Performance Measure PLJPM-LOR-SRO Admin 17     0
+                                           Job Performance Measure PLJPM-LOR-AFW-05           3
+                                           Job Performance Measure PLJPM-LOR-ELEC-01          2
+                                           Job Performance Measure PLJPM-LOR-EOP-28           3
+                                           Job Performance Measure PLJPM-LOR-EOP-55           1
+                                           Job Performance Measure PLJPM-LOR-RO Admin 8       1
+                                           Job Performance Measure PLJPM-LOR-SRO Admin 18     0
+                                           Job Performance Measure PLJPM-LOR-AFW-06           0
+                                           Job Performance Measure PLJPM-LOR-AOP-34           2
+                                           Job Performance Measure PLJPM-LOR CPS-01           1
+                                           Job Performance Measure PLJPM-LOR-AOP-41           1
+                                           Job Performance Measure PLJPM-LOR-RO Admin 9       1
+                                           Job Performance Measure PLJPM-LOR-SRO Admin 19     0
+                                           Job Performance Measure PLJPM-LOR-AOP-14A          4
+                                           Job Performance Measure PLJPM-LOR-EOP-13           3
+                                           Job Performance Measure PLJPM-LOR-PZR-04           5
+                                           Job Performance Measure PLJPM-LOR-CRD-01           1
+                                           2024 LOR Biennial RO-SRO Exam 1                    0
+                                           2024 LOR Biennial RO-SRO Exam 2                    0
+                                           2024 LOR Biennial RO-SRO Exam 3                    0
+                                           24R1/24R2/24R3/24R4 LOR Training Cycle Schedules
+                                           Shift 1 Crew Notebook
+                                           Shift 2 Crew Notebook
+
+
+
+                                                      6
+Inspection   Type            Designation      Description or Title                                      Revision or
+Procedure                                                                                               Date
+                                              Shift 3 Crew Notebook
+                                              Shift 4 Crew Notebook
+                                              Shift 5 Crew Notebook
+             Procedures      PAL-2176         Sentinel Login Issue Extremity Multi-packs                04/29/2024
+                             PAL-02185        NRC Questioned Potential Inconsistencies                  04/30/2024
+                             PNT-114          Licensed Operator Requalification Training Program        1
+                                              Description
+                             PNT-201          Systematic Approach to Training Process                   0
+                             PNT-210          Conduct of Simulator Training                             0
+                             PNT-217          Examination Security                                      1
+                             PNT-218          Licensed Operator Requalification Annual and Biennial     2
+                                              Exam Development
+                             PNT-201-TF-10    Remediation Form                                          0
+                             PNT-024-TF-SBT   Scenario Based Testing Scenario 249 LOR Exam Scenario     2
+                             LOR 2024-2026    LOR Long Range Training Plan                              0
+71124.01     Miscellaneous                    Radiological Work Permit and Associated ALARA Plan,       00
+                                              20240433, Disassembly of the Rx Head, Reset the Rx Head
+                                              in the Cavity, and Associated Work Activities (Supports
+                                              Re-Start/PCS Chem Decon)
+                                              Radiological Survey Sheet Number 2024-0201, 649' CTMT     04/30/2024
+                                              General Areas
+                                              Airborne Radioactivity Calculation Form, 2024-AS-0173,    04/26/2024
+                                              Vacuum Head
+                                              Airborne Radioactivity Calculation Form, 2024-AS-0170,    04/26/2024
+                                              FME Walkdown in Cavity
+                                              Airborne Radioactivity Calculation Form, 2024-AS-0171,    04/26/2024
+                                              FME Walkdown in Cavity
+                                              Lapel Air Sample Alpha Analysis, 2024-AS-0186,            04/30/2024
+                                              Head Stand/ Clean Under Head
+
+
+
+
+                                                         7
+Inspection   Type         Designation   Description or Title                                 Revision or
+Procedure                                                                                    Date
+71124.05     Procedures   EN-RP-131     Air Sampling
+                          EN-RP-122     Alpha Monitoring
+                          EN-RP-141     Job Coverage
+                          EN-RP-503     Selection, Issue and Use of Respiratory Protection
+                                        Equipment
+
+
+
+
+                                                   8
+

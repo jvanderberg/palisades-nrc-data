@@ -1,0 +1,896 @@
+                                          December 23, 2025
+Michael Mlynarek
+Site Vice President,
+Palisades Energy, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Hwy
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2025005
+
+Dear Mr. Michael Mlynarek:
+
+On October 31, 2025, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection
+at the Palisades Nuclear Plant. The enclosed inspection report documents the inspection
+results, which the inspectors discussed on December 10, 2025, with yourself and other
+members of your staff.
+
+Due to the temporary cessation of government operations, which commenced on
+October 01, 2025, the NRC began operating under its Office of Management and
+Budget-approved plan for operations during a lapse in appropriations. Consistent with that plan,
+the NRC operated at reduced staffing levels throughout the duration of the shutdown. However,
+the NRC continued to perform critical health and safety functions and make progress on other
+high-priority activities associated with the ADVANCE Act and Executive Order 14300.
+On November 13, 2025, following the passage of a continuing resolution, the NRC resumed
+normal operations. However, due to the 43-day lapse in normal operations, the Office of Nuclear
+Reactor Regulation granted the Regional Offices an extension on the issuance of the calendar
+year 2025 inspection reports that should have been issued by November 13, 2025,
+to December 31, 2025. The NRC resumed the routine cycle of issuing inspection reports on
+November 13, 2025.
+
+One finding of very low safety significance (Green) is documented in this report. This finding
+involved a violation of NRC requirements and was determined to be Severity Level IV. We are
+treating this violation as a non-cited violation (NCV) consistent with Section 2.3.2 of the
+Enforcement Policy.
+
+A licensee-identified violation which was determined to be of very low safety significance
+is documented in this report. We are treating this violation as an NCV consistent with
+Section 2.3.2 of the Enforcement Policy.
+M. Mlynarek                                      2
+
+
+If you contest the violations or the significance or severity of the violations documented
+in this inspection report, you should provide a response within 30 days of the date of this
+inspection report, with the basis for your denial, to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001; with copies to the Regional
+Administrator, Region III; the Director, Office of Enforcement; and the NRC Resident Inspector
+at Palisades Nuclear Plant.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the
+Reactor Vessel,” (ADAMS Accession No. ML22164A067). On September 28, 2023,
+Holtec Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations
+at Palisades (ADAMS Accession No. ML23271A140).
+
+On July 24, 2025, the NRC approved an exemption from the requirements of 10 CFR
+50.82(a)(2), as detailed in the letter, “Palisades Nuclear Plant – Exemption from the
+Requirements of 10 CFR 50.82(a)(2) Concerning the Prohibition to Operate and Emplace
+Fuel in the Reactor Vessel,” (ADAMS Accession No. ML25163A182) and a set of licensing
+actions supporting reauthorization of Palisades Nuclear Plant. On August 25, 2025, Palisades
+notified the NRC that they rescinded their 10 CFR 50.82(a)(1) certification, which removed
+the prohibition on operation and emplacement of fuel in the reactor (ADAMS Accession
+No. ML25237A317). Palisades also implemented the set of licensing actions to support
+reimplementation of their operational licensing basis.
+
+On August 25, 2025, the NRC transitioned oversight of Palisades to the Reactor Oversight
+Process (ROP).
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Nguyen, April
+                                                                      on 12/23/25
+
+
+
+                                              April M. Nguyen, Lead
+                                              Palisades Restart Team
+                                              Division of Operating Reactor Safety
+
+Docket Nos. 05000255
+License No. DPR–20
+
+Enclosure:
+As stated
+
+cc w/ encl: Distribution via LISTSERV®
+M. Mlynarek                                   3
+
+
+Letter to Michael Mlynarek from April Nguyen dated December 23, 2025.
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2025005
+
+DISTRIBUTION:
+Rodney Clagg
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Jack Giessner
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+John Pelchat
+Deborah Piskura
+Jared Heck
+Jennifer Dalzell
+R3-DORS
+
+
+
+
+ADAMS Accession Number: ML25357A093
+                            ☒ Non-Sensitive                       ☒ Publicly Available
+  ☒     SUNSI Review
+                            ☐ Sensitive                           ☐ Non-Publicly Available
+ OFFICE RIII
+ NAME    JWinslow:anm      ANguyen
+ DATE    12/23/2025        12/23/2025
+
+
+                                     OFFICIAL RECORD COPY
+                         U.S. NUCLEAR REGULATORY COMMISSION
+                                    Inspection Report
+
+
+Docket Number:              05000255
+
+
+License Number:             DPR‑20
+
+
+Report Number:              05000255/2025005
+
+
+Enterprise Identifier:      I‑2025‑005-0043
+
+
+Licensee:                   Palisades Energy, LLC
+
+
+Facility:                   Palisades Nuclear Plant
+
+
+Location:                   Covert, MI
+
+
+Inspection Dates:           September 01, 2025, to October 31, 2025
+
+
+Inspectors:                 M. Gangewere, Senior Reactor Inspector
+                            D. Hoang, Civil Engineer
+                            J. Mancuso, Senior Resident Inspector
+                            E. Miller, Senior Reactor Inspector, Region I
+                            T. Okamoto, Resident Inspector
+                            J. Robb, Operations Engineer
+                            A. Shaikh, Senior Reactor Inspector
+                            C. St. Peters, Senior Project Engineer
+                            J. Winslow, Senior Project Engineer
+
+
+Approved By:                April M. Nguyen, Lead
+                            Palisades Restart Team
+                            Division of Operating Reactor Safety
+
+
+
+
+                                                                            Enclosure
+                                           SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) performed inspection activities of the
+licensee’s performance associated with the return to an operational status. As available, the
+NRC monitored the licensee’s performance by conducting an integrated inspection at Palisades
+Nuclear Plant, in accordance with the Reactor Oversight Process. The Reactor Oversight
+Process is the NRC’s program for overseeing the safe operation of commercial nuclear power
+reactors. Refer to https://www.nrc.gov/reactors/operating/oversight.html for more information.
+A licensee-identified non-cited violation is documented in report section: 71124.08.
+
+                                List of Findings and Violations
+
+ License Amendment Required for Change of Critical Heat Flux Correlations Used in the
+ Main Steam Line Break Analysis to Predict the Minimum Departure of Nucleate Boiling Ratio
+ Cornerstone         Significance/Severity                     Cross-Cutting Report Section
+                                                               Aspect
+ Barrier Integrity Green                                       None (NPP)        71111.21M
+                     Severity Level IV
+                     NCV 05000255/2025005‑01
+                     Open/Closed
+ The inspectors identified a very low safety significant (Green) and associated severity level IV
+ non-cited violation of Title 10 of the Code of Federal Regulations (10 CFR) 50.59 because
+ the licensee failed to obtain NRC approval prior to changing the critical heat flux correlations
+ applied in their main steam line break analysis to predict the minimum departure from
+ nucleate boiling ratio. Subsequently, the licensee submitted a license amendment request
+ which was approved by the NRC as license amendment number 279 (ADAMS Accession
+ No. ML25156A045).
+
+                                   Additional Tracking Items
+
+ Type     Issue Number                Title                             Report Section Status
+ URI      05000255/2022010‑01         Inadequate Evaluation for         71111.21M      Closed
+                                      Revised Main Steam Line
+                                      Break (MSLB) Analysis
+
+ URI      05000255/2024004‑01         Use of Decommissioning            71801‑Cat9       Closed
+                                      Trust Fund During Restart
+                                      Initiative
+
+
+
+
+                                                2
+PLANT STATUS
+
+On August 25, 2025, Palisades notified the NRC that they rescinded their 10 CFR 50.82(a)(1)
+certification, which removed the prohibition on operation and emplacement of fuel in the reactor.
+Palisades also implemented the set of licensing actions to support reimplementation of their
+operational licensing basis. On August 25, 2025, the NRC transitioned oversight of Palisades
+to the Reactor Oversight Process (ROP).
+
+The NRC is conducting inspections to evaluate and assess the licensee’s activities for
+restoration to an operating status. The resident inspectors, as well as supplemental inspectors,
+continue to provide daily oversight of the restart activities occurring at the site.
+
+The unit ended the inspection period in a defueled status.
+
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the referenced inspection
+procedures (IPs) in effect at the beginning of the inspection unless otherwise noted.
+Currently approved IPs with their attached revision histories are located on the public website
+at http://www.nrc.gov/reading-rm/doc-collections/insp-manual/inspection-procedure/index.html.
+As available, samples were declared complete when the IP requirements most appropriate
+to the inspection activity were met consistent with Inspection Manual Chapter (IMC) 2515,
+“Light-Water Reactor Inspection Program - Operations Phase.” The inspectors reviewed
+selected procedures and records, observed activities, and interviewed personnel to assess
+licensee performance and compliance with Commission rules and regulations, license
+conditions, site procedures, and standards.
+
+REACTOR SAFETY
+
+71111.05 - Fire Protection
+
+Fire Brigade Drill Performance Sample (IP Section 03.02) (1 Sample)
+
+   (1)   The inspectors evaluated the onsite fire brigade training and performance during live
+         fire training on September 19, 2025.
+
+71111.08P - Inservice Inspection Activities (PWR)
+
+    From September 1 through October 31, 2025, the inspectors observed and verified the
+    licensee’s nondestructive examination (NDE) and repair/replacement activities of the
+    reactor vessel closure head, Alloy 600 weld mitigation activities, and steam generator tube
+    plugging, stabilization, and sleeving, conducted in accordance with the requirements of the
+    ASME Code Section XI and other guidance documents. The purpose of these inspections
+    was to verify that the reactor coolant system boundary, reactor vessel closure head,
+    steam generators, and risk-significant piping system boundaries are appropriately
+    monitored for degradation. The inspectors also verified that the examination results were
+    thoroughly reviewed and appropriately evaluated, and that required corrective actions to
+    address identified indications and defects are being appropriately implemented. During this
+    quarter, the licensee conducted repair/replacement activities for the reactor vessel closure
+    head, steam generator tubes, and Alloy 600 welds in the primary coolant system and in
+
+
+
+                                                3
+    other areas. Further NRC inspections will monitor repair/replacement activities as they are
+    conducted.
+
+    The inspectors verified that the following NDE and repair/replacement activities were
+    conducted appropriately per the ASME Code or required standard, and that any potential
+    indications and defects were identified and evaluated at the proper thresholds:
+
+Nondestructive Examination and Welding Activities (IP Section 03.01)
+
+    (1) Ultrasonic Examination of Alloy 600 Mitigation Weld Overlays on Primary Coolant
+        System Piping and Nozzles
+    (2) Liquid Penetrant Examination of Alloy 600 Mitigation Weld Overlays on Primary Coolant
+        System Piping and Nozzles
+    (3) Welding of Alloy 600 Mitigation Weld Overlays on Primary Coolant System Piping and
+        Nozzles
+
+Vessel Upper Head Penetration Inspection Activities (IP Section 03.02)
+
+   (1) Welding and Nondestructive Examination of Reactor Vessel Closure Head (RVCH)
+       Nozzles
+   (2) Roto-Peening of RVCH Nozzles
+
+Steam Generator Tube Inspection Activities (IP Section 03.04)
+
+    (1) steam generators ‘A’ and ‘B’ chemical cleaning
+
+71111.11Q - Licensed Operator Requalification Program and Licensed Operator Performance
+
+Licensed Operator Requalification Training/Examinations (IP Section 03.02) (1 Sample)
+
+   (1)   The inspectors observed and evaluated Licensed Operator Requalification Training
+         in the facility’s simulator on September 24 and 25, 2025.
+
+71111.13 – Maintenance Risk Assessments and Emergent Work Control
+
+Risk Assessment and Management (IP Section 03.01) (1 Sample)
+
+    The inspectors evaluated the accuracy and completeness of risk assessments for the
+    following planned work activities and emergent work activities to ensure configuration
+    changes and appropriate work controls were addressed:
+
+    (1) evaluation of risk for irradiated fuel moves in the spent fuel pool with one train of
+        control room HVAC inoperable, using Technical Specifications (TS) LCO 3.0.4(b)
+        on September 12, 2025
+
+
+
+
+                                                 4
+71111.20 – Refueling and Other Outage Activities
+
+Refueling/Other Outage Sample (IP Section 03.01)
+
+The inspectors verified that the following outage activities important to safety were appropriately
+managed:
+
+   (1) P‑50D Motor Lift Activities in Containment (‘A’ Missile Shield Landing & Upending) on
+       October 7, 2025
+
+71111.21M - Comprehensive Engineering Team Inspection
+
+The inspectors evaluated the following 10 CFR 50.59 Evaluations for close out of the
+unresolved item (URI) tracked by issue number 05000255/2022010‑01:
+
+10 CFR 50.59 Evaluations/Screening (IP section 03.03) (2 Samples)
+
+   (1)   50.59 Evaluation 22‑0052, “Issue Revised MSLB Analysis,” Revision 0
+   (2)   50.59 Evaluation 19‑0117, “Issue Revised MSLB Analysis,” Revision 0
+
+71111.24 – Testing and Maintenance of Equipment Important to Risk
+
+The inspectors evaluated the following testing and maintenance activities to verify
+system operability and/or functionality:
+
+Post-Maintenance Testing (PMT) (IP Section 03.01) (4 Samples)
+
+   (1)   1‑2 Emergency Diesel Generator PMT following major system work window
+         on September 5, 2025
+   (2)   RT‑202 VC‑10 SR3.7.11.1 Heat Removal Capability from September 16, 2025,
+         through October 15, 2025
+   (3)   Steam Generator Chemical Cleaning (SGCC) Water Testing on September 25, 2025
+   (4)   E‑54B CCW HX Hydrostatic Test Following Tube Replacement and Plugging on
+         October 22, 2025
+
+Surveillance Testing (IP Section 03.01) (1 Sample)
+
+   (1)   RO‑28A and RO‑28B, Control Room Envelope Positive Pressure and Heater Output
+         Verification on October 8, 2025
+
+
+
+
+                                                 5
+RADIATION SAFETY
+
+71124.04 - Occupational Dose Assessment
+
+Internal Dosimetry (IP Section 03.03) (1 Partial)
+
+The inspectors evaluated the following internal dose assessments:
+
+   (1)   (Partial)
+         The inspectors reviewed an event from October 21, 2025, in which an individual
+         fell into the reactor cavity pool. This review included the records associated with
+         the decontamination efforts, initial whole body count information, and release
+         paperwork for the individual. In‑vitro analysis results were still pending at the time
+         of the inspection, so a review of the final dose assessment will be performed during
+         a future inspection.
+
+71124.06 - Radioactive Gaseous and Liquid Effluent Treatment
+
+Walkdowns and Observations (IP Section 03.01) (1 Sample)
+
+The inspectors evaluated the following radioactive effluent systems during walkdowns:
+
+   (1)   The inspectors walked down radiological monitoring equipment for the turbine building
+         sump, service water, and gaseous effluent systems.
+
+Sampling and Analysis (IP Section 03.02) (1 Sample)
+
+Inspectors evaluated the following effluent samples, sampling processes:
+
+   (1)   The inspectors observed daily and weekly routine effluent sampling activities for the
+         turbine building sump, service water, and gaseous effluent systems. The inspectors
+         also observed sample analysis for the weekly gaseous effluent samples taken.
+
+71124.07 - Radiological Environmental Monitoring Program
+
+Environmental Monitoring Equipment and Sampling (IP Section 03.01) (1 Sample)
+
+   (1)   The inspectors observed collection of particulate and iodine samples from various
+         air sampling stations, and water sample collection from lake water inlet, and drinking
+         water. The inspectors also assessed material condition and calibration of air sample
+         station pumps and the meteorological tower.
+
+Radiological Environmental Monitoring Program (IP Section 03.02) (1 Sample)
+
+   (1)   The inspectors reviewed third party laboratory results for various sampling activities
+         to ensure the site had recommenced iodine analysis and that detection sensitivities
+         met the requirements in the Offsite Dose Calculation Manual, which had recently been
+         revised in preparation for reactor operation.
+
+
+
+
+                                                6
+71124.08 - Radioactive Solid Waste Processing & Radioactive Material Handling, Storage, &
+Transportation
+
+Shipping Records (IP Section 03.05) (1 Sample)
+
+The inspectors evaluated the following non-excepted radioactive material shipments through
+a record review:
+
+   (1)    Shipment 2025‑RW-017; LSA–II
+
+OTHER BASELINE ACTIVITIES
+
+71152 – Problem Identification and Resolution
+
+System Return to Service
+
+During the inspection period, the inspectors continued reviews of Phases I and II of the
+licensee’s system return to service (SRTS) plans. The SRTS plans document licensee activities
+to verify that the configuration and condition of systems, structures, and components (SSCs)
+are consistent with the design and licensing bases to support potential restart. The inspectors
+reviewed Phases I and II of the SRTS plans, which include areas such as licensing and
+design-basis functions, system material conditions, reviewing open and deferred work prior to
+shutdown, and program applicability. The inspectors conducted these reviews using IP 71152,
+“Problem Identification and Resolution,” and IP 71111.21M, “Comprehensive Engineering Team
+Inspection (CETI),” as applicable.
+
+The inspectors commenced reviews of the SRTS plans for the following systems:
+
+   •     reactor protective system
+
+The inspectors evaluated the initial SRTS plans for each system to identify if planned licensee
+activities will verify that the configuration and condition of the SSCs are consistent with the
+proposed operational design and licensing bases to support restart and verify readiness of the
+SSCs to support a return to service. The inspectors noted that the SRTS plans are intended to
+be living documents with a phased approach to SRTS. As the licensee progresses through the
+SRTS phases, the SRTS plans will undergo additional reviews by NRC inspectors to ensure
+appropriate SSC restoration and operability/functionality.
+
+Safety Injection Refueling Water Tank Catacomb Inspections
+
+As part of system return to service activities, the licensee performed inspections of the safety
+injection refueling water tank (SIRWT), piping, and plant structures surrounding the SIRWT.
+The inspectors performed visual inspections of the components and reviewed the licensee’s
+evaluations.
+
+   (1) The inspectors reviewed and verified previously repaired concrete cracks of the SIRWT
+       catacombs as identified in Licensee Event Report 83‑006, “SIRWT Support Structure
+       Discrepancies” (ADAMS Accession No. ML20071B526) on September 9, 2025.
+
+
+                                                 7
+         During an in‑field walkdown, the inspectors identified additional crack-like indications.
+         The licensee conducted an evaluation of the structural integrity of the concrete slabs in
+         the catacombs with the crack-like indications and dispositioned the indications as minor
+         concrete surface cracks with no adverse effects to the structural integrity of the SIRWT
+         catacombs. The licensee dispositioned a corrective action to repair the minor concrete
+         surface cracks. The inspectors reviewed the licensee’s evaluation and did not identify
+         any findings or violations.
+
+   (2) The inspectors identified crystalline precipitates during initial inspections of the SIRW
+       tank nozzles on September 29, 2025. The licensee conducted chemical analysis on
+       samples taken of the crystalline precipitate. The licensee further evaluated the structural
+       integrity of the SIRW tank piping and support structures in the affected area. The
+       licensee dispositioned the precipitate as concrete leaching due to rainwater intrusion
+       with no adverse effects to the structural integrity of the SIRW tank or supports. The
+       inspectors reviewed the licensee’s evaluation and chemical analysis report and did not
+       identify any findings or violations.
+
+71153 - Follow-up of Events and Notices of Enforcement Discretion
+
+Event Follow-up (IP Section 03.01) (1 Sample)
+
+   (1)    The inspectors evaluated the licensee’s response to higher-than-expected levels of
+          ammonia gas in the turbine building during the steam generator chemical cleaning
+          process on October 15, 2025.
+
+71801‑Cat9 - Decommissioning Implementation and Status
+
+The inspectors evaluated the use of the Decommissioning Trust Fund (DTF) during restart for
+closeout of the Unresolved Item (URI) tracked by issue number 05000255/2024004‑01.
+
+INSPECTION RESULTS
+
+ License Amendment Required for Change of Critical Heat Flux Correlations Used in the Main
+ Steam Line Break Analysis to Predict the Minimum Departure of Nucleate Boiling Ratio
+ Cornerstone Significance/Severity                         Cross-        Report Section
+                                                           Cutting
+                                                           Aspect
+ Barrier      Green                                        None          71111.21M
+ Integrity    Severity Level IV                            (NPP)
+              NCV 05000255/2025005‑01
+              Open/Closed
+
+ The inspectors identified a very low safety significant (Green) and associated severity level IV
+ non-cited violation of Title 10 of the Code of Federal Regulations (10 CFR) 50.59 because
+ the licensee failed to obtain NRC approval prior to changing the critical heat flux correlations
+ applied in their main steam line break analysis to predict the minimum departure from
+ nucleate boiling ratio. Subsequently, the licensee submitted a license amendment request
+ which was approved by the NRC as license amendment number 279 (ADAMS Accession
+ No. ML25156A045).
+
+
+                                                 8
+Description:
+
+During the 2022 triennial inspection of evaluations of changes, tests and experiments an
+unresolved item (URI) was documented in inspection report 2022010 (ADAMS Accession
+No. ML22090A254). Since this inspection procedure (IP) 71111.17T, “Evaluations of
+Changes, Tests and Experiments” has been retired, this URI is closed under active
+IP 71111.21M, “Comprehensive Engineering Team Inspection,” which performs this
+inspection.
+
+The URI was opened due to the licensee’s 50.59 safety evaluation (SE) 19‑0117 which
+evaluated and accepted a revised main steam line break (MSLB) analysis as implemented by
+engineering change (EC) 83306, “Issue Revised Main Steam Line Break (MSLB) Departure
+from Nucleate Boiling (DNB) Analysis.” The licensee determined this change did not require
+prior NRC approval based on evaluation of the eight criteria identified in 10 CFR 50.59. The
+URI documented that SE 19‑0117 did not evaluate the change associated with application
+of the elements within the existing vendor NRC-approved topical report methodology
+(EMF‑2310(P)(A) Revision 1) that had been incorporated into the licensing basis. Specifically,
+the original MSLB analysis applied one critical heat flux (CHF) correlation (Modified Barnett)
+to determine the minimum departure from nucleate boiling ratio (MDNBR). EC 83306 altered
+the elements of this methodology and applied three CHF correlations (Modified Barnett, Biasi,
+and high thermal performance (HTP)). In SE 19‑0117, the licensee failed to recognize the
+change from one to three CHF correlations was a departure from the method of evaluation
+described in the updated final safety analysis report (UFSAR) and they were required to
+submit a license amendment request pursuant to 10 CFR 50.59(c)(2)(viii). As a result of
+the URI, the licensee performed SE 22‑0052 which determined the change to use the
+corrected Modified Barnett and Biasi Correlation limits was a departure from a method of
+evaluation and required NRC approval. The licensee submitted license amendment request
+(LAR) No. 279 on May 24, 2024 (ADAMS Accession No. ML24145A145). The NRC
+subsequently approved License Amendment No. 279 (ADAMS Accession No. ML25156A045)
+on July 24, 2025. The amendment revised the license to incorporate the Biasi CHF correlation
+for use with the Palisades MSLB analysis. Specifically, the amendment approved the use of
+the Framatome Inc. Topical Report EMF‑2310, Revision 1, Supplement 2P–A, Revision 0,
+“SRP Chapter 15 Non-LOCA Methodology for Pressurized Water Reactors,” which describes
+the application of the Biasi CHF correlation to MSLB analysis.
+
+In closing this URI, the inspectors reviewed SE 19‑0117 and 22‑0052 to evaluate if all
+concerns addressed in the URI were captured; specifically, if the SE addressed the change
+from one to three CHF correlations. In SE 22‑0052, the licensee determined applying three
+CHF correlations instead of one was not a departure from a method of evaluation described in
+the UFSAR. However, the licensee determined the change to use the corrected Modified
+Barnett and Biasi Correlation limit was a departure from a method of evaluation described in
+the UFSAR. The inspectors noted License Amendment No. 279 approved the use of the Biasi
+Correlation limit applied in the MSLB analysis. The inspectors questioned why the corrected
+Modified Barnett and the HTP correlations were not included in the LAR. The licensee
+explained since SE 22‑0052 was approved in 2022, Framatome later decided to proceed with
+using only the HTP and Biasi correlations for the MSLB analysis. This included retiring the
+use of the Modified Barnett in place of the Biasi correlation for the MSLB analysis.
+Additionally, the HTP correlation had already been a part of Palisades’ licensing basis.
+These correlations were explained in this manner in Palisades’ docketed pre-submittal public
+meeting slides (ADAMS Accession No. ML24130A145). Therefore, the inspectors had no
+
+
+
+                                              9
+further questions in close out of this URI.
+
+Since the licensee failed to have a written evaluation that provided the bases for the
+determination that the change in CHF correlations would not require a license amendment
+(SE 19-0117) and since the new written evaluation (SE 22-0052) determined a license
+amendment was required and was subsequently approved by the NRC, the inspectors closed
+this URI to a finding of very low safety significance (Green) and associated severity level IV
+non-cited violation of 10 CFR 50.59.
+
+Corrective Actions: The licensee entered this into their corrective action program, performed a
+new 50.59 evaluation, SE 22-0052, and submitted a LAR which was approved by the NRC as
+License Amendment No. 279.
+
+Corrective Action References: CR‑PLP‑2022-0044; CR‑PLP‑2022-00648.
+Performance Assessment:
+
+Performance Deficiency: The failure to document a written evaluation which provides the
+bases for the determination that the change in CHF correlations applied to the MSLB analysis
+would not require a license amendment was a performance deficiency and contrary to 10
+CFR 50.59.
+
+Screening: The inspectors determined the performance deficiency was more-than-minor
+because it was associated with the Design Control attribute of the Barrier Integrity
+cornerstone and adversely affected the cornerstone objective to provide reasonable
+assurance that physical design barriers protect the public from radionuclide releases caused
+by accidents or events. Specifically, the change in the application of CHF correlations, e.g.,
+the Biasi correlation limit, to predict the MDNBR during MSLB events required NRC prior
+approval since it resulted in a departure from a method of evaluation described in the UFSAR
+used to establish the current MSLB safety analysis.
+
+Significance: The inspectors assessed the significance of the finding using IMC 0609
+Appendix A, “The Significance Determination Process (SDP) for Findings At-Power.”
+The inspectors determined the finding was of very low safety significance (Green) because
+the finding did not challenge the fuel cladding integrity. Therefore, the inspectors answered
+“No” to all Exhibit 3, “Barrier Integrity Screening Questions,” Section A, “Fuel Cladding
+Integrity” screening questions. Additionally, License Amendment No. 279 was approved by
+the NRC on July 24, 2025.
+
+Cross-Cutting Aspect: Not Present Performance. No cross-cutting aspect was assigned to
+this finding because the inspectors determined the finding did not reflect present licensee
+performance. The original 50.59 evaluation, SE 19‑0117, that opened the URI was performed
+in 2019 and therefore, does not represent present licensee performance.
+Enforcement:
+
+The ROP’s significance determination process does not specifically consider the regulatory
+process impact in its assessment of licensee performance. Therefore, it is necessary to
+address this violation which impedes the NRC’s ability to regulate using traditional
+enforcement to adequately deter non-compliance.
+
+
+
+
+                                              10
+Severity: In accordance with NRC Enforcement Manual, Section 2.1.3, “Enforcement of
+10 CFR 50.59 and Related FSAR Violations,” Section D.5.a, the inspectors determined
+this violation is categorized as severity level IV because the change required prior
+Commission review and approval, the licensee failed to obtain Commission approval, and
+the consequence of the change evaluated by the significance determination process is of
+very low safety significance (i.e., Green).
+
+Violation: Title 10 CFR 50.59(d)(1) states, in part, the licensee shall maintain records of
+changes in the facility, of changes in procedures, and of tests and experiments made
+pursuant to 10 CFR 50.59(c). These records must include a written evaluation which provides
+the bases for the determination that the change, test, or experiment does not require a license
+amendment pursuant to paragraph (c)(2) of this section.
+
+Title 10 CFR 50.59(c)(1) states, in part, that a licensee may make changes in the facility or
+procedures as described in the final safety analysis report (as updated) without obtaining a
+license amendment pursuant to Section 50.90 only if: (i) An amendment to the technical
+specifications incorporated in the license is not required, and (ii) the change, test, or
+experiment does not meet any of the criteria in paragraph (c)(2) of this section.
+
+Title 10 CFR50.59(c)(2)(viii) states, in part, that a licensee shall obtain a license amendment
+pursuant to 10 CFR 50.90 prior to implementing a proposed change, test, or experiment if the
+change, test, or experiment would result in in a departure from a method of evaluation
+described in the FSAR (as updated) used in establishing the design bases or in the safety
+analyses.
+
+Technical specification (TS), revision 20, section 5.6.5, “Core Operating Limits Report
+(COLR)” states:
+
+      b. the analytical methods used to determine the core operating limits shall be
+      those approved by the NRC, specifically those described in the latest approved
+      revision of the following documents:
+
+      6. EMF‑2310 (P)(A), Revision 0, Framatome ANP, Inc., May 2001,
+      “SRP Chapter 15 Non-LOCA Methodology for Pressurized Water Reactors.”
+      (LCOs 3.1.6, 3.2.1, 3.2.2, & 3.2.4)
+
+Updated final safety analysis report (UFSAR), revision 35, section 14.14, “Steam Line
+Rupture Incident,” references include:
+
+      2. EMF‑2310(P)(A), Revision 1, “SRP Chapter 15 Non-LOCA Methodology for
+      Pressurized Water Reactors,” Framatome ANP, May 2004.
+
+Contrary to the above, from September 6, 2019, to May 20, 2022, the licensee failed to
+maintain a record of changes in the facility including a written evaluation that provided the
+bases for the determination that the change, test, or experiment did not require a license
+amendment. Specifically, the licensee failed to document a written evaluation that provided a
+bases for the determination that the change in critical heat flux correlations to predict the
+minimum departure from nucleate boiling ratio in the main steam line break analysis was
+not a departure from a method of evaluation described in the FSAR (as updated) and
+would not require a license amendment. Subsequently, the licensee submitted License
+
+
+
+                                              11
+Amendment No. 279 which was approved by the NRC on July 24, 2025 (ADAMS Accession
+No. ML25156A045).
+
+Enforcement Action: This violation is being treated as a non-cited violation, consistent with
+Section 2.3.2 of the Enforcement Policy.
+
+The disposition of this finding and associated violation closes URI: 05000255/2022010-01.
+
+Licensee-Identified Non-Cited Violation                                           71124.08
+This violation of very low safety significance was identified by the licensee and has been
+entered into the licensee corrective action program and is being treated as a non-cited
+violation, consistent with Section 2.3.2 of the Enforcement Policy.
+Violation: Title 10 of the Code of Federal Regulations (10 CFR) Part 71.5 requires, in part,
+that each licensee who transports licensed material outside the site of usage comply with the
+applicable requirements of the Department of Transportation (DOT) regulations in 49 CFR
+Parts 171 through 180. 49 CFR 173.441 requires, in part, that exclusive use shipment
+radiation levels not exceed 10 mrem/h at any point two meters from the outer lateral surfaces
+of the vehicle (excluding the top and underside of the vehicle). Contrary to the above,
+on September 23, 2025, the licensee failed to comply with the applicable requirements of the
+DOT regulations in 49 CFR Parts 171 through 180 as required by 10 CFR 71.5. Specifically,
+the licensee failed to comply with 49 CFR 173.441 when the licensee transported radioactive
+waste off-site via exclusive use with dose rates of up to 16.2 mrem/hr at two meters from the
+lateral surfaces (sides) of the vehicle.
+
+Significance/Severity: Green. The performance deficiency was assessed using Inspection
+Manual Chapter (IMC) 0609, Appendix D as a finding in transportation or Part 61. An external
+radiation limit was exceeded in a location accessible by the public. However, the IMC allows
+for other considerations to be taken into account when determining if an issue reaches the
+White threshold. In this instance, the shipment was an exclusive use shipment and surveys
+conducted upon return of the transport vehicle that were conducted with a survey instrument
+that averages dose rates over a larger cross-sectional area indicated maximum dose rates of
+10 mrem/hr at two meters from the lateral surfaces of the vehicle. With these considerations
+taken into account, this issue was determined to be of very low safety significance (Green).
+
+Corrective Action References: AR 25012715
+
+Very Low Safety Significance Issue Resolution Process: Use of                             71801‑Cat9
+Decommissioning Trust Fund During Restart Initiative
+This issue is a licensing basis question and inspection effort is being discontinued in
+accordance with the Very Low Safety Significance Issue Resolution (VLSSIR) process.
+No further evaluation is required.
+Description: In the fourth quarter of 2024, the inspectors performed an inspection of the
+Decommissioning Trust Fund (DTF) use. In that inspection, the inspectors noted that in a
+letter to the NRC dated September 28, 2023 (ML23271A140), the licensee submitted a
+request for an exemption from certain requirements in 10 CFR 50.82 to allow for restarting
+the plant after entering decommissioning. Further, as the pace of in‑plant restart activities
+picked up, the licensee later verbally informed the NRC staff that it had decided to stop
+incurring expenses against the DTF as of June 1, 2024. The inspectors identified DTF
+expenditures that occurred prior to that later date associated with maintaining the site, such
+as payroll, site security, janitorial services, and utility bills, that would generally be considered
+
+
+
+                                                 12
+legitimate uses of the DTF. The inspectors questioned the legitimacy of continuing to rely on
+DTF funds for these activities for a plant that was focusing on restart, and at what point
+should that transition away from the DTF use occur. The inspectors opened Unresolved Item
+(URI) 05000255/2024004‑01 to address this question. A detailed discussion on what was
+identified during the inspection and the URI can be found in Palisades Nuclear Plant
+Inspection Report 05000255/2024004 (ML25041A225).
+
+Through consultation with the Division of Decommissioning, Uranium Recovery, and Waste
+Programs (DUWP), and the Financial Assurance Branch (FAB) in the Division of
+Rulemaking, Environmental, and Financial Support (REFS), it was determined that
+considerable staff effort would be required to resolve this issue. For example, under these
+specific circumstances, it may be necessary to interpret terms such as “legitimate
+decommissioning activity.” In addition, the licensee has since ceased incurring expenses
+against the DTF, and according to the most recent DTF report, it continues to maintain
+sufficient funding for decommissioning activities should restart not take place.
+
+This issue is an unresolved question that has ambiguity in the licensing basis, design basis,
+or applicability of regulatory requirements which is determined to be no greater than
+Severity Level IV, if resolved. Inspection and evaluation effort is being discontinued using the
+Very Low Safety Significance Issue Resolution (VLSSIR) process. No further staff evaluation
+is required.
+
+Licensing Basis: 10 CFR 50.82(a)(8)(i) states, in part, that decommissioning trust funds may
+be used by licensees if the withdrawals are for expenses for legitimate decommissioning
+activities consistent with the definition of decommissioning in 10 CFR 50.2.
+
+10 CFR 50.2 defines decommissioning as removing a facility or site safely from service and
+reducing residual radioactivity to a level that permits—
+(1) Release of the property for unrestricted use and termination of the license; or
+(2) Release of the property under restricted conditions and termination of the license.
+
+Significance: The inspectors determined that the issue of concern would not have the
+potential to be more than Severity Level IV if processed via the Enforcement Policy as
+a violation. Specifically, the Enforcement Policy examples (section 6.3), indicate that to be
+more than Severity Level IV, there would need to be a significant failure to meet
+decommissioning as required by regulation or license condition or a failure to meet required
+schedules without adequate justification. There was no failure to meet decommissioning or
+any required schedule.
+
+Technical Assistance Request: The inspectors discussed use of a Technical Assistance
+Request (TAR) with the DUWP, but it was determined that a TAR was not warranted as this
+issue would not screen as more the SL IV.
+
+Corrective Action Reference: No corrective actions are required by the licensee.
+
+This VLSSIR closes URI 05000255/2024004‑01, Use of Decommissioning Trust Fund During
+Restart Initiative.
+
+
+
+
+                                               13
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •   On December 10, 2025, the inspectors presented the inspection results to M. Mlynarek,
+       Site Vice President, and other members of the licensee staff.
+
+
+
+
+                                               14
+DOCUMENTS REVIEWED
+
+Inspection   Type                Designation       Description or Title                                        Revision or
+Procedure                                                                                                      Date
+71111.08P    NDE Reports         HLS 360-00-UT-    Ultrasonic Examination on HL Surge Line Elbow to SE         06/18/2025
+                                 001               to Nozzle Overlay
+                                 HLS-350-00-PT-    Liquid Penetrant Examination on HL Surge Line Nozzle        06/18/2025
+                                 001               Overlay
+                                 SI2B 360-00-UT-   Ultrasonic Examination of CL Safety Injection Valve to SE   03/27/2025
+                                 001               to Nozzle Weld
+                                 VLNM-240-00-PT-   Liquid Penetrant Examination on RVCH Vent Line Nozzle       09/15/2025
+                                 001
+             Procedures          54-ISI-460-009 Multi-Frequency Eddy Current Orthogonal Coil Array Probe       08/30/2025
+                                                Examination of Nozzles Welds and Regions
+71111.11Q    Miscellaneous       PLSEG-LOR-25E- Simulator Exercise Guide “Plant Heat-Up 1”                     1
+                                 01
+                                 PLSEG-LOR-25E- Training Simulator Guide “Turbine Synch”                       1
+                                 02
+                                 PLSEG-LOR-25E- Simulator Exercise Guide “Plant Heat-Up 2”                     1
+                                 03
+71111.24     Corrective Action   25012427       VC-10 Required Manual Reset of Pressure Switch                 09/17/2025
+             Documents           25013662       E-54B Tube Plug Leakage                                        10/22/2025
+             Miscellaneous                      Eddy Current Report for Holtec International Palisades         06/2025
+                                                Nuclear Power Plant Unit 1 CCW E-54B
+                                                SGCC Key Milestones                                            09/23/2025
+             Procedures          03-9096916     Chemical Cleaning Site Setup Procedure                         004
+                                 RO-28          Control Room Envelope Positive Pressure and Heater             34
+                                                Output Verification
+                                 RT-202         Control Room HVAC Heat Removal Capability                      18
+             Work Orders         00584765-01    RT-202B VC-10 CR HVAC “B” Train Heat Removal                   10/15/2025
+                                                Capability
+                                 52954340       RO-28A - A-Train Control Room/TSC Ventilation                  10/08/2025
+                                 52959536       RO-28B - B Train Control Room/TSC Ventilation                  10/08/2025
+                                 582941696-34   E-54B; Vendor to Replace HX Tubes                              10/30/2025
+71124.04     Miscellaneous                      Whole Body Counter Analyses                                    10/21/025
+
+
+
+                                                             15
+Inspection   Type                Designation       Description or Title                                       Revision or
+Procedure                                                                                                     Date
+             Procedures          EN-RP-104         Personnel Contamination Events                             11
+                                 EN-RP-104,        Personnel Contamination Event Log                          03/18/2025
+                                 Attachment 9.11                                                              through
+                                                                                                              10/24/2025
+                                 EN-RP-104,        Personnel Contamination Event Record                       10/21/2025
+                                 Attachment 9.12
+                                 EN-RP-104,        Contaminated Individual Release Authorization Log          05/19/2025
+                                 Attachment 9.13                                                              through
+                                                                                                              10/21/2025
+                                 EN-RP-104,        Green IRA Briefing Form                                    10/21/2025
+                                 Attachment 9.9
+71124.06     Calibration                           Gamm Spec Detector 4 Calibration                           10/13/2025
+             Records
+             Miscellaneous       2_2025-10-        Gamma Isotopic Results for Stack Iodine                    10/29/2025
+                                 29_005
+                                 4_2025-10-        Gamma Isotopic for Stack Particulate                       10/29/2025
+                                 29_003
+71124.07     Corrective Action   25013668          Meteorological Tower Calibration Performed on 10/19/2023   10/23/2025
+             Documents
+             Miscellaneous       LIMS L111382      Environmental Sample Analysis Certificate                  10/03/2025
+                                 LIMS L111468      Environmental Sample Analysis Certificate                  10/10/2025
+             Procedures          EM-33             Meteorological Monitoring System                           5
+             Work Orders         50082222-01-01-   Met Tower Bi-Annual Instrument Calibration                 01/04/2024
+                                 0002
+71124.08     Corrective Action   25012715          Shipment 2025-RW-017 Exceeded Allowable Limits             09/25/2025
+             Documents
+             Procedures          RP-412            Radioactive Shipping Procedure                             1
+             Radiation           2025-1801         Shipment 2025-RW-017 Truck Survey                          09/23/2025
+             Surveys             2025-1810         Shipment 2025-RW-017 Return Surveys                        09/25/2025
+                                 2025-RW-017       Shipping Package                                           09/23/2025
+71152        Calculations        097-670-9(Q)      Bechtel Calculation                                        06/06/1983
+             Corrective Action   25011687          Boric Acid Precipitate Identified on T-58 SIRWT Nozzles    11/18/2025
+             Documents                             in Catacombs
+
+
+
+                                                             16
+Inspection   Type                Designation      Description or Title                                        Revision or
+Procedure                                                                                                     Date
+                                 25012889         Suspected Boric Acid Leakage into T-58 SIRW Tank            09/09/2025
+                                                  Catacombs
+             Corrective Action   25012261         NRC Inspection of Catacombs - Minor Surface Cracking        09/12/2025
+             Documents                            (Non-through-wall)
+             Resulting from      25012262         NRC Inspection of Catacombs- Minor Through-Wall             09/12/2025
+             Inspection                           Cracking
+             Miscellaneous                        SIRW Tank - Structural Upgrade GWO 6861 Project Plan        01/08/1987
+                                 NRC Report 50-   Inspection on December 3-5,1985, and January 7-10, 23-24,   02/05/1986
+                                 255/85032        1986
+                                 PLP-SRTSP-RPS    Reactor Protective System                                   0
+             Procedures          PAL-5382         Main Control Roof Cellular Slab                             02/11/2025
+
+
+
+
+                                                            17
+

@@ -1,0 +1,483 @@
+                                           November 12, 2024
+Mike Mlynarek
+Site Vice President
+Holtec Decommissioning
+International, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Highway
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2024012
+
+Dear Mike Mlynarek:
+
+On September 30, 2024, the U.S. Nuclear Regulatory Commission (NRC) completed
+inspections at the Palisades Nuclear Plant. The enclosed inspection report documents these
+inspection results, which the inspectors discussed on November 7, 2024, with you and other
+members of your staff.
+
+One Severity Level IV violation is documented in this report. We are treating this violation as a
+non-cited violation (NCV) consistent with Section 2.3.2 of the Enforcement Policy.
+
+If you contest the violation or severity of the violation documented in this inspection report, you
+should provide a response within 30 days of the date of this inspection report, with the basis for
+your denial, to the U.S. Nuclear Regulatory Commission, ATTN: Document Control Desk,
+Washington, DC 20555-0001; with copies to the Regional Administrator, HQ; the Director, Office
+of Enforcement; and the NRC Lead, Palisades Restart Team.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the Reactor
+Vessel,” (ADAMS Accession No. ML22164A067). On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations at
+Palisades (ADAMS Accession No. ML23271A140). The NRC’s initial acceptance to review
+Palisades’ request for exemptions was documented in ADAMS at Accession No. ML23291A440
+on November 3, 2023.
+M. Mlynarek                                      2
+
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Nguyen, April
+                                                                      on 11/12/24
+
+
+
+                                              April M. Nguyen, Lead
+                                              Palisades Restart Team
+                                              Division of Operating Reactor Safety
+
+Docket No. 05000255
+License No. DPR-20
+
+Enclosure:
+As stated
+
+cc w/ encl: Distribution via LISTSERV®
+M. Mlynarek                                   3
+
+
+Letter to Mike Mylnarek from April Nguyen dated November 12, 2024.
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2024012
+
+DISTRIBUTION:
+Robert Ruiz
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Jack Giessner
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+Allan Barker
+David Curtis
+Jonathan Feibus
+R3-DORS
+
+
+
+
+ADAMS ACCESSION NUMBER: ML24317A041
+                            ☒ Non-Sensitive                          ☒ Publicly Available
+  ☒ SUNSI Review
+                            ☐ Sensitive                              ☐ Non-Publicly Available
+ OFFICE RIII
+ NAME    ANguyen:sw
+ DATE    11/12/2024
+
+
+                                  OFFICIAL RECORD COPY
+                    U.S. NUCLEAR REGULATORY COMMISSION
+                               Inspection Report
+
+
+Docket Number:         05000255
+
+
+License Number:        DPR-20
+
+
+Report Number:         05000255/2024012
+
+
+Licensee:              Holtec Decommissioning International, LLC
+
+
+Facility:              Palisades Nuclear Plant
+
+
+Location:              Covert, MI
+
+
+Inspection Dates:      July 01, 2024 to September 30, 2024
+
+
+Inspectors:            B. Bergeon, Senior Operations Engineer
+                       E. Fernandez, Senior Reactor Inspector
+                       A. Hobbs, Reactor Inspector (observer)
+                       V. Myers, Senior Health Physicist
+                       J. Park, Reactor Inspector
+                       A. Shaikh, Senior Reactor Inspector
+                       J. Winslow, Senior Project Engineer
+
+
+Approved By:           April M. Nguyen, Lead
+                       Palisades Restart Team
+                       Division of Operating Reactor Safety
+
+
+
+
+                                                                   Enclosure
+                                           SUMMARY
+
+This report covers announced inspections completed by regional inspectors.
+
+The U.S. Nuclear Regulatory Commission (NRC) performed inspections of the licensee’s
+activities to ensure the adequate protection of workers and the public under the radiation safety
+cornerstone and to assess requalification training and evaluation of previously licensed
+operators under the reactor safety cornerstones.
+
+                                List of Findings and Violations
+
+ Locked High Radiation Area Identified During Chemical Decontamination
+ Cornerstone          Severity                                   Cross-Cutting     Report
+                                                                 Aspect            Section
+ Not Applicable       Severity Level IV                          Not Applicable    71124.01
+                      NCV 05000255/2024012-01
+                      Open/Closed
+ A self-revealed Severity Level IV Non-Cited Violation (NCV) of Technical Specification
+ (TS) 5.7.2 was identified when the licensee failed to post and control an area meeting Locked
+ High Radiation Area (LHRA) conditions.
+
+
+                                  Additional Tracking Items
+
+None.
+
+
+
+
+                                                2
+PLANT STATUS
+
+The Palisades Nuclear Plant ceased power operations and subsequently removed all fuel from
+the reactor, as certified in a letter to the NRC on June 13, 2022. On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of 10 CFR 50.82(a)(2) to pursue the
+potential reauthorization of power operations. The NRC is conducting inspections to evaluate
+and assess the licensee’s activities for potential restoration to an operational status.
+
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the referenced inspection
+procedures (IPs) in effect at the beginning of the inspection unless otherwise noted. Currently
+approved IPs with their attached revision histories are located on the public website at
+http://www.nrc.gov/reading-rm/doc-collections/insp-manual/inspection-procedure/index.html.
+
+REACTOR SAFETY CORNERSTONES
+
+71111.08P - Inservice Inspection Activities (PWR)
+
+Reactor Pressure Vessel (03.01)
+
+From July 24, 2024, to August 20, 2024, the inspectors observed and verified Holtec Palisades’
+nondestructive examination (NDE) activities of the Reactor Pressure Vessel conducted in
+accordance with the requirements of the ASME Code Section XI and MRP-227, “Materials
+Reliability Program: Pressurized Water Reactor Internals Inspection and Evaluation Guidelines,”
+Revision 1-A. The purpose of these inspections was to verify that the reactor coolant system
+boundary, reactor vessel internals, and risk-significant piping system boundaries are
+appropriately monitored for degradation. The NRC inspectors also verified that the examination
+results were thoroughly reviewed and appropriately evaluated, and that required corrective
+actions to address identified indications and defects will be appropriately implemented. During
+this quarter, Holtec Palisades completed the NDE activities and evaluation of the data. Further
+NRC inspections will occur when corrective actions are implemented.
+
+The inspectors verified that the following nondestructive examination activities were conducted
+appropriately per the ASME Code or required standard, and that any potential indications and
+defects were identified and evaluated at the proper thresholds:
+
+MRP 227 Reactor Internals Exams (July 29, 2024, through August 12, 2024)
+
+   •   Ultrasonic Testing (UT) of Core Shroud Bolts
+   •   Visual Examination (VT) of Core Shroud Plates, Core Support Plate and Fuel Alignment
+       Plate
+
+ASME Section XI 10 Year ISI (August 3, 2024, through August 19, 2024)
+
+   •   UT of vessel welds, vessel-to-nozzle welds and nozzle-to-pipe welds
+   •   Phased Array Ultrasonic Testing (PAUT) of Clevis Bolts
+   •   Visual examination (VT) of the interior surface of the vessel and supports
+
+
+
+                                                3
+Steam Generator Activities (03.04)
+
+From August 26, 2024, to September 6, 2024, the inspectors observed and verified Holtec
+Palisades’ Steam Generator (SG) inspection activities conducted as described in the operating
+plant Technical Specification Requirements and EPRI Steam Generator Management Program
+guidance. Of note, the operating plant Technical Specifications are currently under review by
+the NRC. If approved, these will be implemented with the operating plant licensing basis
+documents if the plant goes back to an operational status. Using this as guidance for
+inspections now will ensure that all Technical Specification requirements will be met prior
+to resumption of power operations. The purpose of these inspections is to verify that the
+SG tube integrity is appropriately monitored and any potential mechanisms that could lead to
+primary-to-secondary tube leakages are addressed. The NRC inspectors verified that the
+inspections were properly conducted per the regulatory requirements and guidance documents,
+that the inspection results were thoroughly reviewed and appropriately evaluated, and that
+required corrective actions to address identified indications were appropriately implemented.
+The inspectors also reviewed Holtec Palisades’ loose parts inspections, foreign material
+controls, and chemistry controls for the SGs. During this quarter, Holtec Palisades completed
+the inspection activities and were in the process of evaluating the data. Further NRC inspections
+will review the data analysis and any corrective actions as they are implemented.
+
+The inspectors verified that the following inspection and cleanliness activities were conducted
+appropriately, and that any potential indications were identified and evaluated at the proper
+thresholds:
+
+   •   Eddy Current Testing (ET) of 100% of Steam Generator Tubes in SG “A”
+   •   Eddy Current Testing (ET) of 100% of Steam Generator Tubes in SG “B”
+   •   Visual Examination (VT) of Secondary Side of SG “A” and SG “B”
+   •   Sludge Lancing of SG “A” and SG “B”
+   •   Foreign Objects Search and Retrieval (FOSAR) for SG “A” and SG “B”
+
+Preliminary results of the Steam Generator inspections identified a large number of SG tubes
+with indications that required further analysis and/or repair. This information is documented in
+Preliminary Notification, PNO-III-24-002, PRELIMINARY RESULTS OF STEAM GENERATOR
+INSPECTIONS AT PALISADES NUCLEAR PLANT, dated September 18, 2024,
+(ADAMS Accession No. ML24262A092). Also, preliminary results were discussed between
+Holtec and NRC staff in a conference call held on September 3, 2024. This call is documented
+in the letter, PALISADES NUCLEAR PLANT - SUMMARY OF CONFERENCE CALL
+REGARDING STEAM GENERATOR TUBE INSPECTIONS, dated October 1, 2024
+(ADAMS Accession No. ML24267A296).
+
+71111.11Q - Licensed Operator Requalification Program and Licensed Operator Performance
+
+Licensed Operator Requalification Training/Examinations (03.02)
+
+
+
+
+                                                4
+On September 17, 2024, an NRC inspector conducted an inspection of Holtec Palisades’
+licensed operator requalification training program. This inspection reviewed the conduct of
+requalification training activities in the main control room simulator and assessed the Palisades
+training staff’s ability to evaluate the performance of their licensed operators. The NRC
+inspector observed the licensed operator crew’s performance during a complex casualty graded
+scenario and the training staff’s post-scenario assessment of the crew.
+
+No issues of concern were identified during the inspector’s observation of the requalification
+training activities. Overall, operations training effectively evaluated the operating crew and
+provided effective feedback to continue to improve the performance of the operating crew.
+
+71111.18 – Plant Modifications
+
+Temporary Modifications and/or Permanent Modifications (03.01)
+
+From June 17, 2024, to July 12, 2024, the inspectors evaluated temporary modifications to the
+primary coolant system (PCS) and the auxiliary building, 649' elevation, in support of the PCS
+decontamination project. The purpose of this inspection was to verify that the temporary
+modifications did not degrade or adversely affect the safety functions or structural integrity of the
+PCS and auxiliary building structure. The inspectors reviewed drawings, calculations, and
+evaluations of the temporary system used for the decontamination activity; performed
+walkdowns of the system once installed to verify appropriate installation; and observed system
+testing to verify no primary system leakage or adverse impacts to the normal operation of the
+PCS. The inspectors also verified the PCS was returned to its normal configuration after the
+temporary system was uninstalled.
+
+No issues of concern were identified during the inspectors’ review of the temporary
+modifications for this project.
+
+RADIATION SAFETY CORNERSTONE
+
+71124.01 - Radiological Hazard Assessment and Exposure Controls
+
+From July 1, 2024, to July 11, 2024, the inspectors observed and evaluated Holtec Palisades’
+radiological assessment and controls for the PCS decontamination project. The purpose of
+these inspections was to evaluate the station’s radiological hazards assessments, instructions
+to radiological workers, radiation protection access and controls to the areas affected by the
+project, and coverage for workers performing in-field activities for the project. The inspectors
+verified that the radiation protection program was appropriately implemented for the project as
+required by Technical Specifications, regulations, and station procedures.
+
+The PCS decontamination activity was a process that chemically shocked the primary system
+piping to release radiologically contaminated build-up on the inside of the piping. Once released
+from the piping, the contaminated water was then sent through a series of resin beds to remove
+the contamination. This process was being conducted to reduce the overall contamination
+and radiation hazards in the system and to reduce worker dose for future activities. This was
+a first-time evolution for this process at Palisades.
+
+
+
+
+                                                 5
+Prior to initiation of the chemical decontamination process, the inspectors reviewed documents
+related to planning and control of the evolution. This included items such as system schematics,
+system operating procedures, planned radiological survey points, shielding packages,
+radiological posting plans, and radiation work permits and As-Low-As-Reasonably-Achievable
+(ALARA) plans. In addition, the inspectors performed several walkdowns of the system,
+attended pre-job briefings, and observed radiation protection staff performing posting and
+control changes to potentially affected areas of the plant.
+
+During the chemical injection and subsequent clean-up phases, the inspectors continued to
+provide oversight of the evolution. This included various walkdowns to validate radiological
+postings and controls, observations of dose rates being collected throughout the site via remote
+monitoring capabilities, and observations of radiation protection technician job coverage.
+
+One SLIV NCV was identified during these inspection activities, which is described in detail in
+the inspection results section below. Additionally, the inspectors shared an observation of note
+with the Palisades team during the exit meeting. This is documented in more detail in the results
+section below.
+
+INSPECTION RESULTS
+
+ Locked High Radiation Area Identified During Chemical Decontamination
+ Cornerstone     Severity                                         Cross-Cutting Report
+                                                                  Aspect          Section
+ Not             Severity Level IV                                Not             71124.01
+ Applicable      NCV 05000255/2024012-01                          Applicable
+                 Open/Closed
+ A self-revealed Severity Level IV Non-Cited Violation (NCV) of Technical Specification
+ (TS) 5.7.2 was identified when the licensee failed to post and control an area meeting Locked
+ High Radiation Area (LHRA) conditions.
+ Description:
+
+ On July 6, 2024, Holtec Palisades initiated recirculation of clean water through the primary
+ coolant system (PCS) chemical decontamination skid to test for leaks prior to commencing
+ chemical injection. During this time, radiological surveys conducted by a radiation protection
+ technician in the auxiliary building 649' elevation identified a hot spot on a piece of skid
+ equipment that resulted in dose rates of 2 rem/hr at 30 cm from the source. At that time,
+ the auxiliary building 649' elevation was controlled as a radiation area. Also, radiation
+ protection (RP) staff had administratively required that radiation protection technicians
+ monitor radiological conditions any time personnel were in this area. The licensee had a
+ pre-established posting plan for the PCS chemical decontamination activity that included
+ posting this location as a Locked High Radiation Area (LHRA). However, this posting plan
+ was to be initiated prior to chemical injection, which had not occurred yet. Upon identification
+ of the LHRA conditions, the licensee guarded the area and subsequently implemented the
+ pre-established posting plan for all areas potentially affected by the PCS decontamination
+ activities. This included posting and controlling this area as an LHRA.
+
+ Corrective Actions: The licensee immediately guarded the area and subsequently posted and
+ controlled the area as an LHRA.
+
+
+
+
+                                                 6
+ Corrective Action References: PAL-02617 and PAL-03310
+ Performance Assessment:
+
+ None
+ Enforcement:
+
+ Severity: The inspectors determined this was a SLIV NCV in accordance with the
+ enforcement policy. Specifically, the failure to post and control the LHRA was of more than
+ minor concern but resulted in relatively inappreciable potential safety consequences.
+
+ Violation: TS 5.7.2 requires, in part, that entryways into High Radiation Areas (HRAs) with
+ dose rates greater than 1.0 rem/hr at 30 centimeters from the radiation source be
+ conspicuously posted as an HRA and be provided with a locked or continuously guarded door
+ or gate that prevents unauthorized entry. Contrary to the above, on July 6, 2024, the licensee
+ failed to conspicuously post the entryway to an area with dose rates greater than 1.0 rem/hr
+ at 30 centimeters from the radiation source as an HRA and failed to lock or continuously
+ guard the entryway to prevent unauthorized entry.
+
+ Enforcement Action: This violation is being treated as a non-cited violation, consistent with
+ Section 2.3.2 of the Enforcement Policy.
+
+ Observation: Chemical Decontamination Process of the Primary Coolant System 71124.01
+ (Occupational Radiation Safety Cornerstone)
+ On July 7–10, 2024, Palisades performed a chemical decontamination process of the primary
+ coolant system (PCS). The process involved the injection of mixed chemicals into the PCS to
+ remove radiological contamination from piping to reduce worker dose for future activities. The
+ inspectors observed the system setup and connections, initial radiation protection postings,
+ initial chemical injection, and system cleanup. During the process, three of the unit’s four
+ primary coolant pumps were operated.
+
+ Overall, the inspectors observed that the activity was done safely. They noted there were
+ several personnel new to the station or new to their roles and saw some instances where
+ communications regarding the activities could have been clearer. An example of this was
+ associated with the initial radiation protection postings prior to the start of the chemical
+ injection process. The RP field supervisor identified several postings that needed to be
+ corrected after individuals initially hung the postings in the field. Although these postings were
+ corrected prior to the start of the activity, it demonstrated unclear directions for the individuals
+ tasked with hanging the initial radiation protection postings. It is important to ensure that work
+ activities are appropriately understood, roles and responsibilities are clear, and, in this
+ specific example, in-field radiation protection postings provide the correct instructions and
+ barriers for workers to prevent occupational radiation safety issues.
+
+
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •   On November 7, 2024, the inspectors presented the inspection results to M. Mlynarek,
+       Site Vice President, and other members of the licensee staff.
+
+
+
+
+                                                  7
+DOCUMENTS REVIEWED
+
+Inspection   Type                Designation        Description or Title                                        Revision or
+Procedure                                                                                                       Date
+71111.08P    Corrective Action   PAL-02741          M&TE ID#016044 Used While Out of Calibration                07/25/2024
+             Documents
+             Resulting from
+             Inspection
+             Miscellaneous       51-9379921-000     Palisades Unit 1 MRP Bolting Ultrasonic Examination Plan    0
+                                 INR-Palisades      Remote Visual Examination Indication Notification Report    07/30/2024
+                                 Restart-24-001
+                                 Visual Exam Plan   Palisades Reactor Vessel and Internals Remote Visual        07/23/2024
+                                                    Examinations
+             NDE Reports         L-1 Crane Hooks    Magnetic Particle Examination Report                        04/22/2024
+                                 LD-1               Magnetic Particle Examination Report                        04/22/2024
+                                 LD-1               Ultrasonic Calibration and Exam Report                      06/18/2024
+                                 LD-1               Visual Examination Report                                   04/22/2024
+          Procedures             CLP-M-6            Inspection of Heavy Load Lift Devices                       08/22/2018
+          Work Orders            50083288-01-001    L-1 Polar Crane PMs                                         02/06/2024
+71111.11Q Miscellaneous                             Shift 3 Crew Notebook                                       09/17/2024
+                                 PLSEG-LOR-         Palisades 2024 Cycle 24C Simulator Scenario                 1
+                                 24C-05
+             Procedures          PNT-114            Licensed Operator Requalification Training Program          1
+                                                    Description
+                                 PNT-210            Conduct of Simulator Training                               0
+                                 PNT-217            Examination Security                                        1
+71111.18     Drawings            SK-C-417           Reactor Auxiliary Building Floor Plan EL.639'-0", 649'-0"   76
+                                 WDD-DW-01160-      Chemical Decontamination Equipment Layout Plan              4
+                                 CPAL1
+71124.01     Miscellaneous                          Radiological Survey Sheet for Auxiliary Building 649'       07/06/2024
+                                                    Primary Coolant System Decontamination Posting Plan         07/06/2024
+                                 20240274           Radiation Work Permit and ALARA Plan for Primary Coolant    01
+                                                    System Full System Chemical Decontamination
+                                 TSR-2024-155       Temporary Shielding Request for Water Shield Tanks          06/07/2024
+                                                    Around Cask Washdown Pit
+                                 TSR-2024-157       Temporary Shielding Request for 590' Shield Around Floor    06/20/2024
+
+
+                                                               8
+Inspection   Type         Designation     Description or Title                                   Revision or
+Procedure                                                                                        Date
+                                          Plug
+                          WI-RSD-R-008    Spent Resin Transfers to Resin Liners in Track Alley   25
+             Procedures   EN-RP-101       Access Control for Radiological Controlled Areas       0
+                          WDD-IP-01076-   Palisades 2024 FSD Installation Procedure              0
+                          CAPL
+                          WDD-OP-00085-   Palisades 2024 FSD Operating Procedure                 0
+                          CPAL1
+
+
+
+
+                                                     9
+

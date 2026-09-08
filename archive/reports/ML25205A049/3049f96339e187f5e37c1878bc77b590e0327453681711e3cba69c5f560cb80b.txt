@@ -1,0 +1,156 @@
+                 OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+
+
+
+
+                                           July 24, 2025
+Mike Mlynarek
+Site Vice President
+Holtec Decommissioning International, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Highway
+Covert, MI 49043
+
+SUBJECT:       PALISADES NUCLEAR PLANT - RESTART SECURITY INSPECTION
+               REPORT 05000255/2025403
+
+Dear Mike Mlynarek:
+
+On July 2, 2025, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection at
+Palisades Nuclear Plant and discussed the results of this inspection with you and other members
+of your staff. The results of this inspection are documented in the enclosed report.
+
+One Severity Level IV violation without an associated finding is documented in this report. We are
+treating this violation as a non-cited violation (NCV) consistent with Section 2.3.2 of the
+Enforcement Policy.
+
+If you contest the violation or the significance or severity of the violation documented in this
+inspection report, you should provide a response within 30 days of the date of this inspection
+report, with the basis for your denial, to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001; with copies to the Regional
+Administrator, Region III; the Director, Office of Enforcement; the Director, Office of Nuclear
+Security and Incident Response; and the NRC Resident Inspector at Palisades Nuclear Plant.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the Reactor
+Vessel,” (ADAMS Accession No. ML22164A067). On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations at
+Palisades (ADAMS Accession No. ML23271A140). The NRC’s initial acceptance to review
+Palisades’ request for exemptions was documented in ADAMS at Accession No. ML23291A440
+on November 3, 2023.
+
+
+
+
+ Enclosure(s) transmitted herewith contain(s) SUNSI. When separated from enclosure(s), this
+                            transmittal document is decontrolled.
+
+                 OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+
+M. Mlynarek                                   2
+
+This letter will be made available for public inspection and copying at http://www.nrc.gov/reading-
+rm/adams.html and at the NRC Public Document Room in accordance with Title 10 of the Code of
+Federal Regulations 2.390, “Public Inspections, Exemptions, Requests for Withholding.”
+
+The enclosed report contains Security-Related Information, so the enclosed report will not be
+made publicly available in accordance with Title 10 of the Code of Federal Regulations
+(10 CFR) 2.390(d)(1). If you choose to provide a response that contains Security-Related
+Information, please mark your entire response “Security-Related Information–Withhold from public
+disclosure under 10 CFR 2.390” in accordance with 10 CFR 2.390(d)(1) and follow the
+instructions for withholding in 10 CFR 2.390(b)(1). The NRC is waiving the affidavit requirements
+for your response in accordance with 10 CFR 2.390(b)(1)(ii).
+
+                                            Sincerely,
+                                                                   Signed by Ziolkowski, Michael
+                                                                   on 07/24/25
+
+
+
+                                            Michael E. Ziolkowski, Chief
+                                            Security, Emergency Preparedness, and Incident
+                                            Response Branch
+                                            Division of Radiological Safety and Security
+
+Docket No. 05000255
+License No. DPR-20
+
+Enclosure:
+As stated
+
+cc: M. Schultheis,
+     Director Reg. & Site Strategies
+    S. Summers,
+     Site Security Manager
+    D. Gagnon,
+     Director Corporate Security
+    A. Filbrandt,
+     Supervisor Reg. Assurance
+    T. R. Wentworth,
+     Michigan State Liaison Officer
+
+cc w/o encl: Distribution via LISTSERV®
+
+
+
+
+                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+
+M. Mlynarek                                  2
+
+Letter to M. Mlynarek from M. Ziolkowski dated July, 24 2025.
+
+SUBJECT:      PALISADES NUCLEAR PLANT – RESTART SECURITY INSPECTION REPORT
+              05000255/2025403
+
+DISTRIBUTION:
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Stacy Prasad
+Jack Giessner
+Mohammed Shuaibi
+Tim Steadham
+Diana Betancourt-Roldan
+John Pelchat
+Jared Heck
+Jennifer Dalzell
+Prema Chandrathil
+Viktoria Mitlyng
+R3-DORS
+Jeremiah Rey
+Desiree Davis
+April Nguyen
+Julie Winslow
+Brice Bickett
+Jannette Worosilo
+Jesse Rollins
+Jefferson Clark
+DSODivision.Resource@nrc.gov
+SOSBInspRptDistro@usnrc.onmicrosoft.com
+
+
+
+
+Non-Public Designation Category: MD 3.4 Non-Public A.3
+ADAMS Accession Number: ML25205A048 (Cover letter w/ enclosure(s))
+ADAMS Accession Number: ML25205A049 (Cover letter)
+ Entire Report:           ☐ Non-Sensitive                            ☐ Publicly Available
+ ☒ SUNSI Review           ☒ Sensitive                                ☒ Non-Publicly Available
+ Cover Letter Only:       ☒ Non-Sensitive                            ☒ Publicly Available
+ ☒ SUNSI Review           ☐ Sensitive                                ☐ Non-Publicly Available
+ OFFICE     RIII/DRSS     NSIR          RIII/DORS  RIII/DRSS
+ NAME       Negan:dc      JRey          ANguyen    MZiolkowski
+ DATE       07/24/2025    07/24/2025    07/24/2025 07/24/2025
+                                    OFFICIAL RECORD COPY
+
+
+
+
+                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+

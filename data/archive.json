@@ -1,0 +1,847 @@
+{
+  "schemaVersion": 2,
+  "startDate": "2024-01-01",
+  "checkedAt": "2026-09-08T22:12:23.417707Z",
+  "sources": [
+    "https://www.nrc.gov/info-finder/reactors/pali",
+    "https://www.nrc.gov/sites/default/files/doc_library/cdn/data/performance-indicators/list-of-reports.json",
+    "https://www.nrc.gov/sites/default/files/doc_library/cdn/data/performance-indicators/current-quarter.json"
+  ],
+  "reports": [
+    {
+      "accession": "ML26245A104",
+      "number": "2026090",
+      "date": "2026-08-31",
+      "title": "PALISADES NUCLEAR PLANT - NRC INSPECTION REPORT 05000255/2026090",
+      "url": "https://www.nrc.gov/docs/ML2624/ML26245A104.pdf",
+      "sha256": "5eace489af390fdd70e3c14a96cdec153fbb8eab416154a857484db9743c8c9b",
+      "pdfPath": "archive/reports/ML26245A104/5eace489af390fdd70e3c14a96cdec153fbb8eab416154a857484db9743c8c9b.pdf",
+      "textPath": "archive/reports/ML26245A104/5eace489af390fdd70e3c14a96cdec153fbb8eab416154a857484db9743c8c9b.txt",
+      "versions": [
+        {
+          "sha256": "5eace489af390fdd70e3c14a96cdec153fbb8eab416154a857484db9743c8c9b",
+          "pdfPath": "archive/reports/ML26245A104/5eace489af390fdd70e3c14a96cdec153fbb8eab416154a857484db9743c8c9b.pdf",
+          "textPath": "archive/reports/ML26245A104/5eace489af390fdd70e3c14a96cdec153fbb8eab416154a857484db9743c8c9b.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 2,
+      "extractionStatus": "Extracted entries"
+    },
+    {
+      "accession": "ML26225A336",
+      "number": "2026002",
+      "date": "2026-08-12",
+      "title": "PALISADES NUCLEAR PLANT – INTEGRATED INSPECTION REPORT 05000255/2026002",
+      "url": "https://www.nrc.gov/docs/ML2622/ML26225A336.pdf",
+      "sha256": "2ecfb9b91ae567b4bfe012cbc51b11e012b3860fd3c7f585a47903a443a351f1",
+      "pdfPath": "archive/reports/ML26225A336/2ecfb9b91ae567b4bfe012cbc51b11e012b3860fd3c7f585a47903a443a351f1.pdf",
+      "textPath": "archive/reports/ML26225A336/2ecfb9b91ae567b4bfe012cbc51b11e012b3860fd3c7f585a47903a443a351f1.txt",
+      "versions": [
+        {
+          "sha256": "2ecfb9b91ae567b4bfe012cbc51b11e012b3860fd3c7f585a47903a443a351f1",
+          "pdfPath": "archive/reports/ML26225A336/2ecfb9b91ae567b4bfe012cbc51b11e012b3860fd3c7f585a47903a443a351f1.pdf",
+          "textPath": "archive/reports/ML26225A336/2ecfb9b91ae567b4bfe012cbc51b11e012b3860fd3c7f585a47903a443a351f1.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 4,
+      "extractionStatus": "Extracted entries"
+    },
+    {
+      "accession": "ML26125A118",
+      "number": "2026001",
+      "date": "2026-05-05",
+      "title": "PALISADES NUCLEAR PLANT – INTEGRATED INSPECTION REPORT 05000255/2026001",
+      "url": "https://www.nrc.gov/docs/ML2612/ML26125A118.pdf",
+      "sha256": "de2d863b754c2bd212dcee3065b5edf1daa1fc2acb150282dc7c750b68f53faa",
+      "pdfPath": "archive/reports/ML26125A118/de2d863b754c2bd212dcee3065b5edf1daa1fc2acb150282dc7c750b68f53faa.pdf",
+      "textPath": "archive/reports/ML26125A118/de2d863b754c2bd212dcee3065b5edf1daa1fc2acb150282dc7c750b68f53faa.txt",
+      "versions": [
+        {
+          "sha256": "de2d863b754c2bd212dcee3065b5edf1daa1fc2acb150282dc7c750b68f53faa",
+          "pdfPath": "archive/reports/ML26125A118/de2d863b754c2bd212dcee3065b5edf1daa1fc2acb150282dc7c750b68f53faa.pdf",
+          "textPath": "archive/reports/ML26125A118/de2d863b754c2bd212dcee3065b5edf1daa1fc2acb150282dc7c750b68f53faa.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 4,
+      "extractionStatus": "Extracted entries"
+    },
+    {
+      "accession": "ML26072A198",
+      "number": "2026401",
+      "date": "2026-03-17",
+      "title": "PALISADES NUCLEAR PLANT – CYBER SECURITY INSPECTION REPORT 05000255/2026401",
+      "url": "https://www.nrc.gov/docs/ML2607/ML26072A198.pdf",
+      "sha256": "322db7c92810e2826a9371e6ff56d1e665c755d79895765c1cc3e131a7451fbe",
+      "pdfPath": "archive/reports/ML26072A198/322db7c92810e2826a9371e6ff56d1e665c755d79895765c1cc3e131a7451fbe.pdf",
+      "textPath": "archive/reports/ML26072A198/322db7c92810e2826a9371e6ff56d1e665c755d79895765c1cc3e131a7451fbe.txt",
+      "versions": [
+        {
+          "sha256": "322db7c92810e2826a9371e6ff56d1e665c755d79895765c1cc3e131a7451fbe",
+          "pdfPath": "archive/reports/ML26072A198/322db7c92810e2826a9371e6ff56d1e665c755d79895765c1cc3e131a7451fbe.pdf",
+          "textPath": "archive/reports/ML26072A198/322db7c92810e2826a9371e6ff56d1e665c755d79895765c1cc3e131a7451fbe.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 1,
+      "extractionStatus": "Extracted entries"
+    },
+    {
+      "accession": "ML26069A362",
+      "number": "2025007",
+      "date": "2026-03-11",
+      "title": "ANNUAL ASSESSMENT LETTER FOR PALISADES NUCLEAR PLANT (REPORT 05000255/2025007)",
+      "url": "https://www.nrc.gov/docs/ML2606/ML26069A362.pdf",
+      "sha256": "a655f5dc3973f29c12127ff66a299f70e8a5505dfb8945aca41352844b7d005e",
+      "pdfPath": "archive/reports/ML26069A362/a655f5dc3973f29c12127ff66a299f70e8a5505dfb8945aca41352844b7d005e.pdf",
+      "textPath": "archive/reports/ML26069A362/a655f5dc3973f29c12127ff66a299f70e8a5505dfb8945aca41352844b7d005e.txt",
+      "versions": [
+        {
+          "sha256": "a655f5dc3973f29c12127ff66a299f70e8a5505dfb8945aca41352844b7d005e",
+          "pdfPath": "archive/reports/ML26069A362/a655f5dc3973f29c12127ff66a299f70e8a5505dfb8945aca41352844b7d005e.pdf",
+          "textPath": "archive/reports/ML26069A362/a655f5dc3973f29c12127ff66a299f70e8a5505dfb8945aca41352844b7d005e.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
+    {
+      "accession": "ML26055A151",
+      "number": "2025008",
+      "date": "2026-02-26",
+      "title": "PALISADES NUCLEAR PLANT – FIRE PROTECTION TEAM INSPECTION REPORT 05000255/2025008",
+      "url": "https://www.nrc.gov/docs/ML2605/ML26055A151.pdf",
+      "sha256": "78a0d0a6feec95470d39b6602bec5a40afcbbf6c83906257b3c2e992c16bdf1d",
+      "pdfPath": "archive/reports/ML26055A151/78a0d0a6feec95470d39b6602bec5a40afcbbf6c83906257b3c2e992c16bdf1d.pdf",
+      "textPath": "archive/reports/ML26055A151/78a0d0a6feec95470d39b6602bec5a40afcbbf6c83906257b3c2e992c16bdf1d.txt",
+      "versions": [
+        {
+          "sha256": "78a0d0a6feec95470d39b6602bec5a40afcbbf6c83906257b3c2e992c16bdf1d",
+          "pdfPath": "archive/reports/ML26055A151/78a0d0a6feec95470d39b6602bec5a40afcbbf6c83906257b3c2e992c16bdf1d.pdf",
+          "textPath": "archive/reports/ML26055A151/78a0d0a6feec95470d39b6602bec5a40afcbbf6c83906257b3c2e992c16bdf1d.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 4,
+      "extractionStatus": "Extracted entries"
+    },
+    {
+      "accession": "ML26030A166",
+      "number": "2025006",
+      "date": "2026-02-02",
+      "title": "PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025006",
+      "url": "https://www.nrc.gov/docs/ML2603/ML26030A166.pdf",
+      "sha256": "1465387ccfa5d3d5d09335da7823142aeafdcc752e8100ed778fed99e303e085",
+      "pdfPath": "archive/reports/ML26030A166/1465387ccfa5d3d5d09335da7823142aeafdcc752e8100ed778fed99e303e085.pdf",
+      "textPath": "archive/reports/ML26030A166/1465387ccfa5d3d5d09335da7823142aeafdcc752e8100ed778fed99e303e085.txt",
+      "versions": [
+        {
+          "sha256": "1465387ccfa5d3d5d09335da7823142aeafdcc752e8100ed778fed99e303e085",
+          "pdfPath": "archive/reports/ML26030A166/1465387ccfa5d3d5d09335da7823142aeafdcc752e8100ed778fed99e303e085.pdf",
+          "textPath": "archive/reports/ML26030A166/1465387ccfa5d3d5d09335da7823142aeafdcc752e8100ed778fed99e303e085.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
+    {
+      "accession": "ML26013A162",
+      "number": "2025404",
+      "date": "2026-01-20",
+      "title": "PALISADES NUCLEAR PLANT - RESTART SECURITY INSPECTION REPORT 05000255/2025404",
+      "url": "https://www.nrc.gov/docs/ML2601/ML26013A162.pdf",
+      "sha256": "ada464ccccd89eb8cbbc260c627cfa273b6798421ed8858ee9ee076b9a692aed",
+      "pdfPath": "archive/reports/ML26013A162/ada464ccccd89eb8cbbc260c627cfa273b6798421ed8858ee9ee076b9a692aed.pdf",
+      "textPath": "archive/reports/ML26013A162/ada464ccccd89eb8cbbc260c627cfa273b6798421ed8858ee9ee076b9a692aed.txt",
+      "versions": [
+        {
+          "sha256": "ada464ccccd89eb8cbbc260c627cfa273b6798421ed8858ee9ee076b9a692aed",
+          "pdfPath": "archive/reports/ML26013A162/ada464ccccd89eb8cbbc260c627cfa273b6798421ed8858ee9ee076b9a692aed.pdf",
+          "textPath": "archive/reports/ML26013A162/ada464ccccd89eb8cbbc260c627cfa273b6798421ed8858ee9ee076b9a692aed.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
+    {
+      "accession": "ML25357A093",
+      "number": "2025005",
+      "date": "2025-12-23",
+      "title": "PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025005",
+      "url": "https://www.nrc.gov/docs/ML2535/ML25357A093.pdf",
+      "sha256": "c09a8d903b85a0bf78695dc3ad3e294b9d8284cb1b145cef6eafaaa5a99f4528",
+      "pdfPath": "archive/reports/ML25357A093/c09a8d903b85a0bf78695dc3ad3e294b9d8284cb1b145cef6eafaaa5a99f4528.pdf",
+      "textPath": "archive/reports/ML25357A093/c09a8d903b85a0bf78695dc3ad3e294b9d8284cb1b145cef6eafaaa5a99f4528.txt",
+      "versions": [
+        {
+          "sha256": "c09a8d903b85a0bf78695dc3ad3e294b9d8284cb1b145cef6eafaaa5a99f4528",
+          "pdfPath": "archive/reports/ML25357A093/c09a8d903b85a0bf78695dc3ad3e294b9d8284cb1b145cef6eafaaa5a99f4528.pdf",
+          "textPath": "archive/reports/ML25357A093/c09a8d903b85a0bf78695dc3ad3e294b9d8284cb1b145cef6eafaaa5a99f4528.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 2,
+      "extractionStatus": "Extracted entries"
+    },
+    {
+      "accession": "ML25351A275",
+      "number": "2025405",
+      "date": "2025-12-18",
+      "title": "PALISADES NUCLEAR PLANT – CYBER SECURITY INSPECTION REPORT 05000255/2025405",
+      "url": "https://www.nrc.gov/docs/ML2535/ML25351A275.pdf",
+      "sha256": "50eedf5eb7371df3ef9c553393a72af3b79046eecbdcae84bf8c9978c2db588e",
+      "pdfPath": "archive/reports/ML25351A275/50eedf5eb7371df3ef9c553393a72af3b79046eecbdcae84bf8c9978c2db588e.pdf",
+      "textPath": "archive/reports/ML25351A275/50eedf5eb7371df3ef9c553393a72af3b79046eecbdcae84bf8c9978c2db588e.txt",
+      "versions": [
+        {
+          "sha256": "50eedf5eb7371df3ef9c553393a72af3b79046eecbdcae84bf8c9978c2db588e",
+          "pdfPath": "archive/reports/ML25351A275/50eedf5eb7371df3ef9c553393a72af3b79046eecbdcae84bf8c9978c2db588e.pdf",
+          "textPath": "archive/reports/ML25351A275/50eedf5eb7371df3ef9c553393a72af3b79046eecbdcae84bf8c9978c2db588e.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
+    {
+      "accession": "ML25260A036",
+      "number": "2025004",
+      "date": "2025-09-17",
+      "title": "PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025004",
+      "url": "https://www.nrc.gov/docs/ML2526/ML25260A036.pdf",
+      "sha256": "06895cbc5145b238b30d1299474061c321c26df0ed334901d0173190b68ab1dd",
+      "pdfPath": "archive/reports/ML25260A036/06895cbc5145b238b30d1299474061c321c26df0ed334901d0173190b68ab1dd.pdf",
+      "textPath": "archive/reports/ML25260A036/06895cbc5145b238b30d1299474061c321c26df0ed334901d0173190b68ab1dd.txt",
+      "versions": [
+        {
+          "sha256": "06895cbc5145b238b30d1299474061c321c26df0ed334901d0173190b68ab1dd",
+          "pdfPath": "archive/reports/ML25260A036/06895cbc5145b238b30d1299474061c321c26df0ed334901d0173190b68ab1dd.pdf",
+          "textPath": "archive/reports/ML25260A036/06895cbc5145b238b30d1299474061c321c26df0ed334901d0173190b68ab1dd.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
+    {
+      "accession": "ML25241A323",
+      "number": "2025501",
+      "date": "2025-09-02",
+      "title": "PALISADES NUCLEAR PLANT - EMERGENCY PREPAREDNESS BIENNIAL EXERCISE INSPECTION REPORT 05000255/2025501",
+      "url": "https://www.nrc.gov/docs/ML2524/ML25241A323.pdf",
+      "sha256": "9e4dfc20b022db39ee23c7f6c29afadb4c8e178df78acdf6b7ec1e8ed04b7ec9",
+      "pdfPath": "archive/reports/ML25241A323/9e4dfc20b022db39ee23c7f6c29afadb4c8e178df78acdf6b7ec1e8ed04b7ec9.pdf",
+      "textPath": "archive/reports/ML25241A323/9e4dfc20b022db39ee23c7f6c29afadb4c8e178df78acdf6b7ec1e8ed04b7ec9.txt",
+      "versions": [
+        {
+          "sha256": "9e4dfc20b022db39ee23c7f6c29afadb4c8e178df78acdf6b7ec1e8ed04b7ec9",
+          "pdfPath": "archive/reports/ML25241A323/9e4dfc20b022db39ee23c7f6c29afadb4c8e178df78acdf6b7ec1e8ed04b7ec9.pdf",
+          "textPath": "archive/reports/ML25241A323/9e4dfc20b022db39ee23c7f6c29afadb4c8e178df78acdf6b7ec1e8ed04b7ec9.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
+    {
+      "accession": "ML25205A049",
+      "number": "2025403",
+      "date": "2025-07-24",
+      "title": "PALISADES NUCLEAR PLANT - RESTART SECURITY INSPECTION REPORT 05000255/2025403",
+      "url": "https://www.nrc.gov/docs/ML2520/ML25205A049.pdf",
+      "sha256": "3049f96339e187f5e37c1878bc77b590e0327453681711e3cba69c5f560cb80b",
+      "pdfPath": "archive/reports/ML25205A049/3049f96339e187f5e37c1878bc77b590e0327453681711e3cba69c5f560cb80b.pdf",
+      "textPath": "archive/reports/ML25205A049/3049f96339e187f5e37c1878bc77b590e0327453681711e3cba69c5f560cb80b.txt",
+      "versions": [
+        {
+          "sha256": "3049f96339e187f5e37c1878bc77b590e0327453681711e3cba69c5f560cb80b",
+          "pdfPath": "archive/reports/ML25205A049/3049f96339e187f5e37c1878bc77b590e0327453681711e3cba69c5f560cb80b.pdf",
+          "textPath": "archive/reports/ML25205A049/3049f96339e187f5e37c1878bc77b590e0327453681711e3cba69c5f560cb80b.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 1,
+      "extractionStatus": "Extracted entries"
+    },
+    {
+      "accession": "ML25203A191",
+      "number": "2025406",
+      "date": "2025-07-23",
+      "title": "PALISADES NUCLEAR PLANT – MATERIAL CONTROL AND ACCOUNTING PROGRAM INSPECTION REPORT 05000255/2025406",
+      "url": "https://www.nrc.gov/docs/ML2520/ML25203A191.pdf",
+      "sha256": "84b2745ec985cb8e981a3330aa426bb80ebb7e0cb106931d4833a818ab5514d4",
+      "pdfPath": "archive/reports/ML25203A191/84b2745ec985cb8e981a3330aa426bb80ebb7e0cb106931d4833a818ab5514d4.pdf",
+      "textPath": "archive/reports/ML25203A191/84b2745ec985cb8e981a3330aa426bb80ebb7e0cb106931d4833a818ab5514d4.txt",
+      "versions": [
+        {
+          "sha256": "84b2745ec985cb8e981a3330aa426bb80ebb7e0cb106931d4833a818ab5514d4",
+          "pdfPath": "archive/reports/ML25203A191/84b2745ec985cb8e981a3330aa426bb80ebb7e0cb106931d4833a818ab5514d4.pdf",
+          "textPath": "archive/reports/ML25203A191/84b2745ec985cb8e981a3330aa426bb80ebb7e0cb106931d4833a818ab5514d4.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
+    {
+      "accession": "ML25203A098",
+      "number": "2025009",
+      "date": "2025-07-22",
+      "title": "PALISADES NUCLEAR PLANT – BIENNIAL PROBLEM IDENTIFICATION AND RESOLUTION INSPECTION REPORT 05000255/2025009",
+      "url": "https://www.nrc.gov/docs/ML2520/ML25203A098.pdf",
+      "sha256": "b420bf61b5fe72e622132c88e2e737ecd61accc2b26fd080ef01057765479324",
+      "pdfPath": "archive/reports/ML25203A098/b420bf61b5fe72e622132c88e2e737ecd61accc2b26fd080ef01057765479324.pdf",
+      "textPath": "archive/reports/ML25203A098/b420bf61b5fe72e622132c88e2e737ecd61accc2b26fd080ef01057765479324.txt",
+      "versions": [
+        {
+          "sha256": "b420bf61b5fe72e622132c88e2e737ecd61accc2b26fd080ef01057765479324",
+          "pdfPath": "archive/reports/ML25203A098/b420bf61b5fe72e622132c88e2e737ecd61accc2b26fd080ef01057765479324.pdf",
+          "textPath": "archive/reports/ML25203A098/b420bf61b5fe72e622132c88e2e737ecd61accc2b26fd080ef01057765479324.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
+    {
+      "accession": "ML25197A764",
+      "number": "2025003",
+      "date": "2025-07-17",
+      "title": "PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025003",
+      "url": "https://www.nrc.gov/docs/ML2519/ML25197A764.pdf",
+      "sha256": "f9ae1d33b4fb18d34fe2286bc67b5f3f91726dd7d8bb2459c07a0db9f029e571",
+      "pdfPath": "archive/reports/ML25197A764/f9ae1d33b4fb18d34fe2286bc67b5f3f91726dd7d8bb2459c07a0db9f029e571.pdf",
+      "textPath": "archive/reports/ML25197A764/f9ae1d33b4fb18d34fe2286bc67b5f3f91726dd7d8bb2459c07a0db9f029e571.txt",
+      "versions": [
+        {
+          "sha256": "f9ae1d33b4fb18d34fe2286bc67b5f3f91726dd7d8bb2459c07a0db9f029e571",
+          "pdfPath": "archive/reports/ML25197A764/f9ae1d33b4fb18d34fe2286bc67b5f3f91726dd7d8bb2459c07a0db9f029e571.pdf",
+          "textPath": "archive/reports/ML25197A764/f9ae1d33b4fb18d34fe2286bc67b5f3f91726dd7d8bb2459c07a0db9f029e571.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
+    {
+      "accession": "ML25171A029",
+      "number": "2025402",
+      "date": "2025-06-23",
+      "title": "ML25171A029",
+      "url": "https://www.nrc.gov/docs/ML2517/ML25171A029.pdf",
+      "sha256": "540b05c341fea982956fcbc9402c15722afe156690e56c32556a4c902b639290",
+      "pdfPath": "archive/reports/ML25171A029/540b05c341fea982956fcbc9402c15722afe156690e56c32556a4c902b639290.pdf",
+      "textPath": "archive/reports/ML25171A029/540b05c341fea982956fcbc9402c15722afe156690e56c32556a4c902b639290.txt",
+      "versions": [
+        {
+          "sha256": "540b05c341fea982956fcbc9402c15722afe156690e56c32556a4c902b639290",
+          "pdfPath": "archive/reports/ML25171A029/540b05c341fea982956fcbc9402c15722afe156690e56c32556a4c902b639290.pdf",
+          "textPath": "archive/reports/ML25171A029/540b05c341fea982956fcbc9402c15722afe156690e56c32556a4c902b639290.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
+    {
+      "accession": "ML25140A945",
+      "number": "2025002",
+      "date": "2025-05-21",
+      "title": "PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025002",
+      "url": "https://www.nrc.gov/docs/ML2514/ML25140A945.pdf",
+      "sha256": "88ca6be4410ed28bf25499d5157c4da9f07f85cfb9d4ef4dead54623cb52c408",
+      "pdfPath": "archive/reports/ML25140A945/88ca6be4410ed28bf25499d5157c4da9f07f85cfb9d4ef4dead54623cb52c408.pdf",
+      "textPath": "archive/reports/ML25140A945/88ca6be4410ed28bf25499d5157c4da9f07f85cfb9d4ef4dead54623cb52c408.txt",
+      "versions": [
+        {
+          "sha256": "88ca6be4410ed28bf25499d5157c4da9f07f85cfb9d4ef4dead54623cb52c408",
+          "pdfPath": "archive/reports/ML25140A945/88ca6be4410ed28bf25499d5157c4da9f07f85cfb9d4ef4dead54623cb52c408.pdf",
+          "textPath": "archive/reports/ML25140A945/88ca6be4410ed28bf25499d5157c4da9f07f85cfb9d4ef4dead54623cb52c408.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
+    {
+      "accession": "ML25083A268",
+      "number": "2025001",
+      "date": "2025-03-26",
+      "title": "PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025001 AND 07200007/2024001",
+      "url": "https://www.nrc.gov/docs/ML2508/ML25083A268.pdf",
+      "sha256": "9cec3302f6e89db372eb63b2ccaaec361c1941a86ae936b53e1bddb66552ef36",
+      "pdfPath": "archive/reports/ML25083A268/9cec3302f6e89db372eb63b2ccaaec361c1941a86ae936b53e1bddb66552ef36.pdf",
+      "textPath": "archive/reports/ML25083A268/9cec3302f6e89db372eb63b2ccaaec361c1941a86ae936b53e1bddb66552ef36.txt",
+      "versions": [
+        {
+          "sha256": "9cec3302f6e89db372eb63b2ccaaec361c1941a86ae936b53e1bddb66552ef36",
+          "pdfPath": "archive/reports/ML25083A268/9cec3302f6e89db372eb63b2ccaaec361c1941a86ae936b53e1bddb66552ef36.pdf",
+          "textPath": "archive/reports/ML25083A268/9cec3302f6e89db372eb63b2ccaaec361c1941a86ae936b53e1bddb66552ef36.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 1,
+      "extractionStatus": "Extracted entries"
+    },
+    {
+      "accession": "ML25041A225",
+      "number": "2024004",
+      "date": "2025-02-14",
+      "title": "PALISADES NUCLEAR PLANT - NRC INSPECTION REPORT NOS. 05000255/2024004",
+      "url": "https://www.nrc.gov/docs/ML2504/ML25041A225.pdf",
+      "sha256": "b1885fa00027fd8534d7f893ac6b40018f6ab47db60aacec6c87696af77225bd",
+      "pdfPath": "archive/reports/ML25041A225/b1885fa00027fd8534d7f893ac6b40018f6ab47db60aacec6c87696af77225bd.pdf",
+      "textPath": "archive/reports/ML25041A225/b1885fa00027fd8534d7f893ac6b40018f6ab47db60aacec6c87696af77225bd.txt",
+      "versions": [
+        {
+          "sha256": "b1885fa00027fd8534d7f893ac6b40018f6ab47db60aacec6c87696af77225bd",
+          "pdfPath": "archive/reports/ML25041A225/b1885fa00027fd8534d7f893ac6b40018f6ab47db60aacec6c87696af77225bd.pdf",
+          "textPath": "archive/reports/ML25041A225/b1885fa00027fd8534d7f893ac6b40018f6ab47db60aacec6c87696af77225bd.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 1,
+      "extractionStatus": "Extracted entries"
+    },
+    {
+      "accession": "ML25024A083",
+      "number": "2024013",
+      "date": "2025-01-24",
+      "title": "PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2024013",
+      "url": "https://www.nrc.gov/docs/ML2502/ML25024A083.pdf",
+      "sha256": "edd7f840a1bd4e0c9b75b2e9759836e429ee1d6e3f74f3998d9fd435957ef4b4",
+      "pdfPath": "archive/reports/ML25024A083/edd7f840a1bd4e0c9b75b2e9759836e429ee1d6e3f74f3998d9fd435957ef4b4.pdf",
+      "textPath": "archive/reports/ML25024A083/edd7f840a1bd4e0c9b75b2e9759836e429ee1d6e3f74f3998d9fd435957ef4b4.txt",
+      "versions": [
+        {
+          "sha256": "edd7f840a1bd4e0c9b75b2e9759836e429ee1d6e3f74f3998d9fd435957ef4b4",
+          "pdfPath": "archive/reports/ML25024A083/edd7f840a1bd4e0c9b75b2e9759836e429ee1d6e3f74f3998d9fd435957ef4b4.pdf",
+          "textPath": "archive/reports/ML25024A083/edd7f840a1bd4e0c9b75b2e9759836e429ee1d6e3f74f3998d9fd435957ef4b4.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
+    {
+      "accession": "ML24317A041",
+      "number": "2024012",
+      "date": "2024-11-12",
+      "title": "PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2024012",
+      "url": "https://www.nrc.gov/docs/ML2431/ML24317A041.pdf",
+      "sha256": "d01e2f3f9124d264455653cc3967ada49abeafa64243d25ff1e78a80572686b7",
+      "pdfPath": "archive/reports/ML24317A041/d01e2f3f9124d264455653cc3967ada49abeafa64243d25ff1e78a80572686b7.pdf",
+      "textPath": "archive/reports/ML24317A041/d01e2f3f9124d264455653cc3967ada49abeafa64243d25ff1e78a80572686b7.txt",
+      "versions": [
+        {
+          "sha256": "d01e2f3f9124d264455653cc3967ada49abeafa64243d25ff1e78a80572686b7",
+          "pdfPath": "archive/reports/ML24317A041/d01e2f3f9124d264455653cc3967ada49abeafa64243d25ff1e78a80572686b7.pdf",
+          "textPath": "archive/reports/ML24317A041/d01e2f3f9124d264455653cc3967ada49abeafa64243d25ff1e78a80572686b7.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 1,
+      "extractionStatus": "Extracted entries"
+    },
+    {
+      "accession": "ML24197A185",
+      "number": "2024011",
+      "date": "2024-07-15",
+      "title": "PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2024011",
+      "url": "https://www.nrc.gov/docs/ML2419/ML24197A185.pdf",
+      "sha256": "993d3c5241c99448f650dd3c772dc0f7d3d67854f26c5f421ed392bec33ad207",
+      "pdfPath": "archive/reports/ML24197A185/993d3c5241c99448f650dd3c772dc0f7d3d67854f26c5f421ed392bec33ad207.pdf",
+      "textPath": "archive/reports/ML24197A185/993d3c5241c99448f650dd3c772dc0f7d3d67854f26c5f421ed392bec33ad207.txt",
+      "versions": [
+        {
+          "sha256": "993d3c5241c99448f650dd3c772dc0f7d3d67854f26c5f421ed392bec33ad207",
+          "pdfPath": "archive/reports/ML24197A185/993d3c5241c99448f650dd3c772dc0f7d3d67854f26c5f421ed392bec33ad207.pdf",
+          "textPath": "archive/reports/ML24197A185/993d3c5241c99448f650dd3c772dc0f7d3d67854f26c5f421ed392bec33ad207.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
+    {
+      "accession": "ML24078A315",
+      "number": "2024010",
+      "date": "2024-03-20",
+      "title": "PALISADES NUCLEAR PLANT – PLANT REFERENCE SIMULATOR INSPECTION REPORT 05000255/2024010",
+      "url": "https://www.nrc.gov/docs/ML2407/ML24078A315.pdf",
+      "sha256": "14c0853ee754bbc41dadb08ef24edec66ccad8ffbff5728517de5ee60bc39897",
+      "pdfPath": "archive/reports/ML24078A315/14c0853ee754bbc41dadb08ef24edec66ccad8ffbff5728517de5ee60bc39897.pdf",
+      "textPath": "archive/reports/ML24078A315/14c0853ee754bbc41dadb08ef24edec66ccad8ffbff5728517de5ee60bc39897.txt",
+      "versions": [
+        {
+          "sha256": "14c0853ee754bbc41dadb08ef24edec66ccad8ffbff5728517de5ee60bc39897",
+          "pdfPath": "archive/reports/ML24078A315/14c0853ee754bbc41dadb08ef24edec66ccad8ffbff5728517de5ee60bc39897.pdf",
+          "textPath": "archive/reports/ML24078A315/14c0853ee754bbc41dadb08ef24edec66ccad8ffbff5728517de5ee60bc39897.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
+    {
+      "accession": "ML24045A147",
+      "number": "2023004",
+      "date": "2024-02-20",
+      "title": "NRC INSPECTION REPORT NO. 05000255/2023004(DRSS) – HOLTEC DECOMMISSIONING INTERNATIONAL, LLC, PALISADES NUCLEAR PLANT",
+      "url": "https://www.nrc.gov/docs/ML2404/ML24045A147.pdf",
+      "sha256": "12dce2d31541b65e7f02dd0a0367e515ba5e073c51a54b36e1f1d98be4574885",
+      "pdfPath": "archive/reports/ML24045A147/12dce2d31541b65e7f02dd0a0367e515ba5e073c51a54b36e1f1d98be4574885.pdf",
+      "textPath": "archive/reports/ML24045A147/12dce2d31541b65e7f02dd0a0367e515ba5e073c51a54b36e1f1d98be4574885.txt",
+      "versions": [
+        {
+          "sha256": "12dce2d31541b65e7f02dd0a0367e515ba5e073c51a54b36e1f1d98be4574885",
+          "pdfPath": "archive/reports/ML24045A147/12dce2d31541b65e7f02dd0a0367e515ba5e073c51a54b36e1f1d98be4574885.pdf",
+          "textPath": "archive/reports/ML24045A147/12dce2d31541b65e7f02dd0a0367e515ba5e073c51a54b36e1f1d98be4574885.txt"
+        }
+      ],
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z",
+      "lastCheckedAt": "2026-09-08T22:12:23.417707Z",
+      "extractedCount": 1,
+      "extractionStatus": "Extracted entries"
+    }
+  ],
+  "findings": [
+    {
+      "id": "05000255/2026090-02",
+      "title": "Failure to Monitor Internal Dose",
+      "kind": "Finding / violation",
+      "rating": "Green",
+      "text": "Failure to Monitor Internal Dose\n Cornerstone           Significance                          Cross-Cutting        Report Section\n                                                             Area\n Occupational        Green                                   Human               71124.04\n Radiation Safety    NCV 05000255/2026090-02                 Performance\n                     Open/Closed\n The NRC identified a Green finding and associated Non-Cited Violation (NCV) of 10 CFR\n 20.1502 when the licensee failed to assess internal dose for various individuals in elevated\n airborne areas.",
+      "reportAccession": "ML26245A104",
+      "reportNumber": "2026090",
+      "reportDate": "2026-08-31",
+      "page": 5,
+      "url": "https://www.nrc.gov/docs/ML2624/ML26245A104.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "05000255/2026090-01",
+      "title": "Failure to implement the radiation protection program for work activities with high alpha contamination levels",
+      "kind": "Finding / violation",
+      "rating": "Green",
+      "text": "Failure to implement the radiation protection program for work activities with high alpha\n contamination levels\n Cornerstone           Significance                          Cross-Cutting         Report Section\n                                                             Area\n Occupational          Green                                 Problem               71124.01\n Radiation Safety      NCV 05000255/2026090-01               Identification and\n                       Open/Closed                           Resolution\n The inspectors identified a Green Finding and associated Non-Cited Violations (NCVs) of\n T.S 5.4.1, 10 CFR 20.1501, 10 CFR 20.1702, 10 CFR 20.1902 and 10 CFR 20.1101 when the\n licensee failed to implement its radiation protection program for work activities with high alpha\n contamination levels.",
+      "reportAccession": "ML26245A104",
+      "reportNumber": "2026090",
+      "reportDate": "2026-08-31",
+      "page": 5,
+      "url": "https://www.nrc.gov/docs/ML2624/ML26245A104.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "ML26225A336:Licensee-identified violation:71152A:1",
+      "title": "Licensee-Identified Non-Cited Violation · 71152A",
+      "kind": "Licensee-identified violation",
+      "rating": "Severity Level IV",
+      "text": "Licensee-Identified Non-Cited Violation                                            71152A\nThis violation of very low safety significance was identified by the licensee and has been\nentered into the licensee corrective action program and is being treated as a non-cited\nviolation, consistent with Section 2.3.2 of the Enforcement Policy.\n\n\n\n\n\fViolation:\n\nTitle 10 of the Code of Federal Regulations (10 CFR) 55.25 requires that if, during the term of\nthe license, the licensed reactor operator or senior reactor operator develops a permanent\nphysical or mental condition that causes the licensee to fail to meet the requirements of\n10 CFR 55.21, the facility shall notify the Commission within 30 days of learning of the\ndiagnoses, in accordance with 10 CFR 50.74(c). For conditions for which a conditional license\n(as described in 10 CFR 55.33(b)) where a license condition is requested, the facility licensee\nshall provide medical certification on Form NRC 396, “Certification of Medical Examination by\nFacility Licensee” (as described in 10 CFR 55.23).\n\nContrary to the above, the facility licensee failed to notify the Commission within 30 days of the\ndiagnoses of changes in medical conditions on three separate occasions for licensed\noperators that developed permanent physical conditions which caused the licensed operators\nto fail to meet the requirements of 10 CFR 55.21. Specifically, on March 31, 2025, a license\nclass applicant informed the facility’s medical examiner that he was taking prescribed\nmedication. When the medical examiner completed the physical examination report to the\nfacility, the condition for the prescribed medication was not reported and the medical examiner\nrecommended that no conditions be placed on the license when issued. Once licensed, the\nsenior operator continued to take the medication as prescribed when performing licensed\nduties. The licensed operator was later evaluated by the medical examiner as no longer\nrequiring the medication and the prescription was discontinued. As the operator no longer was\nprescribed medication, the facility licensee determined that the operator license was correct\n(no restrictions) and no report was now required.\n\nSubsequently, on January 20, 2026, and on February 12, 2026, during biennial license\nphysical examinations the designated medical examiner determined that two licensed\noperators did not meet the near vision requirement in ANSI/ANS-3.4-1983, “Medical\nCertification and Monitoring of Personnel Requiring Operator Licenses for Nuclear Power\nPlants.” The two licensed operators were administratively restricted from performing licensed\nduties until they received and wore their prescription lenses.\n\nOn April 1, 2026, the facility licensee identified that the NRC had not been notified, via\nForm 396, “Certification of Medical Examination by Facility Licensee,” about the permanent\nchange in the two licensed operators’ vision and their need for prescription lenses to maintain\ntheir medical qualifications for their operator licenses. As noted, the facility did not determine\nthat the missed “take medication as prescribed” license condition for the licensed operator in\nthe first example must also be reported. The NRC was notified of the other two operators’\nconditions in a letter dated April 2, 2026, with the revised NRC Form 396s sent to the NRC on\nApril 13, 2026.\n\nThe inspectors verified that the licensed operators did not perform licensed duties from the\ntime their changes in medical condition were identified until they received and wore their\nprescription lenses. The inspectors also verified that the three licensed operators did not\ncommit any errors or been involved in any operational mishaps while performing licensed\nduties from the time they received and wore their prescription lenses until the NRC was\nnotified and received the individuals updated NRC Form 396s with their lenses restriction.\n\nSignificance/Severity: Severity Level IV. The inspectors determined the violation to be a\nSeverity Level IV violation similar to Example 6.9.d.9 in the NRC Enforcement Policy.\n\n\n\n\fSpecifically, the licensee failed to make a report required by 10 CFR 50.74(c) to inform the\nNRC of changes in operators’ medical conditions. In addition, the individuals adhered to the\nANSI 3.4 requirements to mitigate the changes in their medical conditions while performing\nlicensed duties.\n\nCorrective Action References: CR 26013325 and CR 26014029",
+      "reportAccession": "ML26225A336",
+      "reportNumber": "2026002",
+      "reportDate": "2026-08-12",
+      "page": 15,
+      "url": "https://www.nrc.gov/docs/ML2622/ML26225A336.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "ML26225A336:Licensee-identified violation:71111.20:1",
+      "title": "Licensee-Identified Non-Cited Violation · 71111.20",
+      "kind": "Licensee-identified violation",
+      "rating": "Green",
+      "text": "Licensee-Identified Non-Cited Violation                                         71111.20\n This violation of very low safety significance was identified by the licensee and has been\n entered into the licensee corrective action program and is being treated as a non-cited\n violation, consistent with Section 2.3.2 of the Enforcement Policy.\n Violation:\n\n Title 10 of the Code of Federal Regulations (CFR) Part 26, “Fitness for Duty Programs,”\n Subpart 205, “Work Hours,” requires, in part, that licensees shall control work hours so an\n individual’s hours worked do not exceed 16 hours in any 24-hour period, 26 hours in any\n 48-hour period, and 72 hours in any 7-day period. Additionally, it requires, in part, that\n licensees shall ensure that individuals have, at a minimum, a 34-hour break in any 9-day\n period.\n\n Contrary to the above, between March 28, 2026, and April 3, 2026, the licensee failed to\n ensure that individuals subject to the requirements of 10 CFR Part 26 complied with the\n work hour limitations and scheduling restrictions of Part 26. Specifically, the licensee failed\n to adequately schedule and control the work hours of 3 individuals performing work\n covered by the restrictions of 10 CFR Part 26 by not ensuring that the individuals ’ work\n hours did not exceed 72 hours in any 7-day period. Additionally, the licensee failed to\n ensure that the same individuals received at least a 34-hour break in any 9-day period.\n\n Significance/Severity: Green. The inspectors assessed the significance of the finding\n using IMC 0609 Appendix A, “The Significance Determination Process (SDP) for Findings\n At-Power.” Using Exhibit 2, “Mitigating Systems Screening Questions,” of IMC 0609\n Appendix A, Section A, the inspectors answered “No” to all of the questions, screening the\n finding to Green, as the work completed by the three individuals was verified by individuals\n who did meet the requirements of the Part 26 work hours restrictions, ensuring that the\n equipment maintained either its operability or functionality.\n\n Corrective Action References: CR 26013546, Fatigue Rule Violation",
+      "reportAccession": "ML26225A336",
+      "reportNumber": "2026002",
+      "reportDate": "2026-08-12",
+      "page": 12,
+      "url": "https://www.nrc.gov/docs/ML2622/ML26225A336.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "05000255/2026002-02",
+      "title": "Failure to Submit a Licensee Event Report for a Condition that Resulted in an Emergency Diesel Generator Actuation",
+      "kind": "Finding / violation",
+      "rating": "Severity Level IV",
+      "text": "Failure to Submit a Licensee Event Report for a Condition that Resulted in an Emergency\n Diesel Generator Actuation\n Cornerstone          Severity                                     Cross-Cutting      Report\n                                                                   Area               Section\n Not Applicable       Severity Level IV                            Not Applicable     71153\n                      NCV 05000255/2026002-02\n                      Open/Closed\n An NRC-identified Severity Level IV non-cited violation (NCV) of 10CFR 50.73 (a)(2)(iv)(A) was\n identified when the licensee failed to submit a licensee event report (LER) within 60 days from\n the automatic actuation of emergency diesel generator (EDG) 1-2. Specifically, the licensee\n failed to recognize that the automatic actuation of EDG 1-2 on February 5, 2026, met\n reportability criteria based on plant conditions. The LER was submitted on May 4, 2026.",
+      "reportAccession": "ML26225A336",
+      "reportNumber": "2026002",
+      "reportDate": "2026-08-12",
+      "page": 5,
+      "url": "https://www.nrc.gov/docs/ML2622/ML26225A336.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "05000255/2026002-01",
+      "title": "Failure to Provide Work Instructions Appropriate for Work Activities",
+      "kind": "Finding / violation",
+      "rating": "Green",
+      "text": "Failure to Provide Work Instructions Appropriate for Work Activities\n Cornerstone          Significance                                 Cross-Cutting      Report\n                                                                   Area               Section\n Mitigating Systems Green                                          Human              71152A\n                    NCV 05000255/2026002-01                        Performance\n                    Open/Closed\n The inspectors identified a Green finding and associated non-cited violation (NCV) of Technical\n Specification Section 5.4.1.a when the licensee failed to provide work instructions appropriate\n for the work activities. Specifically, in the first example, Work Order (WO) 588976-09 lacked\n sufficient detail for work near buried utilities. Second, troubleshooting activities were performed\n on the failed cables without written work instructions.",
+      "reportAccession": "ML26225A336",
+      "reportNumber": "2026002",
+      "reportDate": "2026-08-12",
+      "page": 5,
+      "url": "https://www.nrc.gov/docs/ML2622/ML26225A336.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "ML26125A118:Minor violation:71152S:1",
+      "title": "Minor Violation · 71152S",
+      "kind": "Minor violation",
+      "rating": "Minor",
+      "text": "Minor Violation                                                                           71152S\n Minor Violation: Beginning on February 24, 2026, the NRC reviewed a selection of condition\n reports that resulted in the identification of a minor violation associated with security\n requirements. Details of this minor violation are withheld from public release. The licensee\n entered the associated issues into its corrective action program.",
+      "reportAccession": "ML26125A118",
+      "reportNumber": "2026001",
+      "reportDate": "2026-05-05",
+      "page": 16,
+      "url": "https://www.nrc.gov/docs/ML2612/ML26125A118.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "ML26125A118:Minor violation:71152A:1",
+      "title": "Minor Violation · 71152A",
+      "kind": "Minor violation",
+      "rating": "Minor",
+      "text": "Minor Violation                                                                      71152A\nMinor Violation: On February 16, 2026, the inspectors reviewed the licensee’s causal analysis\n(CR 25015026) and associated corrective actions related to the inadvertent installation of\nnon-quality parts in the safety-related emergency diesel generators (EDGs) and main steam\nsafety system. Specifically, on or about December 13, 2025, the licensee identified that\nmultiple purchase orders that were issued for safety-related Swagelok check valves in\nthe fuel and/or air start systems for EDG 1-1 and EDG 1-2, along with refurbishment of\nsafety-related main steam safety valves in the main steam safety system, did not conform to\nthe procurement documents to ensure quality. Several of the purchased items were received\nand installed in the plant, which included the EDG 1-1 fuel oil priming pump P-210A\ndischarge check valve (CK-DE400), EDG 1-2 fuel oil priming pump P-210B discharge check\nvalve (CK-DE401), and main steam safety valve (RV-0701).\n\nThe EDGs supply backup electrical power to various safety-related buses that power\nplant equipment to ensure safe shut down and maintain core cooling if offsite power was lost.\nThe main steam safety system (steam generated from steam generators) contains 12\nspring-loaded safety valves that function as overpressure protection in accordance with\nAmerican Society of Mechanical Engineers (ASME) Boiler and Pressure Vessel (B&PV)\ncode, Section III, Rules for Construction of Nuclear Facility Components. Title 10 of the\nCode of Federal Regulations (10 CFR) Part 50, Appendix B, Criterion VII, “Control of\nPurchased Material, Equipment, Services” requires, in part, that measures shall be\nestablished to assure that purchased material, equipment, and services, whether purchased\ndirectly or through contractors and subcontractors, conform to procurement documents.\nThese quality assurance processes are essential to provide reasonable assurance that\nstructures, systems, and/or components installed in the plant would perform their specified\nsafety function(s).\n\nThe licensee’s causal analysis concluded that procurement and receipt inspection processes\nthat support implementation of the Palisades quality assurance program were not consistently\nperformed with sufficient rigor to ensure safety-related components satisfy the quality\nobjectives identified on the qualified suppliers list (QSL), safety-related purchase orders,\nand supporting quality documentation requirements prior to receipt acceptance or installation.\nSupply chain did not perform the required verification and validation of controls and\nprocedures to ensure only qualified safety-related components were procured and installed.\nFor EDG 1-1 and EDG 1-2, Swagelok valves were purchased directly from Swagelok.\nHowever, Swagelok was not specifically listed on the Palisades QSL to provide safety-related\nvalves and, therefore, was considered an unqualified supplier. For the main steam safety\nvalve refurbishments, although the supplier had maintained a quality assurance program, the\nspecific facility where repair work had been performed was a satellite location that had not\nbeen audited and, therefore, should not have been on the Palisades QSL. A qualified supplier\nwas a supplier who had undergone a quality and technical evaluation by responsible\norganizations and was approved to provide specific material or services as identified on the\nQSL. In addition, the main steam safety valve purchase order stated, in part, repairs and\nsteam certification testing shall be performed in accordance with Holtec approved repair and\ntesting procedures as approved by the Palisades Program Engineer. On October 28, 2025,\nthe licensee identified that the repair plan had not been reviewed and approved by the\nresponsible engineer.\n\nThe inspectors determined that the licensee’s failure to assure that purchased material,\nequipment, and services conformed to procurement documents in accordance with\n\n\n\f10 CFR Part 50, Appendix B, Criterion VII, “Control of Purchased Material, Equipment,\nServices,” was a performance deficiency. Specifically, documentation associated with several\nemergency diesel generator and main steam safety system components, procured as\nsafety-related, did not satisfy purchase order requirements upon receipt and were not\nidentified during material receipt inspection. Licensee quality Procedure MP-120, “Material\nReceipt,” Revision 0, step 7.7.6 states, in part, for quality inspection “supplier documentation\nsuch as certificate of conformance, supporting documents or certificate of analysis attesting\nto acceptable test results shall be reviewed in a manner to ensure purchase order\nrequirements are satisfied. Documentation received from a third-party dedicator and/or the\nCGD [commercial grade dedication] lab shall also be reviewed in a reasonable manner to\nverify accuracy, traceability to the purchase order, receipt lot/batch, etc. ensuring the CGD\nacceptance criteria is satisfied.”\n\nScreening: The inspectors determined the performance deficiency was minor. The main\nsteam system and EDG 1-1 had not been returned to service since Palisades re-entered\nthe Reactor Oversight Process on August 25, 2025, nor were required to be operable\nper technical specifications in the mode of applicability (plant was in defueled condition).\nEDG 1-2 was returned to service (operable) on November 11, 2025, to support irradiated\nfuel movements in the spent fuel pool in accordance with Technical Specification 3.8.2,\nAlternating Current Sources - Shutdown. Irradiated fuel movements commenced on\nNovember 17, 2025, and completed on December 9, 2025. The licensee performed a\npast operability evaluation regarding the installation of the non-quality (commercial grade,\nnot safety-related) fuel oil priming pump P210-B check valve (CK-DE401) and reasonably\nconcluded there were no operational impacts to EDG 1-2 during the periodic movement of\nirradiated fuel in the spent fuel pool and the EDG remained capable of performing its intended\nsafety function. In addition, a supplier evaluation was performed on the main steam safety\nvalve repair facility satellite location and demonstrated compliance with applicable technical\nand quality assurance requirements. Therefore, the inspectors determined the performance\ndeficiency was not reasonably viewed as a precursor to a significant event; if left uncorrected,\nwould not have the potential to lead to a more significant concern; was either not associated\nwith or did not adversely impact any of the cornerstone objectives; and was similar to\nInspection Manual Chapter 0612, Appendix E, “Examples of Minor Issues,” example 5.c.\n\nEnforcement: 10 CFR Part 50, Appendix B, Criterion VII, “Control of Purchased Material,\nEquipment, Services” states, in part, measures shall be established to assure that purchased\nmaterial, equipment, and services, whether purchased directly or through contractors and\nsubcontractors, conform to the procurement documents. These measures shall include\nprovisions, as appropriate, for source evaluation and selection, objective evidence of quality\nfurnished by the contractor or subcontractor, inspection at the contractor or subcontractor\nsource, and examination of products upon delivery. Documentary evidence that material and\nequipment conform to the procurement requirements shall be available at the nuclear power\nplant site prior to installation or use of such material and equipment. This documentary\nevidence shall be retained at the nuclear power plant and shall be sufficient to identify the\nspecific requirements, such as codes, standards, or specifications, met by the purchased\nmaterial or equipment. The effectiveness of the control of quality by contractors and\nsubcontractors shall be assessed by the applicant or designee at intervals consistent with\nthe importance, complexity, and quantity of the product or services.\n\nContrary to the above, from July 25, 2025, [date of first Swagelok valve receipt inspection -\nSeptember 9, 2025, for main steam safety valve RV-0701] to December 13, 2025, [date CR\nfor Swagelok check valves written - November 4, 2025, for RV-0701] the licensee failed to\n\n\n\f  assure that purchased material, equipment, and services conformed to procurement\n  documents. Specifically, documentation associated with several emergency diesel generator\n  and main steam safety system components procured as safety-related did not satisfy\n  purchase order requirements upon receipt and were not identified during material receipt\n  inspection.\n\n  This failure to comply with 10 CFR 50, Appendix B, Criterion VII, “Control of Purchased\n  Material, Equipment, Services” constitutes a minor violation that is not subject to enforcement\n  action in accordance with the NRC’s Enforcement Policy.",
+      "reportAccession": "ML26125A118",
+      "reportNumber": "2026001",
+      "reportDate": "2026-05-05",
+      "page": 14,
+      "url": "https://www.nrc.gov/docs/ML2612/ML26125A118.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "ML26125A118:Licensee-identified violation:71111.20:1",
+      "title": "Licensee-Identified Non-Cited Violation · 71111.20",
+      "kind": "Licensee-identified violation",
+      "rating": "Green",
+      "text": "Licensee-Identified Non-Cited Violation                                           71111.20\n This violation of very-low safety significance was identified by the licensee and has been\n entered into the licensee corrective action program and is being treated as a non-cited\n violation, consistent with Section 2.3.2 of the Enforcement Policy.\n Violation: Title 10 of the Code of Federal Regulations (10 CFR) Part 26, “Fitness for Duty\n Programs,” subpart 205, “Work Hours,” requires, in part, that licensees shall control work\n hours so an individual’s hours worked do not exceed 16 hours in any 24-hour period, 26 hours\n in any 48-hour period, and 72 hours in any 7-day period. Additionally, it requires, in part, that\n licensees shall ensure that individuals have, at a minimum, a 34-hour break in any 9-day\n period.\n\n Contrary to the above, between February 24, 2026, and March 3, 2026, the licensee failed to\n ensure that individuals subject to the requirements of 10 CFR Part 26 complied with the work\n hour limitations and scheduling restrictions of Part 26. Specifically, the licensee failed to\n adequately schedule and control the work hours of three individuals performing work covered\n by the restrictions of 10 CFR Part 26 by not ensuring that the individuals’ work hours did not\n exceed 72 hours in any 7-day period. Additionally, the licensee failed to ensure that the same\n individuals received at least a 34-hour break in any 9-day period.\n Significance/Severity: Green. The inspectors assessed the significance of the finding using\n IMC 0609 Appendix A, “The Significance Determination Process (SDP) for Findings\n At-Power.” Using Exhibit 2, “Mitigating Systems Screening Questions,” of IMC 0609\n Appendix A, Section A, the inspectors answered “No” to all of the questions, screening the\n finding to Green, as the work completed by the three individuals was verified by individuals\n who did meet the requirements of the Part 26 work hours restrictions, ensuring that the\n equipment maintained either its operability or functionality.\n Corrective Action References: CR 26012156 - Violation of Fatigue Rule- ARC Pipefitters",
+      "reportAccession": "ML26125A118",
+      "reportNumber": "2026001",
+      "reportDate": "2026-05-05",
+      "page": 11,
+      "url": "https://www.nrc.gov/docs/ML2612/ML26125A118.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "05000255/2026001-01",
+      "title": "Failure to Maintain Adequate Fire Protection System Functional Test Procedure",
+      "kind": "Finding / violation",
+      "rating": "Green",
+      "text": "Failure to Maintain Adequate Fire Protection System Functional Test Procedure\n Cornerstone          Significance                                Cross-Cutting      Report\n                                                                  Area               Section\n Mitigating Systems Green                                         Problem            71152A\n                    NCV 05000255/2026001-01                       Identification and\n                    Open/Closed                                   Resolution\n The inspectors identified a finding of very-low safety significance and associated violation of\n Technical Specification 5.4.1, “Procedures,” for the licensee’s failure to maintain fire protection\n system functional test procedure. Specifically, the licensee failed to maintain Procedure RO-52,\n “Fire Suppression Water System Functional Test and Fire Pump Capacity Test,” by failing to\n include appropriate acceptance criteria in the procedure to demonstrate fire protection system\n functionality.",
+      "reportAccession": "ML26125A118",
+      "reportNumber": "2026001",
+      "reportDate": "2026-05-05",
+      "page": 5,
+      "url": "https://www.nrc.gov/docs/ML2612/ML26125A118.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "ML26072A198:Finding / violation:7b3c8a27b966c067",
+      "title": "One finding of very low security significance (Green) is documented in this report",
+      "kind": "Finding / violation",
+      "rating": "Green",
+      "text": "One finding of very low security significance (Green) is documented in this report. This finding\ninvolved a violation of NRC requirements. We are treating this violation as a non-cited violation\n(NCV) consistent with Section 2.3.2 of the Enforcement Policy.",
+      "reportAccession": "ML26072A198",
+      "reportNumber": "2026401",
+      "reportDate": "2026-03-17",
+      "page": 1,
+      "url": "https://www.nrc.gov/docs/ML2607/ML26072A198.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "ML26055A151:Minor violation:71111.21N.05:4",
+      "title": "Minor Violation · 71111.21N.05",
+      "kind": "Minor violation",
+      "rating": "Minor",
+      "text": "Minor Violation                                                              71111.21N.05\nMinor Violation: During performance of Procedure FPSP-RO-10, “Fire Water Suppression\nSystem Flow Test,” on May 08, 2023, per WO 52965257-01, unexpected results were\nencountered during Section 5.4 and 5.5 for the inside loop path 2 and 3 when compared to\nthe previous 2017 flow performance test. Path 2 was the branch connection to the turbine\nbuilding fire hoses through valve MV-FP283 and MV-FP1162. Path 3 was the branch\nconnection to the transformer deluge through valves MV-FP282 and MV-FP117.\n\nThe flow tests for these two paths have only been performed twice since they were\nadded to the procedure in 2016. In the 2017 tests, the inside loop path 2 flow was\n1099 gallon-per-minute (gpm) and the path 3 flow was 1135 gpm. In the 2023 tests,\nthe inside loop path 2 flow was 832 gpm and the path 3 flow was 774 gpm. CR PAL-01124\n“FPSP-RO-10 Fire Suppression Water System Flow Test Degraded,” was initiated at that\ntime and noted there maybe flow restrictions in the fire system cross tie or associated piping.\n\n\n\n\fThe CR was closed to work request (WR) 01124 to inspect MV-FP283 internals to check\nfor obstruction.\n\nDuring the inspectors’ review of Procedure FPSP-RO-10, the inspectors noticed that the\nprocedure did not include acceptance criteria for testing the fire water suppression flow for\nthese two paths.\n\nThe site noted that WO 00589203 for WR 01124 was required to be completed during the\nfire protection system return-to-service plan or a justification would be needed.\n\nScreening: The inspectors determined that the performance deficiency for failure to include\nacceptance criteria in Procedure FPSP-RO-10 for testing inside loop paths 2 and 3 was minor\nbecause the unacceptable results for paths 2 and 3 were recognized by the licensee and\ndocumented in CR PAL-01124.\n\nEnforcement: License Condition 2.C.(3) stated that Palisades Energy shall implement\nand maintain in effect all previsions of the approved fire protection program. Procedure\nFPSP-RO-10 was the implementing procedure for testing the fire water suppression system\nflow.\n\nContrary to the above, Procedure FPSP-RO-10 failed to include the acceptance criteria\nfor the inside loop paths 2 and 3. The licensee documented this issue in CR 25015259\n“FPSP-RO-10 did not include Acceptance Criteria for Flow Test.”\n\nThis failure to comply with the above requirements constitutes a minor violation that is\nnot subject to enforcement action in accordance with the NRC’s Enforcement Policy.",
+      "reportAccession": "ML26055A151",
+      "reportNumber": "2025008",
+      "reportDate": "2026-02-26",
+      "page": 7,
+      "url": "https://www.nrc.gov/docs/ML2605/ML26055A151.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "ML26055A151:Minor violation:71111.21N.05:3",
+      "title": "Minor Violation · 71111.21N.05",
+      "kind": "Minor violation",
+      "rating": "Minor",
+      "text": "Minor Violation                                                                  71111.21N.05\n\nMinor Violation: The inspectors requested the previous work orders documentation of the\ntwo diesel driven fire water pump (P-9B and P-41,) engine (K-5 and K-10) inspection, and\npreventive maintenance which was completed during the shutdown period. The site failed\nto locate three work orders in records including WO 00584081-01 for Pump P-9B, 2023\nWO 50083624-01 for P-41, and 2025 WO 52990823-01 for P-41. Upon further searching,\ntwo of the three missing WOs were located outside of the document control and records\nmanagement process. The 2023 WO 50083624-01 for P-41/K-10 engine inspection was not\nlocated by the exit for this inspection.\n\nScreening: The inspectors determined that the performance deficiency was minor since the\nmost recent completed work order in 2025 for P-41/K-10 was available and provided\nassurance that the engine was successfully inspected.\n\nEnforcement: License Condition 2.C.(3) stated Palisades Energy shall implement and\nmaintain in effect all provisions of the approved fire protection program. Site Procedure\nFPIP-4, “Fire Protection Systems and Fire Protection Equipment,” Section 20.2 was the\nimplementing procedure of the approved fire protection program and required records to\nbe filed in accordance with the document control and records management process.\n\nProcedure DSP-RM-001, “Document Control and Records Management Process,”\nwhich required official records to be transmitted within 30 days after record completion.\n\nContrary to the above requirements, the licensee failed to maintain the official records for\nWO 50083624-01 for P-41/K-10 fire engine inspection. The licensee entered this issue into\ntheir corrective action program and initiated CR 25015056 “Failure to meet Procedure\nDSP-RM-001 Requirement for Transmitting Official Records.”\n\nThis failure to comply with DSP-RM-001 constitutes a minor violation that is not subject\nto enforcement action in accordance with the NRC’s Enforcement Policy.",
+      "reportAccession": "ML26055A151",
+      "reportNumber": "2025008",
+      "reportDate": "2026-02-26",
+      "page": 7,
+      "url": "https://www.nrc.gov/docs/ML2605/ML26055A151.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "ML26055A151:Minor violation:71111.21N.05:2",
+      "title": "Minor Violation · 71111.21N.05",
+      "kind": "Minor violation",
+      "rating": "Minor",
+      "text": "Minor Violation                                                                 71111.21N.05\nMinor Violation: During a walkdown of the Auxiliary Feedwater Pump P-8D enclosure, the\ninspectors questioned the presence of combustibles in the 5-foot perimeter. Combustibles\nincluded a temporary metal office with windows within 3 feet of the east side of the P-8D\nenclosure/trailer and additional combustibles laying on the ground.\n\nAttachment 1 of Procedure ENG-329, “Control of Combustibles,” identified Fire Area 59,\nthe auxiliary feedwater Pump P-8D enclosure/trailer, as Level 1 combustible area including\na 5-foot perimeter surrounding this fire area. Compensatory measures were required for any\ntransient combustibles in the area.\n\nScreening: The inspectors determined that the failure to maintain Level 1 combustible\ncontrols for P-8D was a minor performance deficiency since pump P-8D was not required to\nbe functional for the current plant shutdown conditions.\n\nEnforcement: License Condition 2.C.(3) stated Palisades Energy shall implement and\nmaintain in effect all provisions of the approved fire protection program. Site Procedure\nENG-329, “Control of Combustibles,” Revision 2 was the implementing procedure of the\napproved fire protection program. Attachment 1 of ENG-329 identified Fire Area 59,\nPump P-8D as a Level 1 combustible area including a 5-foot perimeter surrounding this\nfire area.\n\nContrary to this requirement, as of December 9, 2025, transient combustibles were found\nwithin 3 feet of P-8D trailer, and no compensatory measures were established.\n\nIn response to the inspectors’ concern, the site-initiated CR 25015052 “Combustible Materials\nwere Found Contrary to ENG-329.” The site removed the combustible materials and planned\nto remove the office building prior to declaring the P-8D system functional.\n\n\n\n\n\n\fThis failure to comply with ENG-329 constitutes a minor violation that is not subject to\nenforcement action in accordance with the NRC’s Enforcement Policy.",
+      "reportAccession": "ML26055A151",
+      "reportNumber": "2025008",
+      "reportDate": "2026-02-26",
+      "page": 6,
+      "url": "https://www.nrc.gov/docs/ML2605/ML26055A151.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "ML26055A151:Minor violation:71111.21N.05:1",
+      "title": "Minor Violation · 71111.21N.05",
+      "kind": "Minor violation",
+      "rating": "Minor",
+      "text": "Minor Violation                                                                   71111.21N.05\n Minor Violation: Palisades had the option of hydrostatically pressure testing fire hoses\n every three years or replacing them with new fire hoses every five years. Work Order\n (WO) 53007241-01 was initiated to replace all fire hoses prior to the site entering technical\n specifications on August 26, 2025. Due to site procurement delays, all fire hoses were not\n replaced or hydrostatically pressure tested as required with some fire hoses last replaced\n in 2018.\n\n  Prior to this inspection, condition report (CR) 25014235, “Fire Hose Replacement or\n  Hydrostatic Test not Complete,” was initiated on November 11, 2025. This CR identified\n  scheduling conflicts prevented hydrostatic pressure testing of fire hoses which were not\n  replaced. At this time, the site failed to establish compensatory actions for the affected fire\n  hoses as required per Procedure FPIP-4, “Fire Protection Systems and Fire Protection\n  Equipment,” Revision 45.\n\n  The inspectors questioned the number and installed location of the expired fire hoses.\n  In response to the inspectors’ question, the site identified 30 fire hoses which failed to be\n  tested or replaced at the required frequency including some located inside the power block.\n\n\n\n\n\n\fScreening: The inspectors determined that the performance deficiency for the failure to test or\nreplace fire hoses at the required frequency was a minor since the fire brigade were trained to\nbring a high-rise fire hose when responding to fire events. The installed expired fire hoses\nwould still perform their function at some capacity, and due to the current defueled state of\nthe plant there was no potential release from the core in event of fire.\n\nEnforcement: License Condition 2.C.(3) stated that Palisades Energy shall implement and\nmaintain in effect all provisions of the approved fire protection program. Site Procedure\nFPIP-4, “Fire Protection Systems and Fire Protection Equipment,” Revision 45 was the\nimplementing procedure of the approved fire protection program which required licensee to\nestablish compensatory actions for the affected fire hoses.\n\nAs a result of this inspection, all power block fire hoses were replaced upon discovery and\ncompensatory measure, including fire tours, in accordance with FPIP-4 were established\nfor the remaining fire hose locations. CR 25015303 “Fire Hose to be Hydrostatic Tested\nor Replaced,” was initiated on December 17, 2025, documenting this issue.\n\nThis failure to comply with requirement of FPIP-4 and establish compensatory actions\nconstitutes a minor violation that is not subject to enforcement action in accordance with\nthe NRC’s Enforcement Policy.",
+      "reportAccession": "ML26055A151",
+      "reportNumber": "2025008",
+      "reportDate": "2026-02-26",
+      "page": 5,
+      "url": "https://www.nrc.gov/docs/ML2605/ML26055A151.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "ML25357A093:Licensee-identified violation:71124.08:1",
+      "title": "Licensee-Identified Non-Cited Violation · 71124.08",
+      "kind": "Licensee-identified violation",
+      "rating": "Green",
+      "text": "Licensee-Identified Non-Cited Violation                                           71124.08\nThis violation of very low safety significance was identified by the licensee and has been\nentered into the licensee corrective action program and is being treated as a non-cited\nviolation, consistent with Section 2.3.2 of the Enforcement Policy.\nViolation: Title 10 of the Code of Federal Regulations (10 CFR) Part 71.5 requires, in part,\nthat each licensee who transports licensed material outside the site of usage comply with the\napplicable requirements of the Department of Transportation (DOT) regulations in 49 CFR\nParts 171 through 180. 49 CFR 173.441 requires, in part, that exclusive use shipment\nradiation levels not exceed 10 mrem/h at any point two meters from the outer lateral surfaces\nof the vehicle (excluding the top and underside of the vehicle). Contrary to the above,\non September 23, 2025, the licensee failed to comply with the applicable requirements of the\nDOT regulations in 49 CFR Parts 171 through 180 as required by 10 CFR 71.5. Specifically,\nthe licensee failed to comply with 49 CFR 173.441 when the licensee transported radioactive\nwaste off-site via exclusive use with dose rates of up to 16.2 mrem/hr at two meters from the\nlateral surfaces (sides) of the vehicle.\n\nSignificance/Severity: Green. The performance deficiency was assessed using Inspection\nManual Chapter (IMC) 0609, Appendix D as a finding in transportation or Part 61. An external\nradiation limit was exceeded in a location accessible by the public. However, the IMC allows\nfor other considerations to be taken into account when determining if an issue reaches the\nWhite threshold. In this instance, the shipment was an exclusive use shipment and surveys\nconducted upon return of the transport vehicle that were conducted with a survey instrument\nthat averages dose rates over a larger cross-sectional area indicated maximum dose rates of\n10 mrem/hr at two meters from the lateral surfaces of the vehicle. With these considerations\ntaken into account, this issue was determined to be of very low safety significance (Green).\n\nCorrective Action References: AR 25012715",
+      "reportAccession": "ML25357A093",
+      "reportNumber": "2025005",
+      "reportDate": "2025-12-23",
+      "page": 15,
+      "url": "https://www.nrc.gov/docs/ML2535/ML25357A093.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "05000255/2025005-01",
+      "title": "License Amendment Required for Change of Critical Heat Flux Correlations Used in the Main Steam Line Break Analysis to Predict the Minimum Departure of Nucleate Boiling Ratio",
+      "kind": "Finding / violation",
+      "rating": "Green",
+      "text": "License Amendment Required for Change of Critical Heat Flux Correlations Used in the\n Main Steam Line Break Analysis to Predict the Minimum Departure of Nucleate Boiling Ratio\n Cornerstone         Significance/Severity                     Cross-Cutting Report Section\n                                                               Aspect\n Barrier Integrity Green                                       None (NPP)        71111.21M\n                     Severity Level IV\n                     NCV 05000255/2025005‑01\n                     Open/Closed\n The inspectors identified a very low safety significant (Green) and associated severity level IV\n non-cited violation of Title 10 of the Code of Federal Regulations (10 CFR) 50.59 because\n the licensee failed to obtain NRC approval prior to changing the critical heat flux correlations\n applied in their main steam line break analysis to predict the minimum departure from\n nucleate boiling ratio. Subsequently, the licensee submitted a license amendment request\n which was approved by the NRC as license amendment number 279 (ADAMS Accession\n No. ML25156A045).",
+      "reportAccession": "ML25357A093",
+      "reportNumber": "2025005",
+      "reportDate": "2025-12-23",
+      "page": 5,
+      "url": "https://www.nrc.gov/docs/ML2535/ML25357A093.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "ML25205A049:Finding / violation:60ad8ca1d969cf75",
+      "title": "One Severity Level IV violation without an associated finding is documented in this report",
+      "kind": "Finding / violation",
+      "rating": "Severity Level IV",
+      "text": "One Severity Level IV violation without an associated finding is documented in this report. We are\ntreating this violation as a non-cited violation (NCV) consistent with Section 2.3.2 of the\nEnforcement Policy.",
+      "reportAccession": "ML25205A049",
+      "reportNumber": "2025403",
+      "reportDate": "2025-07-24",
+      "page": 1,
+      "url": "https://www.nrc.gov/docs/ML2520/ML25205A049.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "07200007/2024001-01",
+      "title": "Failure to Correct an Inadequate Surveillance on the Spent Fuel Pool Overhead Crane",
+      "kind": "Finding / violation",
+      "rating": "Severity Level IV",
+      "text": "Failure to Correct an Inadequate Surveillance on the Spent Fuel Pool Overhead Crane\n Cornerstone          Severity                                   Cross-Cutting Report Section\n                                                                 Aspect\n Not Applicable       Severity Level IV                          Not Applicable 60855\n                      NCV 07200007/2024001‑01\n                      Open/Closed\n The inspectors identified a severity level IV non-cited violation of Title 10 of the Code of\n Federal Regulations (10 CFR) Part 50, Appendix B, Criterion XVI, “Corrective Action,” for the\n licensee’s failure to establish measures to assure a condition adverse to quality was\n corrected. Specifically, the licensee did not take corrective action when they identified that\n the spent fuel pool overhead crane annual surveillance was performed without calibrated\n measuring and test equipment (M&TE). As a result, the safety-related work could not be\n validated, and the site could not maintain traceability of equipment used to perform\n measurements in the surveillance.",
+      "reportAccession": "ML25083A268",
+      "reportNumber": "2025001",
+      "reportDate": "2025-03-26",
+      "page": 5,
+      "url": "https://www.nrc.gov/docs/ML2508/ML25083A268.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "05000255/2024004-02",
+      "title": "One Severity Level IV NCV of 10 CFR 50.82(a)(8)(i) was identified because Holtec Decommissioning International (HDI) used the Decommissioning Trust Fund (DTF) for expenses that were not legitimate decommissioning activities",
+      "kind": "Finding / violation",
+      "rating": "Severity Level IV",
+      "text": "One Severity Level IV NCV of 10 CFR 50.82(a)(8)(i) was identified because Holtec\n     Decommissioning International (HDI) used the Decommissioning Trust Fund (DTF) for\n     expenses that were not legitimate decommissioning activities. One Unresolved Item (URI)\n     was opened to address questions related to use of the DTF during a restart initiative.",
+      "reportAccession": "ML25041A225",
+      "reportNumber": "2024004",
+      "reportDate": "2025-02-14",
+      "page": 5,
+      "url": "https://www.nrc.gov/docs/ML2504/ML25041A225.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "05000255/2024012-01",
+      "title": "Locked High Radiation Area Identified During Chemical Decontamination",
+      "kind": "Finding / violation",
+      "rating": "Severity Level IV",
+      "text": "Locked High Radiation Area Identified During Chemical Decontamination\n Cornerstone          Severity                                   Cross-Cutting     Report\n                                                                 Aspect            Section\n Not Applicable       Severity Level IV                          Not Applicable    71124.01\n                      NCV 05000255/2024012-01\n                      Open/Closed\n A self-revealed Severity Level IV Non-Cited Violation (NCV) of Technical Specification\n (TS) 5.7.2 was identified when the licensee failed to post and control an area meeting Locked\n High Radiation Area (LHRA) conditions.",
+      "reportAccession": "ML24317A041",
+      "reportNumber": "2024012",
+      "reportDate": "2024-11-12",
+      "page": 5,
+      "url": "https://www.nrc.gov/docs/ML2431/ML24317A041.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    },
+    {
+      "id": "05000255/2023004-01",
+      "title": "The NRC identified one SL IV NCV of 10 CFR 50.82(a)(8)(i) for using the Palisades Decommissioning Trust Fund (DTF) for expenses that were not legitimate decommissioning activities.",
+      "kind": "Finding / violation",
+      "rating": "Severity Level IV",
+      "text": "The NRC identified one SL IV NCV of 10 CFR 50.82(a)(8)(i) for using the Palisades\n    Decommissioning Trust Fund (DTF) for expenses that were not legitimate decommissioning\n    activities.",
+      "reportAccession": "ML24045A147",
+      "reportNumber": "2023004",
+      "reportDate": "2024-02-20",
+      "page": 5,
+      "url": "https://www.nrc.gov/docs/ML2404/ML24045A147.pdf",
+      "source": "NRC report text",
+      "firstSeenAt": "2026-09-08T22:12:23.417707Z"
+    }
+  ]
+}

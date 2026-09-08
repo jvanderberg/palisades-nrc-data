@@ -1,0 +1,487 @@
+                                          February 20, 2024
+Mike Mlynarek
+Site Vice President
+Holtec Decommissioning
+International, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Highway
+Covert, MI 49043-9530
+
+SUBJECT:       NRC INSPECTION REPORT NO. 05000255/2023004(DRSS) – HOLTEC
+               DECOMMISSIONING INTERNATIONAL, LLC, PALISADES NUCLEAR PLANT
+
+Dear Mike Mlynarek:
+
+On November 30, 2023, the U.S. Nuclear Regulatory Commission (NRC) completed onsite
+inspection activities for October 10, 2023, through November 30, 2023, at the permanently
+shut-down Palisades Nuclear Plant in Covert, Michigan. The purpose of the inspection was to
+determine whether decommissioning activities were conducted safely and in accordance with
+NRC requirements. The enclosed report presents the results of this inspection, which were
+discussed with you and other members of your staff on January 23, 2024.
+
+During the inspection period, the NRC inspectors reviewed the following aspects of onsite
+activities: problem identification and resolution; fire protection; and decommissioning
+performance. The inspection consisted of an examination of activities at the site as they relate
+to safety and compliance with the Commission’s rules and regulations. Areas examined during
+the inspection are identified in the enclosed report. Within these areas, the inspection consisted
+of a selective examination of procedures and representative records, reviewing work activities,
+and interviews with personnel.
+
+Based on the results of this inspection, the NRC identified one Severity Level (SL) IV violation of
+NRC requirements. However, because of the very low safety significance and because the
+issue was entered into your corrective action program (CAP), the NRC is treating the issue as a
+Non-Cited Violation (NCV), in accordance with Section 2.3.2 of the NRC's Enforcement Policy.
+
+No response is required for the NCV. However, if you contest the violation or significance of the
+NCV, you should provide a response within 30 days of the date of this inspection report, with the
+basis for your denial, to the U.S. Nuclear Regulatory Commission, ATTN: Document Control
+Desk, Washington, DC 20555–0001, with copies to the Regional Administrator, Region III; and
+the Director, Office of Enforcement.
+M. Mlynarek                                  2
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations (CFR) 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Hills, David
+                                                                      on 02/20/24
+
+
+
+                                              David E. Hills, Chief
+                                              Decommissioning, Reactor, and ISFSI HP Branch
+                                              Division of Radiological Safety and Security
+
+Docket No: 50-255
+License No: DPR-20
+
+Enclosure:
+IR Nos. 05000255/2023004 (DRSS)
+
+cc w/encl: Distribution via LISTSERV®
+M. Mlynarek                                3
+
+Letter to Mike Mlynarek from David Hill dated February 20, 2024.
+
+SUBJECT:      NRC INSPECTION REPORT NO. 05000255/2023004(DRSS) – HOLTEC
+              DECOMMISSIONING INTERNATIONAL, LLC, PALISADES NUCLEAR PLANT
+
+DISTRIBUTION w/encl:
+Shaun Anderson
+Marlayna Doell
+April Nguyen
+Tanya Hood
+Richard Turtil
+Dori Willis
+David Curtis
+Jared Heck
+Prema Chandrathil
+Viktoria Mitlyng
+Allan Barker
+Harral Logaras
+Doris Chyu
+Jennifer Dalzell
+
+
+
+
+ADAMS Accession Number: ML24045A147
+OFFICE      RIII DRSS        C RIII DRSS         C   RIII          RIII
+NAME        VMyers:gmp           DHills
+DATE       2/15/2024             2/20/2024
+                                 OFFICIAL RECORD COPY
+            U.S. NUCLEAR REGULATORY COMMISSION
+                          REGION III
+
+
+Docket No:           50-255
+
+
+License No:          DPR-20
+
+
+Report No:           05000255/2023004(DRSS);
+
+
+Enterprise Identifier: I-2023-004-0068
+
+
+Licensee:            Holtec Decommissioning International, LLC
+
+
+Facility:            Palisades Nuclear Plant
+
+
+Location:            Covert, Michigan
+
+
+Dates:               October 10, 2023, to November 30, 2024
+
+
+Inspectors:          Gehan Flanders, Health Physicist
+                     Valerie Myers, Senior Health Physicist
+
+
+Approved by:         David E. Hills, Chief
+                     Decommissioning, Reactor, and ISFSI HP Branch
+                     Division of Radiological Safety and Security
+
+
+
+
+                                                                 Enclosure
+                                     EXECUTIVE SUMMARY
+
+                                     Palisades Nuclear Plant
+
+                    NRC Inspection Report Nos. 05000255/2023004(DRSS)
+
+The Palisades Nuclear Plant is permanently shut-down and defueled power reactor. This
+periodic safety inspection reviewed licensed activities associated with decommissioning
+performance; occupational radiation exposure; radiological surveys; and radioactive waste
+treatment, effluent, and environmental monitoring.
+
+Problem Identification and Resolution
+
+•   Issues were identified by the licensee at appropriate thresholds and entered into the
+    corrective action program (CAP). Issues were screened and prioritized commensurate with
+    safety significance. Licensee evaluations determined the significance of issues and included
+    appropriate remedial corrective actions.
+
+Fire Protection Program
+
+•   An effective decommissioning Fire Protection Program was maintained and implemented
+    that reasonably prevented fires; provided the capability to rapidly detect, control, and
+    extinguish fires that could result in radiological hazards; and ensured the risk of fire-induced
+    hazards to the public, environment, and plant personnel were minimized.
+
+Decommissioning Performance and Status Review
+
+•   The NRC identified one SL IV NCV of 10 CFR 50.82(a)(8)(i) for using the Palisades
+    Decommissioning Trust Fund (DTF) for expenses that were not legitimate decommissioning
+    activities.
+
+
+
+
+                                                 2
+                                         Report Details
+
+Summary of Plant Activities
+
+During this inspection period, the licensee continued activities associated with Period 2 of the
+Post Shutdown Decommissioning Activities Report (PSDAR). No major decommissioning
+activities occurred during the inspection period.
+
+1.0    Problem Identification and Resolution at Permanently Shutdown Reactors
+       (IP 40801)
+
+1.1    Inspection Scope
+
+       The inspectors performed walkdowns, reviewed documents, and interviewed plant
+       personnel to assess the licensee’s performance in the following areas:
+
+       •   Effectiveness at preventing, detecting, and correcting issues;
+       •   Identifying and evaluating potential 10 CFR Part 21, “Reporting of Defects and
+           Non-Compliance Issues;”
+       •   Audits and assessments evaluating the Corrective Action Program and Quality
+           Assurance Program; and
+       •   The licensee’s safety culture
+
+
+1.2    Observations and Findings
+
+       The inspectors observed several corrective action program (CAP) management review
+       meetings to assess the manner in which management is performing oversight of the
+       CAP. The inspectors reviewed various issues entered into the CAP to assess whether
+       issues were being assigned the appropriate significance level, investigation level, and
+       corrective actions. There were no root cause evaluations or apparent cause evaluations
+       conducted during the inspection period; however, the inspectors reviewed various work
+       group evaluations. Corrective actions were also reviewed to verify that the assigned
+       corrective actions were completed as described in the CAP documents. Through
+       document review and discussions with staff, the inspectors evaluated the licensee’s
+       process for reviewing 10 CFR Part 21 issues as well as completing audits in accordance
+       with the quality assurance program manual. The inspectors reviewed the most recent
+       audits of the CAP and Quality Assurance Program. The inspectors also evaluated the
+       licensee’s safety culture through review of programs such as the employee concerns
+       program, safety culture surveys conducted by the licensee, and discussions with site
+       staff.
+
+       No findings were identified.
+
+1.3    Conclusions
+
+       Issues were identified by the licensee at appropriate thresholds and entered into the
+       CAP. Issues were screened and prioritized commensurate with safety significance.
+       Licensee evaluations determined the significance of issues and included appropriate
+       remedial corrective actions.
+
+                                                3
+2.0   Fire Protection Program at Permanently Shutdown Reactors (IP 64704)
+
+2.1   Inspection Scope
+
+      The inspectors performed walkdowns, reviewed documents, and interviewed plant
+      personnel to assess the licensee’s performance in the following areas:
+
+      •   Fire protection program met Technical Specifications, PSDAR, and fire hazard
+          analyses requirements;
+      •   Changes to the Fire Protection Program did not reduce the effectiveness of the
+          program;
+      •   Assessments were being performed in accordance with 10 CFR 50.48(f)(2);
+      •   Fire protection detection and suppression systems were effectively maintained,
+          surveillances were performed, and systems were capable of performing their
+          intended function;
+      •   Fire barriers were effectively maintained;
+      •   Firefighting equipment was properly inventoried, inspected, tested, and maintained;
+      •   Administrative controls were in place to minimize the occurrence of a fire; and
+      •   Staffing and training requirements were consistent with the Fire Protection Program
+          and Emergency Plan.
+
+      The inspectors verified that when issues were identified, licensee personnel
+      appropriately documented the issue in the CAP.
+
+2.2   Observations and Findings
+
+      The inspectors walked down the fuel handling building and east radwaste building to
+      verify that fire protection equipment aligned with programmatic requirements and
+      reviewed surveillance records for fire detection and suppression equipment in these
+      areas. The inspectors reviewed current fire brigade training and drill participation records
+      for each crew. Evaluations for modifications to the fire protection program for the
+      feedwater purity building and cooling towers were reviewed to verify that the changes did
+      not reduce the effectiveness of the fire protection program. The most recent internal
+      audits of the fire protection program were reviewed to assess the licensee’s ability to
+      self-identify issues.
+
+      No findings were identified.
+
+2.3   Conclusions
+
+      An effective decommissioning Fire Protection Program was maintained and
+      implemented that reasonably prevented fires; provided the capability to rapidly detect,
+      control, and extinguish fires that could result in radiological hazards; and ensured the
+      risk of fire-induced hazards to the public, environment, and plant personnel were
+      minimized.
+
+
+
+
+                                               4
+3.0   Decommissioning Performance and Status Review (IP 71801)
+
+3.1   Inspection Scope
+
+      The inspectors reviewed documents and interviewed plant personnel to assess the
+      licensee’s performance in the following areas:
+
+      •   Withdrawals from the Decommissioning Trust Fund (DTF) were consistent with the
+          requirements established in 10 CFR 50.82(a)(8).
+
+      The inspectors verified that when issues were identified, licensee personnel
+      appropriately documented the issue in the CAP.
+
+3.2   Observations and Findings
+
+      In inspection report 05000255/2023003 (ML23276B452), an unresolved item was
+      identified involving withdrawals from the DTF in the amount of approximately $53,500 for
+      seven items identified as restart projects. This item was being tracked by NRC to
+      determine if those withdrawals were used for legitimate decommissioning activities and
+      allowable under NRC regulations (URI 05000255/2023003-01, Review of
+      Decommissioning Trust Fund Withdrawals). As the NRC continued its review of
+      withdrawals from the DTF, the inspectors identified two instances in which the DTF was
+      used for voluntary contributions to community events/support activities, totaling
+      approximately $3,500.
+
+      With respect to the above restart expenditures, the licensee had a system in place to
+      control the source of payments but had inadvertently used the DTF due to mis-coding
+      errors. The licensee promptly arranged for replacement of those funds in the DTF and
+      performed additional training of staff. The improper use of the DTF for voluntary
+      contributions to community events/support activities reflected non-conservative decision
+      making with respect to the DTF. Once brought to its attention during the NRC inspection,
+      the licensee re-evaluated and arranged for replacement of those funds in the DTF.
+
+      Violation
+
+      The NRC identified one Severity Level IV non-cited violation (NCV) of 10 CFR
+      50.82(a)(8)(i) because HDI used DTF for expenses that were not legitimate
+      decommissioning activities. Specifically, HDI used funds for restart activities and
+      voluntary contributions to community events/support activities that were not related to
+      removing the facility or site safely from service and reducing residual activity to a level
+      that permits release of the property for either unrestricted or restricted conditions and
+      termination of the license. This violation closes out URI 05000255/2023003-01, Review
+      of Decommissioning Trust Fund Withdrawals.
+
+      10 CFR 50.82(a)(8)(i) states, in part, that decommissioning trust funds may be used by
+      licensees if the withdrawals are for expenses for legitimate decommissioning activities
+      consistent with the definition of decommissioning in 10 CFR 50.2.
+
+
+
+
+                                               5
+      10 CFR 50.2 defines decommissioning as removing a facility or site safely from service
+      and reducing residual radioactivity to a level that permits—
+             (1) Release of the property for unrestricted use and termination of the license; or
+             (2) Release of the property under restricted conditions and termination of the
+                 license.
+
+      Contrary to the above, between January 2023 and March 2023, HDI used the Palisades
+      DTF for expenses that were not legitimate decommissioning activities. Specifically, HDI
+      used decommissioning funds for some activities identified as being restart activities; as
+      well as voluntary contributions to community events/support activities. These
+      expenditures were not related to removing the facility or site safely from service, and
+      reducing residual activity to a level that permits release of the property for either
+      unrestricted or restricted conditions and termination of the license.
+
+      This violation was determined to be a Severity Level IV violation. The NRC considered
+      NRC Enforcement Policy example 6.3.c.1, dated January 14, 2022, regarding a
+      significant failure to meet decommissioning as required by regulation or license condition
+      for materials sites. Additionally, the NRC considered the legitimacy of use, the dollar
+      amount involved compared to the total DTF amount, and programmatic aspects in
+      making this determination. The NRC determined that the DTF was illegitimately used,
+      $57,000 is a small fraction of the Palisades DTF and did not represent a significant
+      failure to meet decommissioning, and that this was not a single failure event, there were
+      numerous occurrences. HDI entered this issue into the CAP as PAL-10248 and
+      PAL-01605 and initiated corrective actions to restore the funds back into the DTF.
+
+      Since the licensee placed the deficiency into its CAP, the violation was of very low safety
+      significance, and because the violation was not willful or repetitive, this violation is being
+      treated as an NCV, consistent with Section 2.3.2.a of the NRC Enforcement Policy.
+      (NCV 05000255/2023004-01, Improper Use of Decommissioning Trust Fund).
+
+3.3   Conclusions
+
+      One Severity Level IV NCV of 10 CFR 50.82(a)(8)(i) was identified because HDI used
+      the DTF for expenses that were not legitimate decommissioning activities.
+
+4.0   Exit Meeting
+
+      The inspectors presented the results of the inspection to Mike Mlynarek and other
+      members of the Palisades Nuclear Plant staff at an exit meeting on January 23, 2024.
+      The licensee acknowledged the results presented and did not identify any of the
+      information discussed as proprietary.
+
+ATTACHMENT: SUPPLEMENTAL INFORMATION
+
+
+
+
+                                                6
+                                 SUPPLEMENTAL INFORMATION
+
+                          PARTIAL LIST OF PERSONS CONTACTED
+
+M. Mlynarek, Site Vice President
+M. Schultheis, Regulatory Assurance Manager
+G. Wright, Radiation Protection Manager
+J. Miksa, Regulatory Assurance Engineer
+B. Noval, Fleet Licensing Director
+S. Summers, Security Manager
+J. Borah, Maintenance Manager
+D. DeBusscher, Operations Shift Manager
+K. Block, Nuclear Oversight Manager
+
+                           INSPECTION PROCEDURES (IPs) USED
+
+IP 40801       Problem Identification and Resolution at Permanently Shutdown Reactors
+IP 64704       Fire Protection Program at Permanently Shutdown Reactors
+IP 71801       Decommissioning Performance and Status Reviews at Permanently
+               Shutdown Plants
+
+
+ITEMS OPENED, CLOSED, AND DISCUSSED
+
+ Opened                    Type       Summary
+
+ 05000255/2023004-01       NCV        Improper Use of Decommissioning Trust Fund
+
+ Closed                    Type       Summary
+
+ 05000255/2023004-01       NCV        Improper Use of Decommissioning Trust Fund
+
+ 05000255/2023003-01       URI        Review of Decommissioning Trust Fund
+                                      Withdrawals
+
+                         PARTIAL LIST OF DOCUMENTS REVIEWED
+
+The following is a partial list of documents reviewed during the inspection. Inclusion on this list
+does not imply that the NRC inspectors reviewed the documents in their entirety, but rather that
+selected sections of portions of the documents were evaluated as part of the overall inspection
+effort. Inclusion of a document on this list does not imply NRC acceptance of the document or
+any part of it, unless this is stated in the body of the inspection report.
+
+- PAL-01007, Observation during QA fire protection audit, 2/27/2023
+- PAL-01009, South Yard Fencing, 02/28/2023
+- Fire Brigade Qualification Matrix, 10/10/2023
+- Fire Brigade Training Tracker, 10/10/2023
+- Audit 2023-I-01, Fire Protection, 03/15/2023
+- TE-PAL-FPP-001, Permanently abandon and remove feedwater purity building fire protection
+  headers, fire extinguishers and fire detectors, 02/07/2023
+
+
+
+                                                                                    Attachment
+- TE-PAL-FPP-003, Drain and Permanently Isolate the Cooling Tower Fire Loop, 04/06/2023
+- East Radwaste Pre-Fire Plan
+- Refueling and Spent Fuel Pool Area Pre-Fire Plan
+- Transformer Area Pre-Fire Plan
+- Fire Drill Reports for 09/21/2023, 09/27/2023 and 09/28/2023
+- FP-PE-12, Dry Chemical Fire Extinguishers, Revision 14
+- FP-PE-14, Carbon Dioxide Fire Extinguishers, Revision 13
+- FPIP-4, Fire Protection Systems and Fire Protection Equipment, Revision 43
+- WO 52940605, Fire Hose Reel/Rack and Hose Inspection, 03/11/2022
+- WO 52979186, Functional Test of Fire Detection Systems Outside Containment, 12/20/2022
+- DSP-RA-001, Corrective Action Program, Revision 0 and 1
+- DSP-RA-002, Employee Concerns Procedure, Revision 0
+- EN-LI-108-01, 10 CFR 21 Evaluations and Reporting
+- HSP-101802, Audits, Revision 7
+- Master Work Order Database
+- MRC Reports for 11/15/2023, 11/27/2023, and 11/29/2023
+- Palisades 2022-I-17 QA Program Internal Audit Checklist
+- Quality Assurance Program Audit 2022-I-17 Report, 01/26/2023
+- PI&R Self-Assessment, 12/05/2022
+- PAL-00837, QA Program Audit, 10/25/2022
+- PAL-01007, QA Fire Protection Audit, 02/27/2023
+- PAL-01018, Part 37 Self-Assessment, 03/07/2023
+- PAL-01111, 8 hour Non-Emergency Report to NRC, 05/03/2023
+- PAL-01112, Power Failure Phones, 05/03/2023
+- PAL-01113, Work Crew Inadvertently Crossed HRA Posting, 05/03/2023
+- PAL-01142, EOF to Control Room Radio, 05/17/2023
+- PAL-01258, FT-1818 Out of Tolerance, 07/18/2023
+- PAL-01422, Operating Experience Reviews, 10/09/2023
+- PAL-01538, Self-Assessment on Source Inventory and Control, 11/06/2023
+- Post Shutdown Decommissioning Activities Report (PSDAR) including Site-Specific
+  Decommissioning Cost Estimate for Palisades Nuclear Plant, 12/23/2020
+- Status of Decommissioning Funding for Reactors and Independent Spent Fuel Storage
+  Installations Report, 03/31/2023
+- PAL-01248, Decommissioning Trust Fund Usage, 07/13/2023
+- Master Decommissioning Trust Agreement changes for Indian Point Nuclear Generating Units
+  1, 2 and 3, Pilgrim Nuclear Power Station, Palisades Nuclear Plant, and the Non-Qualified
+  Trust for Big Rock Point, 11/13/2023
+- PAL-01605, NRC Request Charitable Donations Paid out of DTF, 11/30/2023
+
+
+
+
+                                             2
+                       LIST OF ACRONYMS USED
+
+ADAMS   Agencywide Document Access and Management System
+CAP     Corrective Action Program
+CFR     Code of Federal Regulations
+DRSS    Division of Radiological Safety and Security
+IP      Inspection Procedure
+IR      Issue Report
+ISFSI   Independent Spent Fuel Storage Installation
+NRC     U.S. Nuclear Regulatory Commission
+PSDAR   Post Shutdown Activities Report
+RP      Radiation Protection
+DTF     Decommissioning Trust Funds
+
+
+
+
+                                   3
+

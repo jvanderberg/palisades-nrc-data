@@ -1,0 +1,67 @@
+{
+  "inspectionreport": {
+    "Year": 2026,
+    "StartDate": "2026-04-01T00:00:00",
+    "EndDate": "2026-06-30T23:59:59",
+    "Id": 2,
+    "Description": "Quarter 2",
+    "Abbreviation": "Q2"
+  },
+  "pimreport": {
+    "Year": 2026,
+    "StartDate": "2026-04-01T00:00:00",
+    "EndDate": "2026-06-30T23:59:59",
+    "Id": 2,
+    "Description": "Quarter 2",
+    "Abbreviation": "Q2"
+  },
+  "pisummary": {
+    "Year": 2026,
+    "StartDate": "2026-04-01T00:00:00",
+    "EndDate": "2026-06-30T23:59:59",
+    "Id": 2,
+    "Description": "Quarter 2",
+    "Abbreviation": "Q2"
+  },
+  "actionmatrix": {
+    "Year": 2026,
+    "StartDate": "2026-04-01T00:00:00",
+    "EndDate": "2026-06-30T23:59:59",
+    "Id": 2,
+    "Description": "Quarter 2",
+    "Abbreviation": "Q2"
+  },
+  "assessmentletter": {
+    "Year": 2026,
+    "StartDate": "2026-04-01T00:00:00",
+    "EndDate": "2026-06-30T23:59:59",
+    "Id": 2,
+    "Description": "Quarter 2",
+    "Abbreviation": "Q2"
+  },
+  "prevqtr": {
+    "Year": 2026,
+    "StartDate": "2026-04-01T00:00:00",
+    "EndDate": "2026-06-30T23:59:59",
+    "Id": 2,
+    "Description": "Quarter 2",
+    "Abbreviation": "Q2"
+  },
+  "crosscuttingissues": "end_of_cycle_2025q4",
+  "rtrinspectionreports": {
+    "Year": 2026,
+    "StartDate": "2026-04-01T00:00:00",
+    "EndDate": "2026-06-30T23:59:59",
+    "Id": 2,
+    "Description": "Quarter 2",
+    "Abbreviation": "Q2"
+  },
+  "inspectionreports": {
+    "Year": 2024,
+    "StartDate": "2024-04-01T00:00:00",
+    "EndDate": "2024-06-30T23:59:59",
+    "Id": 2,
+    "Description": "Quarter 2",
+    "Abbreviation": "Q2"
+  }
+}

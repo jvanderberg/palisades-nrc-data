@@ -1,0 +1,1111 @@
+                                        August 12, 2026
+
+Michael Schultheis
+Site Vice President,
+Palisades Energy, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Hwy
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – INTEGRATED INSPECTION REPORT
+               05000255/2026002
+
+Dear Michael Schultheis:
+
+On June 30, 2026, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection at
+Palisades Nuclear Plant. On July 7, 2026, the NRC inspectors discussed the results of this
+inspection with A. Eastridge, Interim General Manager, Plant Operations, and other members of
+your staff. The results of this inspection are documented in the enclosed report.
+
+One finding of very low safety significance (Green) is documented in this report. This finding
+involved a violation of NRC requirements. One Severity Level IV violation without an associated
+finding is documented in this report. We are treating these violations as non-cited violations
+(NCVs) consistent with Section 2.3.2 of the Enforcement Policy.
+
+Licensee-identified violations which were determined to be of very low safety significance and
+Severity Level IV are documented in this report. We are treating these violations as NCVs
+consistent with Section 2.3.2 of the Enforcement Policy.
+
+If you contest the violations or the significance or severity of the violations documented in this
+inspection report, you should provide a response within 30 days of the date of this inspection
+report, with the basis for your denial, to the U.S. Nuclear Regulatory Commission, ATTN:
+Document Control Desk, Washington, DC 20555‑0001; with copies to the Regional
+Administrator, Region III, 2056 Westings Avenue, Suite 400, Naperville, IL 60563; the Director,
+Division of Reactor Projects; and the NRC Resident Inspector at Palisades Nuclear Plant.
+M. Schultheis                                   2
+
+
+If you disagree with a cross-cutting area assignment in this report, you should provide a
+response within 30 days of the date of this inspection report, with the basis for your
+disagreement, to the U.S. Nuclear Regulatory Commission, ATTN: Document Control Desk,
+Washington, DC 20555-0001; with copies to the Director, Division of Reactor Projects, CNRI,
+Region III; and the Regional Administrator, Region III; and the NRC Resident Inspector at
+Palisades Nuclear Plant.
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+
+
+                                                              Signed by April Nguyen on 08/12/26
+
+
+
+                                              April M. Nguyen, Chief
+                                              Reactor Projects Branch D
+                                              Division of Reactor Projects
+
+Docket No. 05000255
+License No. DPR-20
+
+Enclosure:
+As stated
+
+cc w/ encl: distribution via digital
+ communications platform
+M. Schultheis                                3
+
+
+Letter to Michael Schultheis from April M. Nguyen dated August 12, 2026.
+
+SUBJECT:        PALISADES NUCLEAR PLANT – INTEGRATED INSPECTION REPORT
+                05000255/2026002
+
+DISTRIBUTION:
+Eric Stamm
+RidsNrrPMPalisades Resource
+RidsNrrDlp1Orlb3
+RidsNrrDroIrib Resource
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+Deborah Piskura
+All-CNRI-R3DRS-Staff
+All-CNRI-R3DRP-Staff
+
+
+
+
+ADAMS Accession No.: ML26225A336
+PKG: ML26225A334
+e-Concurrence Case: 20260811-01819
+                        U.S. NUCLEAR REGULATORY COMMISSION
+                                   Inspection Report
+
+
+Docket Number:       05000255
+
+
+License Number:      DPR-20
+
+
+Report Number:       05000255/2026002
+
+
+Enterprise Identifier: I-2026-002-0065
+
+
+Licensee:            Palisades Energy, LLC
+
+
+Facility:            Palisades Nuclear Plant
+
+
+Location:            Covert, MI
+
+
+Inspection Dates:    April 01, 2026, to June 30, 2026
+
+
+Inspectors:          J. Davis, Project Engineer
+                     P. Gresh, Operations Engineer
+                     A. Guieb, Resident Inspector
+                     J. Mancuso, Senior Resident Inspector
+                     V. Myers, Senior Health Physicist
+                     J. Nance, Senior Operations Engineer
+                     T. Okamoto, Resident Inspector
+                     J. Winslow, Senior Project Engineer
+
+
+Approved By:         April M. Nguyen, Chief
+                     Reactor Projects Branch D
+                     Division of Reactor Projects
+
+
+
+
+                                                             Enclosure
+                                           SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) continued monitoring the licensee’s
+performance by conducting an integrated inspection at Palisades Nuclear Plant, in accordance
+with the Reactor Oversight Process. The Reactor Oversight Process is the NRC’s program for
+overseeing the safe operation of commercial nuclear power reactors. Refer to
+https://www.nrc.gov/reactors/operating/oversight.html for more information. Licensee-identified
+non-cited violations are documented in report sections: 71111.20 and 71152A.
+
+                                 List of Findings and Violations
+
+ Failure to Provide Work Instructions Appropriate for Work Activities
+ Cornerstone          Significance                                 Cross-Cutting      Report
+                                                                   Area               Section
+ Mitigating Systems Green                                          Human              71152A
+                    NCV 05000255/2026002-01                        Performance
+                    Open/Closed
+ The inspectors identified a Green finding and associated non-cited violation (NCV) of Technical
+ Specification Section 5.4.1.a when the licensee failed to provide work instructions appropriate
+ for the work activities. Specifically, in the first example, Work Order (WO) 588976-09 lacked
+ sufficient detail for work near buried utilities. Second, troubleshooting activities were performed
+ on the failed cables without written work instructions.
+
+ Failure to Submit a Licensee Event Report for a Condition that Resulted in an Emergency
+ Diesel Generator Actuation
+ Cornerstone          Severity                                     Cross-Cutting      Report
+                                                                   Area               Section
+ Not Applicable       Severity Level IV                            Not Applicable     71153
+                      NCV 05000255/2026002-02
+                      Open/Closed
+ An NRC-identified Severity Level IV non-cited violation (NCV) of 10CFR 50.73 (a)(2)(iv)(A) was
+ identified when the licensee failed to submit a licensee event report (LER) within 60 days from
+ the automatic actuation of emergency diesel generator (EDG) 1-2. Specifically, the licensee
+ failed to recognize that the automatic actuation of EDG 1-2 on February 5, 2026, met
+ reportability criteria based on plant conditions. The LER was submitted on May 4, 2026.
+
+                                   Additional Tracking Items
+
+ Type       Issue Number               Title                            Report Section    Status
+ LER        05000255/2026-001-00       LER 2026-001-00 for          71153                 Closed
+                                       Palisades Nuclear Plant,
+                                       Human Performance Error
+                                       resulted in Emergency Diesel
+                                       Generator (EDG) 1-2
+                                       Actuation
+
+
+
+                                                2
+PLANT STATUS
+
+On August 25, 2025, Palisades notified the NRC that they rescinded their Title 10 of the
+Code of Federal Regulations (10 CFR) 50.82(a)(1) certification, which removed the prohibition
+on operation and emplacement of fuel in the reactor. Palisades also implemented the set of
+licensing actions to support reimplementation of their operational licensing basis. On
+August 25, 2025, the NRC transitioned oversight of Palisades to the Reactor Oversight Process
+(ROP).
+
+The NRC is conducting inspections to evaluate and assess the licensee’s activities for
+restoration to an operating status. The resident inspectors, as well as supplemental inspectors,
+continue to provide daily oversight of the restart activities occurring at the site.
+The unit ended the inspection period in a defueled status.
+
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the inspection procedures (IPs) in
+effect at the beginning of the inspection unless otherwise noted. Currently approved IPs with
+their attached revision histories are located on the public website at http://www.nrc.gov/reading-
+rm/doc-collections/insp-manual/inspection-procedure/index.html. Samples were declared
+complete when the IP requirements most appropriate to the inspection activity were met
+consistent with Inspection Manual Chapter (IMC) 2515, “Light-Water Reactor Inspection
+Program - Operations Phase.” The inspectors performed activities described in IMC 2515,
+Appendix D, “Plant Status,” observed risk-significant activities, and completed on-site portions of
+IPs. The inspectors reviewed selected procedures and records, observed activities, and
+interviewed personnel to assess licensee performance and compliance with Commission rules
+and regulations, license conditions, site procedures, and standards.
+
+REACTOR SAFETY
+
+71111.04 - Equipment Alignment
+
+Partial Walkdown (IP Section 03.01) (2 Samples)
+
+   The inspectors evaluated system configurations during partial walkdowns of the following
+   systems/trains:
+
+   (1)    alternative spent fuel pool cooling system on April 7, 2026
+   (2)    component cooling water system following maintenance work window on May 5, 2026
+
+Complete Walkdown (IP Section 03.02) (1 Sample)
+
+   The inspectors evaluated system configurations during a complete walkdown of the
+   following systems:
+
+   (1)    critical service water system on April 30, 2026
+
+
+
+
+                                                3
+71111.05 - Fire Protection
+
+Fire Area Walkdown and Inspection (IP Section 03.01) (4 Samples)
+
+   The inspectors evaluated the implementation of the fire protection program by conducting a
+   walkdown and performing a review to verify program compliance, equipment functionality,
+   material condition, and operational readiness of the following fire areas:
+
+   (1)    pre fire plan 28: west engineered safeguards room, elevation 570', on April 1, 2026
+   (2)    pre fire plan 9: screenhouse/intake structure, elevation 590', on April 28, 2026
+   (3)    pre fire plan 59: P-8D auxiliary feedwater pump enclosure on May 8, 2026
+   (4)    pre fire plan 2: cable spreading room on June 11, 2026
+
+71111.06 - Flood Protection Measures
+
+Flooding Sample (IP Section 03.01) (1 Partial)
+
+   (1)    (Partial)
+          The inspectors evaluated flooding mitigation protections in the manhole 4 cabling to
+          the 1C switchgear room sumps on May 6, 2026.
+
+71111.07A - Heat Exchanger/Sink Performance
+
+Annual Review (IP Section 03.01) (1 Sample)
+
+   The inspectors evaluated readiness and performance of:
+
+   (1)    VHX-1 and VHX-3 containment air coolers on April 21, 2026
+
+71111.11A - Licensed Operator Requalification Program and Licensed Operator Performance
+
+Requalification Examination Results (IP Section 03.03) (1 Sample)
+
+   (1)    The inspectors reviewed and evaluated the licensed operator examination failure
+          rates for the requalification annual operating exam and the biennial written
+          examinations completed on May 1, 2026.
+
+71111.11B - Licensed Operator Requalification Program and Licensed Operator Performance
+
+Licensed Operator Requalification Program (IP Section 03.04) (1 Sample)
+
+   (1)    Biennial Requalification Written Examinations
+
+          The inspectors evaluated the quality of the licensed operator biennial requalification
+          written examination administered on April 17, 2026.
+
+          Annual Requalification Operating Tests
+
+          The inspectors evaluated the adequacy of the facility licensee’s annual requalification
+          operating test.
+
+
+
+                                                 4
+         Administration of an Annual Requalification Operating Test
+
+         The inspectors evaluated the effectiveness of the facility licensee in administering
+         requalification operating tests required by 10 CFR 55.59(a)(2) and that the facility
+         licensee is effectively evaluating their licensed operators for mastery of training
+         objectives.
+
+         Requalification Examination Security
+
+         The inspectors evaluated the ability of the facility licensee to safeguard examination
+         material, such that the examination is not compromised.
+
+         Remedial Training and Re-examinations
+
+         The inspectors evaluated the effectiveness of remedial training conducted by the
+         licensee, and reviewed the adequacy of re-examinations for licensed operators who
+         did not pass a required requalification examination.
+
+         Operator License Conditions
+
+         The inspectors evaluated the licensee’s program for ensuring that licensed operators
+         meet the conditions of their licenses.
+
+         Control Room Simulator
+
+         The inspectors evaluated the adequacy of the facility licensee’s control room
+         simulator in modeling the actual plant, and for meeting the requirements contained in
+         10 CFR 55.46.
+
+71111.11Q - Licensed Operator Requalification Program and Licensed Operator Performance
+
+Licensed Operator Requalification Training/Examinations (IP Section 03.02) (1 Sample)
+
+   (1)   The inspectors observed and evaluated licensed operator requalification training on
+         June 17, 2026.
+
+71111.13 - Maintenance Risk Assessments and Emergent Work Control
+
+Risk Assessment and Management (IP Section 03.01) (3 Samples)
+
+   The inspectors evaluated the accuracy and completeness of risk assessments for the
+   following planned and emergent work activities to ensure configuration changes and
+   appropriate work controls were addressed:
+
+   (1)   work management risk during service water and component cooling water system
+         outage on April 28, 2026
+   (2)   work management risk for 1C vital bus outage during the weeks of May 15, 2026,
+         and May 27, 2026
+   (3)   emergent work for station power transformer breaker 252-101 after loss of 4160V
+         bus 1A on June 9, 2026
+
+
+
+                                                5
+71111.15 - Operability Determinations and Functionality Assessments
+
+Operability Determination or Functionality Assessment (IP Section 03.01) (1 Sample 1 Partial)
+
+   The inspectors evaluated the licensee's justifications and actions associated with the
+   following operability determinations and functionality assessments:
+
+   (1)    Condition Report (CR) 25014409; Wall Thickness Below General Acceptance Criteria
+          on JBD-21-24, on June 10, 2026
+   (2)    (Partial)
+          FCR 94065/93779; Acceptance for Functionality of Instrument Air: Various Changes
+          Related to Mechanical, Electrical, and I&C in Engineering Change (EC) 93378,
+          on June 2, 2026
+
+71111.18 - Plant Modifications
+
+Temporary Modifications and/or Permanent Modifications (IP Section 03.01 and/or 03.02)
+(2 Samples)
+
+   The inspectors evaluated the following temporary or permanent modifications:
+
+   (1)    EC-93378; permanent modification of the instrument air system on May 20, 2026
+   (2)    EC-94022; permanent modification of P-8B turbine driven auxiliary feed pump
+          overspeed trip bearing assembly on June 1, 2026
+
+71111.20 - Refueling and Other Outage Activities
+
+Refueling/Other Outage Sample (IP Section 03.01) (1 Partial)
+
+   (1)    (Partial)
+          The inspectors evaluated restart outage activities from April 1, 2026,
+          to June 30, 2026.
+
+71111.24 - Testing and Maintenance of Equipment Important to Risk
+
+The inspectors evaluated the following testing and maintenance activities to verify system
+operability and/or functionality:
+
+Post-Maintenance Testing (PMT) (IP Section 03.01) (5 Samples 1 Partial)
+
+   (1)    RT-85D; Control Room Emergency Ventilation Filtration Test - B Train following filter
+          replacement on VC-10 CRHVAC on April 2, 2026
+   (2)    emergency diesel generator 1-2 post maintenance run following jacket cooling water
+          heat exchanger tube replacement on April 12, 2026
+   (3)    alternate spent fuel pool cooling permanent modification load cycle testing for
+          first-time use on May 5, 2026
+   (4)    instrument air system permanent modification testing for first-time use on
+          May 20, 2026
+   (5)    testing after replacement of RV-0401, RV-0402, and RV-0403, shutdown cooling
+          relief valves on May 19, 2026
+
+
+
+                                                6
+   (6)    (Partial)
+          RO-146; Comprehensive Pump Test Procedure - Component Cooling Water (CCW)
+          Pump P-52B, following CCW system maintenance window on June 9, 2026
+
+Surveillance Testing (IP Section 03.01) (2 Samples)
+
+   (1)    MO-7A-1; 1-1 Emergency Diesel Generator Monthly Surveillance Run on
+          April 6, 2026
+   (2)    FE-5B; Modified Performance Test - Battery No. ED-2, on April 19, 2026
+
+Containment Isolation Valve (CIV) Testing (IP Section 03.01) (1 Sample)
+
+   (1)    RO-32; Local Leak Rate Testing for Penetrations MZ-15, Component Cooling Water
+          Outlet, MZ-42, Demineralized Water to Quench Tank, and MZ-67, Clean Waster
+          Receiver Tank Pump Recirculation, on May 18, 2026
+
+71114.06 - Drill Evaluation
+
+Required Emergency Preparedness Drill (1 Sample)
+
+   (1)    emergency plan training exercise simulating a steam generator tube rupture and
+          reactor trip leading to an alert declaration on June 17, 2026
+
+RADIATION SAFETY
+
+71124.08 - Radioactive Solid Waste Processing & Radioactive Material Handling,
+Storage, & Transportation
+
+Radioactive Material Storage (IP Section 03.01) (1 Sample)
+
+   The inspectors evaluated the licensee’s performance in controlling, labeling and securing
+   the following radioactive materials:
+
+   (1)    radioactive material stored at the east radioactive waste facility
+
+Radioactive Waste System Walkdown (IP Section 03.02) (1 Sample)
+
+   The inspectors walked down the following accessible portions of the solid radioactive waste
+   systems and evaluated system configuration and functionality:
+
+   (1)    advanced liquid processing system
+
+
+Waste Characterization and Classification (IP Section 03.03) (2 Samples)
+
+   The inspectors evaluated the following characterization and classification of radioactive
+   waste:
+
+   (1)    advanced liquid processing system resin characterization for shipment 2026-RW-002
+   (2)    dry active waste characterization used for shipments 2026-RW-014
+          and 2026-RM-004
+
+
+                                                 7
+Shipping Records (IP Section 03.05) (3 Samples)
+
+   The inspectors evaluated the following non-excepted radioactive material shipments through
+   a record review:
+
+   (1)    Shipment 2026-RW-002; LSA-II, resin
+   (2)    Shipment 2026-RW-014; LSA-II, dry active waste
+   (3)    Shipment 2026-RM-004; SCO-II, contaminated equipment
+
+OTHER ACTIVITIES – BASELINE
+
+71152A - Annual Follow-up Problem Identification and Resolution
+
+Annual Follow-up of Selected Issues (IP Section 03.03) (4 Samples)
+
+   The inspectors reviewed the licensee’s implementation of its corrective action program
+   related to the following issues:
+
+   (1)    Root Cause Evaluation for CR 25012715, RP Waste Shipment Exceeded DOT Limits
+   (2)    water intrusion in the instrument air system
+   (3)    CR 26011187; Rear and Safeguards Bus Lost when Control Cables were Hit, and
+          CR 26011372, Testing Activities Result in Trip of Emergency Diesel Generator
+   (4)    CR 26013325; Need to update 2 operator licenses, and CR 26014029, Failure to
+          report changing medical conditions
+
+71153 - Follow-Up of Events and Notices of Enforcement Discretion
+
+Event Report (IP Section 03.02) (1 Sample)
+
+   The inspectors evaluated the following licensee event reports (LERs):
+
+   (1)    LER 05000255/2026-001-00; Human Performance Error Resulted in Emergency
+          Diesel Generator (EDG) 1-2 Actuation (ADAMS Accession No. ML26124A222)
+
+          The inspectors reviewed this LER and two apparent cause analyses associated with
+          this event. The inspectors’ conclusions are documented in this report under
+          Inspection Results Section 71152A. Previously, the inspectors review of personnel
+          performance associated with circumstances surrounding this LER was documented in
+          Inspection Report 05000255/2026001, Section 71153. This LER is Closed.
+
+OTHER ACTIVITIES – TEMPORARY INSTRUCTIONS, INFREQUENT AND ABNORMAL
+
+71152 - Problem Identification and Resolution (PI&R)
+
+During the inspection period, the inspectors continued reviews of Phases I and II of the
+licensee’s system return to service (SRTS) plans and associated topics. The SRTS plans
+document licensee activities to verify that the configuration and condition of systems, structures,
+and components (SSCs) are consistent with the design and licensing bases to support potential
+restart. The inspectors reviewed Phases I and II of the SRTS plans, which include areas such
+as licensing and design-basis functions, system material conditions, reviewing open and
+deferred work prior to shutdown, and program applicability. The inspectors conducted these
+
+
+                                                 8
+reviews using IP 71152, “Problem Identification and Resolution,” and IP 71111.21M,
+“Comprehensive Engineering Team Inspection (CETI),” as applicable.
+
+The inspectors completed reviews of the SRTS plans for the following topics:
+
+Problem Identification and Resolution (PI&R)
+
+              •   buildings and grounds
+              •   chemical addition
+              •   datalogger
+              •   main feedwater
+              •   turbine electro-hydraulic controls
+              •   reactor protection system
+
+INSPECTION RESULTS
+
+ Licensee-Identified Non-Cited Violation                                         71111.20
+ This violation of very low safety significance was identified by the licensee and has been
+ entered into the licensee corrective action program and is being treated as a non-cited
+ violation, consistent with Section 2.3.2 of the Enforcement Policy.
+ Violation:
+
+ Title 10 of the Code of Federal Regulations (CFR) Part 26, “Fitness for Duty Programs,”
+ Subpart 205, “Work Hours,” requires, in part, that licensees shall control work hours so an
+ individual’s hours worked do not exceed 16 hours in any 24-hour period, 26 hours in any
+ 48-hour period, and 72 hours in any 7-day period. Additionally, it requires, in part, that
+ licensees shall ensure that individuals have, at a minimum, a 34-hour break in any 9-day
+ period.
+
+ Contrary to the above, between March 28, 2026, and April 3, 2026, the licensee failed to
+ ensure that individuals subject to the requirements of 10 CFR Part 26 complied with the
+ work hour limitations and scheduling restrictions of Part 26. Specifically, the licensee failed
+ to adequately schedule and control the work hours of 3 individuals performing work
+ covered by the restrictions of 10 CFR Part 26 by not ensuring that the individuals ’ work
+ hours did not exceed 72 hours in any 7-day period. Additionally, the licensee failed to
+ ensure that the same individuals received at least a 34-hour break in any 9-day period.
+
+ Significance/Severity: Green. The inspectors assessed the significance of the finding
+ using IMC 0609 Appendix A, “The Significance Determination Process (SDP) for Findings
+ At-Power.” Using Exhibit 2, “Mitigating Systems Screening Questions,” of IMC 0609
+ Appendix A, Section A, the inspectors answered “No” to all of the questions, screening the
+ finding to Green, as the work completed by the three individuals was verified by individuals
+ who did meet the requirements of the Part 26 work hours restrictions, ensuring that the
+ equipment maintained either its operability or functionality.
+
+ Corrective Action References: CR 26013546, Fatigue Rule Violation
+
+
+
+
+                                                 9
+Assessment                                                                           71152A
+RP Waste Shipment Exceeded DOT Limits
+
+On September 23, 2025, the licensee transported radioactive waste off-site as exclusive use
+shipment 2025-RW-017. On September 24, 2025, the Radiation Protection (RP) Shipping
+Specialist recognized that the shipment was sent with dose rates exceeding Department of
+Transportation (DOT) regulations in 49 CFR 173.441. When recognized, the licensee had the
+truck return to the site, which arrived on September 25, 2026. This issue was reviewed by the
+inspectors, and a Green Licensee-Identified non-cited violation was documented in Inspection
+Report 05000255/2025005, Section 71124.08.
+
+The licensee also performed a root cause evaluation for this issue. The inspectors reviewed
+the root cause evaluation, corrective actions taken and planned, and effectiveness reviews of
+corrective actions completed and planned. The licensee identified the root cause to be
+associated with the radiological shipping process which lacked clear guidance where it
+allowed the same individuals that performed required surveys and the individuals who
+prepared the shipping paperwork to also review and approve the shipment documentation
+without independent verification of administrative dose limits. This gap created conditions
+where human error went undetected. The corrective action to preclude repetition was to
+revise licensee procedure RP-412, Radioactive Shipping, to require an independent review of
+the shipping checklist to ensure compliance with all applicable requirements.
+
+The inspectors independently reviewed the causal analysis process, corrective actions
+(including revisions to RP-412), shipments completed after corrective actions were
+implemented, and effectiveness reviews of corrective actions completed. During the review of
+corrective actions, the inspectors questioned the due date extension of a corrective action to
+preclude repetition without Management Review Committee (MRC) Chair approval, which is
+contrary to PI-001, Corrective Action Program, section 7.5.3.c.4. It was also determined that
+four additional corrective actions had their due dates extended without a basis for why the
+extension is acceptable, necessary, and the risk of extending the action in the request. This
+issue was documented in the corrective action program as CR 25015623, NRC ID: Improper
+Extension of Adverse CR Actions. The inspectors determined that this was a minor
+performance deficiency of PI-001.
+
+No violations were identified.
+
+
+Failure to Provide Work Instructions Appropriate for Work Activities
+Cornerstone        Significance                              Cross-Cutting      Report
+                                                             Area               Section
+Mitigating         Green                                     Human              71152A
+Systems            NCV 05000255/2026002-01                   Performance
+                   Open/Closed
+The inspectors identified a Green finding and associated non-cited violation (NCV) of
+Technical Specification Section 5.4.1.a when the licensee failed to provide work instructions
+appropriate for the work activities. Specifically, in the first example, Work Order
+(WO) 588976-09 lacked sufficient detail for work near buried utilities. Second, troubleshooting
+activities were performed on the failed cables without written work instructions.
+
+
+
+                                              10
+Description:
+
+On February 5, 2026, horizontal directional drilling (HDD) was being performed on site in
+support of the fiber backbone project. The HDD was being performed by three different
+vendors supporting the work. One vendor performed overall job oversight, another vendor
+performed the HDD, and a third vendor performed ground-penetrating radar (GPR) activities
+to support the HDD.
+
+Due to recent snowfall, the GPR was unable to be effectively performed and the vendor
+technician utilized a less reliable radio detector in order to support identification of any
+underground interferences. The radio detector did not identify underground interferences,
+cables, in the areas scanned. The HDD vendor proceeded with HDD and during the pullback,
+the reamer attached to three previously unidentified underground cables, severing two and
+stretching one. At 13:07, the site lost power to the switchyard rear bus and class 1E
+safeguards bus. Emergency Diesel Generator (EDG) 1-2 automatically started, as expected,
+due to the loss of the safeguards bus, to power in-plant class 1E bus 1D. Work was
+immediately halted.
+
+Subsequently, during troubleshooting activities to identify the underground cables impacted,
+EDG 1-2 unexpectedly cycled three times. The cause of the cycling was unknown to
+operators and EDG 1-2 was secured. It was determined that a signal transmitting device had
+been connected to the damaged cables in order to locate the cable electrical flow-path using
+a receiver. The device emitted a 50 VDC/50 Hz signal that was introduced into plant control
+circuitry and caused the cycling of EDG 1-2.
+
+The licensee performed two apparent cause evaluations (ACEs) for this event. In both ACEs,
+the licensee identified issues with work instructions or troubleshooting governance and
+insufficient field oversight during the work activity that resulted in 1) the damage to three
+previously unidentified underground cables during HDD that caused the loss of power to the
+switchyard rear bus and class 1E safeguards bus resulting in the automatic actuation of EDG
+1-2, and 2) the cycling of EDG 1-2 due to a signal transmitting device that was introduced into
+the plant control circuitry during unauthorized troubleshooting of the damaged cables.
+
+This issue was also reviewed using Inspection Procedure 71153, “Follow up of Events and
+Notices of Enforcement Discretion,” and was reported in Licensee Event Report (LER)
+05000255/2026-001-00, “Human Performance Error Resulted in Emergency Diesel Generator
+(EDG) 1-2 Actuation” (ADAMS Accession No. ML26124A222).
+
+Corrective Actions: The licensee entered AOP-9, Loss of D Bus, for this issue and all drilling
+activities were stopped. The licensee completed two ACEs to investigate the causes for the
+damage to the cables and unapproved troubleshooting activities. They subsequently
+performed repair activities to the damaged cables after troubleshooting was completed. In
+addition, the site developed a return to work plan for additional activities associated with the
+fiber backbone project.
+
+Corrective Action References: CR 26011187 and CR 26011372
+Performance Assessment:
+
+Performance Deficiency: The licensee had two examples of failure to provide work
+instructions appropriate for the work activities for the same event. In the first example, the
+
+
+                                               11
+licensee failed to ensure information generated in the engineering change and advanced work
+authorization were incorporated into the work order task used for directional drilling activities
+and to ensure the work instructions had sufficient detail for work in the area where there were
+known buried utilities. Specifically, the work order task for HDD did not provide appropriate
+detail for personnel performing the tasks to understand the risk commensurate with the work
+being performed. Second, the licensee failed to ensure appropriate work control or
+troubleshooting governance was provided to perform troubleshooting activities to identify the
+underground cables impacted during HDD activities, causing EDG 1-2 to unexpectedly cycle
+during operation.
+
+Screening and Significance: The inspectors assessed the significance of the finding
+using IMC 0609 Appendix A, “The Significance Determination Process (SDP) for Findings
+At-Power.” The inspectors used IMC 0609.04, “Initial Characterization of Findings,” and
+IMC 0609 Appendix A, Exhibit 2, “Mitigating Systems Screening Questions.” The finding was
+determined to be of very low safety significance (Green) after questions for “Mitigating SSCs
+and PRA Functionality” were answered as “No.”
+
+Cross-Cutting Area: Human Performance The licensee did not ensure that the work process
+included the identification and management of risk commensurate to the work and the need
+for coordination with different groups. Specifically, in the first example, the licensee did not
+ensure that risk was managed commensurate with the work when the work package lacked
+sufficient detail and clear directions for work near buried utilities. Second, the vendor team
+perceived permission to move forward with troubleshooting without written work instructions
+and had an inadequate risk perception of the troubleshooting activity.
+Enforcement:
+
+Violation: Technical Specification Section 5.4.1.a requires, in part, that written procedures
+shall be established, implemented, and maintained covering the applicable procedures
+recommended in Regulatory Guide 1.33, Revision 2, Appendix A, February 1978.
+NRC Regulatory Guide 1.33, Revision 2, Appendix A, Section 9 addresses “Procedures for
+Performing Maintenance,” and Section 9.a states, in part, that maintenance that can affect the
+performance of safety-related equipment should be properly pre-planned and performed in
+accordance with written procedures, documented instructions, or drawings appropriate to the
+circumstances.
+
+Contrary to the above, on February 5, 2026, the licensee failed to provide work instructions
+appropriate for required work activities. Specifically, in the first example, WO 588976-09
+lacked sufficient detail for work near buried utilities. Second, troubleshooting activities were
+performed on the failed cables without written work instructions.
+
+Enforcement Action: This violation is being treated as a non-cited violation, consistent with
+Section 2.3.2 of the Enforcement Policy.
+
+
+
+Licensee-Identified Non-Cited Violation                                            71152A
+This violation of very low safety significance was identified by the licensee and has been
+entered into the licensee corrective action program and is being treated as a non-cited
+violation, consistent with Section 2.3.2 of the Enforcement Policy.
+
+
+
+                                               12
+Violation:
+
+Title 10 of the Code of Federal Regulations (10 CFR) 55.25 requires that if, during the term of
+the license, the licensed reactor operator or senior reactor operator develops a permanent
+physical or mental condition that causes the licensee to fail to meet the requirements of
+10 CFR 55.21, the facility shall notify the Commission within 30 days of learning of the
+diagnoses, in accordance with 10 CFR 50.74(c). For conditions for which a conditional license
+(as described in 10 CFR 55.33(b)) where a license condition is requested, the facility licensee
+shall provide medical certification on Form NRC 396, “Certification of Medical Examination by
+Facility Licensee” (as described in 10 CFR 55.23).
+
+Contrary to the above, the facility licensee failed to notify the Commission within 30 days of the
+diagnoses of changes in medical conditions on three separate occasions for licensed
+operators that developed permanent physical conditions which caused the licensed operators
+to fail to meet the requirements of 10 CFR 55.21. Specifically, on March 31, 2025, a license
+class applicant informed the facility’s medical examiner that he was taking prescribed
+medication. When the medical examiner completed the physical examination report to the
+facility, the condition for the prescribed medication was not reported and the medical examiner
+recommended that no conditions be placed on the license when issued. Once licensed, the
+senior operator continued to take the medication as prescribed when performing licensed
+duties. The licensed operator was later evaluated by the medical examiner as no longer
+requiring the medication and the prescription was discontinued. As the operator no longer was
+prescribed medication, the facility licensee determined that the operator license was correct
+(no restrictions) and no report was now required.
+
+Subsequently, on January 20, 2026, and on February 12, 2026, during biennial license
+physical examinations the designated medical examiner determined that two licensed
+operators did not meet the near vision requirement in ANSI/ANS-3.4-1983, “Medical
+Certification and Monitoring of Personnel Requiring Operator Licenses for Nuclear Power
+Plants.” The two licensed operators were administratively restricted from performing licensed
+duties until they received and wore their prescription lenses.
+
+On April 1, 2026, the facility licensee identified that the NRC had not been notified, via
+Form 396, “Certification of Medical Examination by Facility Licensee,” about the permanent
+change in the two licensed operators’ vision and their need for prescription lenses to maintain
+their medical qualifications for their operator licenses. As noted, the facility did not determine
+that the missed “take medication as prescribed” license condition for the licensed operator in
+the first example must also be reported. The NRC was notified of the other two operators’
+conditions in a letter dated April 2, 2026, with the revised NRC Form 396s sent to the NRC on
+April 13, 2026.
+
+The inspectors verified that the licensed operators did not perform licensed duties from the
+time their changes in medical condition were identified until they received and wore their
+prescription lenses. The inspectors also verified that the three licensed operators did not
+commit any errors or been involved in any operational mishaps while performing licensed
+duties from the time they received and wore their prescription lenses until the NRC was
+notified and received the individuals updated NRC Form 396s with their lenses restriction.
+
+Significance/Severity: Severity Level IV. The inspectors determined the violation to be a
+Severity Level IV violation similar to Example 6.9.d.9 in the NRC Enforcement Policy.
+
+
+                                               13
+Specifically, the licensee failed to make a report required by 10 CFR 50.74(c) to inform the
+NRC of changes in operators’ medical conditions. In addition, the individuals adhered to the
+ANSI 3.4 requirements to mitigate the changes in their medical conditions while performing
+licensed duties.
+
+Corrective Action References: CR 26013325 and CR 26014029
+
+Observation: Extent of Condition for Water Intrusion in Instrument Air System        71152A
+On March 13, 2026, the licensee initiated CR 26012619, CV-3025 Not Operating as Expected,
+documenting that water was found in the air line of the shutdown cooling heat exchanger E-
+60A/B outlet valve, CV-3025. As part of the corrective actions, the licensee performed
+additional investigation and found water in the upstream air filter and drain lines of CV-3025.
+The licensee then identified that the instrument air system (IAS) temporary modification dryer
+status indicator lights and panel had no power and were not in service. They generated CR
+26012629, Temporary Instrument Air Dryer Lost Power, and CR 26012630, Temporary IAS
+Compressor Dryer Lost Power. The licensee noted it was unknown how long the dryer was out
+of service.
+
+One of the suggested actions for CR 26012629 was to perform an extent of condition
+review; however, the CR completion notes stated the extent of condition was addressed by
+CR 26012619. The inspectors reviewed CR 26012619 and did not identify any extent of
+condition actions that addressed potential water intrusion into the IAS as a whole, as the
+actions in CR 26012619 were focused specifically on CV-3025.
+
+The inspectors reviewed the CRs relating to the water intrusion, site procedures, and the
+failure mode analysis for the event. The inspectors then followed up with the licensee to
+inquire about extent of condition for all of the IAS. The actions included selecting a sample of
+the system’s valves and evaluating those for potential water intrusion. Also, system venting
+and draining was performed to remove excess water. However, the inspectors identified that
+the valves selected were focused on low points in the system and were related to the ongoing
+passivation activity at the time. During discussions between the inspectors and the licensee
+staff, another CR was generated, CR 26015169, Air Operated Valves Identified for Inspection
+of Moisture Intrusion in Air Lines, which recommended internal inspections of air regulators on
+safety-related IAS valves to look for water/moisture. This CR provided additional scope
+beyond the previous CR’s more focused actions.
+
+The inspectors identified a lack of conservative bias in the actions taken during the original
+extent of condition review in CR 26012619. The licensee addressed this concern in
+CR 26015169, which focused on instrument air as a whole system, whereas CR 26012619
+was focused only on CV-3025. No findings or violations of significance were identified during
+this review.
+
+Observation: Rear and Safeguards Bus Lost when Control Cables were Damaged 71152A
+On February 5, 2026, the licensee was performing horizontal directional drilling (HDD) on-site
+when the reamer attached to three previously unidentified underground cables, resulting in
+damage to the cables and a loss of power to the switchyard rear bus and safeguards bus.
+Emergency Diesel Generator (EDG) 1-2 automatically started, as expected, due to the loss of
+the safeguards bus, to power in-plant safety-related loads. Subsequently, during
+
+
+
+                                              14
+troubleshooting activities to identify the cables impacted, a signal transmitting device was
+connected to the damaged cables in order to locate the cable electrical flow-path, which
+resulted in unexpected cycling of EDG 1-2.
+
+The licensee performed two adverse condition evaluations (ACEs) for this event. In both
+ACEs, the licensee identified issues with work instructions or troubleshooting governance and
+insufficient field oversight during the work activities that resulted in 1) the damage to three
+previously unidentified underground cables during HDD that caused the loss of power to the
+rear bus and safeguards bus and the automatic actuation of EDG 1-2, and 2) the cycling of
+EDG 1-2 due to a signal transmitting device that was introduced into the plant control circuitry
+during unauthorized troubleshooting of the damaged cables.
+
+The inspectors independently reviewed the causal analysis process and corrective actions
+(CAs) taken. During review of corrective actions that had a status as complete, the inspectors
+questioned if the information in the completed CAs met the requirements of PI-001,
+Section 7.5.5.f.8, which discussed that ensuring electronic copies of any documents needed to
+understand, clarify, or validate completion of CA response is either attached to the response or
+verified to exist in a quality-controlled records location for future retrieval. Specifically, the
+inspectors questioned if information attached to the responses of CAs 26011187-06 and
+26011187-13 met the requirements of PI-001. After discussion with Performance Improvement
+personnel, the inspectors understood that the licensee determined the requirements of CA
+closure were not met and took action to address the identified gap. However, the required
+closure reviews of the completed CAs had not yet been completed and would likely have
+identified the issues. The licensee recently identified issues in timely closure reviews of CRs
+during a self-assessment and have planned corrective actions to address these issues.
+Associated identified performance deficiencies were documented under IP 71152A.
+
+Failure to Submit a Licensee Event Report for a Condition that Resulted in an Emergency
+Diesel Generator Actuation
+Cornerstone     Severity                                          Cross-Cutting Report
+                                                                  Area          Section
+Not Applicable Severity Level IV                                  Not Applicable 71153
+               NCV 05000255/2026002-02
+               Open/Closed
+An NRC-identified Severity Level IV non-cited violation (NCV) of 10 CFR 50.73 (a)(2)(iv)(A)
+was identified when the licensee failed to submit a licensee event report (LER) within 60 days
+from the automatic actuation of emergency diesel generator (EDG) 1-2. Specifically, the
+licensee failed to recognize that the automatic actuation of EDG 1-2 on February 5, 2026, met
+reportability criteria based on plant conditions. The LER was submitted on May 4, 2026.
+Description:
+
+On February 5, 2026, directional drilling activities were being performed along the south side
+of the access road to support the Fiber Backbone Project. During drill pullback, the reamer
+contacted three previously unidentified underground cables, severing two and stretching one.
+As a result, safeguards bus 1D was deenergized as it was powered from the 345kV rear bus
+through Startup Transformer 1-2. EDG 1-2 automatically started and loaded onto safeguards
+bus 1D as expected when the safeguards bus 1D was deenergized. The operators entered
+AOP-9 for loss of safeguards bus 1D. During subsequent excavation and vacuuming activities
+
+
+                                              15
+to expose the damaged cables, the operators observed perturbations of EDG 1-2 and secured
+the EDG.
+
+Corrective Actions: The licensee entered the issue into their corrective action program as
+CR 26014273, and submitted LER 05000255/2026-001-00, Emergency Diesel Generator 1-2
+Actuation, on May 4, 2026.
+
+Corrective Action References: CR 26014273, Missed 10 CFR 50.73 NRC Notification
+Performance Assessment:
+
+The inspectors determined this violation was associated with a minor performance deficiency.
+Specifically, the licensee failed to submit an LER within 60 days after the discovery of a
+reportable event, contrary to licensee procedure RA-108, and 10 CFR 50.73(a)(2)(iv)(A).
+Enforcement:
+
+The ROP’s significance determination process does not specifically consider the regulatory
+process impact in its assessment of licensee performance. Therefore, it is necessary to
+address this violation which impedes the NRC’s ability to regulate using traditional
+enforcement to adequately deter non-compliance.
+
+Severity: The inspectors determined this violation was Severity Level IV in accordance with
+example 6.9.d.9 of the NRC Enforcement Policy because the licensee failed to submit an LER
+within the required timeframe in accordance with 10 CFR 50.73.
+
+Violation: Title 10 CFR 50.73(a)(1) requires, in part, that a licensee shall submit an LER for
+any event of the type described in this paragraph within 60 days after the discovery of the
+event.
+
+Title 10 CFR 50.73(a)(2)(iv)(A) requires, in part, that the licensee shall report any event or
+condition that resulted in manual or automatic initiation of any of the systems listed in
+paragraph (a)(2)(iv)(B).
+
+Title 10 CFR 50.73(a)(2)(iv)(B)(8) requires, in part, that the systems to which the requirements
+of paragraph (a)(2)(iv)(A) of this section apply are emergency ac electrical power systems,
+including emergency diesel generators (EDGs).
+
+Contrary to the above, the licensee failed to submit an LER within 60 days of discovery of an
+event or condition that resulted in the automatic initiation of EDG 1-2. Specifically, on
+February 5, 2026, during directional drilling activities, underground control cables were
+severed and stretched which resulted in the loss of power supplied from the rear and
+safeguards buses and prompting a start of EDG 1-2. This event represented a condition that
+was reportable under 10 CFR 50.73.
+
+Enforcement Action: This violation is being treated as a non-cited violation, consistent with
+Section 2.3.2 of the Enforcement Policy.
+
+
+
+
+                                               16
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •   On July 7, 2026, the inspectors presented the integrated inspection results to
+       A. Eastridge, Interim General Manager, Plant Operations, and other members of the
+       licensee staff.
+
+
+
+
+                                               17
+DOCUMENTS REVIEWED
+
+Inspection   Type                Designation       Description or Title                                         Revision or
+Procedure                                                                                                       Date
+71111.04     Procedures          SOP-15            Service Water System                                         73
+                                 SOP-16            Component Cooling Water System                               50
+                                 SOP-27            Fuel Pool System                                             78
+71111.05     Calculations        EA-PSA-805-       Fire PRA Quantification for NFPA 805 Transition Fire Risk    0
+                                 FRE-10-3          Evaluation
+             Corrective Action   25002215          Unexpected Loss of P-8D Fire Detection                       05/06/2024
+             Documents           25004579          12/2024 - 2025 Engineering General Actions                   12/17/2024
+                                 26015830          Loss of Battery Room Ventilation V-15B Tripped. V-15A        06/08/2026
+                                                   Insufficient Flow
+             Drawings            C-853 Sheet No.   Detail Plan - Area G                                         4
+                                 1
+             Fire Plans          PFP               Pre Fire Plan                                                6
+             Procedures          DBD-7.10-DP       Design Basis Document for NFPA 805 Fire Protection           0
+                                                   Program
+                                 ENG-329           Control of Combustibles                                      2
+                                 OPS-139           Fire Watch Program                                           0
+71111.07A Miscellaneous          PLP-SRTSP-CRS     Containment Air Coolers System                               0
+          NDE Reports            Eddy Current      Unit 1 CAC-VHX-1                                             April 2026
+                                 Report
+             Procedures          DBD 2.08          Design Basis Document Containment Air Coolers                5
+71111.13     Corrective Action   26014299          MV-SW0880, CAC VHX-2 SW INLET DRAIN, is Leaking By           04/27/2026
+             Documents           26014696          Observed Insulators Standing on P-7C Basket Strainer         05/08/2026
+                                                   When Protected
+                                 26015885          Loss of Power to 4160V Bus 1A                                06/09/2026
+                                 26016024          A Bus Trip Inspection for Aux Breaker Cubicle                06/11/2026
+                                 26016030          Alpha Bus Trip Inspection Results for 252-101 Station        06/11/2026
+                                                   Power 1-1 Incoming
+                                 26016031          A Bus Trip Inspection Results for Start-Up 1-1 Transformer   06/11/2026
+                                                   Breaker Back Cubicle
+                                 26016032          Alpha Bus Trip Inspection Results for 252-106 LC-17 Feeder   06/11/2026
+71111.15     Corrective Action   25014409          Wall Thickness Below General Acceptance Criteria on          11/14/2025
+             Documents                             JBD-21-24
+
+
+                                                             18
+Inspection   Type                Designation   Description or Title                                          Revision or
+Procedure                                                                                                    Date
+             Engineering         93779         FCR For Various Changes Relating to Mechanical, Electrical,   0
+             Changes                           and I&C in EC 93378
+             Engineering         93986         Pipe Wall Thinning Structural Evaluation of Service Water     1
+             Evaluations                       Line
+71111.18     Corrective Action   26010971      Currently installed K-8 AFP Turbine Trip Body Does Not        01/29/2026
+             Documents                         Have Approved EC
+                                 26014989      New Instrument Air Compressors                                05/17/2026
+                                 26015025      Compressor 2C Electrical Issues                               05/18/2026
+                                 26015037      IA INSTALLATION BEFORE FCR APPROVAL                           05/18/2026
+             Engineering         93513         CHILD EC 1 – IA DRYER REPLACEMENT                             0
+             Changes             93514         CHILD EC 3 – IA COMPRESSOR C-2A REPLACEMENT                   05/20/2026
+                                 93515         CHILD EC 2 – IA COMPRESSOR C-2C REPLACEMENT                   0
+                                 93516         CHILD EC 4 – IA COMPRESSOR C-2B REPLACEMENT                   0
+                                 94022         K-8, ‘Auxiliary Feed Pump P-8B Turbine Driver’ Replace the    0
+                                               U-Lock Staple with New Design as Recommended by the
+                                               Vendor (Background EC 65746)
+             Miscellaneous       DBD-1.05      Design Basis Document for Compressed Air Systems              6
+71111.24     Corrective Action   25014224      K-6B Jacket Water Leak                                        11/13/2025
+             Documents           25015553      LLRT for Demin Water to the Quench Tank Leakage is            12/26/2025
+                                               Greater than the 2000 SCCM
+                                 26013735      K-6B, EDG 1-2 Jacket Water Leak Not Fixed During Recent       04/13/2026
+                                               K-6B Outage
+                                 26013896      AOP-26 Entry                                                  04/16/2026
+                                 26013899      Aggreko Equipment with Electrical Issue                       04/16/2026
+                                 26015059      RO-32-15 Editorial Changes                                    05/19/2026
+                                 26015071      Failed PMT on CV-0911                                         05/19/2026
+                                 26015211      Damaged M-2A & M-2B Dryer Instrument Connectors               05/21/2026
+                                 26015255      Post Modification Testing Discovered New Instrument Air       05/22/2026
+                                               Compressors Take 24 Secs
+                                 26015293      RO-32-67 Leakrate Above Troubleshooting Leakage               05/24/2026
+                                               Guideline
+                                 26015325      Dryer M-2A & M-2B Discharge Check Valve Chatter               05/26/2026
+                                 26015346      Local Leak Rate Test for Penetration MZ-41 would not          05/27/2026
+
+
+
+                                                         19
+Inspection   Type                Designation   Description or Title                                        Revision or
+Procedure                                                                                                  Date
+                                               Pressurize
+             Corrective Action   26015166      RO-32-42 Exceeded Administrative Limit Cause                05/20/2026
+             Documents                         Determination
+             Resulting from
+             Inspection
+             Engineering         93369         ALTERNATE COMPONENT COOLING WATER                           0
+             Changes                           CONNECTIONS TO THE SFP HEAT EXCHANGER
+                                               E-53A / E-53B
+             Procedures          ENG-353       Primary Containment Leakage Rate Testing (10 CFR 50         0
+                                               Appendix J) Program Plan
+                                 MO-7A-2       Emergency Diesel Generator 1-2                              103
+                                 RO-146        Comprehensive Pump Test Procedure - Component Cooling       13
+                                               Water Pumps P-52A, P-52B, and P-52C
+                                 RO-32         LLRT - Local Leak Rate Test Main Procedure                  35
+                                 RO-32-15      LLRT - Local Leak Rate Test Procedure for Penetration       27
+                                               MZ-15
+                                 RT-85D-B      Control Room Emergency Ventilation Filtration Testing - B   5
+                                               Train
+             Work Orders         00587277-02   RV-0401, Test/Repair New Valve                              04/28/2026
+                                 00587277-03   RV-0401, Remove and Install Tested Valve                    05/18/2026
+                                 00587278-02   RV-0402, Test New Valve                                     05/07/2026
+                                 00587279-02   RV-0403, Test New Valve                                     05/08/2026
+                                 00587877-01   PLACE SFP COOLING HX ALTERNATE COOLING MOD IN               04/06/2026
+                                               SERVICE PER EC93370
+                                 00602141-01   MO-7A-2 EMERGENCY DIESEL GENERATOR 1-2 (K-6B)               04/10/2026
+                                 00603179-03   E-22B; (OPS & NDE) PMT IN CONJUNCTION WITH VT-2             04/10/2026
+                                 00604706      CV-0911 Test Volume Could Not Be Pressurized During         05/19/2026
+                                               RO-32-15
+                                 00604893      CV-0155 LLRT Failure Refurb Valve & Actuator                03/10/2026
+                                 52961371-01   VFH-26B HEPA FILTER REPLACEMENT                             12/23/2025
+                                 52961371-02   VHF-26B, PMT: TEST PER RT-85D                               03/23/2026
+                                 52994201      RO-32-42 -MZ-42, Demineralized Wtr to Quench Tk             02/03/2026
+                                 582088-05     ED-02; Perform FE-5B Performance Test on ED-02 Battery      04/19/2026
+                                 587438-27     DRYER TEST-ECT- 93513-01 OR -02 FOR M-2A & M-2B             05/27/2026
+
+
+                                                         20
+Inspection   Type                Designation     Description or Title                                        Revision or
+Procedure                                                                                                    Date
+                                                 DRYERS
+                                 588700-03       EC93516 - ECT-93516-02 LEAD/LAG TESTING FOR                 05/21/2026
+                                                 C-2A/C-2B/C-2C
+                                 590187          QE-35B, ED-02, Battery Checks - Quarterly                   04/18/2026
+71114.06     Procedures          OPS-134         Palisades Nuclear Power Station Operations Notifications    0
+71124.08     Miscellaneous       2025 ALPS       ALPS Waste Stream Evaluation                                01/12/2026
+                                 Composite
+                                 DAW 2024 NOV    Dry Active Waste (DAW) Waste Stream Evaluation              01/27/2026
+             Procedures          RP-121          Radioactive Material Control                                0
+                                 RP-412          Radioactive Shipping Procedure                              2
+                                 RP-414          Scaling Factors                                             0
+             Shipping Records    2026-RM-004     SCO Shipping Package                                        01/14/2026
+                                 2026-RW-002     ALPS Resin Shipment Package                                 01/20/2026
+                                 2026-RW-014     Dry Active Waste Shipping Package                           03/03/2026
+71152        Miscellaneous       PLP-SRTSP-BAG   Buildings and Grounds                                       0
+                                 PLP-SRTSP-      Chemical Addition                                           0
+                                 CHM
+                                 PLP-SRTSP-DTA   Datalogger                                                  0
+                                 PLP-SRTSP-EHC   Turbine Electrohydraulic Control                            0
+                                 PLP-SRTSP-      Main Feedwater                                              0
+                                 MFW
+                                 PLP-SRTSP-RPS   Reactor Protection System                                   0
+71152A       Corrective Action   25012715        RP Waste Shipment Exceeded DOT Limits                       09/25/2025
+             Documents           26012619        CV-3025 Not Operating as Expected                           03/13/2026
+                                 26012629        Temporary Instrument Air Dryer Lost Power                   03/13/2026
+                                 26012630        Temporary IAS Compressor Dryer Lost Power                   03/13/2026
+                                 26012690        Long Term Impact of Water Intrusion in Air Systems          03/16/2026
+                                 26013325        Need to Update 2 Operator Licenses                          04/01/2026
+                                 26014029        Failure to report changing medical conditions               04/20/2026
+                                 26015169        Air Operated Valves Identified for Inspection of Moisture   05/20/2026
+                                                 Intrusion in Air Lines
+             Corrective Action   25015623        NRC ID: Improper Extension of Adverse CR Actions            12/30/2025
+             Documents
+
+
+
+                                                           21
+Inspection   Type             Designation   Description or Title                                 Revision or
+Procedure                                                                                        Date
+             Resulting from
+             Inspection
+             Engineering      93403         Fiber Backbone Upgrade Project - AQ                  0
+             Changes
+             Procedures       AOP-37        Loss of Instrument Air                               3
+                              OM-126        Management and Oversight of Supplemental Personnel   1
+                              PI-001        Corrective Action Program                            0
+                              PI-001        Corrective Action Program                            0
+                              SOP-19        Instrument Air System                                78
+                              WM-107        Emergent Issues Process                              0
+71153        Procedures       RA-108        Event Notification and Reporting                     1
+
+
+
+
+                                                      22
+

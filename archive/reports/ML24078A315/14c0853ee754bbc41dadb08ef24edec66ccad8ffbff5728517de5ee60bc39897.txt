@@ -1,0 +1,632 @@
+                                          March 20, 2024
+Mike Mlynarek
+Site Vice President
+Holtec Decommissioning
+International, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Highway
+Covert, MI 49043-9530
+
+SUBJECT: PALISADES NUCLEAR PLANT – PLANT REFERENCE SIMULATOR
+         INSPECTION REPORT 05000255/2024010
+
+Dear Mike Mlynarek:
+
+On March 13, 2024, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection
+at your Palisades Nuclear Plant. The enclosed inspection report documents the inspection
+results, which the inspectors discussed on February 12, 2024, and March 13, 2024, with you
+and other members of your staff. Based on the results of this inspection, no findings or
+violations were identified.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the Reactor
+Vessel,” (ADAMS Accession No. ML22164A067). Upon Palisades’ transition into a
+decommissioning status, maintenance and modifications on the simulator stopped and specific
+parts of the simulator were used for other applications. On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations at
+Palisades (ADAMS Accession No. ML23271A140). The NRC’s initial acceptance to review
+Palisades’ request for exemptions was documented in ADAMS at Accession No. ML23291A440
+on November 3, 2023.
+
+The Palisades Nuclear Plant simulation facility was certified as a plant-reference simulator
+under the Simulator Facility Certification documented in “Palisades Simulator Certification
+Submittal,” dated June 11, 1990 (ADAMS Accession No. ML18057A261). This inspection was
+conducted to provide assurance that the simulation facility was restored back to its certified
+condition, after cessation of power operations for a period of time.
+
+This inspection performed sections of Inspection Procedure 41502, Nuclear Power Plant
+Simulation Facilities. The inspectors assessed the simulation facility performance, simulation
+facility program adequacy and implementation, and the simulator deficiency reporting system.
+The inspectors examined a sample of activities performed by your staff to ensure that the
+Palisades Nuclear Plant simulation facility was being tested in accordance with
+ANSI/ANS-3.5-2009, “Nuclear Power Plant Simulators for Use in Operator Training and
+Examination.” Additionally, the inspectors reviewed the facility licensee’s established programs
+M. Mlynarek                                      2
+
+
+and processes related to continued assurance of simulator fidelity in accordance with
+10 CFR 55.46(d). The inspectors reviewed selected test procedures and programmatic
+procedures, reviewed simulator test records, observed activities, and interviewed personnel.
+
+In accordance with Inspection Manual Chapter (IMC) 0613 section 17.02, the Enclosure to this
+report includes documentation of the scope of the inspection and the factual observations of
+the inspectors.
+
+In accordance with 10 CFR 2.390 of the NRC's "Rules of Practice," a copy of this letter, its
+enclosure, and your response (if any) will be available electronically for public inspection in the
+NRC Public Document Room or from the Publicly Available Records (PARS) component of
+NRC’s document system (ADAMS). ADAMS is accessible from the NRC Website at
+http://www.nrc.gov/reading-rm/adams.html (the Public Electronic Reading Room).
+
+Should you have any questions concerning this letter, please contact us.
+
+
+                                              Sincerely,
+                                                                      Signed by Nguyen, April
+                                                                      on 03/20/24
+
+
+
+                                              April M. Nguyen, Chief
+                                              Operations Branch
+                                              Division of Operating Reactor Safety
+
+Docket Nos. 50–255 and 72–007
+License No. DPR–20
+
+Enclosure:
+Inspection Report 05000255/2024010
+ w/Attachment: Supplemental Information
+
+cc: Distribution via LISTSERV®
+M. Mlynarek                                  3
+
+
+Letter to Mike Mlynarek from April M. Nguyen dated March 20, 2024.
+
+SUBJECT: PALISADES NUCLEAR PLANT – PLANT REFERENCE SIMULATOR
+         INSPECTION REPORT 05000255/2024010
+
+DISTRIBUTION:
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+John Giessner
+Mohammed Shuaibi
+Jason Kozal
+Diana Betancourt-Roldan
+Allan Barker
+Harral Logaras
+David Curtis
+Karla Stoedter
+R3-DORS
+Ikeda Betts
+Lauren Nist
+Maryia Bahdanovich-Kniazkova
+Jamie Pelton
+Russell Felts
+Philip McKenna
+Prema Chandrathil
+Viktoria Mitlyng
+Carolyn Wolf
+Justin Poole
+Jennifer Dalzell
+Aaron McCraw
+
+
+
+
+ADAMS Accession Number: ML24078A315
+  Publicly Available     Non-Publicly Available           Sensitive     Non-Sensitive
+OFFICE      RIII/DORS/OB/CE    RIII/DORS/OB/CE              RIII/DORS/OB/BC
+NAME        THenning:mb        BBergeon                     ANguyen
+DATE        03/18/2024         03/18/2024                   03/20/2024
+                                OFFICIAL RECORD COPY
+                          U.S. NUCLEAR REGULATORY OMMISSION
+                                        Region III
+
+Docket Numbers:              50–255
+                             72–007
+
+License Numbers:             DPR-20
+
+Report Numbers:              05000255/2024010
+
+Licensee:                    Holtec Decommissioning International, LLC
+
+Company, Inc. Facility:      Palisades Nuclear Plant
+
+Location:                    Covert, MI
+
+Inspection Dates:            February 5 - 28, 2024
+
+Inspectors:                  Bryan A. Bergeon, Senior Operations Engineer
+                             Troy J. Henning, Senior Operations Engineer
+
+Approved by:                 April M. Nguyen
+                             Branch Chief
+                             Operations Branch
+                             Division of Operating Reactor Safety
+
+
+
+
+                                                                            Enclosure
+                                  SUMMARY OF FINDINGS
+
+Inspection Report (IR) 05000255/2024010; 02/05/2024 through 03/13/2024; Palisades Nuclear
+Plant simulator inspection report.
+
+This report covers an announced, infrequently performed inspection completed by regional
+inspectors.
+
+A. NRC-Identified and Self Revealed Findings
+
+   No findings were identified.
+
+B. Licensee-Identified Violations
+
+   No findings were identified.
+
+
+
+
+                                              2
+                                        REPORT DETAILS
+
+1.      4OA5 Other Activities
+
+1P01 Simulator Inspection (41502)
+
+     a. Inspection Scope
+
+        The inspectors partially completed Inspection Procedure (IP) 41502, Nuclear Power
+        Plant Simulation Facilities. The inspectors examined a sample of activities performed by
+        the facility licensee’s staff to ensure that the Palisades Nuclear Plant simulation facility
+        was being tested in accordance with the ANSI/ANS-3.5-2009 standard, “Nuclear Power
+        Plant Simulators for Use in Operator Training and Examination.” Additionally, the
+        inspectors reviewed and assessed the facility licensee’s established programs and
+        processes related to continued assurance of simulator fidelity in accordance with
+        Title 10 of the Code of Federal Regulations (10 CFR) 55.46(d). The inspectors reviewed
+        selected test procedures and programmatic procedures, reviewed simulator test records,
+        observed activities, and interviewed personnel.
+
+        The facility licensee is committed to meet the requirements of ANSI/ANS-3.5-2009, as
+        endorsed by Revision 4 of NRC Regulatory Guide 1.149, “Nuclear Power Plant
+        Simulation Facilities for Use in Operator Training and License Examinations.” This
+        standard establishes the functional requirements for full scope nuclear power plant
+        control room simulators used for operator training and examination. The ANSI/ANS-3.5
+        standard requirements for testing are specifically implemented in PNT-020 “Simulator
+        Performance Testing.” The facility licensee is committed to meet these requirements
+        when utilizing the simulation facility to conduct training activities, regardless of the
+        operational state of the nuclear power unit.
+
+        1. On-Site Simulation Facility Testing and Test Results
+
+           As detailed in the attached list of documents reviewed, the inspectors reviewed
+           simulator test results and records for (a) three steady-state tests, (b) 11 transient
+           tests, (c) one core performance test, (d) two post-event tests, (e) one real-time and
+           repeatability test, and (f) seven Scenario Based Testing (SBT) tests.
+
+           In accordance with section 3.4.3.2 of the 2009 revision of the ANSI/ANS-3.5
+           standard, Scenario-Based Testing (SBT) is only required to be performed for (1)
+           NRC initial license examination scenarios, (2) licensed operator requalification
+           annual examination scenarios, and (3) scenarios used for reactivity control
+           manipulation experience. The facility licensee could not produce the test records
+           related to SBT associated with the most recent initial license examination (2020) or
+           the previous licensed operator requalification annual examination (2021). The facility
+           licensee was able to reperform the SBT for these examinations using the existing
+           examination materials and provide those to the inspectors for review on February 27,
+           2024.
+
+           The inspectors also observed and reviewed the simulation facility performance
+           during two simulator scenarios. These two scenarios were developed by the facility
+           licensee for licensed operator requalification training. The facility licensee provided a
+
+
+
+                                                 3
+   team of three previously licensed Senior Reactor Operator (SRO) individuals and two
+   previously licensed Reactor Operator (RO) individuals to operate the simulation
+   facility using the appropriate procedures for the associated events and transients as
+   requested by the NRC inspectors.
+
+   The scope of the inspectors’ review of the above items was informed by the
+   requirements of 10 CFR 55.46(c)(1).
+
+2. Simulation Facility Procedural Development
+
+   The inspectors reviewed a sample of the facility licensee’s procedures related to the
+   simulation facility conduct of testing, documentation of simulation facility issues
+   requiring assessment and potential corrective actions, simulation facility
+   modifications, and the use of the simulation facility for operator training and operator
+   testing and evaluations. The inspectors ensured the procedures developed for the
+   Palisades Nuclear Plant simulation facility correctly reflected ANSI/ANS-3.5-2009
+   requirements, where applicable, and were consistent with recognized practices as
+   reflected in currently operating reactor plant reference simulators. The inspectors
+   also reviewed a representative sample of the Palisades’ training department
+   procedures where there was associated involvement with the simulation facility.
+   Finally, the inspectors reviewed the facility licensee’s procedures related to
+   maintaining examination and test integrity consistent with the requirements of
+   10 CFR 55.49. This review was informed by the requirement of 10 CFR 55.46(d)(4).
+
+3. Simulation Facility Programs for Assurance of Continued Simulator Fidelity
+
+   In addition to reviewing the specified procedural requirements that define the
+   Palisades Nuclear Plant simulation facility programs for assurance of continued
+   simulator fidelity, the inspectors compared the degree of similarity between the
+   simulator and the reference plant control room. The inspectors also reviewed the
+   facility licensee’s simulator deficiency reporting (DR) program, including open and
+   closed deficiencies. Finally, the inspectors reviewed facility licensee records related
+   to the determination of whether simulator discrepancies resulted in an impact on
+   operator training and the determination of the impact of identified simulator
+   discrepancies on the pass/fail criteria of associated test results.
+
+   The inspectors compared the DRs identified by the facility licensee against the
+   simulator test records and results to assess the effectiveness of the facility licensee’s
+   program for identification and prioritization of issues, reporting, evaluation, schedule
+   for implementing timely corrective actions, and corrective actions. The inspectors
+   assessed whether the facility licensee was effectively identifying any simulator
+   discrepancies that could result in negative training of operators. The inspectors
+   verified whether the facility licensee adequately captured simulator problems and
+   deficiencies; and that corrective actions were performed, tracked, trended, and
+   completed in a timely fashion commensurate with the safety significance of the item.
+   The inspector’s review included confirming that the corrective actions taken did not
+   introduce new errors into the simulation facility modeling and response (reference
+   IP 41502 section 02.02.a.2 and 02.02.b.5).
+
+
+
+
+                                         4
+      The inspectors also evaluated documented simulator differences and recent
+      modifications impacting the simulator and the reference plant control room (reference
+      IP 41502 section 02.02.b.3).
+
+      The scope of the inspectors’ review of the above items was informed by the
+      requirements of 10 CFR 55.46(d).
+
+   4. Summary of IP 41502 Completion
+
+      The inspectors completed the following IP 41502 inspection requirements:
+      02.02.b.1.(a) through (e), 02.02.b.2, 02.02.b.3, 02.02.b.4.(a) through (d), and
+      02.02.b.5.
+
+b. Observations and Findings
+
+   No findings were identified.
+
+c. Assessment
+
+   1. On-Site Simulation Facility Testing and Test Results
+
+      (a) Steady-State Test Results
+
+          Steady state testing was reviewed for the 100%, 69%, and 47% power levels
+          under Palisades Simulator Test Procedure, SS-01, spanning at least 50% of the
+          operating range for which reference unit data was available. The inspectors
+          reviewed the licensee’s testing and determined that it adequately addressed the
+          requirements of ANSI/ANS-3.5-2009 section 4.1.3.1. No discrepancies were
+          identified.
+
+      (b) Transient Test Results
+
+          The inspectors reviewed all 11 of the licensee’s transient tests obtained on the
+          simulator compared to the design data guidance in ANSI/ANS-3.5-2009
+          Appendix B.3. No discrepancies were identified.
+
+      (c) Core Performance Testing Results
+
+          The facility licensee used the most recent reactor core load (cycle 28) to perform
+          the core performance testing, which was documented in Palisades Simulator
+          Test Procedure, DR 20-033, Cycle 28 Core Performance Test. The inspectors
+          reviewed the licensee’s testing data and determined that it adequately addressed
+          the requirements of ANSI/ANS-3.5-2009 section 3.4.3.3. No discrepancies were
+          identified.
+
+      (d) Post-Event Testing Results
+
+          Two post-event tests were conducted and reviewed by the inspectors, Palisades
+          Simulator Test Procedure, DR 18-007, Simulator Limits Test, on December 18,
+          2023, and Palisades Simulator Test Procedure, DR 19-003, Event – Automatic
+          Plant Trip, on January 9, 2019. The inspectors reviewed the data and determined
+
+
+                                           5
+   that both post-event tests demonstrated the capability of the simulator to
+   adequately reproduce the events, as required in ANSI/ANS-3.5-2009
+   section 4.4.3.4. No discrepancies were identified.
+
+(e) Real-Time and Repeatability Test Results
+
+   The inspectors reviewed Palisades Simulator Test Procedure, RT&R, Real Time
+   and Repeatability Test, and the licensee’s associated actions and determined
+   that they met the requirements of ANSI/ANS-3.5-2009 section 4.1.1. No
+   discrepancies were identified.
+
+(f) Scenario Based Testing Results
+
+   The inspectors reviewed facility licensee procedure PNT-024, Simulator Scenario
+   Based Testing Guideline, and determined that it met the requirements of
+   ANSI/ANS-3.5-2009 section 3.4.3.2.
+
+   In accordance with section 3.4.3.2 of the 2009 revision of the ANSI/ANS-3.5
+   standard, SBT is only required to be performed for (1) NRC initial license
+   examination scenarios, (2) licensed operator requalification annual examination
+   scenarios, and (3) scenarios used for reactivity control manipulation experience.
+   The facility licensee was able to provide SBT associated with item (3), scenarios
+   used for reactivity control manipulation experience. The inspectors reviewed
+   Palisades Simulator Test Procedures, SBT-1, Rapid Down Power; SBT-2,15%
+   Down Power; SBT-3, 15% Power Escalation; and SBT-4, Turbine Sync; and
+   identified no discrepancies.
+
+   During the inspection, the facility licensee could not initially produce SBT
+   associated with (1), NRC initial license examination scenarios, or (2) licensed
+   operator requalification annual examination scenarios, as those records were lost
+   upon the facility’s transition from an operational status to decommissioning in
+   June 2022. In response to questions from the NRC inspectors, the facility
+   licensee was able to reperform the SBT for these scenarios using the approved
+   examination documentation and provided these documents to the inspectors on
+   February 27, 2024. The inspectors reviewed the reperformed SBT data
+   documented under Palisades Simulator Performance Testing Documentation,
+   LOR SES-267, LOR SES-250, and ILT NRC 2020 NRC-1, and determined that
+   the simulator could meet the section 3.4.3.2 requirements.
+
+   10 CFR 55.46(d)(1) requires facility licensees to conduct performance testing
+   throughout the life of the simulation facility in a manner sufficient to ensure that
+   paragraphs (c)(2)(ii), as applicable, and (d)(3) of this section are met. The results
+   of performance tests must be retained for four years after the completion of each
+   performance test or until superseded by updated test results. The failure to retain
+   necessary records was determined to be a minor violation of 10 CFR 55.46(d)(1),
+   as simulator fidelity was determined to not be impacted. The facility documented
+   this issue in CR-PAL-1821.
+
+
+
+
+                                     6
+        (g) Scenario Results
+
+            The inspectors observed the simulation facility performance during two simulator
+            scenarios. These two scenarios were developed by the facility licensee for
+            licensed operator requalification training. The inspectors determined the
+            simulator adequately addressed the requirements of ANSI/ANS-3.5-2009.
+
+2.   Simulation Facility Procedural Development
+
+     The inspectors reviewed the following facility licensee’s simulator testing procedures:
+     PNT-020, Simulator Performance Testing
+     PNT-021, Simulator Steady State Testing Guideline
+     PNT-022, Simulator Transient Testing Guideline
+     PNT-023, Reactor Core Testing Guideline
+     PNT-024, Simulator Scenario Based Testing Guideline
+
+     The procedures laid out testing methodologies and schedules for all required tests and
+     appropriately included the necessary acceptance criteria. The inspectors determined the
+     procedures adequately addressed the requirements of ANSI/ANS-3.5-2009. No
+     discrepancies were identified.
+
+3.   Simulation Facility Programs for Assurance of Continued Simulator Fidelity
+
+     The inspectors reviewed the following facility licensee’s simulator configuration control
+     and maintenance procedures: PNT-018, Simulator Configuration Control, and PNT-019,
+     Simulator Change Request Implementation.
+
+     The inspectors also reviewed a list of open and closed deficiency reports (DRs)
+     generated by the licensee to determine the types of issues that were being identified and
+     included. The inspectors also reviewed a sample of the records to determine the impact
+     on operator training and the effect on the previously completed ANSI/ANS-3.5-2009
+     required testing. The inspectors found that the licensee had a very low threshold for
+     submitting deficiency requests. When the deficiency could not be corrected, the staff
+     then submitted the issue for a Training Needs Analysis.
+
+     The inspectors then reviewed the licensee’s database of outstanding deficiencies to
+     ensure that they were being tracked adequately for resolution. The licensee maintained
+     a spreadsheet of all DRs created. The spreadsheet included the DR identification
+     number, a brief description of the issue and a priority for issue restoration. Feedback
+     was provided the facility licensee training staff that the spreadsheet could be improved to
+     include information pertinent to the simulator review board (SRB), who reviews and
+     prioritizes the DRs, to include improved deficiency descriptions, issue status updates,
+     and the status of the training needs analysis. As it was, the inspectors found the
+     spreadsheet an effective tool to track DRs and that the SRB was effectively evaluating
+     simulator deficiencies.
+
+     Finally, the inspectors performed a review of the simulator control room environment to
+     the reference plant control room to verify the simulator replicated the control room in
+     accordance with ANSI/ANS-3.5-2009 section 3.2.1.3 and that noticeable differences
+     were corrected or that a training needs analysis had been conducted in accordance with
+     the criteria provided in section 4.2.1.4. The inspectors identified that the font size, font
+
+
+                                              7
+      type, and bulb color of the simulator annunciators were different than that in the
+      reference unit control room. Additionally, the light intensity of multiple control board
+      indications in the simulator were different than those in the reference unit control room.
+      The simulator annunciator bulb color and control board indicator bulb intensities were
+      tracked on the DR list, as appropriate. The facility licensee was determined to not have
+      identified and was not tracking the simulator annunciator differences. The facility
+      licensee documented this issue in DR 2024028.
+
+      The inspectors determined that other simulator differences were appropriately
+      documented and assessed in accordance with ANSI/ANS-3.5-2009 section 3.2.1.3.
+
+4.    OTHER INSPECTION RESULTS
+
+4A06 Meetings, Including Exit
+
+      Exit Meeting
+
+      On February 12, 2024, the inspectors presented the preliminary inspection results to
+      Mike Mlynarek, Site Vice President, along with other members of your staff. On
+      March 13, 2024, the inspectors presented the final inspection results to Mike Mlynarek,
+      Site Vice President, and the Palisades staff. The inspectors stated that no proprietary
+      information would be included in the inspection report.
+
+
+
+
+                                               8
+                              SUPPLEMENTAL INFORMATION
+
+                                 KEY POINTS OF CONTACT
+
+Licensee Personnel
+
+Mike Mlynarek, Palisades Site Vice President
+Mike Schultheis, Palisades Regulatory Assurance Manager
+Bill Townes, Palisades Operations Shift Manager
+Scott Summer, Palisades Security Manager
+Gerry Wright, Palisades Radiation Protection Manager
+Jim Miksa, Palisades Regulatory Assurance Engineer
+Kevin Block, Palisades Nuclear Oversight Manager
+Mike Lee, Palisades Chemistry Manager
+Jean Fleming, Holtec International Vice President, Licensing, Regulatory Affairs & PSA
+Rich Burroni, HDI Palisades Chief Nuclear Officer
+Ken Morris, Palisades Radiation Protection Supervisor
+Mike Bailey, Palisades Operations Supervisor
+Joe Jerz, Palisades Engineering Manager
+Walt Nelson, Palisades Training Manager
+Chuck Sizemore, Palisades Training Contractor
+Jeremy Osborn, Palisades Training Contractor
+Kami Miller, Palisades Emergency Planning Manager
+Chad Burton, Palisades Finance Manger
+
+                   LIST OF ITEMS OPENED, CLOSED, AND DISCUSSED
+
+None
+
+
+
+
+                                               9
+                             LIST OF DOCUMENTS REVIEWED
+
+Simulator Deficiency Reports:
+
+DR 2352, Training Building HVAC, 05/31/2023
+DR 2353, UPS and Simulator Power, 05/31/2023
+DR 2369, Convert simulator to LEDs, 05/31/2023
+DR 2374, Turbine Control System (DEH), 05/31/2023
+DR 2371, Plant Process Computer Restoration, 06/06/2023
+DR 2023018, Simulator room desk top systems, equipment and displays, 12/22/2023
+DR 2023012, Simulator Security system. Ability to lock simulator, isolate simulator network and
+clear, 12/22/2023
+DR 2023013, Simulator LEDs for annunciators and control board equipment do not match
+reference unit, 12/22/2023
+DR 2023015, Turbine Control System (DEH) computer has been removed and needs to be
+updated, 12/22/2023
+DR 2024028, Simulator Annunciator Panel Labeling, 02/12/2024
+
+Plant Condition Reports:
+
+CR 12354904, Simulator I/O Failure Causes Training Delay, 05/04/2020
+CR 12410062, Simulator Crash During Training, 08/19/2020
+CR 12463757, Simulator During Daily Simulator Operational Readiness Test, 12/11/2020
+CR 12507274, Simulator Indications not working as Expected, 03/18/2021
+CR 12759039, Tagging for Simulator Dismantlement, 05/12/2022
+PAL-1821, SBT Data Retention, 02/12/2024
+
+Procedures:
+
+PNT-018, Simulator Configuration Control, Revision 1
+PNT-019, Simulator Change Request Implementation, Revision 0
+PNT-020, Simulator Performance Testing, Revision 0
+PNT-021, Simulator Steady State Testing Guideline, Revision 0
+PNT-022, Simulator Transient Testing Guideline, Revision 0
+PNT-023, Reactor Core Testing Guideline, Revision 0
+PNT-024, Simulator Scenario Based Testing Guideline, Revision 0
+PNT-217, Examination Security, Revision 0
+
+Simulator ANSI/ANS-3.5-2009 Appendix B Transient Tests:
+
+Palisades Simulator Test Procedure, T01, Manual Reactor Trip, 12/13/2023
+Palisades Simulator Test Procedure, T02, Simultaneous Trip of All Feedwater Pumps,
+12/13/2023
+Palisades Simulator Test Procedure, T03, Simultaneous Closure of all Main Steam Isolation
+Valves, 12/13/2023
+Palisades Simulator Test Procedure, T04, Simultaneous Trip of All Reactor Coolant Pumps,
+12/21/2023
+Palisades Simulator Test Procedure, T05, Manual Trip of Any Single Reactor Coolant Pump,
+12/21/2023
+Palisades Simulator Test Procedure, T06, Main Turbine Trip from Maximum Power Level which
+does not result in immediate Reactor Trip, 12/21/2023
+
+
+                                              10
+Palisades Simulator Test Procedure, T07, Maximum Rate Power Ramp from 100% to
+Approximately 75% and back up to 100%, 12/21/2023
+Palisades Simulator Test Procedure, T08, Maximum Size Reactor Coolant System Rupture
+combined with a Loss of all Offsite Power, 12/21/2023
+Palisades Simulator Test Procedure, T09, Maximum Size Unisolable Main Steam Line Rupture,
+12/21/2023
+Palisades Simulator Test Procedure, T10, Slow Primary System Depressurization to Saturated
+Condition with Pressurizer Relief or Safety Valve Stuck Open, 12/21/2023
+Palisades Simulator Test Procedure, T11, Maximum Design Load Rejection, 12/21/2023
+
+Simulator ANSI/ANS-3.5-2009 Scenario Based Tests:
+
+Palisades Simulator Test Procedure, SBT-1, Rapid Down Power, 08/22/2023
+Palisades Simulator Test Procedure, SBT-2, 15% Down Power, 08/22/2023
+Palisades Simulator Test Procedure, SBT-3, 15% Power Escalation, 08/22/2023
+Palisades Simulator Test Procedure, SBT-4, Turbine Sync, 08/22/2023
+Palisades Simulator Performance Testing Documentation, LOR SES-267, Revision 1
+Palisades Simulator Performance Testing Documentation, LOR SES-250, Revision 1
+Palisades Simulator Performance Testing Documentation, ILT NRC 2020 NRC-1, Revision 1
+
+Simulator ANSI/ANS-3.5-2009 Post-Event Tests:
+
+Palisades Simulator Test Procedure, DR 18-007 Simulator Limits Test, 12/18/2023
+Palisades Simulator Test Procedure, DR 19-003, Event – Automatic Plant Trip, 01/09/2019
+
+Simulator ANSI/ANS-3.5-2009 Steady State Tests:
+
+Palisades Simulator Test Procedure, SS-01, Steady State Test 100% Power, 12/13/2023
+Palisades Simulator Test Procedure, SS-01, Steady State Test 69% Power, 12/13/2023
+Palisades Simulator Test Procedure, SS-01, Steady State Test 47% Power, 12/13/2023
+
+Simulator ANSI/ANS-3.5-2009 Real Time and Repeatability Test:
+
+Palisades Simulator Test Procedure, RT&R, Real-Time and Repeatability Test, 12/21/2023
+
+Simulator ANSI/ANS-3.5-2009 Core Performance Tests:
+
+Palisades Simulator Test Procedure, DR 20-033, Cycle 28 Core Performance Test, Cycle 28
+
+Miscellaneous Documents:
+
+Palisades Malfunction List, List of All ANSI/ANS-3.5 Malfunctions, 12/14/2023
+EC 82400, Cycle 28 Core Reload, Revision 0
+EC 84561, Reduce Letdown Normal Operating Pressure, Revision 0
+EC 84218, PY-0102A, PY-0102
+EC 90901, EK-0946, P-50D Seal Leakage Flow Low Alarm Set
+Simulator Differences List, 10/13/2021
+Simulator Discrepancy Report, 02/03/2024
+Simulator Design Changes Installed Since 01/01/2020
+PNT-018-TF-SRB, Simulator Review Board Minutes (01/04/2024)
+
+
+
+                                              11
+                              LIST OF ACRONYMS
+
+ANS    American Nuclear Society
+ANSI   American National Standards Institute
+CR     Condition Report
+DR     Discrepancy Report
+EC     Engineering Change
+IMC    Inspection Manual Chapter
+IP     Inspection Procedure
+IR     Inspection Report
+NRC    Nuclear Regulatory Commission
+PWR    Pressurized Water Reactor
+SBT    Scenario Based Testing
+SRB    Simulator Review Board
+
+
+
+
+                                      12
+

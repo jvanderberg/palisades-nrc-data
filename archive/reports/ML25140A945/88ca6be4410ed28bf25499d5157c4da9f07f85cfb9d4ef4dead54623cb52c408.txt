@@ -1,0 +1,432 @@
+                                          May 21, 2025
+Mike Mlynarek
+Site Vice President
+Holtec Decommissioning
+International, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Highway
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2025002
+
+Dear Mike Mlynarek:
+
+On April 30, 2025, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection at
+the Palisades Nuclear Plant. The enclosed inspection report documents the inspection results,
+which the inspectors discussed on May 13, 2025, with yourself and other members of your staff.
+
+No violations of more than minor significance were identified during this inspection.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the Reactor
+Vessel,” (ADAMS Accession No. ML22164A067). On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations
+at Palisades (ADAMS Accession No. ML23271A140). The NRC’s initial acceptance to review
+Palisades’ request for exemptions was documented in ADAMS at Accession No. ML23291A440
+on November 3, 2023.
+M. Mlynarek                                      2
+
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Nguyen, April
+                                                                      on 05/21/25
+
+
+
+                                              April M. Nguyen, Lead
+                                              Palisades Restart Team
+                                              Division of Operating Reactor Safety
+
+Docket No. 05000255
+License No. DPR–20
+
+Enclosure:
+As stated
+
+cc w/ encl: Distribution via LISTSERV®
+M. Mlynarek                                    3
+
+
+Letter to Mike Mlynarek from April Nguyen dated May 21, 2025.
+
+SUBJECT:        PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+                05000255/2025002
+
+DISTRIBUTION:
+Tim Steadham
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Jack Giessner
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+Bryan Bergeon
+John Pelchat
+David Curtis
+Jared Heck
+R3-DORS
+
+
+
+
+ADAMS Accession Number: ML25140A945
+                             ☒ Non-Sensitive                    ☒ Publicly Available
+   ☒    SUNSI Review
+                             ☐ Sensitive                        ☐ Non-Publicly Available
+ OFFICE R-III
+ NAME    JWinslow:anm      ANguyen
+ DATE    05/20/2025        05/21/2025
+
+
+                                     OFFICIAL RECORD COPY
+                          U.S. NUCLEAR REGULATORY COMMISSION
+                                     Inspection Report
+
+
+Docket Numbers:              05000255
+
+
+License Numbers:             DPR-20
+
+
+Report Numbers:              05000255/2025002
+
+
+Enterprise Identifiers:      I-2025-002-0066
+
+
+Licensee:                    Holtec Decommissioning International, LLC
+
+
+Facility:                    Palisades Nuclear Plant
+
+
+Location:                    Covert, MI
+
+
+Inspection Dates:            March 01, 2025, to April 30, 2025
+
+
+Inspectors:                  B. Bergeon, Senior Operations Engineer
+                             K. Carrington, Senior Resident Inspector, North Anna
+                             N. Hansing, Mechanical Engineer, NRR
+                             D. Hoang, Senior Project Engineer
+                             D. Lanyi, Senior Operations Engineer
+                             K. Kirchbaum, Senior Operations Engineer
+                             J. Mancuso, Senior Resident Inspector
+                             P. Meier, Senior Resident Inspector, Sequoyah
+                             V. Myers, Senior Health Physicist
+                             T. Okamoto, Resident Inspector
+                             J. Robb, Operations Engineer
+                             C. St. Peters, Senior Project Engineer
+                             A. Shaikh, Senior Reactor Inspector
+                             C. Speer, Reactor Systems Engineer, NRR
+                             J. Winslow, Senior Project Engineer, Restart Team
+
+
+Approved By:                 April M. Nguyen, Lead
+                             Palisades Restart Team
+                             Division of Operating Reactor Safety
+
+
+
+
+                                                                                    Enclosure
+                                         SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) performed inspections of the licensee’s
+activities to verify that the reactor coolant system boundary, reactor vessel head, and
+risk-significant piping system boundaries are appropriately monitored for degradation and that
+required repairs and replacements are appropriately examined and accepted; systems,
+structures, and components (SSCs) are appropriately inspected, maintained, and tested to
+ensure they can perform their required safety functions for potential restart; the licensed
+operator requalification training program and operator performance are appropriately performed;
+and radiation safety activities are appropriately performed.
+
+                               List of Findings and Violations
+
+None.
+
+                                 Additional Tracking Items
+
+None.
+
+
+
+
+                                              2
+PLANT STATUS
+
+The Palisades Nuclear Plant ceased power operations and subsequently removed all fuel from
+the reactor, as certified in a letter to the NRC on June 13, 2022. On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of 10 CFR 50.82(a)(2) to pursue the
+potential reauthorization of power operations. The NRC is conducting inspections to evaluate
+and assess the licensee’s activities for potential restoration to an operational status.
+
+The resident inspectors, as well as supplemental inspectors, continue to supply daily oversight
+of the restart activities occurring at the site.
+
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the referenced inspection
+procedures (IPs) in effect at the beginning of the inspection unless otherwise noted. Currently
+approved IPs with their attached revision histories are located on the public website at
+http://www.nrc.gov/reading-rm/doc-collections/insp-manual/inspection-procedure/index.html.
+
+REACTOR SAFETY
+
+71111.08P - Inservice Inspection Activities (PWR)
+
+From April 28, 2025, to May 1, 2025, the inspectors observed and verified Holtec Palisades’
+nondestructive examination (NDE) and repair/replacement activities of the reactor vessel
+closure head, Alloy 600 weld mitigation activities, and steam generator in-situ pressure testing,
+conducted in accordance with the requirements of the ASME Code Section XI. The purpose of
+these inspections was to verify that the reactor coolant system boundary, reactor vessel closure
+head, steam generators, and risk-significant piping system boundaries are appropriately
+monitored for degradation. The inspectors also verified that the examination results were
+thoroughly reviewed and appropriately evaluated, and that required corrective actions to
+address identified indications and defects will be appropriately implemented. During this quarter,
+the licensee completed NDE activities and evaluation of data for the reactor vessel closure
+head, steam generator tubes, and Alloy 600 welds in the primary coolant system and continued
+repair/replacement activities in all areas. Further NRC inspections will monitor
+repair/replacement activities as they are conducted.
+
+The inspectors verified that the following NDE and repair/replacement activities were conducted
+appropriately per the ASME Code or required standard, and that any potential indications and
+defects were identified and evaluated at the proper thresholds:
+
+Nondestructive Examination and Welding Activities (IP Section 03.01)
+   • Safety Injection Cold Leg 1A&B and 2A&B Alloy 600 mitigation Weld Overlay Fabrication
+   • Reactor Vessel Internal (RVI) indications analysis and NDE procedures
+
+Vessel Upper Head Penetration Inspection Activities (IP Section 03.02)
+   • Alloy 690 reactor head repair nozzle Mill Report and receipt inspection data
+
+
+
+
+                                                3
+Steam Generator Tube Inspection Activities (IP Section 03.04)
+
+   •     Steam generator A in-situ pressure test
+   •     Steam generator A test of sleeving repair methodology and Eddy Current examinations
+
+71111.11A - Licensed Operator Requalification Program and Licensed Operator Performance
+
+Licensed Operator Requalification Program and Licensed Operator Performance
+
+   (1)    The inspectors reviewed and evaluated the licensed operator examination failure rates
+          for the requalification annual operating exam administered from February 25, 2025, to
+          March 28, 2025.
+
+71111.13 – Maintenance Risk Assessments and Emergent Work Control
+
+Risk Assessment and Management Sample (IP Section 03.01)
+
+The inspectors evaluated the accuracy and completeness of risk assessments for the following
+planned work activities to ensure configuration changes and appropriate work controls were
+addressed:
+
+   (1)    Low pressure “A” and “B” main turbine rotor lift activities on April 11, 2025
+   (2)    Primary coolant pump “B” lift activities on April 1, 2025
+   (3)    Steam generator “A” nozzle dam installation and primary coolant system inventory
+          control activities on April 18, 2025
+
+RADIATION SAFETY
+
+Radiation Safety – Occupational
+
+From April 21 to April 25, 2025, the inspectors evaluated various ongoing radiologically
+risk-significant work evolutions, including steam generator primary side work and reactor head
+work. For these work evolutions, the inspectors observed activities such as extremity dosimetry
+issuance and use, respiratory protection issuance and use, use of temporary ventilation
+systems, high radiation area and radiation work permit briefings, and radiation protection job
+coverage. The inspectors also walked down the auxiliary building and containment to observe
+radiological postings and controls. The inspectors also reviewed various dose assessments for
+previous work activities. This review included quality control procedures and records for use of
+the whole-body counter, whole body count results, internal dose assessments, evaluation of
+multiple dosimetry use, and evaluation of effective dose equivalence use and calculations.
+The inspectors conducted these reviews using IP 71124.01, “Radiological Hazard Assessment
+and Exposure Controls,” IP 71124.03, “In-Plant Airborne Radioactivity Control and Mitigation,”
+and IP 71124.04, “Occupational Dose Assessment,” as applicable.
+
+
+
+
+                                               4
+OTHER BASELINE ACTIVITIES
+
+71152 – Problem Identification and Resolution
+
+System Return to Service
+
+During the inspection period, the inspectors continued reviews of Phases I and II of the
+licensee’s system return to service (SRTS) plans. The SRTS plans document licensee activities
+to verify that the configuration and condition of Systems, Structures, and Components (SSCs)
+are consistent with the design and licensing bases to support potential restart. The inspectors
+reviewed Phases I and II of the SRTS plans, which include areas such as licensing and
+design-basis functions, system material conditions, reviewing open and deferred work prior to
+shutdown, and program applicability. The inspectors conducted these reviews using IP 71152,
+“Problem Identification and Resolution,” and IP 71111.21M, “Comprehensive Engineering Team
+Inspection (CETI),” as applicable.
+
+The inspectors commenced reviews of the SRTS plans for the following systems:
+   • Containment building and miscellaneous equipment
+   • Containment purge
+   • Containment spray
+   • Chemical and volume control
+   • Circulating water
+   • High pressure safety injection
+   • Instrument air and service air
+   • Main feedwater
+   • Primary coolant
+   • Pressurizer pressure and level control
+   • Safety injection and refueling water tank and containment sump
+   • Safety injection tanks
+   • Radiation Monitoring System
+
+The inspectors completed initial reviews of the SRTS plans for the following systems:
+   • Containment and Fuel Pool Cranes
+   • Control rod drive
+   • Control room heating, ventilation, and air conditioning (HVAC)
+   • Dry fuel storage
+   • Reactor cavity flood
+   • Spent fuel pool cooling
+   • Ultimate heat sink
+
+These systems were selected based on the importance of the SSCs during normal and
+emergency plant operating conditions, risk significance and defense-in-depth of the SSC’s
+specific functions and required work/modifications of the SSCs scheduled prior to potential
+restart.
+
+
+
+
+                                                5
+The inspectors evaluated the initial SRTS plans for each system to identify if planned licensee
+activities will verify that the configuration and condition of the SSCs are consistent with the
+proposed operational design and licensing bases to support restart and verify readiness of the
+SSCs to support a return to service. The inspectors noted that the SRTS plans are intended to
+be living documents with a phased approach to SRTS. The initial plans were determined to be
+at a very high level and did not always provide specific details associated with inspection or
+testing plans. The inspectors understood that this specific level of detail is still in progress and,
+as the licensee progresses through the SRTS phases, the SRTS plans will undergo additional
+reviews by NRC inspector to ensure appropriate SSC restoration and operability/functionality.
+
+INSPECTION RESULTS
+
+No additional inspection results.
+
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •   On May 13, 2025, the inspectors presented the inspection results to M. Mlynarek,
+       Site Vice President, and other members of the licensee staff.
+   •   On April 14, 2025, the inspectors presented the licensed operator requalification
+       program inspection results to C. Sizemore, Operations Training Superintendent, and
+       other members of the licensee staff.
+
+
+
+
+                                                  6
+DOCUMENTS REVIEWED
+
+Inspection Type                Designation     Description or Title                                           Revision or
+Procedure                                                                                                     Date
+71111.08P Corrective Action    2025-0473       A Minor Correction to NDE Report HLSC-350-00-PT-002            02/21/2025
+           Documents                           Concerning the Material Type
+           Resulting from
+           Inspection
+           Procedures          03-601600       Operating Instructions for In Situ Pressure Testing            010
+                               55-OI0033-022   Ambient I.D.T.B Welding of CEDM/CET Penetration of             03/19/2025
+                                               Reactor Vessel Closure Head Utilizing Modified Local Cavity
+                                               Weld Head
+           Shipping Records    1024018714      Framatome Purchase Order QA Data Package SB-167 UNS            007
+                                               N06690 Seamless Tubing
+                               38001288        Holtec Purchase Order QA Data Package for Replacement          001
+                                               CRDM Nozzles and Replacement ICI Nozzles
+71111.20   Procedures          FHS-M-23        Movement of Heavy Loads in the Spent Fuel Pool Area            Revision 42
+                               FHS-M-24        Movement of Heavy Loads in the Containment Building Area       Revision 42
+                               MSM-M-72        Movement of Heavy Loads in the Turbine Building                Revision 42
+                               RFL-SG-2        S/G Primary Nozzle Dam Installation and Removal                Revision 11
+           Work Orders         WO# 00586667    E-50A INSTALL/REMOVE NOZZLE DAMS PER RFL-SG-2                  04/18/2025
+71124.01   ALARA Plans         20250454        ALARA Plan for RWP 20250454                                    0
+                               20250454        ALARA Plan for RWP 20250454                                    0
+           Radiation Surveys   2025-0802       “A” Steam Generator Platform Survey                            04/19/2025
+                               2025-0816       “A” Steam Generator Platform Survey                            04/21/2025
+           Radiation Work      20250450        Reactor Head, Nozzle Machining, Nozzle Replacement,            0
+           Permits (RWPs)                      Decon and Associated Tasks
+                               20250454        Steam Generator Primary Side Activities                        0
+71124.03   Miscellaneous       N/A             Grade D breathing Air Quality Test                             04/17/2025
+71124.04   Miscellaneous       N/A             Internal Dose Assessment                                       09/06/2024
+                               N/A             Internal Dose Assessment                                       09/08/2024
+           Procedures          EN-RP-208       Whole-Body Counting/In-Vitro Bioassay                          7
+                               HP 8.11         Whole-Body Counting                                            18
+71152      Calculations        GWO-            Proposed Repair Program for the Auxiliary Building SIRW Tank   0
+                               6861CALC2       Cellular Slab at Palisades Nuclear Power Plant
+
+
+
+                                                          7
+Inspection   Type                Designation       Description or Title                                     Revision or
+Procedure                                                                                                   Date
+             Corrective Action   PAL-05382       Main Control Roof Cellular Slab                            02/11/2025
+             Documents           PAL-05888       Typographical Error in Report to NRC                       03/11/2025
+             Engineering         PLP-RPT-18-0024 1R26 Refueling Outage Safety Related Containment Coating   02/06/2019
+             Evaluations                         Assessment Report
+             Miscellaneous       PLP-SRTSP-CLC Containment and Fuel Pool Cranes                             Draft B
+                                 PLP-SRTSP-CLP Containment Building and Miscellaneous Equipment             Draft B
+                                 PLP-SRTSP-CPG Containment Purge                                            Draft A
+                                 PLP-SRTSP-CRD Control Rod Drive                                            Draft A
+                                 PLP-SRTSP-CRV Control Room HVAC                                            Draft A
+                                 PLP-SRTSP-CSS Containment Spray System                                     Draft A
+                                 PLP-SRTSP-      Chemical and Volume Control                                Draft A
+                                 CVC-CBA
+                                 PLP-SRTSP-CWS Circulating Water                                            Draft B
+                                 PLP-SRTSP-DFS Dry Fuel Storage                                             Draft A
+                                 PLP-SRTSP-HPI   High Pressure Safety Injection                             Draft A
+                                 PLP-SRTSP-IAS   Instrument Air and Service Air                             Draft A
+                                 PLP-SRTSP-      Main Feedwater                                             Draft A
+                                 MFW
+                                 PLP-SRTSP-PCS Primary Coolant                                              Draft A
+                                 PLP-SRTSP-PZR Pressurizer Pressure and Level Control                       Draft A
+                                 PLP-SRTSP-RCF Reactor Cavity Flood                                         Draft A
+                                 PLP-SRTSP-RIA   Radiation Monitoring System Return-To-Service Plan         Draft A
+                                 PLP-SRTSP-SFP Spent Fuel Pool Cooling                                      Draft A
+                                 PLP-SRTSP-SIT   Safety Injection Tanks                                     Draft A
+                                 PLP-SRTSP-SSS SIRW and Containment Sump system                             Draft A
+                                 PLP-SRTSP-UHS Ultimate Heat Sink                                           Draft A
+                                 PNP 2025-005    50–Year Containment Tendon Surveillance Inspection         03/03/2025
+                                                 Summary Report
+             Procedures          EA-CAP-047706- Palisades Reactor Head Drop Analysis                        02/02/2006
+                                 01/0
+                                 MSM-M-13A/9     L-1 Periodic Inspection                                    09/28/2023
+                                 MSM-M-13B/11    L-2 Periodic Inspection                                    02/05/2024
+                                 MSM-M-13C/11    L-3 Periodic Inspection                                    05/13/2023
+
+
+                                                              8
+Inspection   Type          Designation        Description or Title                                 Revision or
+Procedure                                                                                          Date
+                           WI-MA-349/0     L-2 Periodic Inspection for Electrical and Mechanical   12/18/2024
+                                           Components
+             Work Orders   WO 50083288-01- Containment Polar Crane                                 10/17/2023
+                           001
+
+
+
+
+                                                         9
+

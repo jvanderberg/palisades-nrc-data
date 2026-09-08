@@ -1,0 +1,364 @@
+                                          July 22, 2025
+Mike Mlynarek
+Site Vice President
+Holtec Decommissioning
+International, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Highway
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – BIENNIAL PROBLEM IDENTIFICATION
+               AND RESOLUTION INSPECTION REPORT 05000255/2025009
+
+Dear Mike Mlynarek:
+
+On June 27, 2025, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection at
+the Palisades Nuclear Plant. The enclosed inspection report documents the inspection results,
+which the inspectors discussed on July 9, 2025, with yourself and other members of your staff.
+
+No violations of more than minor significance were identified during this inspection.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the Reactor
+Vessel,” (ADAMS Accession No. ML22164A067). On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations at
+Palisades (ADAMS Accession No. ML23271A140). The NRC’s initial acceptance to review
+Palisades’ request for exemptions was documented in ADAMS at Accession No. ML23291A440
+on November 3, 2023.
+M. Mlynarek                                      2
+
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Nguyen, April
+                                                                      on 07/22/25
+
+
+
+                                              April Nguyen, Lead
+                                              Palisades Restart Team
+                                              Division of Operating Reactor Safety
+
+Docket No. 05000255
+License No. DPR–20
+
+Enclosure:
+As stated
+
+cc w/ encl: Distribution via LISTSERV®
+M. Mlynarek                                     3
+
+
+Letter to Mike Mlynarek from April Nguyen dated July 22, 2025.
+
+SUBJECT:        PALISADES NUCLEAR PLANT – BIENNIAL PROBLEM IDENTIFICATION
+                AND RESOLUTION INSPECTION REPORT 05000255/2025009
+
+DISTRIBUTION:
+Tim Steadham
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Jack Giessner
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+John Pelchat
+Jared Heck
+Jennifer Dalzell
+R3-DORS
+
+
+
+
+ADAMS Accession Number: ML25203A098
+                              ☒ Non-Sensitive                    ☒ Publicly Available
+   ☒    SUNSI Review
+                              ☐ Sensitive                        ☐ Non-Publicly Available
+ OFFICE R-III               R-III
+ NAME    JWinslow:anm       ANguyen
+ DATE    07/22/2025         07/22/2025
+
+
+                                      OFFICIAL RECORD COPY
+                          U.S. NUCLEAR REGULATORY COMMISSION
+                                     Inspection Report
+
+
+Docket Numbers:              05000255
+
+
+License Numbers:             DPR–20
+
+
+Report Numbers:              05000255/2025009
+
+
+Enterprise Identifiers:      I-2025-009-0000
+
+
+Licensee:                    Holtec Decommissioning International, LLC
+
+
+Facility:                    Palisades Nuclear Plant
+
+
+Location:                    Covert, MI
+
+
+Inspection Dates:            June 09, 2025, to June 27, 2025
+
+
+Inspectors:                  M. Keefe-Forsyth, Safety Culture Program Manager
+                             D. Lanyi, Senior Operations Engineer
+                             S. Obadina, Reactor Operations Engineer
+                             G. Stock, Reactor Operations Engineer (Observer)
+                             D. Willis, Allegation Team Leader, Office of Enforcement
+                             J. Winslow, Senior Project Engineer
+
+
+Approved By:                 April M. Nguyen, Lead
+                             Palisades Restart Team
+                             Division of Operating Reactor Safety
+
+
+
+
+                                                                                    Enclosure
+                                         SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) continued monitoring the licensee’s
+performance by conducting a biennial problem identification and resolution inspection at
+Palisades Nuclear Plant, in accordance with Inspection Manual Chapter 2562, “Light-Water
+Reactor Inspection Program for Restart of Reactor Facilities following Permanent Cessation
+of Power Operations.”
+
+                               List of Findings and Violations
+
+None.
+
+                                 Additional Tracking Items
+
+None.
+
+
+
+
+                                              2
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the referenced inspection
+procedures (IPs) in effect at the beginning of the inspection unless otherwise noted.
+Currently approved IPs with their attached revision histories are located on the public website
+at https://www.nrc.gov/reading-rm/doc-collections/insp-manual/inspection-procedure/index.html.
+
+OTHER ACTIVITIES
+
+71152 - Problem Identification and Resolution
+
+Biennial Team Inspection (IP Section 03.04)
+
+The inspectors performed an assessment of the effectiveness of the licensee’s Problem
+Identification and Resolution program, use of operating experience, self-assessments
+and audits, and safety-conscious work environment.
+
+INSPECTION RESULTS
+
+  Assessment                                                                           71152
+  Corrective Action Program Effectiveness
+
+  The inspectors assessed the effectiveness of the license’s Problem Identification and
+  Resolution program in identifying, prioritizing, evaluating, and correcting problems. Based on
+  the samples reviewed, the inspectors concluded that the licensee’s implementation of the
+  Corrective Action Program (CAP) was generally effective and supported nuclear safety.
+
+  Problem Identification
+
+  Based on the items reviewed, the inspectors concluded that the licensee identifies issues
+  at a low threshold and appropriately enters these issues into the CAP. The inspectors
+  determined that the licensee usually enters problems into the CAP completely and
+  accurately. The licensee reviews CAP data for issue trending. However, due to the lower
+  number of issue reports in the CAP, most trends are identified through cognitive trending.
+
+  The inspectors performed a 5-year review of the component cooling water system. As part
+  of this review, the inspectors reviewed the system return to service plan, walked down the
+  system, and reviewed selective corrective actions and condition evaluation documents.
+
+  Problem Prioritization and Evaluation
+
+  Based on the items reviewed, the inspectors determined that the licensee was generally
+  effective at prioritizing and thoroughly evaluating issues commensurate with the safety
+  significance of the identified problem. The Issue Report Screening Committee and the
+  Management Review Committee meetings were generally thorough and intrusive in reviewing
+  issues and prioritizing actions. In addition, the inspectors observed a healthy dialogue
+  between the members of these committees. The members were engaged and challenged
+  each other when dispositioning issues.
+
+
+
+
+                                                3
+The inspectors reviewed the apparent cause evaluation (ACE) associated issue report
+PAL-03752, Palisades Steam Generator Tube Inspection and Repair. It was noted that,
+contrary to RA-102, Corrective Action Program, section 3.4, the ACE did not include an
+extent of condition review. The licensee identified this gap during performance of their
+Biennial Problem Identification and Resolution Inspection Self-Assessment, where several
+ACEs did not include an extent of condition. The trend was entered into the CAP as
+Issue Report (IR) PAL-07331 and the licensee is implementing corrective actions. The
+inspectors did not identify any additional concerns in this area.
+
+Corrective Actions
+
+Based on the items reviewed, the inspectors determined that the licensee was generally
+effective in corrective action implementation. In general, corrective actions for deficiencies
+that were safety significant were implemented in a timely manner.
+
+The inspectors noted that the licensee identified a trend in unsatisfactory closure of corrective
+actions. Specifically, the trend identified instances where corrective actions were not
+performed as prescribed and objective evidence of closure was not provided. The licensee
+performed a performance analysis of the trend and corrective actions are planned.
+
+Assessment                                                                             71152
+Use of Operating Experience
+
+The inspectors assessed the effectiveness of the licensee’s process for use of operating
+experience. The inspectors noted that the licensee reviewed industry and NRC operating
+experience information for applicability to the station. Operating experience lessons learned
+were communicated and incorporated into plant operations. However, full implementation of
+the licensee’s operating experience program, including the program procedures, is planned
+for later in the restart process and the inspectors could not fully assess the implementation of
+operating experience as part of this inspection. The NRC resident inspectors will assess full
+implementation of the operating experience program as part of their routine CAP reviews.
+
+Assessment                                                                             71152
+Self-Assessments and Audits
+
+The inspectors assessed the effectiveness of the licensee’s identification and correction of
+problems identified through audits and self-assessments. The inspectors determined that
+the licensee’s self-assessments and audits were generally effective. The licensee conducted
+self-assessments and quality assurance audits throughout the organization. These
+assessments and audits were generally effective in identifying issues and opportunities for
+improvement at an appropriate threshold. Deficiencies identified in the licensee’s processes
+were addressed through the CAP.
+
+The inspectors noted that a quality assurance audit of the CAP identified the program
+elements of identification and evaluation as unsatisfactory. Deficiencies were identified
+during the Biennial Problem Identification and Resolution Inspection Self-Assessment and
+the quality assurance CAP audit and entered into the CAP process. The inspectors did not
+identify any additional concerns in this area.
+
+
+
+
+                                               4
+  Assessment                                                                          71152
+  Safety Culture and Safety-Conscious Work Environment
+
+  The inspectors assessed the effectiveness of the station’s programs to establish and maintain
+  a safety-conscious work environment. During this assessment, the inspectors conducted
+  focus groups and interviews of over 90 individuals in multiple departments including
+  Operations, Security, Maintenance, Radiation Protection, Chemistry, and Engineering.
+  In addition, the team reviewed documents associated with Safety Culture survey results and
+  procedures associated with the Employee Concerns Program (ECP).
+
+  The team observed a Nuclear Safety Culture Monitoring Panel meeting and found it to be
+  aligned with the site’s procedure and the NEI 09-07 “Fostering a Healthy Nuclear Safey
+  Culture” guidance. The team observed the panel members engaging in robust dialogue and
+  self-assessment during the meeting. They asked each other thoughtful, probing questions
+  to understand the safety culture related information being discussed.
+
+  Based on interviews, the inspectors determined that the licensee has maintained a
+  safety-conscious work environment (SCWE) where personnel feel free to raise safety
+  concerns without fear of retaliation, intimidation, harassment, or discrimination. All staff
+  interviewed stated that they would not hesitate to raise nuclear safety and security concerns
+  through multiple avenues including supervisors and managers, and the CAP. The inspectors
+  found that personnel indicated they were aware of the ECP, knew who managed it, and how
+  to get in touch with that manager. The inspectors determined that trust seems to permeate
+  the work environment from the top down, and that no one had concerns about retaliatory
+  behavior for raising issues.
+
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •   On July 9, 2025, the inspectors presented the inspection results to M. Mlynarek,
+       Site Vice President, and other members of the licensee staff.
+
+
+
+
+                                               5
+DOCUMENTS REVIEWED
+
+Inspection   Type                Designation   Description or Title                                        Revision or
+Procedure                                                                                                  Date
+71152        Corrective Action   PAL-01475     Calculation Missing from Plant Records                      10/24/2023
+             Documents           PAL-01683     Engineering Change Needed for Part 21 on Battery Chargers   01/09/2024
+                                 PAL-02004     Replace Station Batteries ED-01 and ED-02                   03/26/2024
+                                 PAL-02204     Evaluate Installation of Control Switch Robust Barriers     05/03/2024
+                                 PAL-02207     NSRB Identified Water Near ‘A’ 4160V Bus                    05/03/2024
+                                 PAL-02520     Steam Generators E-50A and E-50B Layup Since 2022           06/20/2024
+                                 PAL-03260     Foreign Material Exclusion (FME)                            09/16/2024
+                                 PAL-03433     M&TE Quality Control Code                                   10/02/2024
+                                 PAL-03672     Corrosion Build-Up and Evidence of Leakage on CV-0946       10/18/2024
+                                 PAL-03673     Tripping Hazard in CCW Room Due to Elevated                 10/18/2024
+                                               Epoxy Coating
+                                 PAL-03674     Unknown Leakage/Discharge Found in T-3 CCW Surge            10/18/2024
+                                               Tank Room
+                                 PAL-03752     Palisades Steam Generator Tube Inspection and Repair        10/22/2024
+                                 PAL-03759     K-6A, EDG 1-1 Exhaust and Lube Oil Leak                     10/22/2024
+                                 PAL-03945     P-54B, Containment Spray Pump, Leaks Oil                    10/31/2024
+                                 PAL-04949     NRC Identified - L-3 (Spent Fuel Pool Crane) Readings       01/16/2025
+                                 PAL-05012     Expand the EOC Regarding M&TE                               01/20/2025
+                                 PAL-05083     IER L2-12-14, Automatic Reactor Scram Resulting from a      01/23/2025
+                                               Design Vulnerability in the 4.16kV bus
+                                 PAL-05586     Multiple CAs Were Identified as Being Closed                02/20/2025
+                                               Without Quality
+                                 PAL-05756     Adverse Trend in Foreign Material in Spent Fuel Pool        03/03/2025
+                                 PAL-06115     Trend in Accredited Training Program Exam Security          03/24/2025
+                                 PAL-06172     Maintenance / Work Management Assignment                    03/27/2025
+                                               PAL-05161-02 is Missing Closure Notes and an Attachment
+             Corrective Action   PAL-07759     NRC Identified: IR Voided Without Explanation               06/12/2025
+             Documents           PAL-08024     NRC Identified: OPS610 References Old Procedure             06/24/2025
+             Resulting from      PAL-08034     NRC Observation: Deficiencies in Signage vs. Logbook        06/25/2025
+             Inspection          PAL-08043     NRC Observation: Housekeeping Issues                        06/25/2025
+             Engineering         EC 86357      Installation of Temporary Shaft Packing Gland Support for   0
+
+
+
+                                                          6
+Inspection   Type               Designation   Description or Title                                         Revision or
+Procedure                                                                                                  Date
+             Changes                          Manual Actuator Side of CV-0944A (Cooling Water to SFP &
+                                              RW Evaporators)
+             Miscellaneous                    Management Review Committee (MRC) Screening Packages         Various
+                                              Issue Report (IR) Screening Committee Packages               Various
+                                              System Return to Service Plan – Component Cooling Water      0
+                                              System
+                                              USA Alliance 2024 Holtec Palisades Nuclear Station Nuclear   November
+                                              Safety Culture Assessment Survey                             2024
+             Procedures         DSP-RA-002    Decommissioning Employee Concern Program                     0
+                                EC-100        Employee Concern Program                                     Draft*
+                                OM-003        Nuclear Safety Culture Monitoring Report                     02/25/2025
+                                OM-003        Nuclear Safety Culture Monitoring                            12/12/2024
+                                PI-001        Corrective Action Program                                    0
+                                PI-002        Causal Analysis Process                                      0
+                                PI-003        Self-Assessment and Benchmark Process                        0
+                                PI-004        Trending and Performance Review Process                      0
+                                PI-007        Management Review Committee Process                          0
+                                RA-102        Corrective Action Program                                    0
+                                WI-MA-350     Spent Fuel Pool Crane L-3 Periodic Inspection                0
+             Self-Assessments   PAL-02097     Biennial Evaluation of the Corrective Action Program         05/23/2025
+                                PAL-04837     Pre-Startup Self-Assessment                                  01/10/2025
+
+
+
+
+                                                         7
+

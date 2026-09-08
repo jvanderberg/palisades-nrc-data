@@ -1,0 +1,794 @@
+                                        August 31, 2026
+
+Michael Schultheis
+Site Vice President
+Palisades Energy, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Hwy
+Covert MI 49043-9530
+
+SUBJECT:      PALISADES NUCLEAR PLANT - NRC INSPECTION REPORT
+              05000255/2026090
+
+Dear Michael Schultheis:
+
+On March 20, 2026, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection
+at Palisades Nuclear Plant. On August 12, 2026, the NRC inspectors discussed the results of
+this inspection with you and other members of your staff. The results of this inspection are
+documented in the enclosed report.
+
+Two findings of very low safety significance (Green) are documented in this report. Two of these
+findings involved violations of NRC requirements. We are treating these violations as
+non-cited violations (NCVs) consistent with Section 2.3.2 of the Enforcement Policy.
+
+If you contest the violations or the significance or severity of the violations documented
+in this inspection report, you should provide a response within 30 days of the date of this
+inspection report, with the basis for your denial, to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555 0001; with copies to the Regional
+Administrator, Region III; 2056 Westings Avenue, Suite 400, Naperville, IL 60563; the Director,
+Division of Reactor Projects; and NRC Resident Inspector at Palisades Nuclear Plant.
+
+If you disagree with a cross-cutting area assignment in this report, you should provide a
+response within 30 days of the date of this inspection report, with the basis for your
+disagreement, to the U.S. Nuclear Regulatory Commission, ATTN: Document Control
+Desk, Washington, DC 20555 0001; with copies to the Regional Administrator, Region III;
+2056 Westings Avenue, Suite 400, Naperville, IL 60563; the Director, Division of Reactor
+Projects; and the NRC Resident Inspector at Palisades Nuclear Plant.
+M. Schultheis                                   2
+
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public Inspections,
+Exemptions, Requests for Withholding.”
+
+                                             Sincerely,
+
+
+                                                               Signed by April Nguyen Signing on behalf of
+                                             Michael Ziolkowski on 08/31/26
+
+
+
+                                             Michael E. Ziolkowski, Chief
+                                             Division of Reactor Safety
+                                             Plant Support Branch
+                                             Region III
+
+Docket No. 05000255
+
+License No. DPR-20
+
+Enclosure:
+As stated
+
+cc: w/ encl: distribution via digital
+ communications platform
+M. Schultheis                                 3
+
+
+Letter to Michael Schultheis from Michael E. Ziolkowski dated August 31, 2026.
+
+SUBJECT:        PALISADES NUCLEAR PLANT - NRC INSPECTION REPORT
+                05000255/2026090
+
+DISTRIBUTION:
+Eric Stamm
+RidsNrrPMPalisades Resource
+RidsNrrDlp1Orlb3
+RidsNrrDroIrib Resource
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+Deborah Piskura
+All-CNRI-R3DRS-Staff
+All-CNRI-R3DRP-Staff
+
+
+
+
+ADAMS Accession Number: ML26245A104
+PKG: ML26243A262
+e-Concurrence case: 20260831-02186
+                     U.S. NUCLEAR REGULATORY COMMISSION
+                                Inspection Report
+
+
+
+Docket Number:           05000255
+
+
+License Number:          DPR-20
+
+
+Report Number:           05000255/2026090
+
+
+Enterprise Identifier:   I-2026-090-0007
+
+
+Licensee:                Palisades Energy, LLC
+
+
+Facility:                Palisades Nuclear Plant
+
+
+Location:                Covert, MI
+
+
+Inspection Dates:        February 23, 2026 to March 20, 2026
+
+
+Inspectors:              J. Cassidy, Senior Health Physicist
+                         V. Myers, Senior Health Physicist
+                         S. Orth, Senior Health Physicist
+
+
+Approved By:             Michael E. Ziolkowski, Chief
+                         Division of Reactor Safety
+                         Plant Support Branch
+                         Region III
+
+
+
+
+                                                               Enclosure
+                                             SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) continued monitoring the licensee's
+performance by conducting an inspection at Palisades Nuclear Plant, in accordance with the
+Reactor Oversight Process. The Reactor Oversight Process is the NRC's program for
+overseeing the safe operation of commercial nuclear power reactors. Refer to
+https://www.nrc.gov/reactors/operating/oversight.html for more information.
+
+                                List of Findings and Violations
+
+ Failure to implement the radiation protection program for work activities with high alpha
+ contamination levels
+ Cornerstone           Significance                          Cross-Cutting         Report Section
+                                                             Area
+ Occupational          Green                                 Problem               71124.01
+ Radiation Safety      NCV 05000255/2026090-01               Identification and
+                       Open/Closed                           Resolution
+ The inspectors identified a Green Finding and associated Non-Cited Violations (NCVs) of
+ T.S 5.4.1, 10 CFR 20.1501, 10 CFR 20.1702, 10 CFR 20.1902 and 10 CFR 20.1101 when the
+ licensee failed to implement its radiation protection program for work activities with high alpha
+ contamination levels.
+
+
+ Failure to Monitor Internal Dose
+ Cornerstone           Significance                          Cross-Cutting        Report Section
+                                                             Area
+ Occupational        Green                                   Human               71124.04
+ Radiation Safety    NCV 05000255/2026090-02                 Performance
+                     Open/Closed
+ The NRC identified a Green finding and associated Non-Cited Violation (NCV) of 10 CFR
+ 20.1502 when the licensee failed to assess internal dose for various individuals in elevated
+ airborne areas.
+
+
+                                      Additional Tracking Items
+
+
+
+None.
+
+
+
+
+                                                 2
+PLANT STATUS
+
+On August 25, 2025, Palisades notified the NRC that they rescinded their Title 10 of the Code of
+Federal Regulations (10 CFR) 50.82(a)(1) certification, which removed the prohibition on
+operation and emplacement of fuel in the reactor. Palisades also implemented the set of
+licensing actions to support reimplementation of their operational licensing basis. On August 25,
+2025, the NRC transitioned oversight of Palisades to the Reactor Oversight Process (ROP).
+
+The NRC is conducting inspections to evaluate and assess the licensee’s activities for
+restoration to an operating status. The resident inspectors, as well as supplemental inspectors,
+continue to provide daily oversight of the restart activities occurring at the site.
+
+The unit ended the inspection period in a defueled status.
+
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the inspection procedures (IPs) in
+effect at the beginning of the inspection unless otherwise noted. Currently approved IPs with
+their attached revision histories are located on the public website at http://www.nrc.gov/reading-
+rm/doc-collections/insp-manual/inspection-procedure/index.html. Samples were declared
+complete when the IP requirements most appropriate to the inspection activity were met
+consistent with Inspection Manual Chapter (IMC) 2515, “Light-Water Reactor Inspection
+Program - Operations Phase.” The inspectors reviewed selected procedures and records,
+observed activities, and interviewed personnel to assess licensee performance and compliance
+with Commission rules and regulations, license conditions, site procedures, and standards.
+
+RADIATION SAFETY
+
+71124.01 - Radiological Hazard Assessment and Exposure Controls
+
+Radiological Hazard Assessment (IP Section 03.01) (1 Sample)
+
+    (1)    The inspectors evaluated how the licensee identifies the magnitude and extent of
+           radiation levels, identifies the concentrations and quantities of radioactive materials,
+           and assesses radiological hazards.
+
+Instructions to Workers (IP Section 03.02) (1 Sample)
+
+    (1)    The inspectors evaluated how the licensee instructs workers on plant-related
+           radiological hazards and the radiation protection requirements intended to protect
+           workers from those hazards.
+
+Contamination and Radioactive Material Control (IP Section 03.03) (2 Samples)
+
+The inspectors observed/evaluated the following licensee processes for monitoring and
+controlling contamination and radioactive material:
+
+
+
+    (1)    licensee surveys of potentially contaminated material leaving the radiologically
+           controlled area
+
+
+                                                3
+    (2)    workers exiting the radiologically controlled area
+
+Radiological Hazards Control and Work Coverage (IP Section 03.04) (3 Samples)
+
+The inspectors evaluated the licensee's control of radiological hazards for the following
+radiological work:
+
+    (1)    tilt pit work activities: During review of tilt pit work activities, the inspectors identified
+           elevated airborne radioactivity levels. Per IMC 0309, “Reactive Inspection Decision
+           Basis for Power Reactors,” the NRC considered whether this inspection sample should
+           be the subject of a reactive inspection and determined that a reactive inspection was
+           not necessary, as documented in ADAMS Nos. ML26063A512 and ML26110A280.
+    (2)    shutdown cooling heat exchanger work activities: During review of shutdown cooling
+           heat exchanger work activities, the inspectors identified elevated airborne radioactivity
+           levels. Per IMC 0309, “Reactive Inspection Decision Basis for Power Reactors,” the
+           NRC considered whether this inspection sample should be the subject of a reactive
+           inspection and determined that a reactive inspection was not necessary, as
+           documented in ADAMS Nos. ML26063A512 and ML26110A280.
+    (3)    preparation for primary system passivation
+
+High Radiation Area and Very High Radiation Area Controls (IP Section 03.05) (3 Samples)
+
+The inspectors evaluated licensee controls of the following high radiation areas (HRAs) and
+very high radiation areas (VHRAs):
+
+    (1)    Locked High Radiation Area (LHRA) for the reactor head laydown area
+    (2)    LHRA controls for the old boronometer room
+    (3)    Walkdowns of HRA posting and controls for passivation
+
+Radiation Worker Performance and Radiation Protection Technician Proficiency (IP Section
+03.06) (1 Sample)
+
+    (1)    The inspectors evaluated radiation worker and radiation protection technician
+           performance as it pertains to radiation protection requirements.
+
+71124.03 - In-Plant Airborne Radioactivity Control and Mitigation
+
+Temporary Ventilation Systems (IP Section 03.02) (1 Sample)
+
+The inspectors evaluated the configuration of the following temporary ventilation systems:
+
+    (1)    South tilt pit
+
+Use of Respiratory Protection Devices (IP Section 03.03) (1 Sample)
+
+    (1)    The inspectors evaluated the licensee’s use of respiratory protection devices.
+
+Self-Contained Breathing Apparatus for Emergency Use (IP Section 03.04) (1 Sample)
+
+    (1)    The inspectors evaluated the licensee’s use and maintenance of self-contained
+           breathing apparatuses.
+
+                                                 4
+71124.04 - Occupational Dose Assessment
+
+Source Term Characterization (IP Section 03.01) (1 Sample)
+
+    (1)    The inspectors evaluated licensee performance as it pertains to radioactive source
+           term characterization.
+
+Internal Dosimetry (IP Section 03.03) (3 Samples)
+
+The inspectors evaluated the following internal dose assessments:
+
+    (1)    Internal dose assessment for PCE 2025-0008
+    (2)    Internal dose assessment performed for condition report 25015324
+    (3)    Lapel air sample results for numerous individuals
+
+INSPECTION RESULTS
+
+ Failure to implement the radiation protection program for work activities with high alpha
+ contamination levels
+ Cornerstone              Significance                    Cross-Cutting Area         Report
+                                                                                     Section
+ Occupational             Green                           Problem Identification     71124.01
+ Radiation Safety         NCV 05000255/2026090-           and Resolution
+                          01
+                          Open/Closed
+ The inspectors identified a Green Finding and associated Non-Cited Violations (NCVs) of
+ T.S 5.4.1, 10 CFR 20.1501, 10 CFR 20.1702, 10 CFR 20.1902 and 10 CFR 20.1101 when the
+ licensee failed to implement its radiation protection program for work activities with high alpha
+ contamination levels.
+ Description:
+
+ During discussions with site personnel and observing fuel handling system work in the tilt pit,
+ the inspectors became aware of recent elevated airborne radioactivity samples, and that
+ additional High Efficiency Particulate Air (HEPA) ventilation was recently installed for the on-
+ going work activities. A review of requested air sample records indicated that on 2/11/26 and
+ 2/13/26, the airborne radioactivity in the tilt pit reached levels of 173 Derived Air
+ Concentration (DAC) and 469 DAC respectively. The tilt pit was posted as an Airborne
+ Radioactivity Area (ARA) and individuals inside the tilt pit were wearing respirators and
+ personal air samplers for internal dosimetry (lapels) in accordance with the Radiation Work
+ Permit (RWP). Support activities were performed by individuals on the floor above and
+ surrounding the tilt pit. Airborne radioactivity levels for this area on 2/11 and 2/13 reached
+ 2.21 DAC and 3.82 DAC respectively. This area was not posted as an ARA and the stop work
+ criteria in this location was 0.3 DAC. Individuals performing support functions in this location
+ were not wearing respirators but were wearing lapel air samplers. Based on this information,
+ the inspectors reviewed aspects of the site’s planning and work control for this work activity.
+
+ This work was controlled under RWP 20250633, Reactor Cavity Fuel Handling Equipment
+ Upgrade. On 9/15/25, after drain down of the tilt pit, a survey was performed to establish
+ radiological conditions. This survey included contamination surveys on the framework and
+ upender, and identified up to 25,510 dpm/100cm2 alpha. This survey was used as the basis
+ for establishing controls in the RWP. This included a calculation to establish expected
+
+                                                 5
+airborne radioactivity levels of 3.95 DAC, an assessment of respiratory protection based on
+the expected levels, and stop work criteria of 500K dpm/100cm2 alpha contamination, and 30
+DAC for airborne radioactivity.
+
+Procedure EN-RP-141, Job Coverage, requires that surveys be sufficient to identify the
+radiological hazards associated with the job being covered. On 2/11/26 maintenance
+personnel entered the tilt pit to work on the tilt pit floor. However, the survey performed on
+9/15/25, which was used to establish the RWP controls, did not include contamination
+surveys of the floor. On 2/13/26 another entry was made into the tilt pit for a radiation
+protection technician to perform a contamination survey and to apply an adhesive fixative to
+tilt pit floor. The contamination survey on the floor taken at this time indicated alpha
+contamination of 6.5 million dpm/100cm2, which is well above the contamination levels from
+the 9/15/25 survey and the stop work criteria of the RWP. This demonstrates that the survey
+performed on 9/15/25 was insufficient to identify the radiological hazard associated with the
+work activities conducted on 2/11/26, and a contamination survey of the floor should have
+been performed prior to allowing worker entry on 2/11/26.
+
+A continuous air monitor (CAM) was in the same room as the work being conducted;
+however, it was not near the work, and the CAM did not detect alpha radiation. As the
+airborne radioactivity was heavily driven by alpha (172 out of 173 DAC and 468 out of 469
+DAC respectively), this monitor did not provide real time airborne radioactivity monitoring for
+this work. In addition, the air samples collected inside the tilt pit and just above the tilt pit were
+taken for the duration of the work each shift and analyzed after work was completed and
+workers had already exited the area. Therefore, there was no real time, or near real time,
+monitoring for airborne radioactivity.
+
+Procedure EN-RP-105, Radiological Work Permits (RWPs), requires documentation of
+planned engineering controls, such as the use of HEPA ventilation. Specifics on engineering
+controls for this work were not identified in the RWP or other planning documents and no
+revisions were made when the existing engineering controls were demonstrated to be
+insufficient, as evidenced by the repeated exceedance of the stop work criteria established in
+the RWP. Initially, a single 125 cfm HEPA unit was installed for the tilt pit. On 2/12/26, a
+second 125 cfm HEPA was installed, and a third 2,500 cfm HEPA unit was installed on or
+around 2/17/26. However, air samples collected during multiple shifts identified that the stop
+work criteria for airborne radioactivity was exceeded. Additional actions, such as wetting the
+tilt pit walls were performed after each exceedance. This continued, unsuccessfully, until the
+conditions were evaluated as an engineering issue and resulted in the construction of a full
+tent erected over the tilt pit. This engineered action increased effectiveness by increasing the
+number of air changeouts in the smaller defined space, while reducing the resuspension of
+particles by reducing the number HEPA units in the tilt pit.
+
+Procedure EN-RP-141, Job Coverage, requires certain actions when initiating stop work
+authority. Specifically, that the Radiation Protection Supervisor, Radiation Protection Manager,
+and outage management must be notified of the stop work and a condition report must be
+initiated. On multiple occasions these communications were not made, and condition reports
+were not generated for instances in which stop work criteria were met. Additionally, although
+the tilt pit was posted as an ARA, the floor above the tilt pit was not. The inspectors reviewed
+records for 2/11 and 2/13 when the air samples taken next to the tilt pit indicated 2.21 DAC
+and 3.82 DAC respectively in this location. Due to the containment equipment hatch being
+near the tilt pit, the area around the tilt pit was frequently occupied by individuals performing
+other work activities. RP-131, Air Sampling, requires certain actions when an air sample
+
+                                                  6
+exceeds 0.3 DAC in an area not already posted and controlled as an ARA. This includes 1)
+stop work, 2) evacuate workers from the area, 3) collect grab samples to determine if airborne
+concentrations are sustained and to identify the source if unknown, 4) inform workers without
+respirators that airborne activity was measured and potential exposures will be evaluated, 5)
+if conditions may still exist or are unknown, post the area as an ARA, 6) notify RP supervision,
+and 7) document the occurrence in the corrective action program. For the elevated levels
+seen on 2/11/26, a grab sample was not taken until approximately eight hours later. For the
+elevated levels seen on 2/13/26, a grab sample was not taken until approximately sixteen
+hours later. Workers were not evacuated from the area or informed of the ARA conditions, the
+area was not posted or controlled as an ARA, and these occurrences were not documented in
+the corrective action program.
+
+The inspectors reviewed another work activity with similar radiological hazards, which was the
+opening and inspection of the shutdown cooling heat exchanger. This activity was covered
+under RWP 20250574, Eddy Current Inspections on E-60B Shutdown Cooling Heat
+Exchanger. This area was posted as an ARA, alpha III, and required respiratory protection
+and lapels for entry. The stop work criteria for these work activities included 200,000 dpm/100
+cm2 alpha contamination and 40 DAC airborne radioactivity inside the enclosure. Initial
+surveys taken upon opening of the heat exchanger on 12/23/25 showed alpha contamination
+in a range of 700 dpm/100cm2 to 9.6 million dpm/100cm2. An air sample taken during this
+evolution showed airborne radioactivity of 56.1 DAC (55.9 DAC from alpha). For this work
+activity, this was the first opportunity RP had to perform surveys to assess radiological
+conditions against those assumed in the RWP. No further entries were made until 12/26/25,
+when RP entered the area to perform decontamination efforts. Post decontamination surveys
+indicated contamination levels below the stop work criteria.
+
+The inspectors reviewed contamination surveys taken in the area during subsequent heat
+exchanger inspections and identified one smear above the stop work criteria for alpha
+contamination, at 680,000 dpm/100 cm2. In addition, the inspectors reviewed air sampling
+records and identified two instances in which the stop work criteria of 40 DAC was exceeded.
+One air sample record was taken on 1/6/26 for the duration of the work activity and indicated
+890 DAC (888 DAC alpha) when analyzed after individuals had left the area. The next air
+sample taken in this location was performed on 1/7/26, during the next work evolution in the
+area, and indicated 6.7 DAC at that time. On 1/9/26, another air sample result indicated
+airborne radioactivity of 61.5 DAC. The next air sample taken in this location was performed
+on 1/10/26, during the next work evolution in the area, and indicated 0.97 DAC at that time.
+The air sample records exceeding the stop work criteria of 40 DAC contained no remarks,
+condition reports were not initiated for exceeding the stop work criteria, and the inspectors did
+not identify any communications and/or actions taken in response to these results. In addition
+to air sample records in the work area, the inspectors reviewed air sample records for the
+area adjacent to the work area, which was not controlled as an ARA or alpha III area,
+therefore no respiratory protection or lapels were required. This area was a staging/support
+area for the heat exchanger work and was frequently occupied. These records showed levels
+that would have required posting and controlling the area as an ARA on several occasions;
+including on 12/29/25 with 5.8 DAC, on 1/6/26 with 1.7 DAC, and on 1/9/26 with 3.8 DAC.
+The inspectors did not identify any condition reports related to these elevated readings and
+could not identify any actions taken by the site in response to the results. The inspectors
+reviewed various other air sample records in nearby locations and individual lapel records
+around the times of these elevated readings and did not identify any instances in which
+occupational dose limits were challenged.
+
+
+                                                7
+Corrective Actions:
+
+The licensee established a review process for upcoming high radiological risk activities to
+validate appropriate controls were planned and executed. In addition, the licensee initiated a
+root cause evaluation to further review the issues and identify appropriate corrective actions.
+
+Corrective Action References: CR 26012884
+Performance Assessment:
+
+Performance Deficiency: The licensee failed to implement and maintain its radiation
+protection program for work activities with high alpha contamination levels. This was
+reasonably within the licensee's ability to foresee and correct and could have been prevented.
+
+Screening and Significance: The inspectors assessed the significance of the finding using
+IMC 0609 Appendix C, “Occupational Radiation Safety SDP” The Performance Deficiency
+(PD) was determined to be more than minor because it resulted in 100 mrem or more of
+unplanned, unintended effective dose to a single individual. Specifically, several lapel air
+sample results from work on the tilt pit indicated internal doses greater than 100 mrem when
+no internal exposure was planned. The PD was determined to be Green because it did not
+involve an overexposure (i.e., no regulatory dose limit was exceeded).
+
+Cross-Cutting Area: Problem Identification and Resolution
+
+The organization did not implement a corrective action program with a low threshold for
+identifying issues. Specifically, the issues with high alpha contamination levels and airborne
+radioactivity were not promptly raised to sufficient levels to initiate timely corrective actions to
+prevent repeated occurrences.
+Enforcement:
+Violations:
+
+Technical Specification (TS) 5.4.1 requires that procedures be established, implemented, and
+maintained covering activities in Regulatory Guide 1.33, Revision 2, Appendix A. RG 1.33,
+Revision 2, Appendix A includes radiation protection procedures for radiation permits,
+radiation surveys, airborne radioactivity monitoring, and contamination control. Contrary to the
+above, from December 2025 through February 2026, the licensee failed to implement
+procedures established in accordance with TS 5.4.1. Specifically, the licensee failed to
+implement portions of EN-RP-141, EN-RP-105, and RP-131 for work activities associated
+with the tilt pit and shutdown cooling heat exchanger.
+
+Title 10 CFR 20.1501 requires that the licensee make or cause to be made surveys of areas
+that may be necessary to comply with the regulations in 10 CFR Part 20 and are reasonable
+under the circumstances to evaluate the potential radiological hazards of radiation levels and
+residual radioactivity detected. 20.1701 requires the licensees use, to the extent practical,
+process or other engineering controls to control the concentration of radioactive material in
+air. Contrary to the above, from December 2025 through February 2026, the licensee failed to
+perform adequate surveys to comply with the regulations in 20.1701. Specifically, over
+different radiological work activities, the licensee failed to assess contamination and airborne
+radioactivity measurements to ensure that the established process and engineering controls
+would be/were sufficient.
+
+
+
+                                                  8
+Title 10 CFR 20.1702 requires, in part, that when it is not practical to apply process or other
+engineering controls to control the concentrations of radioactive material in the air to values
+below those that define an ARA, the licensee shall increase monitoring and limit intakes by
+use of controls. Contrary to the above, From December 2025 through February 2026, the
+licensee failed to control areas not maintained below the levels of an ARA. Specifically, the
+areas around the tilt pit and shutdown cooling heat exchanger indicated airborne radioactivity
+above the ARA threshold and no action were taken by the licensee to control these areas.
+
+Title 10 CFR 20.1902 requires that licensees post each ARA with a conspicuous sign or signs
+bearing the radiation symbol and the words “CAUTION (or DANGER), AIRBORNE
+RADIOCTIVITY AREA”. Contrary to the above, on multiple occasions between December
+2025 and February 2026, the licensee failed to post ARAs around the tilt pit and shutdown
+cooling heat exchanger.
+
+Title 10 CFR 20.1101 requires that each licensee develop, document, and implement a
+radiation protection program commensurate with the scope and extent of licensed activities
+and sufficient to ensure compliance with the provisions of this part. Contrary to the above,
+from December 2025 to February 2026, the licensee did not develop, document, and
+implement a radiation program commensurate with the scope and extent of licensed activities
+and sufficient to ensure compliance with the provisions of 10 CFR Part 20. Specifically, the
+licensee’s radiological source term has changed significantly enough that the established
+protocols did not adequately address managing the alpha contamination levels or establishing
+adequate administrative and engineering controls.
+
+Enforcement Action: These violations are being treated as non-cited violations, consistent
+with Section 2.3.2 of the Enforcement Policy.
+
+
+Failure to Monitor Internal Dose
+Cornerstone                 Significance                  Cross-Cutting Area     Report
+                                                                                 Section
+Occupational Radiation   Green                           Human                   71124.04
+Safety                   NCV 05000255/2026090-02 Performance
+                         Open/Closed
+The NRC identified a Green finding and associated Non-Cited Violation (NCV) of 10 CFR
+20.1502 when the licensee failed to assess internal dose for various individuals in elevated
+airborne areas.
+
+
+Description:
+
+The inspectors reviewed all lapel results for individuals performing work activities in and
+around the tilt pit on February 11 and 13, 2026, when general area air samples identified
+elevated airborne radioactivity. Lapels are personal air samplers that monitor the breathing
+zone of workers and are a dosimeter used to assess the internal dose, Committed Effective
+Dose Equivalent (CEDE), received by intake of radioactive material.
+The licensee’s procedures for internal monitoring include the following:
+
+   1. EN-RP-122, Alpha monitoring, requires that lapels be used by each individual involved
+      in work activities in alpha level 3 areas.
+
+
+                                               9
+   2. RP-131, Air Sampling, requires 1) that if the final activity of a lapel is equal to or
+      greater than the activity corresponding to 10 mrem CEDE, perform a lapel CEDE
+      Calculation per RP-203, Dose Assessment, and to contact the RP supervisor to
+      evaluate the CEDE and 2) that an assessment of potential doses be performed for
+      workers in an ARA without respiratory protection.
+   3. RP-203, Dose Assessments, requires various actions related to internal dose
+      assessment, including: 1) a worker’s dosimetry record be updated if the calculated
+      dose is 10 mrem or more, 2) for calculations greater than or equal to 100 mrem
+      CEDE, bioassays must be initiated and a condition report must be written and 3) the
+      results of the CEDE calculation must be forwarded to the dosimetry supervisor for
+      review.
+
+Three lapel results reviewed by the inspectors indicated a CEDE greater than the site's
+investigation threshold of 10 mrem CEDE (20 mrem, 48 mrem, and 311 mrem CEDE). The
+licensee annotated these results with handwritten notes indicating the samples were cross
+contaminated and referenced a worksheet. The worksheet showed the relative amount of
+activity on each half and/or quarter of a lapel to try to identify if it was cross contamination or
+a true measurement of the amount of airborne radioactive material within the breathing zone
+of the worker. The worksheet included gross activity, but there was no evaluation of the data,
+and the process is not described in site procedures. The worksheet provided to the inspectors
+included a total of 29 lapel results, since January 1, 2026, all of which had exceeded the
+10 mrem CEDE investigation threshold.
+
+Using the data provided in the worksheet, the inspectors requested the results of an
+additional four lapels for review. One of the lapels was from work removing the reactor vessel
+head gasket on 1/9/26 with a result of 257 mrem CEDE. Two of the lapels were from work on
+1/10/26 for installing the reactor vessel head o-ring with doses of 150 mrem and 223 mrem
+CEDE. The fourth lapel was from housekeeping activities in the West Engineering Safeguards
+room on 2/10/26 with a dose of 690 mrem CEDE. Based on a review of the information
+provided to the inspectors and discussion with site staff in February and March 2026, none of
+the requirements in RP-203, for performing dose estimates, were completed for any of the
+lapel results greater than 10 mrem CEDE that were referenced on the worksheet.
+In addition, the inspectors identified air sample results in the area around the tilt pit, meeting
+the definition of an ARA on February 11 & 13 of 2026. In addition to the individuals directly
+supporting the work in the tilt pit, individuals would have been present in the area without
+lapels or respiratory protection. For example, the containment equipment hatch, which was
+the routine entry/exit point for containment, was near the tilt pit and routinely had individuals
+in this area. An assessment of potential doses for these individuals was not performed in
+accordance with RP-131, Air Sampling.
+
+The licensee’s prospective evaluation for determining if individuals are likely to receive
+internal dose to such a degree that internal monitoring is required has determined that
+internal monitoring is generally not required. However, the inspectors determined that this
+evaluation was based on historical radiological conditions and work activities that did not
+reflect the radiological conditions for the work activities reviewed. In addition, the prospective
+evaluation states that dose evaluations for unusual/unanticipated exposure events would
+constitute required monitoring, consistent with Regulatory Guide 8.34, Monitoring Criteria and
+Methods to Calculate Occupational Radiation Doses. Therefore, the inspectors determined
+that for the instances reviewed, monitoring was required. 10 CFR Part 20 defines monitoring
+as the measurement of radiation levels, concentrations, surface area concentrations or
+quantities of radioactive material and the use of the results of these measurements to
+
+                                                10
+evaluate potential exposure and doses. Although the licensee had provided internal dosimetry
+in the form of lapels, they failed to use the results of those measurements; and therefore, did
+not provide monitoring.
+
+Corrective Actions:
+The licensee performed an extent of condition from November 2025 forward to identify what
+lapel air sample results needed evaluations and has started these evaluations. In addition,
+the licensee conducted a root cause evaluation to identify appropriate corrective actions to
+address procedural and programmatic issues.
+
+Corrective Action References: CR 26012884
+Performance Assessment:
+
+Performance Deficiency: The licensee failed to monitor internal dose for individuals impacted
+by elevated airborne radioactivity in accordance with established procedures. Specifically, on
+numerous occasions from January 2026 to March 2026, the licensee failed to 1) assess the
+potential doses to workers in unposted ARAs in accordance with EN-RP-131, Air Sampling,
+and 2) perform internal dose evaluations on individuals for whom their internal dosimetry
+results exceeded the activity level that would equate to 10 mrem CEDE, in accordance with
+RP-131, Air Sampling, and EN-RP-203, Dose Assessment. This was reasonably within the
+licensee's ability to foresee and correct and could have been prevented.
+
+Screening and Significance: The inspectors assessed the significance of the finding using
+IMC 0609 Appendix C, “Occupational Radiation Safety SDP” The Performance Deficiency
+(PD) was determined to be more than minor because there was a failure of the personnel
+monitoring radiation protection program barrier. Specifically, there were program deficiencies
+that resulted in a failure to account for exposures that exceeded, or could have exceeded, an
+acute intake of radionuclides greater than 0.02 annual limit on intake (ALI) per individual
+(which equates to 100 mrem CEDE), meeting the definition of a compromised ability to
+assess dose. The PD was determined to be Green because it did not involve an
+overexposure (i.e., no regulatory dose limit was exceeded).
+
+Cross-Cutting Area: Human Performance
+
+The licensee failed to follow processes and procedures for assessing internal dose.
+
+
+Enforcement:
+
+Violation:
+10 CFR 20.1502 requires, in part, that licensees monitor exposure to radiation and
+radioactive material at levels sufficient to demonstrate compliance with occupational dose
+limits of 10 CFR Part 20. At a minimum, each licensee shall monitor the occupational intake of
+radioactive material by and assess the CEDE to adults likely to receive an intake in excess of
+10 percent of the Annual Limit of Intake. Contrary to the above, from January 1, 2026 to
+February 23, 2026, the licensee failed to monitor the occupational intake of radioactive
+material by and assess the CEDE to multiple individuals for whom monitoring was required.
+
+Enforcement Action: This violation is being treated as a non-cited violation, consistent with
+Section 2.3.2 of the Enforcement Policy.
+
+
+                                               11
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •   On March 20, 2026, the inspectors presented the preliminary results to
+       Michael Schultheis, Site Vice President, and other members of the licensee staff.
+   •   On August 12, 2026, the inspectors presented the final inspection results to
+       Michael Schultheis, Site Vice President, and other members of the licensee staff.
+
+
+
+
+                                               12
+DOCUMENTS REVIEWED
+
+Inspection   Type                       Designation        Description or Title                           Revision or
+Procedure                                                                                                 Date
+71124.01     Corrective Action          25015255           Individual Received Dose Alarm                 12/16/2025
+             Documents                  25015324           Working Through Fault Alarm                    12/18/2025
+                                        25015327           Worker in LHRA with No SRD                     12/18/2025
+                                        26010125           LHRA Discovered Unlocked                       01/06/2026
+             Corrective Action          26012832           RWP 2025-0633 revision 3 documentation is      03/19/2026
+             Documents Resulting from                      missing from RWP package
+             Inspection                 26012847           Contamination Survey Not Found                 03/19/2026
+                                        26012848           Posting Discrepancy Identified during NRC      03/19/2026
+                                                           Inspection
+                                        26012851           Guidance on Stop Work Authority In             03/19/2026
+                                                           EN-RP-141, Job Coverage
+                                        26012853           Condition Report Not Generated When RWP        03/19/2026
+                                                           Stop Work Criteria Met
+                                        26012884           Radiation Protection Program Not Effectively   03/20/2026
+                                                           Maintained to Account for Changes for Alpha
+                                                           Contamination
+             Miscellaneous              EN-RP-503,         Methodology For Estimating Airborne            0
+                                        Attachment 9.11    Radioactivity for RWP 20250633
+                                        EN-RP-503,         Methodology for Estimating Airborne            0
+                                        Attachment 9.11    Radioactivity for RWP 20250574
+                                        EN-RP-503,         TEDE-ALARA Evaluation Screening                0
+                                        Attachment 9.12    Worksheet for RWP 20250633
+                                        EN-RP-503,         TEDE-ALARA Evaluation Screening                0
+                                        Attachment 9.12    Worksheet for RWP 20250574
+             Procedures                 EN-RP-122          Alpha Monitoring                               10
+                                        EN-RP-141          Job Coverage                                   10
+                                        EN-RP-304          Operation of Counting Equipment                6
+                                        RP-105             Radiological Work Permits                      0
+
+
+
+
+                                                      13
+                    RP-108             Radiation Protection Posting      0
+                    RP-131             Air Sampling                      0
+Radiation Surveys   2025-1784          South Tilt Pit                    09/15/2025
+                    2025-2405          West Engineered Safeguards Heat   12/23/2025
+                                       Exchanger Bolt Removal
+                    2025-2410          West Engineered Safeguards Heat   12/23/2025
+                                       Exchanger Breach
+                    2025-2421          E-60B Pre/Post Decon              12/26/2025
+                    2025-2425          E-60B Eddy Current Set Up         12/27/2025
+                    2025-2436          E-60B Eddy Current                12/30/2025
+                    2025-2442          E-60B Tube Plugging               01/6/2026
+                    2026-0006          E-60B Eddy Current Activities     01/02/2026
+                    2026-0060          E-60B Downpost                    01/10/2026
+                    AS-010726-020773   Air Sample for West Engineered    01/06/2026
+                                       Safeguards
+                    AS-010726-020774   Air Sample for East Engineered    01/06/2026
+                                       Safeguards
+                    AS-010926-021123   Air Sample for East Engineered    01/09/2026
+                                       Safeguards
+                    AS-011026-021213   Air Sample for West Engineered    01/100/26
+                                       Safeguards
+                    AS-021126-024278   Air Sample Inside Tilt Pit        02/11/2026
+                    AS-021126-024280   Air Sample Top Side of Tilt Pit   02/11/2026
+                    AS-021226-024350   Air Sample Top Side of Tilt Pit   02/12/2026
+                    AS-021326-024446   Air Sample Inside Tilt Pit        02/13/2026
+                    AS-021326-024447   Air Sample Top Side of Tilt Pit   02/13/2026
+                    AS-021426-024501   Air Sample Top Side of Tilt Pit   02/14/2026
+                    AS-122325-022905   Air Sample for West Engineered    12/23/2025
+                                       Safeguards for end bell removal
+                    AS-122325-022913   Air Sample for West Engineered    12/23/2025
+                                       Safeguards for End Bell Removal
+                                       Entrance
+                    AS-122325-022914   Air Sample for East Engineered    12/23/2025
+                                       Safeguards for End Bell Removal
+
+
+
+                                14
+                                           AS-122925-023112     Air Sample in East Engineered              12/29/2025
+                                                                Safeguards
+           Radiation Work Permits (RWPs)   20250431             Spent Fuel Side South Tilt Pit and         0-3
+                                                                Transfer Tube Decon, Entries for
+                                                                Carriage Removal
+                                           20250574             Eddy Current Inspections on E-60B          0-1
+                                                                Shutdown Cooling Heat Exchanger
+                                           20250633             Reactor Cavity Fuel Handling Equipment     0-6
+                                                                Upgrade
+71124.03   Miscellaneous                   N/A                  Respiratory Protection Training, Medical   02/10/2026
+                                                                Physical, and Fit Testing Qualifications
+                                           RA-001, Attachment   SCBA Flow Checks                           06/25/2025
+                                           1
+                                           WI-RSD-T-008,        SCBA Inspection Log for January 2026       01/29/2026
+                                           Attachment 1
+           Procedures                      EN-RP-505            PortaCount Respirator Fit Testing          9
+                                           RP-502               Inspection and Maintenance of              0
+                                                                Respiratory Protection Equipment
+           Work Orders                     00600142             Analysis of Scott Liberty One Breathing    01/05/2026
+                                                                Air System
+71124.04   Miscellaneous                   AS-011026-021199     Lapel Air Sample Result                    01/10/2026
+                                           AS-011126-021278     Lapel Air Sample Result                    01/11/2026
+                                           AS-011126-021286     Lapel Air Sample Result                    01/11/2026
+                                           AS-021126-024232     Lapel Air Sample Result                    02/11/2026
+                                           AS-021126-024269     Lapel Sample Report                        02/11/2026
+                                           AS-021126-024273     Lapel Sample Report                        02/11/2026
+                                           AS-021126-024277     Lapel Sample Report                        02/11/2026
+                                           AS-021126-024287     Lapel Sample Report                        02/11/2026
+                                           AS-021126+024276     Lapel Sample Report                        02/11/2026
+                                           AS-021326-024448     Lapel Sample Report                        02/13/2026
+                                           AS-021326-024449     Lapel Sample Report                        02/13/2026
+                                           AS-021326-024449     Lapel Sample Report                        02/13/2026
+                                           AS-021326-024460     Lapel Sample Report                        02/13/2026
+                                           AS-121725-022233     Lapel Air Sample Result                    12/17/2025
+
+
+
+                                                      15
+             N/A           PCE 2025-0008 Internal Dose       0
+                           Assessment Package
+             N/A           Whole Body Count Records for CR   12/17-
+                           25015324                          18/2026
+Procedures   RP-201        Dosimetry Administration          0
+             RP-203        Dose Assessments                  0
+
+
+
+
+                      16
+

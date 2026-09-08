@@ -1,0 +1,151 @@
+                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+
+
+
+
+                                           December 18, 2025
+Mike Mlynarek
+Site Vice President
+Holtec Decommissioning International, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Highway
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – CYBER SECURITY INSPECTION REPORT
+               05000255/2025405
+
+Dear Mike Mlynarek:
+
+On September 10, 2025, the U.S. Nuclear Regulatory Commission (NRC) completed an
+inspection at Palisades Nuclear Plant and discussed the results of this inspection with you and
+other members of your staff. The results of this inspection are documented in the enclosed
+report.
+
+Due to the temporary cessation of government operations, which commenced on
+October 01, 2025, the NRC began operating under its Office of Management and
+Budget-approved plan for operations during a lapse in appropriations. Consistent with that plan,
+the NRC operated at a reduced staffing levels throughout the duration of the shutdown.
+However, the NRC continued to perform critical health and safety functions and make progress
+on other high-priority activities associated with the ADVANCE Act and Executive Order 14300.
+On November 13, 2025, following the passage of a continuing resolution, the NRC resumed
+normal operations. However, due to the 43-day lapse in normal operations, the Office of Nuclear
+Reactor Regulation granted the Regional Offices an extension on the issuance of the calendar
+year 2025 inspection reports that should have been issued by November 13, 2025, to
+December 31, 2025. The NRC resumed the routine cycle of issuing inspection reports on
+November 13, 2025.
+
+No findings or violations of more than minor significance were identified during this inspection.
+
+This letter will be made available for public inspection and copying at
+http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document Room in
+accordance with Title 10 of the Code of Federal Regulations 2.390, “Public Inspections,
+Exemptions, Requests for Withholding.”
+
+
+
+
+ Enclosure(s) transmitted herewith contain(s) SUNSI. When separated from enclosure(s), this
+                            transmittal document is decontrolled.
+
+                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+
+M. Mlynarek                                    2
+
+The enclosed report contains Security-Related Information, so the enclosed report
+will not be made publicly available in accordance with Title 10 of the Code of Federal
+Regulations (10 CFR) 2.390(d)(1). If you choose to provide a response that contains
+Security-Related Information, please mark your entire response “Security-Related
+Information–Withhold from public disclosure under 10 CFR 2.390” in accordance with
+10 CFR 2.390(d)(1) and follow the instructions for withholding in 10 CFR 2.390(b)(1).
+The NRC is waiving the affidavit requirements for your response in accordance with
+10 CFR 2.390(b)(1)(ii).
+
+                                              Sincerely,
+                                                                    Sanchez Santiago, Elba signing on behalf
+                                                                    of Gilliam, Jasmine
+                                                                    on 12/18/25
+
+
+                                              Jasmine A. Gilliam, Chief
+                                              Engineering Branch 2
+                                              Division of Operating Reactor Safety
+
+Docket No. 05000255
+License No. DPR-20
+
+Enclosure:
+As stated
+
+cc: S. Summers, Site Security Manager
+     Palisades Nuclear Plant
+    T. R. Wentworth, State Liaison Officer,
+     State of Michigan
+
+cc w/o encl: Distribution via LISTSERV®
+
+
+
+
+ Enclosure(s) transmitted herewith contain(s) SUNSI. When separated from enclosure(s), this
+                            transmittal document is decontrolled.
+
+                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+                  OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+
+M. Mlynarek                                       3
+
+Letter to Mike Mlynarek from Jasmine A. Gilliam dated December 18, 2025.
+
+SUBJECT:          PALISADES NUCLEAR PLANT – CYBER SECURITY INSPECTION REPORT
+                  05000255/2025405
+
+DISTRIBUTION w/encl:
+Brian Yip
+Kim Lawson-Jenkins
+Glenn Dentel
+Daniel Bacon
+Jack Giessner
+Mohammed Shuaibi
+Fanta Sacko
+SOSBInspRptDistro@usnrc.onmicrosoft.com
+
+DISTRIBUTION w/o encl:
+Rodney Clagg
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Jack Giessner
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+John Pelchat
+Deborah Piskura
+Jared Heck
+Jennifer Dalzell
+R3-DORS
+
+
+
+Non-Public Designation Category: MD 3.4 Non-Public A.3
+ADAMS ACCESSION NUMBER: ML25351A274 (Cover letter w/ enclosure(s))
+ADAMS ACCESSION NUMBER: ML25351A275 (Cover letter)
+ Entire Report:                 ☐ Non-Sensitive                    ☐ Publicly Available
+ ☐ SUNSI Review                 ☐ Sensitive                        ☐ Non-Publicly Available
+ Cover Letter Only:             ☒ Non-Sensitive                    ☒ Publicly Available
+ ☒ SUNSI Review                 ☐ Sensitive                        ☐ Non-Publicly Available
+ OFFICE            RIII         RIII
+ NAME              KFay for     ESanchez
+                   ADahbur:sw   Santiago for
+                                JGilliam
+ DATE              12/18/2025   12/18/2025
+
+                                        OFFICIAL RECORD COPY
+
+
+
+
+ Enclosure(s) transmitted herewith contain(s) SUNSI. When separated from enclosure(s), this
+                            transmittal document is decontrolled.
+
+                  OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+

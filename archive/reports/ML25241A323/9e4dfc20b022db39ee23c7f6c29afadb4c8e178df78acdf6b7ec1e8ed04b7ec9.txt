@@ -1,0 +1,293 @@
+                                           September 2, 2025
+Mike Mlynarek
+Site Vice President
+Palisades Energy, LLC
+27780 Blue Star Memorial Highway
+Covert, MI 49043
+
+SUBJECT:       PALISADES NUCLEAR PLANT - EMERGENCY PREPAREDNESS BIENNIAL
+               EXERCISE INSPECTION REPORT 05000255/2025501
+
+Dear Mike Mlynarek:
+
+On July 31, 2025, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection at
+Palisades Nuclear Plant and discussed the results of this inspection with you and other
+members of your staff. The results of this inspection are documented in the enclosed report.
+
+No violations were identified during this inspection.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the Reactor
+Vessel,” (ADAMS Accession No. ML22164A067). On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations at
+Palisades (ADAMS Accession No. ML23271A140). On July 24, 2025, the NRC approved an
+exemption from the requirements of 10 CFR 50.82(a)(2), as detailed in the letter, “Palisades
+Nuclear Plant - Exemption from the Requirements of 10 CFR 50.82(a)(2) Concerning the
+Prohibition to Operate and Emplace Fuel in the Reactor Vessel,” (ADAMS Accession No.
+ML25163A182).
+M. Mlynarek                                     2
+
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Kutlesa, Jure signing on behalf
+                                                                      of Ziolkowski, Michael
+                                                                      on 09/02/25
+
+
+                                              Michael E. Ziolkowski, Chief
+                                              Security, Emergency Preparedness, and Incident
+                                              Response Branch
+                                              Division of Radiological Safety and Security
+
+Docket No. 05000255
+License No. DPR-20
+
+Enclosure:
+As stated
+
+cc w/ encl: Distribution via LISTSERV
+                                             3
+
+
+Letter to M. Mlynarek from M. Ziolkowski dated September 2, 2025.
+
+SUBJECT:      PALISADES NUCLEAR PLANT - EMERGENCY PREPAREDNESS BIENNIAL
+              EXERCISE INSPECTION REPORT 05000255/2025501
+
+DISTRIBUTION:
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Jack Giessner
+Mohammed Shuaibi
+Rodney Clagg
+Diana Betancourt-Roldan
+John Pelchat
+Jared Heck
+Jennifer Dalzell
+R3-DORS
+April Nguyen
+Julie Winslow
+Jefferson Clark
+SOSBInspRptDistro@usnrc.onmicrosoft.com
+
+
+
+
+ADAMS Accession Number: ML25241A323
+ Entire Report:       ☒ Non-Sensitive                               ☒ Publicly Available
+ ☒ SUNSI Review       ☐ Sensitive                                   ☐ Non-Publicly
+                                                                    Available
+ OFFICE    RIII/DRSS        RIII/DRSS
+ NAME      TMcGowan:dc      MZiolkowski
+ DATE      08/29/2025       09/02/2025
+                                 OFFICIAL RECORD COPY
+                        U.S. NUCLEAR REGULATORY COMMISSION
+                                   Inspection Report
+
+
+Docket Number:       05000255
+
+
+License Number:      DPR-20
+
+
+Report Number:       05000255/2025501
+
+
+Enterprise Identifier: I-2025-501-0011
+
+
+Licensee:            Palisades Energy, LLC
+
+
+Facility:            Palisades Nuclear Plant
+
+
+Location:            Covert, MI
+
+
+Inspection Dates:    July 28, 2025, to July 31, 2025
+
+
+Inspectors:          B. Jebbia, Operations Engineer
+                     J. Kutlesa, Sr Emergency Preparedness Inspector
+                     T. McGowan, Emergency Preparedness Inspector
+                     K. Miller, Emergency Preparedness Specialist
+                     J. Quichocho, Branch Chief
+                     V. Myers, Sr Health Physicist
+                     J. Winslow, Sr Project Engineer
+
+
+Approved By:         Michael E. Ziolkowski, Chief
+                     Security, Emergency Preparedness, and Incident Response Branch
+                     Division of Radiological Safety and Security
+
+
+
+
+                                                                               Enclosure
+                                          SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) performed inspections of the licensee’s
+readiness to restart by conducting an emergency preparedness biennial exercise inspection at
+Palisades Nuclear Plant.
+
+                                 List of Findings and Violations
+
+No violations were identified.
+
+                                   Additional Tracking Items
+
+None.
+
+
+
+
+                                               2
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the inspection procedures (IPs) in
+effect at the beginning of the inspection unless otherwise noted. Currently approved IPs with
+their attached revision histories are located on the public website at http://www.nrc.gov/reading-
+rm/doc-collections/insp-manual/inspection-procedure/index.html. The inspectors reviewed
+selected procedures and records, observed activities, and interviewed personnel to assess
+licensee performance and compliance with Commission rules and regulations, license
+conditions, site procedures, and standards.
+
+REACTOR SAFETY
+
+71114.01 - Exercise Evaluation
+
+Exercise Evaluation (1 Sample)
+
+   (1)    The inspectors evaluated the biennial emergency plan exercise and evaluated
+          emergency plan performance on July 29, 2025. The exercise scenario simulated an
+          event at the Palisades Nuclear Plant that initiated with the declaration and notification
+          of an Alert caused by a failure of the Reactor Protection System automatic trip when
+          a Primary Coolant Pump experienced a rapid increase in vibration and tripped on
+          overcurrent. The scenario conditions simulated the escalation of the significance of
+          the event, requiring the declaration of a Site Area Emergency and a General
+          Emergency which was communicated to the required state and local government
+          agencies.
+
+          The inspectors observed and evaluated the exercise at the site’s emergency
+          response facilities, including the Control Room Simulator, the Technical Support
+          Center, the Operations Support Center, and the Emergency Operations Facility.
+
+          The inspectors observed that some Emergency Preparedness Implementing
+          Procedures (EPIPs) were not consistent with the Site Emergency Plan. For example,
+          the Technical Support Center (TSC) minimum staffing in the Emergency Plan states
+          that minimum staffing to activate the TSC is 9 personnel. The TSC Activation
+          Procedure (EI-4.1) is unclear in defining minimum staffing requirements. During the
+          exercise the licensee staffed the TSC to the Emergency Plan required minimum
+          staffing. The licensee entered this issue into their corrective action program as CR
+          25011215. The NRC will inspect this issue during a future program/baseline
+          inspection.
+
+          The inspectors observed that the Emergency Response Data System (ERDS) was
+          activated during the exercise, however data transmission to the NRC was not
+          functioning. The licensee entered this issue into their corrective action program as CR
+          25006740. The NRC will inspect this issue during a future program/baseline
+          inspection.
+
+
+
+
+                                                3
+          During the inspection, the inspectors verified the licensee has developed and is
+          implementing an emergency preparedness program that effectively protects the
+          public health and safety. The inspectors familiarized themselves with relevant
+          documentation which may include but is not limited to the licensee's emergency plan
+          and site-specific and/or corporate implementing procedures.
+
+          The inspectors reviewed the licensee plans:
+             • for a standard emergency classification and action level scheme, the bases of
+                 which include facility system and effluent parameters, is in use by the nuclear
+                 facility licensee, and State and local response plans call for reliance on
+                 information provided by facility licensees for determinations of minimum initial
+                 offsite response measures;
+             • that procedures have been established for notification, by the licensee, of
+                 State and local response organizations and for notification of emergency
+                 personnel by all organizations; the content of initial and follow-up messages to
+                 response organizations and the public has been established;
+             • that adequate methods, systems, and equipment for assessing and monitoring
+                 actual or potential offsite consequences of a radiological emergency condition
+                 are in use;
+             • that a range of protective actions has been developed for the plume exposure
+                 pathway EPZ for emergency workers and the public. In developing this range
+                 of actions, consideration has been given to evacuation, sheltering, and, as a
+                 supplement to these, the prophylactic use of potassium iodide (KI), as
+                 appropriate. Evacuation time estimates have been developed by the licensee.
+                 Guidelines for the choice of protective actions during an emergency,
+                 consistent with Federal guidance, are developed and in place, and protective
+                 actions for the ingestion exposure pathway EPZ appropriate to the locale have
+                 been developed.
+
+          The inspectors also conducted a review of past emergency preparedness inspection
+          reports for the facility, to a level which provides assurance that the licensee is
+          meeting or prepared to meet the NRC regulatory requirements within the emergency
+          preparedness program area being inspected.
+
+71114.08 - Exercise Evaluation - Scenario Review
+
+Exercise Evaluation - Scenario Review (1 Sample)
+
+   (1)    The inspectors reviewed and evaluated the proposed scenario for biennial
+          emergency plan exercise on June 11, 2025.
+
+INSPECTION RESULTS
+
+No violations were identified.
+
+
+
+
+                                               4
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •   On July 31, 2025, the inspectors presented the emergency preparedness biennial
+       exercise inspection results to Mike Mlynarek and other members of the licensee staff.
+
+
+
+
+                                               5
+DOCUMENTS REVIEWED
+ Inspection Type                Designation     Description or Title                                      Revision or
+ Procedure                                                                                                Date
+ 71114.01   Corrective Action   PAL-06740, CR   ERDS Connection to Existing PPC                           04/30/2025
+            Documents           25006740
+            Corrective Action   25011215        NRC Observation During Graded Exercise                    08/13/2015
+            Documents
+            Resulting from
+            Inspection
+            Procedures          EI-4.1          Technical Support Center Activation                       Draft
+                                EI-4.2          Operations Support Center Activation                      Draft
+                                HDI PNP 2022-   Palisades Nuclear Plant 2022 Evacuation Time Estimate     09/07/2022
+                                032             Report
+                                KLD TR – 24-    Palisades Power Plant 2023 Population Update Analysis     08/31/2023
+                                1447
+                                KLD TR – 24-    Palisades Power Plant 2024 Population Update Analysis     08/30/2024
+                                1448
+                                PNP SEP         Palisades Nuclear Plant Site Emergency Plan               Draft
+                                04.07.2025
+                                SEP Supp 1      Site Emergency Plan Supplement 1 - EAL Wall Charts        05/31/2018
+ 71114.08    Miscellaneous      PNP 2025-044    Updated 2025 Palisades Nuclear Plant Emergency Exercise   06/30/2025
+                                                Scenario
+
+
+
+
+                                                           6
+

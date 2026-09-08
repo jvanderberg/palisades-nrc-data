@@ -1,0 +1,453 @@
+                                          September 17, 2025
+Michael Mlynarek,
+Site Vice President,
+Palisades Energy, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Hwy
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2025004
+
+Dear Mr. Michael Mlynarek:
+
+On August 31, 2025, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection
+at the Palisades Nuclear Plant. The enclosed inspection report documents the inspection
+results, which the inspectors discussed on September 9, 2025, with yourself and other members
+of your staff.
+
+No violations of more than minor significance were identified during this inspection.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the Reactor
+Vessel,” (ADAMS Accession No. ML22164A067). On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations
+at Palisades (ADAMS Accession No. ML23271A140).
+
+On July 24, 2025, the NRC approved an exemption from the requirements of
+10 CFR 50.82(a)(2), as detailed in the letter, “Palisades Nuclear Plant – Exemption from
+the Requirements of 10 CFR 50.82(a)(2) Concerning the Prohibition to Operate and
+Emplace Fuel in the Reactor Vessel,” (ADAMS Accession No. ML25163A182) and a set of
+licensing actions supporting reauthorization of Palisades Nuclear Plant. On August 25, 2025,
+Palisades notified the NRC that they rescinded their 10 CFR 50.82(a)(1) certification, which
+removed the prohibition on operation and emplacement of fuel in the reactor (ADAMS
+Accession No. ML25237A317). Palisades also implemented the set of licensing actions
+to support reimplementation of their operational licensing basis.
+
+On August 25, 2025, the NRC transitioned oversight of Palisades to the Reactor Oversight
+Process (ROP).
+M. Mlynarek                                   2
+
+
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Nguyen, April
+                                                                      on 09/17/25
+
+
+
+                                              April M. Nguyen, Lead
+                                              Palisades Restart Team
+                                              Division of Operating Reactor Safety
+
+Docket No. 05000255
+License No. DPR–20
+
+Enclosure:
+As stated
+
+cc: Distribution via LISTSERV®
+M. Mlynarek                                3
+
+
+
+Letter to Michael Mlynarek from April Nguyen dated September 17, 2025.
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2025004
+
+DISTRIBUTION:
+Rodney Clagg
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Jack Giessner
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+John Pelchat
+Jared Heck
+Jennifer Dalzell
+R3-DORS
+
+
+
+
+ADAMS Accession Number: ML25260A036
+                             ☒ Non-Sensitive                       ☒ Publicly Available
+   ☒    SUNSI Review
+                             ☐ Sensitive                           ☐ Non-Publicly Available
+ OFFICE RIII               RIII
+ NAME    JWinslow:anm      ANguyen
+ DATE    09/17/2025        09/17/2025
+
+
+                                     OFFICIAL RECORD COPY
+                         U.S. NUCLEAR REGULATORY COMMISSION
+                                    Inspection Report
+
+
+Docket Number:              05000255
+
+
+License Number:             DPR-20
+
+
+Report Number:              05000255/2025004
+
+
+Enterprise Identifier:      I-2025-004-0065
+
+
+Licensee:                   Palisades Energy, LLC
+
+
+Facility:                   Palisades Nuclear Plant
+
+
+Location:                   Covert, MI
+
+
+Inspection Dates:           July 01, 2025, to August 31, 2025
+
+
+Inspectors:                 P. Cataldo, Senior Reactor Inspector, Region I
+                            K. Fay, Senior Reactor Inspector
+                            L. Flores, Resident Inspector, South Texas Project
+                            N. Floyd, Senior Reactor Inspector, Region I
+                            M. Gangewere, Senior Reactor Inspector
+                            D. Hoang, Civil Engineer
+                            D. Lanyi, Senior Operations Engineer, Region II
+                            J. Mancuso, Senior Resident Inspector
+                            E. Miller, Senior Reactor Inspector
+                            T. Okamoto, Resident Inspector
+                            C. Padilla, Reactor Inspector
+                            J. Park, Senior Reactor Inspector
+                            A. Shaikh, Senior Reactor Inspector
+                            C. Speer, Reactor Systems Engineer
+                            C. St. Peters, Senior Project Engineer
+                            J. Winslow, Senior Project Engineer
+
+
+Approved By:                April M. Nguyen, Lead
+                            Palisades Restart Team
+                            Division of Operating Reactor Safety
+
+
+
+
+                                                                                 Enclosure
+                                        SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) performed inspection activities of the
+licensee’s performance associated with the return to an operational status.
+
+                              List of Findings and Violations
+
+None.
+
+                                Additional Tracking Items
+
+None.
+
+
+
+
+                                             2
+PLANT STATUS
+
+On August 25, 2025, Palisades notified the NRC that they rescinded their 10 CFR 50.82(a)(1)
+certification, which removed the prohibition on operation and emplacement of fuel in the reactor.
+Palisades also implemented the set of licensing actions to support reimplementation of their
+operational licensing basis. On August 25, 2025, the NRC transitioned oversight of Palisades
+to the Reactor Oversight Process (ROP).
+
+The NRC is conducting inspections to evaluate and assess the licensee’s activities for
+restoration to an operating status. The resident inspectors, as well as supplemental inspectors,
+continue to provide daily oversight of the restart activities occurring at the site.
+
+The unit ended the inspection period in a defueled status.
+
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the referenced inspection
+procedures (IPs) in effect at the beginning of the inspection unless otherwise noted.
+Currently approved IPs with their attached revision histories are located on the public website
+at http://www.nrc.gov/reading-rm/doc-collections/insp-manual/inspection-procedure/index.html.
+
+REACTOR SAFETY
+
+71111.04 – Equipment Alignment
+
+Partial Walkdown (IP Section 03.01)
+
+    The inspectors evaluated system configurations during a partial walkdown of the following
+    system/train:
+
+    (1) emergency diesel generator (EDG) 1-2 during maintenance on EDG 1-1
+        on August 6, 2025
+
+71111.07 – Heat Exchanger/Sink Performance
+
+Annual Review (IP Section 03.01)
+
+    The inspectors observed and evaluated the licensee’s inspection and maintenance
+    activities of the following heat exchanger:
+
+    (1) component cooling water (CCW) heat exchanger E-54B from August 12, 2025 through
+        August 22, 2025
+
+
+
+
+                                                3
+71111.08P - Inservice Inspection Activities (PWR)
+
+    From July 1 through August 31, 2025, the inspectors observed and verified the licensee’s
+    nondestructive examination (NDE) and repair/replacement activities of the reactor vessel
+    closure head, Alloy 600 weld mitigation activities, and steam generator tube plugging,
+    stabilization, and sleeving, conducted in accordance with the requirements of the
+    ASME Code Section XI and other guidance documents. The purpose of these inspections
+    was to verify that the reactor coolant system boundary, reactor vessel closure head, steam
+    generators, and risk-significant piping system boundaries are appropriately monitored for
+    degradation. The inspectors also verified that the examination results were thoroughly
+    reviewed and appropriately evaluated, and that required corrective actions to address
+    identified indications and defects are being appropriately implemented. During this quarter,
+    the licensee conducted repair/replacement activities for the reactor vessel closure head,
+    steam generator tubes, and Alloy 600 welds in the primary coolant system and in other
+    areas. Further NRC inspections will monitor repair/replacement activities as they are
+    conducted.
+
+    The inspectors verified that the following NDE and repair/replacement activities were
+    conducted appropriately per the ASME Code or required standard, and that any potential
+    indications and defects were identified and evaluated at the proper thresholds:
+
+Nondestructive Examination and Welding Activities (IP Section 03.01)
+
+    (1) reactor vessel inside surface ultrasonic examination
+
+Vessel Upper Head Penetration Inspection Activities (IP Section 03.02)
+
+   (1) reactor head penetration Alloy 690 nozzle repair welds ultrasonic examinations
+   (2) reactor head vent line repair welding
+
+Steam Generator Tube Inspection Activities (IP Section 03.04)
+
+   (1) steam generators ‘A’ and ‘B’ tube sleeving and eddy current testing
+
+71111.13 – Maintenance Risk Assessments and Emergent Work Control
+
+Risk Assessment and Management (IP Section 03.01)
+
+    The inspectors evaluated the accuracy and completeness of risk assessments for the
+    following planned work activities to ensure configuration changes and appropriate work
+    controls were addressed:
+
+   (1) risk management for work activities with the following equipment out of service:
+       EDG 1-1 maintenance outage; battery charger 1; CCW pump P-52A; fire pump P-9B;
+       and service water pump P-7C during the work week of August 11, 2025
+
+
+
+
+                                               4
+71111.20 – Refueling and Other Outage Activities
+
+Refueling/Other Outage Sample (IP Section 03.01)
+
+The inspectors verified that the following outage activities important to safety were appropriately
+managed:
+
+   (1) control of work activities and foreign material exclusion control during steam generator
+       ‘B’ nozzle dam installation on July 1, 2025
+   (2) primary coolant pump P-50B motor heavy lift activities in containment and spent fuel
+       pool areas during work from July 17, 2025, to August 13, 2025
+   (3) main generator rotor heavy lift and installation activities on August 21, 2025
+
+Additionally, the inspectors verified that the licensee managed fatigue by ensuring workers
+subject to the requirements in 10 CFR 26 Subpart 4 met all the requirements listed therein.
+
+71111.24 – Testing and Maintenance of Equipment Important to Risk
+
+The inspectors evaluated the following testing and maintenance activities to verify
+system operability and/or functionality:
+
+Post-Maintenance Testing (PMT) (IP Section 03.01)
+
+   (1) post-maintenance testing following EDG 1-1 work window during the week of
+       August 11, 2025
+
+Diverse and Flexible Coping Strategies (FLEX) Testing (IP Section 03.02)
+
+   (1) testing of FLEX pump P-990 and FLEX generators K-1 and K-2 on July 29 and 30, 2025
+   (2) testing of FLEX pump P-1003 on August 27, 2025
+
+71114.06 – Drill Evaluation
+
+Additional Drill and/or Training Evolution
+
+    The inspectors observed and evaluated the licensee’s performance during:
+
+       (1) emergency preparedness exercise on July 29, 2025
+
+
+
+
+                                                 5
+OTHER BASELINE ACTIVITIES
+
+71152 – Problem Identification and Resolution
+
+System Return to Service
+
+During the inspection period, the inspectors continued reviews of Phases I and II of the
+licensee’s system return to service (SRTS) plans. The SRTS plans document licensee activities
+to verify that the configuration and condition of systems, structures, and components (SSCs)
+are consistent with the design and licensing bases to support potential restart. The inspectors
+reviewed Phases I and II of the SRTS plans, which include areas such as licensing and
+design-basis functions, system material conditions, reviewing open and deferred work
+prior to shutdown, and program applicability. The inspectors conducted these reviews using
+IP 71152, “Problem Identification and Resolution,” and IP 71111.21M, “Comprehensive
+Engineering Team Inspection (CETI),” as applicable.
+
+The inspectors commenced reviews of the SRTS plans for the following systems:
+
+   •   datalogger
+
+The inspectors completed initial reviews of the SRTS plans for the following systems:
+
+   •   alternate shutdown panel
+   •   containment isolations and penetrations
+   •   containment air coolers
+   •   digital electro-hydraulic controls
+   •   emergency lighting
+   •   spent fuel pool and auxiliary building HVAC
+
+These systems were selected based on the importance of the SSCs during normal and
+emergency plant operating conditions, risk significance and defense-in-depth of the SSC’s
+specific functions and required work/modifications of the SSCs scheduled prior to potential
+restart.
+
+The inspectors evaluated the initial SRTS plans for each system to identify if planned licensee
+activities will verify that the configuration and condition of the SSCs are consistent with the
+proposed operational design and licensing bases to support restart and verify readiness of the
+SSCs to support a return to service. The inspectors noted that the SRTS plans are intended to
+be living documents with a phased approach to SRTS. As the licensee progresses through
+the SRTS phases, the SRTS plans will undergo additional reviews by NRC inspectors to ensure
+appropriate SSC restoration and operability/functionality.
+
+INSPECTION RESULTS
+
+No additional inspection results.
+
+
+
+
+                                                6
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •   On September 9, 2025, the inspectors presented the inspection results to M. Mlynarek,
+       Site Vice President, and other members of the licensee staff.
+
+
+
+
+                                               7
+DOCUMENTS REVIEWED
+
+Inspection Type                Designation       Description or Title                                        Revision or
+Procedure                                                                                                    Date
+71111.04   Procedures          SOP-22            Emergency Diesel Generators                                 85
+71111.07A Corrective Action    25011445          E-54B ECT Possibly Affected by Tube Cleanliness             08/20/2025
+           Documents
+71111.08P Corrective Action    25010690          RVCH UT Inspection Results                                  07/26/2025
+           Documents           CR 2024-3591      Rejectable PT Indications                                   12/17/2024
+                               CR 2025-1653      Tube 105-112 (row-col) Sleeve Mid Expansion Inadvertently   06/13/2025
+                                                 Performed Twice
+                               CR 2025-1661      Palisades SG A, 05H TSP Sleeve Mid Expansion                06/11/2025
+                                                 Inadvertently Performed Twice
+           NDE Reports         180-9392377-000   Palisades Unit 1 Restart RPV ID Cladding Ultrasonic         0
+                                                 Examination Final Report
+           Procedures          54-ISI-619-001    Automated Ultrasonic Examination of Open Tube RPV           1
+                                                 Closure Head Penetrations - Palisades Specific
+                               PAL 1 D28 ETSS    3-Coil + Point Examination Technique Specification Sheet    0
+                               #2
+71111.13   Corrective Action   25011236          Sinkhole Starting Near Walkway                              08/14/2025
+           Documents
+71111.20   Corrective Action   25011226          Rigging plan change for P-50B Motor installation            08/13/2025
+           Documents           25011481          Main Generator Rotor Rigging Jacket Tear                    08/21/2025
+           Procedures          FHS-M-23          Movement of Heavy Loads in the Spent Fuel Pool Area         42
+                               FHS-M-24          Movement of Heavy Loads in the Containment Building Area    42
+                               MA-314            Movement of Heavy Loads in the Turbine Building             0
+                               RFL-SG-2          S/G Primary Nozzle Dam Installation and Removal             11
+                               WI 00584410-06    Primary Coolant Pump Motor Receipt, Movement, and           06/17/2025
+                                                 Preoperational Checks
+71111.24   Corrective Action   25010759          Working Order Enhancements for FLEX Hale Pump               07/29/2025
+           Documents           25010942          Pin Hole Leak Found on Hale pump P-990                      08/04/2025
+                               25010946          3 Yr FLEX Pump Testing Not Completed                        08/04/2025
+                               25010960          Automatic Load Trip Setting Was Too Low                     08/04/2025
+                               25011229          EDG 1-1 Governor Oil Drop During SOP-22 Testing             08/14/2025
+                               25011239          DBA Load Exhaust Temperatures Missed During MO-7A-1         08/13/2024
+
+
+
+                                                            8
+Inspection   Type                Designation     Description or Title                                       Revision or
+Procedure                                                                                                   Date
+                                 25011267        This CR is to Document the Replacement of EMB-0116D        08/14/2025
+                                                 (Q1) with a Q4 motor
+                                 25011274        CK-DE412 OUTLET FITTING HAS LEAK                           08/14/2025
+                                 25011278        XJ-802 Small Leak ~ 5 Drops A Minute                       08/14/2024
+                                 25011286        Unexpected Alarm EK-0515                                   08/14/2025
+             Procedures          OPS-201         Diverse and Flexible Coping Strategies (FLEX)              0
+                                                 Program Document
+                                 OPS-203         Palisades FLEX Program Document                            0
+                                 SOP-22          Emergency Diesel Generators                                85
+             Work Orders         00583510        FLEX Standby PM: K-1 FLEX Three Year Load Test (FSB A)     08/11/2025
+                                 00583511        FLEX Standby PM: K-2 FLEX Three Year Load Test             08/11/2025
+                                 00583512        FLEX Standby PM: P-990 Three Year Performance Test         08/11/2025
+                                                 (FSB B)
+                                 00583513        FLEX Standby PM: P-1003 Three Year Performance Test        08/27/2025
+                                                 (FSB A)
+71114.06     Corrective Action   25010825        EP Graded Exercise Objective Unsatisfactory                07/30/2025
+             Documents           25010827        EP Graded Exercise Evaluation Criteria, N.2.3, Needs       07/30/2025
+                                                 Improvement
+                                 25010828        EP Graded Exercise Objective Unsatisfactory                07/30/2025
+                                 25010830        EP Graded Exercise Evaluation Criteria Needs Improvement   07/30/2025
+                                 25010833        EP Graded Exercise Evaluation Criteria B.3.2 Needs         07/30/2025
+                                                 Improvement
+                                 25010834        EP Graded Exercise Evaluation Criteria Needs Improvement   07/30/2025
+                                 25010835        EP Graded Exercise Evaluation Criteria I.1.5 Needs         07/30/2025
+                                                 Improvement
+                                 25010837        EP Graded Exercise Objective, K.2 Needs Improvement        07/30/2025
+71152        Miscellaneous       PLP-SRTSP-ASP   Alternate Shutdown Panel                                   0
+                                 PLP-SRTSP-CIS   Containment Isolations and Penetrations (Airlocks)         0
+                                 PLP-SRTSP-CRS   Containment Air Coolers System                             0
+                                 PLP-SRTSP-DEH   Digital Electro-Hydraulic Controls                         0
+                                 PLP-SRTSP-DTA   Datalogger                                                 0
+                                 PLP-SRTSP-ELU   Emergency Lighting                                         0
+                                 PLP-SRTSP-VAS   Spent Fuel Pool and Auxiliary Building HVAC                0
+
+
+
+                                                            9
+

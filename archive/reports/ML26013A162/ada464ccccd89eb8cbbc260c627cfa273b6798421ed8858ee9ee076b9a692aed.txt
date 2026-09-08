@@ -1,0 +1,261 @@
+                                           January 20, 2026
+Michael Mlynarek
+Site Vice President
+Palisades Energy, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Highway
+Covert, MI 49043‑9530
+
+
+SUBJECT:       PALISADES NUCLEAR PLANT - RESTART SECURITY INSPECTION REPORT
+               05000255/2025404
+
+Dear Mike Mlynarek:
+
+On December 8, 2025, the U.S. Nuclear Regulatory Commission (NRC) completed an
+inspection at Palisades Nuclear Plant and discussed the results of this inspection with Dan
+Gagnon, Director of Security, and other members of your staff. The results of this inspection are
+documented in the enclosed report.
+
+No findings or violations of more than minor significance were identified during this inspection.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the Reactor
+Vessel,” (ADAMS Accession No. ML22164A067). On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations at
+Palisades (ADAMS Accession No. ML23271A140).
+
+On July 24, 2025, the NRC approved an exemption from the requirements of 10 CFR
+50.82(a)(2), as detailed in the letter, “Palisades Nuclear Plant - Exemption from the
+Requirements of 10 CFR 50.82(a)(2) Concerning the Prohibition to Operate and Emplace Fuel
+in the Reactor Vessel,” (ADAMS Accession No. ML25163A182) and a set of licensing actions
+supporting reauthorization of Palisades Nuclear Plant. On August 25, 2025, Palisades notified
+the NRC that they rescinded their 10 CFR 50.82(a)(1) certification, which removed the
+prohibition on operation and emplacement of fuel in the reactor (ADAMS Accession No.
+ML25237A317). Palisades also implemented the set of licensing actions to support
+reimplementation of their operational licensing basis.
+M. Mlynarek                                     2
+
+
+On August 25, 2025, the NRC transitioned oversight of Palisades to the Reactor Oversight
+Process (ROP).
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Ziolkowski, Michael
+                                                                      on 01/20/26
+
+
+
+                                              Michael E. Ziolkowski, Chief
+                                              Security, Emergency Preparedness, and Incident
+                                              Response Branch
+                                              Division of Radiological Safety and Security
+
+Docket No. 05000255
+License No. DPR-20
+
+Enclosure:
+As stated
+
+cc w/ encl: Distribution via LISTSERV
+M. Mlynarek                                  3
+
+
+Letter to M. Mlynarek from M. Ziolkowski dated January 20, 2026.
+
+SUBJECT:      PALISADES NUCLEAR PLANT - RESTART SECURITY INSPECTION REPORT
+              05000255/2025404
+
+DISTRIBUTION:
+Rodney Clagg
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+Deborah Piskura
+Shelbie Lewman
+Jennifer Dalzell
+April Nguyen
+Julie Winslow
+R3-DORS
+Jefferson Clark
+SOSBInspRptDistro@usnrc.onmicrosoft.com
+
+
+
+
+ADAMS ACCESSION NUMBER: ML26013A162
+        SUNSI                  ☒     Non-Sensitive             ☒   Publicly Available
+  ☒
+        Review                      Sensitive                    Non-Publicly Available
+ OFFICE       RIII/DRSS       RIII/DRSS
+ NAME         KMaloney:dc     MZiolkowski
+ DATE         01/15/2026      01/20/2026
+                                 OFFICIAL RECORD COPY
+                        U.S. NUCLEAR REGULATORY COMMISSION
+                                   Inspection Report
+
+
+Docket Number:       05000255
+
+
+License Number:      DPR-20
+
+
+Report Number:       05000255/2025404
+
+
+Enterprise Identifier: I-2025-404-0013
+
+
+Licensee:            Holtec Decommissioning International, LLC
+
+
+Facility:            Palisades Nuclear Plant
+
+
+Location:            Covert, MI
+
+
+Inspection Dates:    June 16, 2025, to December 08, 2025
+
+
+Inspectors:          K. Hussar, Sr Physical Security Inspector, RGN I
+                     S. Cavanaugh, Physical Security Inspector, RGN III
+                     K. Maloney, Sr Physical Security Inspector, RGN III
+
+
+Approved By:         Michael E. Ziolkowski, Chief
+                     Security, Emergency Preparedness, and Incident Response Branch
+                     Division of Radiological Safety and Security
+
+
+
+
+                                                                               Enclosure
+                                           SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) continued monitoring the licensee’s
+performance by conducting a Restart Security Inspection at Palisades Nuclear Plant, in
+accordance with the Reactor Oversight Process. The Reactor Oversight Process is the NRC’s
+program for overseeing the safe operation of commercial nuclear power reactors. Refer to
+https://www.nrc.gov/reactors/operating/oversight.html for more information.
+
+                                List of Findings and Violations
+
+No findings or violations of more than minor significance were identified.
+
+                                   Additional Tracking Items
+
+None.
+
+
+
+
+                                                2
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the inspection procedures (IPs)
+in effect at the beginning of the inspection unless otherwise noted. Currently approved IPs with
+their attached revision histories are located on the public website at
+http://www.nrc.gov/readingrm/doc-collections/insp-manual/inspection-procedure/index.html.
+Samples were declared complete when the IP requirements most appropriate to the inspection
+activity were met consistent with Inspection Manual Chapter (IMC) 2562, “Light-Water Reactor
+Inspection Program for Restart of Reactor Facilities Following Permanent Cessation of Power
+Operations,” which states, in part, that the U.S. Nuclear Regulatory Commission (NRC) will
+ensure that operational readiness has been reasonably verified across the reactor oversight
+process (ROP) cornerstones of safety and security.
+
+OTHER ACTIVITIES - TEMPORARY INSTRUCTIONS, INFREQUENT AND ABNORMAL
+
+81000.04 - Equipment Performance, Testing, and Maintenance
+
+The inspectors evaluated the equipment performance, testing and maintenance program
+through completion of the following procedure elements:
+
+Equipment Performance, Testing, and Maintenance (3 Sample)
+
+   (1)    02.02.d; 02.06.f; 02.09
+
+          These samples, combined with the samples documented in Inspection report
+          5000255/2025403, dated July 24, 2025 (ML25205A048), constitute completion of
+          Inspection Procedure 81000.04.
+
+81000.05 - Protective Strategy Evaluation
+
+The inspectors evaluated the licensee's Protective Strategy through completion of the following
+procedure elements:
+
+Protective Strategy Evaluation (40 Sample)
+
+   (1)    All elements
+
+
+
+
+                                                3
+81000.14 - Review of New Power Reactor Target Sets
+
+The inspectors evaluated the licensee's Target Set program through completion of the following
+procedure elements:
+
+Review of New Power Reactor Target Sets (1 Sample)
+
+   (1)     03.03 b
+
+           These samples, combined with the samples documented in Inspection report
+           5000255/2025403, dated July 24, 2025 (ML25205A048), constitute completion of
+           Inspection Procedure 81000.14.
+
+INSPECTION RESULTS
+
+No findings were identified.
+
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •     On December 8, 2025, the inspectors presented the Restart Security Inspection results
+         to Dan Gagnon and other members of the licensee staff.
+
+
+
+
+                                                4
+DOCUMENTS REVIEWED
+
+Inspection   Type                Designation        Description or Title                               Revision or
+Procedure                                                                                              Date
+81000.04     Miscellaneous                          Shadow Tec Advanced Video Patrol System Operator   0
+                                                    Powerpoint
+                                                    Operability Testing Job Aid                        2
+             Procedures          Early Warning      Camera View Images                                 12/01/2025
+                                 System
+                                 Early Warning      Standing Order                                     2
+                                 System
+81000.05     Corrective Action   25010961                                                              08/04/2025
+             Documents
+             Resulting from
+             Inspection
+             Procedures          OCA Area Patrols   OCA Area Patrols                                   REV 1
+                                 PL 0025            Vital Area Patrols                                 REV 15
+                                 PL 0029            PA Manhole Patrols                                 REV 4
+                                 PL 0031            South OCA Patrol                                   REV 9
+                                 PL0022             IMP Patrols                                        07/16/2025
+                                 PL0026             Protected Area Patrols                             REV 9
+                                 PL0027             DFS Protected Area Patrols                         REV 1
+
+
+
+
+                                                               5
+

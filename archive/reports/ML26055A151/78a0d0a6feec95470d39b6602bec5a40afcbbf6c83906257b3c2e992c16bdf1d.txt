@@ -1,0 +1,598 @@
+                                           February 26, 2026
+Michael Mlynarek
+Site Vice President,
+Palisades Energy, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Hwy
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – FIRE PROTECTION TEAM INSPECTION
+               REPORT 05000255/2025008
+
+Dear Mike Mlynarek:
+
+On January 22, 2026, the U.S. Nuclear Regulatory Commission (NRC) completed an
+inspection at Palisades Nuclear Plant and discussed the results of this inspection with you
+and other members of your staff. The results of this inspection are documented in the
+enclosed report.
+
+No findings or violations of more than minor significance were identified during this inspection.
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Gilliam, Jasmine
+                                                                      on 02/26/26
+
+
+
+                                              Jasmine A. Gilliam, Chief
+                                              Engineering Branch 2
+                                              Division of Operating Reactor Safety
+
+Docket No. 05000255
+License No. DPR–20
+
+Enclosure:
+As stated
+
+cc w/ encl: Distribution via GovDelivery
+Letter to Michael Mlynarek from Jasmine A. Gilliam dated February 26, 2026.
+
+SUBJECT:        PALISADES NUCLEAR PLANT – FIRE PROTECTION TEAM INSPECTION
+                REPORT 05000255/2025008
+
+DISTRIBUTION:
+Eric Stamm
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+Deborah Piskura
+Jared Heck
+Jennifer Dalzell
+R3-DORS
+
+
+
+
+ADAMS Accession Number: ML26055A151
+                              ☒ Non-Sensitive                       ☒ Publicly Available
+   ☒    SUNSI Review
+                              ☐ Sensitive                           ☐ Non-Publicly Available
+ OFFICE R-III               R-III
+ NAME    ADahbur:anm        JGilliam
+ DATE    02/24/2026         02/26/2026
+
+
+                                       OFFICIAL RECORD COPY
+                        U.S. NUCLEAR REGULATORY COMMISSION
+                                   Inspection Report
+
+
+Docket Number:       05000255
+
+
+License Number:      DPR-20
+
+
+Report Number:       05000255/2025008
+
+
+Enterprise Identifier: I-2025-008-0000
+
+
+Licensee:            Holtic Decommissioning International LLC
+
+
+Facility:            Palisades Nuclear Plant
+
+
+Location:            Covert, MI, 49043-9530
+
+
+Inspection Dates:    December 08, 2025, to January 22, 2026
+
+
+Inspectors:          M. Abuhamdan, Reactor Inspector
+                     A. Dahbur, Senior Reactor Inspector
+                     K. Fay, Senior Reactor Inspector
+                     M. Gangewere, Senior Reactor Inspector
+                     B. Walden, Reactor Inspector
+
+
+Approved By:         Jasmine A. Gilliam, Chief
+                     Engineering Branch 2
+                     Division of Operating Reactor Safety
+
+
+
+
+                                                                Enclosure
+                                           SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) continued monitoring the licensee’s
+performance by conducting a fire protection team inspection at Palisades Nuclear Plant,
+in accordance with the Reactor Oversight Process. The Reactor Oversight Process is the NRC’s
+program for overseeing the safe operation of commercial nuclear power reactors. Refer to
+https://www.nrc.gov/reactors/operating/oversight.html for more information.
+
+                                List of Findings and Violations
+
+No findings or violations of more than minor significance were identified.
+
+                                   Additional Tracking Items
+
+None.
+
+
+
+
+                                                2
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the inspection procedures (IPs)
+in effect at the beginning of the inspection unless otherwise noted. Currently approved IPs with
+their attached revision histories are located on the public website at http://www.nrc.gov/reading-
+rm/doc-collections/insp-manual/inspection-procedure/index.html. Samples were declared
+complete when the IP requirements most appropriate to the inspection activity were met
+consistent with Inspection Manual Chapter (IMC) 2515, “Light-Water Reactor Inspection
+Program - Operations Phase.” The inspectors reviewed selected procedures and records,
+observed activities, and interviewed personnel to assess licensee performance and compliance
+with Commission rules and regulations, license conditions, site procedures, and standards.
+
+REACTOR SAFETY
+
+71111.21N.05 - Fire Protection Team Inspection (FPTI)
+
+Fire Protection Team Inspection (FPTI) (7 Samples)
+
+   (1)    Fire Detection System, Intake Structure
+   (2)    Water-Based Fire Suppression System, Cable Spreading Room
+   (3)    Cable Spreading Room Safe Shutdown Procedure
+   (4)    Manual Firefighting Equipment and Fire Brigade
+   (5)    Fire Doors
+   (6)    Fire Pumps
+   (7)    Modification:
+              • EC 55683, FP Damper Between EDG Rooms
+              • EC 55441, AFW P-8D
+              • EC 63774, Damage Bypassing Torque Switch for MO-2160
+
+INSPECTION RESULTS
+
+ Minor Violation                                                                   71111.21N.05
+ Minor Violation: Palisades had the option of hydrostatically pressure testing fire hoses
+ every three years or replacing them with new fire hoses every five years. Work Order
+ (WO) 53007241-01 was initiated to replace all fire hoses prior to the site entering technical
+ specifications on August 26, 2025. Due to site procurement delays, all fire hoses were not
+ replaced or hydrostatically pressure tested as required with some fire hoses last replaced
+ in 2018.
+
+  Prior to this inspection, condition report (CR) 25014235, “Fire Hose Replacement or
+  Hydrostatic Test not Complete,” was initiated on November 11, 2025. This CR identified
+  scheduling conflicts prevented hydrostatic pressure testing of fire hoses which were not
+  replaced. At this time, the site failed to establish compensatory actions for the affected fire
+  hoses as required per Procedure FPIP-4, “Fire Protection Systems and Fire Protection
+  Equipment,” Revision 45.
+
+  The inspectors questioned the number and installed location of the expired fire hoses.
+  In response to the inspectors’ question, the site identified 30 fire hoses which failed to be
+  tested or replaced at the required frequency including some located inside the power block.
+
+
+
+
+                                                  3
+Screening: The inspectors determined that the performance deficiency for the failure to test or
+replace fire hoses at the required frequency was a minor since the fire brigade were trained to
+bring a high-rise fire hose when responding to fire events. The installed expired fire hoses
+would still perform their function at some capacity, and due to the current defueled state of
+the plant there was no potential release from the core in event of fire.
+
+Enforcement: License Condition 2.C.(3) stated that Palisades Energy shall implement and
+maintain in effect all provisions of the approved fire protection program. Site Procedure
+FPIP-4, “Fire Protection Systems and Fire Protection Equipment,” Revision 45 was the
+implementing procedure of the approved fire protection program which required licensee to
+establish compensatory actions for the affected fire hoses.
+
+As a result of this inspection, all power block fire hoses were replaced upon discovery and
+compensatory measure, including fire tours, in accordance with FPIP-4 were established
+for the remaining fire hose locations. CR 25015303 “Fire Hose to be Hydrostatic Tested
+or Replaced,” was initiated on December 17, 2025, documenting this issue.
+
+This failure to comply with requirement of FPIP-4 and establish compensatory actions
+constitutes a minor violation that is not subject to enforcement action in accordance with
+the NRC’s Enforcement Policy.
+
+Minor Violation                                                                 71111.21N.05
+Minor Violation: During a walkdown of the Auxiliary Feedwater Pump P-8D enclosure, the
+inspectors questioned the presence of combustibles in the 5-foot perimeter. Combustibles
+included a temporary metal office with windows within 3 feet of the east side of the P-8D
+enclosure/trailer and additional combustibles laying on the ground.
+
+Attachment 1 of Procedure ENG-329, “Control of Combustibles,” identified Fire Area 59,
+the auxiliary feedwater Pump P-8D enclosure/trailer, as Level 1 combustible area including
+a 5-foot perimeter surrounding this fire area. Compensatory measures were required for any
+transient combustibles in the area.
+
+Screening: The inspectors determined that the failure to maintain Level 1 combustible
+controls for P-8D was a minor performance deficiency since pump P-8D was not required to
+be functional for the current plant shutdown conditions.
+
+Enforcement: License Condition 2.C.(3) stated Palisades Energy shall implement and
+maintain in effect all provisions of the approved fire protection program. Site Procedure
+ENG-329, “Control of Combustibles,” Revision 2 was the implementing procedure of the
+approved fire protection program. Attachment 1 of ENG-329 identified Fire Area 59,
+Pump P-8D as a Level 1 combustible area including a 5-foot perimeter surrounding this
+fire area.
+
+Contrary to this requirement, as of December 9, 2025, transient combustibles were found
+within 3 feet of P-8D trailer, and no compensatory measures were established.
+
+In response to the inspectors’ concern, the site-initiated CR 25015052 “Combustible Materials
+were Found Contrary to ENG-329.” The site removed the combustible materials and planned
+to remove the office building prior to declaring the P-8D system functional.
+
+
+
+
+                                              4
+This failure to comply with ENG-329 constitutes a minor violation that is not subject to
+enforcement action in accordance with the NRC’s Enforcement Policy.
+
+Minor Violation                                                                  71111.21N.05
+
+Minor Violation: The inspectors requested the previous work orders documentation of the
+two diesel driven fire water pump (P-9B and P-41,) engine (K-5 and K-10) inspection, and
+preventive maintenance which was completed during the shutdown period. The site failed
+to locate three work orders in records including WO 00584081-01 for Pump P-9B, 2023
+WO 50083624-01 for P-41, and 2025 WO 52990823-01 for P-41. Upon further searching,
+two of the three missing WOs were located outside of the document control and records
+management process. The 2023 WO 50083624-01 for P-41/K-10 engine inspection was not
+located by the exit for this inspection.
+
+Screening: The inspectors determined that the performance deficiency was minor since the
+most recent completed work order in 2025 for P-41/K-10 was available and provided
+assurance that the engine was successfully inspected.
+
+Enforcement: License Condition 2.C.(3) stated Palisades Energy shall implement and
+maintain in effect all provisions of the approved fire protection program. Site Procedure
+FPIP-4, “Fire Protection Systems and Fire Protection Equipment,” Section 20.2 was the
+implementing procedure of the approved fire protection program and required records to
+be filed in accordance with the document control and records management process.
+
+Procedure DSP-RM-001, “Document Control and Records Management Process,”
+which required official records to be transmitted within 30 days after record completion.
+
+Contrary to the above requirements, the licensee failed to maintain the official records for
+WO 50083624-01 for P-41/K-10 fire engine inspection. The licensee entered this issue into
+their corrective action program and initiated CR 25015056 “Failure to meet Procedure
+DSP-RM-001 Requirement for Transmitting Official Records.”
+
+This failure to comply with DSP-RM-001 constitutes a minor violation that is not subject
+to enforcement action in accordance with the NRC’s Enforcement Policy.
+
+Minor Violation                                                              71111.21N.05
+Minor Violation: During performance of Procedure FPSP-RO-10, “Fire Water Suppression
+System Flow Test,” on May 08, 2023, per WO 52965257-01, unexpected results were
+encountered during Section 5.4 and 5.5 for the inside loop path 2 and 3 when compared to
+the previous 2017 flow performance test. Path 2 was the branch connection to the turbine
+building fire hoses through valve MV-FP283 and MV-FP1162. Path 3 was the branch
+connection to the transformer deluge through valves MV-FP282 and MV-FP117.
+
+The flow tests for these two paths have only been performed twice since they were
+added to the procedure in 2016. In the 2017 tests, the inside loop path 2 flow was
+1099 gallon-per-minute (gpm) and the path 3 flow was 1135 gpm. In the 2023 tests,
+the inside loop path 2 flow was 832 gpm and the path 3 flow was 774 gpm. CR PAL-01124
+“FPSP-RO-10 Fire Suppression Water System Flow Test Degraded,” was initiated at that
+time and noted there maybe flow restrictions in the fire system cross tie or associated piping.
+
+
+                                              5
+The CR was closed to work request (WR) 01124 to inspect MV-FP283 internals to check
+for obstruction.
+
+During the inspectors’ review of Procedure FPSP-RO-10, the inspectors noticed that the
+procedure did not include acceptance criteria for testing the fire water suppression flow for
+these two paths.
+
+The site noted that WO 00589203 for WR 01124 was required to be completed during the
+fire protection system return-to-service plan or a justification would be needed.
+
+Screening: The inspectors determined that the performance deficiency for failure to include
+acceptance criteria in Procedure FPSP-RO-10 for testing inside loop paths 2 and 3 was minor
+because the unacceptable results for paths 2 and 3 were recognized by the licensee and
+documented in CR PAL-01124.
+
+Enforcement: License Condition 2.C.(3) stated that Palisades Energy shall implement
+and maintain in effect all previsions of the approved fire protection program. Procedure
+FPSP-RO-10 was the implementing procedure for testing the fire water suppression system
+flow.
+
+Contrary to the above, Procedure FPSP-RO-10 failed to include the acceptance criteria
+for the inside loop paths 2 and 3. The licensee documented this issue in CR 25015259
+“FPSP-RO-10 did not include Acceptance Criteria for Flow Test.”
+
+This failure to comply with the above requirements constitutes a minor violation that is
+not subject to enforcement action in accordance with the NRC’s Enforcement Policy.
+
+Observation: Vast Majority of PMs for AFW P-8D have No Work Orders              71111.21N.05
+Auxiliary feedwater (AFW) pump, P-8D, was installed under Engineering Change (EC) 55441
+for Palisade’s transition to National Fire Protection Association (NFPA) Standard 805 to
+address fire scenarios that may result in a loss of feedwater to the steam generators.
+EC 55441 installed P-8D as a diverse, manually operated AFW pump such that the train
+would be free of fire damage and other scenarios that may impact the operation of the primary
+AFW system trains, P-8A, 8B and 8C. This modification was credited for probabilistic risk
+assessment (PRA) risk reduction. The EC closeout was completed on November 11, 2019.
+
+During this inspection, the inspectors walked down the P-8D system and questioned what
+preventive maintenance (PM) had been performed since installation and what PMs were
+completed to ensure the system would function when required for plant start up. The site
+provided an excel spreadsheet which listed 102 PMs related to maintenance of P-8D with
+92 PMs never performed. Additionally, 72 PMs were either not scheduled or did not have a
+WO generated for performance. The site also noted, no model WOs were drafted for a vast
+majority of the PMs. The site planned to screen the 102 PMs to identify which ones were
+necessary for operation of P-8D. In addition, at the time of this inspection, the water source
+for the P-8D system, the demineralized water tank, T-939, was out of service. The site noted
+EC 93368 planned to restore T-939 to service prior to restart and noted P-8D cannot be tested
+until T-939 was restored and filled with water.
+
+The site stated the P-8D system would be considered non-functional if the PMs and testing
+were not complete prior to restart. Compensatory actions would also need to be re-instituted
+
+
+                                              6
+including performance of fire tours in Fire Area 2, cable spreading room, and Fire Area 4,
+1-C switchgear room. The site noted P-8D was very important for the fire and flood PRAs
+with the unavailable, relative quantitative core damage risk increasing for fire by a factor
+(RAW score) of 4.7 and for flood by 5.3 in the updated 2025 PRA models. This is being
+documented as an observation, and no associated performance deficiency was identified at
+the time of the inspection since P-8D is not required to be functional during extended plant
+shutdown conditions.
+
+Observation: Fire Door 44 Impairment for Bottom Minimum Gap                      71111.21N.05
+Not Scheduled for Repair
+Condition report PAL-01445 “Door 44 Bottom Gap did not Meet Minimum Requirement,”
+was initiated in October 2023, identified a deficiency with Fire Door 44 for the cable spreading
+room double door exit in Fire Area 2/Room 224. The site identified Fire Door 44 does not meet
+the minimum gap acceptance criteria as specified in Procedure FPSP-SO-2, “Inspection and
+Testing of Palisades Plant Fire Doors,” Revision 14. The acceptance criteria required Door
+44’s bottom gap to be between 5/8 to 1 inch. However, there were areas where the door gap
+were smaller than 5/8 inch. Work Order 00588199 was initiated to resolve this discrepancy
+and has not been planned or completed. Compensatory actions for Fire Door 44 were in place
+at the time of the inspection, and it was tracked on the fire impairment list. The inspectors
+determined that the failure to ensure that Door-44 bottom gap met the acceptance criteria
+as specified in FPSP-SO-2 was a minor performance deficiency. Additionally, this observation
+documents incomplete corrective actions for a performance deficiency that was over
+2 years old with WO 00588199 not in scope for work to be complete prior to plant restart.
+The licensee documented this observation in CR 26010704 “Door-44 Not Meeting Acceptance
+Criteria was Not Completed in Timely Manner.”
+
+Observation: Failure to Ground a Scaffold Installed Near Energized High          71111.21N.05
+Energy Equipment
+During a walkdown of Fire Area 2/Room 224, cable spreading room, the inspectors noted the
+amount of scaffolding installed to support installation of engineering changes for the site’s
+transition to NFPA 805. The inspectors reviewed the scaffolding installation form completed
+on January 29, 2025, and questioned if the scaffolding forms were updated since electrical
+equipment was re-energized when the site transitioned to operating technical specifications
+on August 26, 2025. Specifically, during walkdowns the inspectors noted scaffolding near
+transformers EX-11, EX-12, and Load Centers EB-11 and EB-12. Procedure MA-018,
+“Control of Scaffolding,” Revision 1, Step 7.1.5 required that for scaffold near energized
+high energy (>600 volts) equipment, the first piece of installed scaffold shall be grounded
+by use of ground straps or cables to reduce the risk of electric shock.
+
+In response to inspectors’ question, the site determined that the scaffolding was required
+to be grounded and initiated CR 25015517 “Scaffolding Installed in Close Proximity to
+Transformers,” on December 23, 2025, to document this issue. Additionally, the site performed
+a review of all scaffolding required for the NFPA 805 projects and identified where grounding
+was required. The inspectors determined this performance deficiency was minor since there
+was no effect on plant equipment.
+
+
+
+
+                                              7
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •   On January 22, 2026, the inspectors presented the fire protection team inspection
+       results to Mike Mlynarek and other members of the licensee staff.
+
+
+
+
+                                               8
+DOCUMENTS REVIEWED
+
+Inspection   Type                Designation      Description or Title                                          Revision or
+Procedure                                                                                                       Date
+71111.21N.05 Calculations        EA-FPP-03-001    Analysis of Combustible Loading at Palisades Nuclear Plant: 5
+                                 Attachment 8.4   Fire Area 02 and Fire Area 09
+71111.21N.05 Corrective Action   25010144         Pre-Fire Plans not Located in All of the Locations Identified 07/07/2025
+             Documents                            in DBD-7.10 Appendix A
+71111.21N.05 Corrective Action   25013899         Fire Hydrant Flush Surveillance                               10/30/2025
+             Documents
+71111.21N.05 Corrective Action   25014044         P-9B, Diesel Driven Fire Pump, Speed Was 1893 Rpm            11/04/2025
+             Documents
+71111.21N.05 Corrective Action   25014124         Augmented Quality Q3 Material Issued to Support P-9B         11/06/2025
+             Documents                            Diesel Fire Pump
+71111.21N.05 Corrective Action   25014235         Fire Hose Replacement or Hydrostatic Test not Complete       11/11/2025
+             Documents
+71111.21N.05 Corrective Action   25014386         Troubleshooting Activities For P-9B Associated Alternators   11/13/2025
+             Documents
+71111.21N.05 Corrective Action   PAL-01124        FPSP-RO-10 Fire Suppression Water System Flow Test           05/10/2023
+             Documents                            Degraded
+71111.21N.05 Corrective Action   PAL-01445        Door-44 Bottom Gap Did Not Meet Minimum Requirement          10/15/2023
+             Documents
+71111.21N.05 Corrective Action   PAL-01481        MV-FP511 Handwheel Failure                                   10/26/2023
+             Documents
+71111.21N.05 Corrective Action   PAL-01481        D/G 1-2 RM Sprinkler Flow Detector Test                      10/26/2023
+             Documents
+71111.21N.05 Corrective Action   PAL-03762        FPS Flow Alarm Not Received During FPSP-QO-2                 10/23/2024
+             Documents
+71111.21N.05 Corrective Action   PAL-06847        FPSP-AO-2 Enhancement                                        05/06/2025
+             Documents
+71111.21N.05 Corrective Action   25015052         Contrary to ENG-329                                          12/09/2025
+             Documents
+
+
+
+                                                            9
+Inspection    Type               Designation    Description or Title                                       Revision or
+Procedure                                                                                                  Date
+             Resulting from
+             Inspection
+71111.21N.05 Corrective Action   25015056       Failure to Meet Procedure DSP-RM-001 Requirement for       12/09/2025
+             Documents                          Transmitting Official Records
+             Resulting from
+             Inspection
+71111.21N.05 Corrective Action   25015114       Missing Pages from Vendor Document for Testing             12/10/2025
+             Documents                          Ultra-Violet Test Lamp
+             Resulting from
+             Inspection
+71111.21N.05 Corrective Action   25015259       Step 6.2 of Procedure FPSP-RO-10 Did Not Include           12/16/2025
+             Documents                          Acceptance Criteria for Flow Test
+             Resulting from
+             Inspection
+71111.21N.05 Corrective Action   25015303       Fire Hose to be Hydrostatic Tested or Replaced             12/17/2025
+             Documents
+             Resulting from
+             Inspection
+71111.21N.05 Corrective Action   25015305       FPSP-RO-9 Step 5.6.1.c Is Not Being Met                    12/17/2025
+             Documents
+             Resulting from
+             Inspection
+71111.21N.05 Corrective Action   25015517       Scaffolding Installed in Close Proximity to Transformers   12/23/2025
+             Documents
+             Resulting from
+             Inspection
+71111.21N.05 Corrective Action   26010704       Door-44 n=Not Meeting Acceptance Criteria Was Not          01/22/2026
+             Documents                          Completed in Timely Manner
+             Resulting from
+             Inspection
+71111.21N.05 Drawings            M-11 Sh. 1     Equipment Location Turbine Building Plan of El. 590'-0"    44
+71111.21N.05 Drawings            M-216 Sht. 6   Fire Protection Plan of El. 607' & 611'-0"                 10
+
+
+                                                         10
+Inspection   Type            Designation         Description or Title                                        Revision or
+Procedure                                                                                                    Date
+71111.21N.05 Drawings        M-218 Sht. 1        Piping and Instrument Diagram Htg. Vent. and Air            46
+                                                 Conditioning Switchgear & Cable Spreading Rm
+71111.21N.05 Drawings        M216 Sht. 4         Fire Protection Plan of El. 570'-0" & 590'-0'               10
+71111.21N.05 Drawings        VEN-M66G Sht.       Cable Spreading Room                                        0
+                             No. 6(3)
+71111.21N.05 Engineering     55441               Install High Head AFW Pump P-8D & Shed and Cross            11/11/2019
+             Changes                             Connect Tanks T-2 to T-939 - NFPA 805 Project (Base EC)
+71111.21N.05 Fire Plans      Pre Fire Plan 2 /   Cable Spreading Room / Elev. 607' 6"                        11/20/2025
+                             Room 224
+71111.21N.05 Fire Plans      Pre Fire Plan 59    Auxiliary Feedwater Pump P-8D Room / Elev. 590'             12/05/2025
+71111.21N.05 Fire Plans      Pre Fire Plan 9 /   Screen House/Intake Structure/Elev. 590'                    11/20/2025
+                             Room 135 & 136A
+71111.21N.05 Miscellaneous   EA-FPP-95-047       Analysis of the Effects of a Fire on the Barriers Between   6
+                             EC 55683            Diesel Generator Room 1-1 and the East Air Plenum Room
+                                                 - Design Verification Checklist
+71111.21N.05 Miscellaneous   EN-FP-S-002-L       Palisades Fire Extinguisher Installation                    000
+71111.21N.05 Miscellaneous   FP-PE-2             Fire Protection Check Sheet                                 9
+                                                 Fire Extinguishers - Turbine Building
+71111.21N.05 Miscellaneous   FP-PE-3             Fire Protection Check Sheet                                 11
+                                                 Fire Extinguishers - Auxiliary Building
+71111.21N.05 Miscellaneous   Palisades Cover     Palisade Fire Tours                                         10/31/2025
+                             Page for Fire
+                             Tours
+71111.21N.05 Miscellaneous   PL-TRN25-2759       Training Attendance Sheet - Fire Brigade Drills             1
+71111.21N.05 Miscellaneous   PLP-SRTSP-FPS       Palisades System Return-To-Service Plan                     0
+71111.21N.05 Miscellaneous   VTD-1845-0046       Pyrotronics Engineer and Architect Specifications for       3
+                                                 Ultra-violet Flame Detector- M0066E
+71111.21N.05 Procedures      Abnormal            Alternate AFW Options                                       2
+                             Operating
+                             Procedure
+
+
+                                                          11
+Inspection   Type          Designation      Description or Title                                        Revision or
+Procedure                                                                                               Date
+                           Supplement 14
+71111.21N.05 Procedures    ENG-313          Fire Protection Program                                     0
+71111.21N.05 Procedures    ENG-327          Control of Hot Work and Ignition Sources                    1
+71111.21N.05 Procedures    ENG-328          Fire Protection Impact Reviews                              0
+71111.21N.05 Procedures    ENG-329          Control of Combustibles                                     2
+71111.21N.05 Procedures    EOP Supplement   Alternate Auxiliary Feedwater Methods                       12
+                           19
+71111.21N.05 Procedures    EOP Supplement   Supply AFW Pumps From Alternate Sources                     10
+                           31
+71111.21N.05 Procedures    FPIP-1           Fire Protection Plan, Organization and Responsibilities     29
+71111.21N.05 Procedures    FPIP-2           Fire Emergency Responsibility and Response                  28
+71111.21N.05 Procedures    FPIP-4           Fire Protection Systems and Fire Protection Equipment       45
+71111.21N.05 Procedures    FPIP-6           Fire Suppression Training                                   27
+71111.21N.05 Procedures    FPSP-MO-1        Fire Protection Water System Valve Alignment                26
+71111.21N.05 Procedures    FPSP-RM-3        Inspection and Preventive Maintenance of Fire Pump Diesel   17
+                                            K-5
+71111.21N.05 Procedures    FPSP-RO-9        Fire Sprinkler System Inspection                            13
+71111.21N.05 Procedures    FPSP-SI-1        Functional Test of the Fire Detection Systems Outside       14
+                                            Containment
+71111.21N.05 Procedures    FPSP-SO-2        Inspection and Testing of Palisades Plant Fire Doors        14
+71111.21N.05 Procedures    MO-7B            Firewater Pumps P-9A, P-9B, and P-41                        7
+71111.21N.05 Procedures    OPS-125          Fire Brigade Drills                                         0
+71111.21N.05 Procedures    OPS-139          Fire Watch Program                                          0
+71111.21N.05 Procedures    SOP-21           Fire Protection System                                      39
+71111.21N.05 Work Orders   00454281-01      Perform FPSP-RO-10 on Untested Portions Fire Water          09/18/2017
+                                            System Piping
+71111.21N.05 Work Orders   00502184-01      FPSP-RO-10 Perform Partial Test in Preps for RO-52          12/03/2018
+71111.21N.05 Work Orders   00584087         MO-7B Fire Water Pumps P-9A, P-9B, and P-41                 01/11/2025
+
+
+
+                                                     12
+Inspection   Type          Designation       Description or Title                                     Revision or
+Procedure                                                                                             Date
+71111.21N.05 Work Orders   00584335-01       FPSP-M0-2 -FIRE                                          11/21/2024
+                                             HOSE REEL/RACK/FIRE
+                                             HYD HOSE HOUSE
+71111.21N.05 Work Orders   00584393          FPSP-AO-2 Fire Suppression Valve Operation Test           05/13/2025
+71111.21N.05 Work Orders   00584398          FPSP-Q0-2 FP Sprinkler System Water Flow Switch Alarm 11/21/2024
+                                             Surveillance
+71111.21N.05 Work Orders   00584404          FPSP-SI-1 Fire Detect System Outside Cont Functional Test 04/15/2025
+71111.21N.05 Work Orders   00584404-01       FPSP-SI-1 Fire Detect Sys Outside Containment Functional 03/27/2025
+                                             Test
+71111.21N.05 Work Orders   00586800          FP Sprinkler System Water Flow Switch Alarm Surveillance 04/05/2025
+71111.21N.05 Work Orders   00586800-01       FPSP-Q0-2 -Fire Protection Sprinkler System Water Flow    04/05/2025
+                                             Switch Alarm Surveillance Test
+71111.21N.05 Work Orders   00587967          MO-7B-A for Fire Water Pump P-9A                          09/09/2025
+71111.21N.05 Work Orders   00592620          MO-7B-41 for Firewater Pump P-41                          09/14/2025
+71111.21N.05 Work Orders   00592622          MO-7B Firewater Pumps P-9A, P-9B, and P-41                11/20/2025
+71111.21N.05 Work Orders   50083632          Verify Fire Protection Sprinkler Systems Are Functional   09/19/2024
+                                             By Visual Inspection of System Components
+71111.21N.05 Work Orders   50083632-01-01-   FPSP-RO-9 Fire Sprinkler System Inspection                09/19/2024
+                           0001
+71111.21N.05 Work Orders   52754255          RO-52-B Fire Suppression Water System Pump (P-9B)        12/20/2018
+                                             Capacity Test
+71111.21N.05 Work Orders   52754257          RO-52-41 Fire Suppression Water System Pump (P-41)       12/20/2018
+                                             Capacity Test
+71111.21N.05 Work Orders   52845923          RO-52 Fire Suppression Water System Pump Capacity Test   06/29/2020
+71111.21N.05 Work Orders   52931209          RO-52-41 Fire Suppression Water System Pump (P-41)       12/13/2021
+                                             Capacity Test
+71111.21N.05 Work Orders   52931210          RO-52 Fire Suppression Water System Pump                 12/13/2021
+                                             (P-9A And P-9B) Capacity Test
+71111.21N.05 Work Orders   52957565-01       Inspect and Test Generator K-15                          11/30/2021
+
+
+
+                                                      13
+Inspection   Type          Designation   Description or Title                                Revision or
+Procedure                                                                                    Date
+71111.21N.05 Work Orders   52965257-01   FPSP-RO-10 Fire Suppression System Flow Test        05/22/2024
+71111.21N.05 Work Orders   52989271-01   RO-52 Fire Water Suppression System Pump Capacity   05/10/2023
+                                         Functional Test
+71111.21N.05 Work Orders   53002802      P-8D Auxiliary Feed Pump Monthly Test Run           05/13/2022
+
+
+
+
+                                                  14
+

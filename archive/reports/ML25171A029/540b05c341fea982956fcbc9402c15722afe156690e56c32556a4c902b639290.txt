@@ -1,0 +1,281 @@
+                                          June 23, 2025
+Mike Mlynarek
+Site Vice President
+Holtec Decommissioning International, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Highway
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART SECURITY INSPECTION
+               REPORT 05000255/2025402
+
+On May 20, 2025, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection at
+Palisades Nuclear Plant and discussed the results of this inspection with Michael Schultheis –
+Director, Regulatory & Site Strategies and other members of your staff. The results of this
+inspection are documented in the enclosed report.
+
+No findings of more than minor significance were identified during this inspection.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the Reactor
+Vessel,” (ADAMS Accession No. ML22164A067). On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations at
+Palisades (ADAMS Accession No. ML23271A140). The NRC’s initial acceptance to review
+Palisades’ request for exemptions was documented in ADAMS at Accession No. ML23291A440
+on November 3, 2023.
+M. Mlynarek                                     2
+
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Ziolkowski, Michael
+                                                                      on 06/23/25
+
+
+
+                                              Michael E. Ziolkowski, Chief
+                                              Security, Emergency Preparedness, and Incident
+                                              Response Branch
+                                              Division of Radiological Safety and Security
+
+Docket No. 05000255
+License No. DPR-20
+
+Enclosure:
+As stated
+
+cc w/ encl:
+M. Schultheis
+ Director, Regulatory & Site Strategies
+S. Summers,
+ Manager, Security
+D. Gagnon,
+ Director, Corporate Security
+A. Filbrandt,
+ Supervisor, Regulatory Assurance & Records
+
+cc w/ encl: Distribution via LISTSERV®
+M. Mlynarek                                  3
+
+
+Letter to M. Mlynarek from M. Ziolkowski dated June 23, 2025.
+
+SUBJECT:        PALISADES NUCLEAR PLANT – RESTART SECURITY INSPECTION
+                REPORT 05000255/2025402
+
+DISTRIBUTION:
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Jack Giessner
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+John Pelchat
+David Curtis
+Jared Heck
+Prema Chandrathil
+Viktoria Mitlyng
+R3-DORS
+Jeremiah Rey
+Desiree Davis
+April Nguyen
+Julie Winslow
+Jefferson Clark
+DSODivision.Resource@nrc.gov
+SOSBInspRptDistro@usnrc.onmicrosoft.com
+
+
+
+
+ADAMS ACCESSION NUMBER:ML25171A029
+ Entire Report:     ☒ Non-Sensitive                              ☒ Publicly Available
+ ☒ SUNSI Review     ☐ Sensitive                                  ☐ Non-Publicly
+                                                                 Available
+ OFFICE       RIII-DRSS     NSIR       RIII-DORS   RIII-DRSS
+ NAME         KMaloney:dc   JRey       ANguyen     MZiolkowski
+ DATE         06/23/2025    06/23/2025 06/23/2025  06/23/2025
+                                OFFICIAL RECORD COPY
+                        U.S. NUCLEAR REGULATORY COMMISSION
+                                   Inspection Report
+
+
+Docket Number:       05000255
+
+
+License Number:      DPR-20
+
+
+Report Number:       05000255/2025402
+
+
+Enterprise Identifier: I-2025-402-0044
+
+
+Licensee:            Holtec Decommissioning International, LLC
+
+
+Facility:            Palisades Nuclear Plant
+
+
+Location:            Covert, MI
+
+
+Inspection Dates:    May 12, 2025, to May 20, 2025
+
+
+Inspectors:          K. Maloney, Sr. Physical Security Inspector
+                     J. Rey, Security Specialist
+
+
+Approved By:         Michael E. Ziolkowski, Chief
+                     Security, Emergency Preparedness, and Incident Response Branch
+                     Division of Radiological Safety and Security
+
+
+
+
+                                                                               Enclosure
+                                          SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) continued monitoring the licensee’s
+performance by conducting a Restart Security Inspection at Palisades Nuclear Plant, in
+accordance with Inspection Manual Chapter (IMC) 2562, “Light-Water Reactor Inspection
+Program for Restart of Reactor Facilities Following Permanent Cessation of Power Operations.”
+
+                                List of Findings and Violations
+
+No findings of more than minor significance were identified.
+
+                                  Additional Tracking Items
+
+None.
+
+
+
+
+                                                2
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the inspection procedures (IPs) in
+effect at the beginning of the inspection unless otherwise noted. Currently approved IPs with
+their attached revision histories are located on the public website at
+http://www.nrc.gov/reading-rm/doc-collections/insp-manual/inspection-procedure/index.html.
+Samples were declared complete when the IP requirements most appropriate to the inspection
+activity were met consistent with Inspection Manual Chapter (IMC) 2562, “Light-Water Reactor
+Inspection Program for Restart of Reactor Facilities Following Permanent Cessation of Power
+Operations,” which states, in part, that the U.S. Nuclear Regulatory Commission (NRC) will
+ensure that operational readiness has been reasonably verified across the reactor oversight
+process (ROP) cornerstones of safety and security.
+
+SECURITY CORNERSTONE
+
+81000.01 - Access Authorization
+
+The inspectors evaluated the access authorization program through completion of the following
+procedure elements:
+
+Access Authorization (36 Samples)
+
+   (1)    All requirements
+
+During the inspection the inspectors verified the licensee has developed and is implementing or
+is prepared to implement it access authorization program, behavioral observation program,
+insider mitigation program and measures to ensure that its AA program provides assurance that
+individuals granted unescorted access are trustworthy, reliable, and do not constitute an
+unreasonable risk to public health and safety or the common defense and security. The
+inspectors familiarized themselves with relevant documentation which may include, but is not
+limited to the licensee's security plans, site-specific and/or corporate implementing procedures,
+security post orders, and security program reviews and audits. The inspectors also conducted a
+review of past security inspection reports for the facility, to a level which provides assurance that
+the licensee is meeting or prepared to meet the NRC regulatory requirements within the security
+program area being inspected.
+
+81000.08 - Fitness-for-Duty Program
+
+The inspectors evaluated the fitness for duty program through completion of the following
+procedure elements:
+
+Fitness-for-Duty Program (50 Samples)
+
+   (1)    All requirements
+
+During the inspection the inspectors verified the licensee has developed and is implementing or
+is prepared to implement its Fitness-for-Duty (FFD) requirements under Title 10 of the Code of
+Federal Regulations (10 CFR) Part 26 (Subparts A through H, I, N, and O), and any other
+applicable requirement that assures licensee personnel (including contractors and vendors) will
+perform their tasks in a reliable and trustworthy manner and are not under the influence of any
+substance or mentally or physically impaired from any cause that may affect their abilities to
+
+
+                                                 3
+perform their duties safely and competently. Inspectors verified that changes to the licensee’s
+FFD program made since the last inspection: (a) meet commitments to resolve previously
+identified issues or U.S. Nuclear Regulatory Commission (NRC) requirements under
+10 CFR Part 26; and (b) do not adversely affect the performance requirements as prescribed by
+regulatory requirements and any other applicable requirements to meet the general
+performance objectives of 10 CFR 73.55(b).
+
+INSPECTION RESULTS
+
+No additional inspection results. The inspectors determined the licensee implementation of the
+programs is currently meeting all regulatory requirements. Based on this review, the inspectors
+found that the programs would meet all operating requirements.
+
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified that no proprietary information was retained or documented in this
+report.
+
+   •   On May 20, 2025, the inspectors presented the Restart Security Inspection results to
+       Michael Schultheis, Director, Regulatory & Site Strategies and other members of the
+       licensee staff.
+
+
+
+
+                                               4
+DOCUMENTS REVIEWED
+
+Inspection   Type                Designation      Description or Title                                      Revision or
+Procedure                                                                                                   Date
+81000.01     Corrective Action   PAL-07040        Paperwork Error Identified                                05/13/2025
+             Documents           PAL-07092        Access to Vital Area Discrepancy                          05/16/2025
+             Resulting from
+             Inspection
+             Procedures          EN-NS-101-01     AA/FFD Facility Controls                                  3
+                                 EN-NS-101-04     Processing Potentially Disqualifying Information (PDI)    6
+                                 EN-NS-101-105    Maintaining UAA/UA and Critical Group Status              7
+                                 EN-NS-101-106    Terminating Denial and Appeal of Unescorted Access        8
+                                                  Authorization/Unescorted Access
+                                 SEC-400          Unescorted Access Authorization Program                   0
+81000.08     Corrective Action   PAL-07039        Unsecured Door Allowing Access to FFD Testing Equipment   05/13/2025
+             Documents           PAL-07065        FFD Blind Test Samples Not Sent per Procedural            05/14/2025
+             Resulting from                       Requirement.
+             Inspection          PAL-07067        Fatigue Assessment Paperwork Documentation Errors         05/14/2025
+                                                  Identified
+             Miscellaneous                        50 Employee Records Establishing Initial, Updated,        05/14/2025
+                                                  Reinstatement, Reinvestigation and Critical Group UAA
+             Procedures                           Fitness for Duty/Access Authorization Assessment          0
+                                 Admin 1.45       Work Hours Limitations                                    2
+                                 DSP-SEC-102      Fitness for Duty Specimen Collection and Shipment         1
+                                 DSP-SEC-102      Fitness for Duty Program                                  1
+                                 DSP-SEC-102-01   Fitness for Duty Random and Follow-up Testing Selection   1
+                                                  and Notification
+                                 DSP-SEC-102-03   Processing of Fitness for Duty Test Results               1
+                                 DSP-SEC-102-04   Blind Samples                                             1
+                                 DSP-SEC-102-05   Annual Reporting of Fitness for Duty Performance Data     1
+                                 EN-NS-101-04     Processing Potentially Disqualifying Information (PDI)    6
+                                 FF-000           Holtec Nuclear FFD Program Statement of Policy            2
+
+
+
+
+                                                             5
+

@@ -1,0 +1,128 @@
+                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+
+
+
+
+                                          March 17, 2026
+Michael Schultheis
+Site Vice President,
+Palisades Energy, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Hwy
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – CYBER SECURITY INSPECTION REPORT
+               05000255/2026401
+
+Dear Michael Schultheis:
+
+On February 11, 2026, the U.S. Nuclear Regulatory Commission (NRC) completed an
+inspection at Palisades Nuclear Plant and discussed the results of this inspection with
+Mike Mlynarek and other members of your staff. The results of this inspection are documented
+in the enclosed report.
+
+One finding of very low security significance (Green) is documented in this report. This finding
+involved a violation of NRC requirements. We are treating this violation as a non-cited violation
+(NCV) consistent with Section 2.3.2 of the Enforcement Policy.
+
+If you contest the violation or the significance or severity of the violation documented in
+this inspection report, you should provide a response within 30 days of the date of this
+inspection report, with the basis for your denial, to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001; with copies to the Regional
+Administrator, Region III; the Director, Office of Enforcement; the Director, Office of Nuclear
+Security and Incident Response; and the NRC Resident Inspector at Palisades Nuclear Plant.
+
+This letter will be made available for public inspection and copying at
+http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document Room in
+accordance with Title 10 of the Code of Federal Regulations 2.390, “Public Inspections,
+Exemptions, Requests for Withholding.”
+
+
+
+
+ Enclosure(s) transmitted herewith contain(s) SUNSI. When separated from enclosure(s), this
+                            transmittal document is decontrolled.
+
+                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+
+M. Schultheis                                 2
+
+The enclosed report contains Security-Related Information, so the enclosed report
+will not be made publicly available in accordance with Title 10 of the Code of Federal
+Regulations (10 CFR) 2.390(d)(1). If you choose to provide a response that contains
+Security-Related Information, please mark your entire response “Security-Related
+Information–Withhold from public disclosure under 10 CFR 2.390” in accordance with
+10 CFR 2.390(d)(1) and follow the instructions for withholding in 10 CFR 2.390(b)(1).
+The NRC is waiving the affidavit requirements for your response in accordance with
+10 CFR 2.390(b)(1)(ii).
+
+                                              Sincerely,
+                                                                    Signed by Gilliam, Jasmine
+                                                                    on 03/17/26
+
+
+
+                                              Jasmine A. Gilliam, Chief
+                                              Engineering Branch 2
+                                              Division of Operating Reactor Safety
+
+Docket No. 05000255
+License No. DPR–20
+
+Enclosure:
+As stated
+
+cc: S. Summers, Site Security Manager
+       Palisades Nuclear Plant
+    T. R. Wentworth, State Liaison Officer,
+       State of Michigan
+
+cc w/o encl: Distribution via GovDelivery
+
+
+
+
+                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+
+M. Schultheis                              3
+
+Letter to Michael Schultheis from Jasmine Gilliam dated March 17, 2026.
+
+SUBJECT:        PALISADES NUCLEAR PLANT – CYBER SECURITY INSPECTION REPORT
+                05000255/2026401
+
+DISTRIBUTION w/encl:
+Stacy Prasad
+Mohammed Shuaibi
+Cliff Roundtree
+Jim Beardsley
+SOSBInspRptDistro@usnrc.onmicrosoft.com
+
+DISTRIBUTION:
+Eric Stamm
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+Deborah Piskura
+Jared Heck
+Jennifer Dalzell
+R3-DORS
+
+
+
+
+ADAMS Accession No.(s): ML26072A197 (Cover Letter w/ enclosure(s))
+ADAMS Accession No.(s): ML26072A198 (Cover letter)
+Non-Public Designation Category: MD 3.4 Non-Public A.7
+PKG: ML26072A177
+e-Concurrence Case: 20260313-60012
+
+
+
+
+                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+

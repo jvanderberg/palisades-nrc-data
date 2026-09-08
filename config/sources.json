@@ -1,0 +1,81 @@
+{
+  "startDate": "2024-01-01",
+  "plantPage": "https://www.nrc.gov/info-finder/reactors/pali",
+  "extraReports": [
+    {
+      "url": "https://www.nrc.gov/docs/ML2407/ML24078A315.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2419/ML24197A185.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2431/ML24317A041.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2502/ML25024A083.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2508/ML25083A268.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2514/ML25140A945.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2517/ML25171A029.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2519/ML25197A764.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2520/ML25203A098.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2520/ML25203A191.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2520/ML25205A049.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2524/ML25241A323.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2526/ML25260A036.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2535/ML25351A275.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2535/ML25357A093.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2601/ML26013A162.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2603/ML26030A166.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2605/ML26055A151.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2607/ML26072A198.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2612/ML26125A118.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2624/ML26245A104.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2622/ML26225A336.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2504/ML25041A225.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2404/ML24045A147.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2606/ML26069A362.pdf"
+    }
+  ]
+}

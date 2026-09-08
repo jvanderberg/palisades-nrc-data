@@ -1,0 +1,821 @@
+                                          May 5, 2026
+Michael Schultheis
+Site Vice President,
+Palisades Energy, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Hwy
+Covert, MI 49043-9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – INTEGRATED INSPECTION REPORT
+               05000255/2026001
+
+Dear Michael Schultheis:
+
+On March 31, 2026, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection
+at Palisades Nuclear Plant. On April 13, 2026, the NRC inspectors discussed the results of this
+inspection with you and other members of your staff. The results of this inspection are
+documented in the enclosed report.
+
+One finding of very-low safety significance (Green) is documented in this report. This finding
+involved a violation of NRC requirements. We are treating this violation as a non-cited violation
+(NCV) consistent with Section 2.3.2 of the Enforcement Policy.
+
+A licensee-identified violation which was determined to be of very-low safety significance
+is documented in this report. We are treating this violation as an NCV consistent with
+Section 2.3.2 of the Enforcement Policy.
+
+If you contest the violations or the significance or severity of the violations documented in
+this inspection report, you should provide a response within 30 days of the date of this
+inspection report, with the basis for your denial, to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001; with copies to the Regional
+Administrator, Region III; the Director, Office of Enforcement; and the NRC Resident Inspector
+at Palisades Nuclear Plant.
+M. Schultheis                                     2
+
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Nguyen, April
+                                                                      on 05/05/26
+
+
+
+                                              April M. Nguyen, Team Leader
+                                              Palisades Restart Team
+                                              Division of Operating Reactor Safety
+
+Docket No. 05000255
+License No. DPR–20
+
+Enclosure:
+As stated
+
+cc w/ encl: distribution via digital
+ communications platform
+M. Schultheis                                 3
+
+
+Letter to Michael Schultheis from April M. Nguyen dated May 5, 2026.
+
+SUBJECT:        PALISADES NUCLEAR PLANT – INTEGRATED INSPECTION REPORT
+                05000255/2026001
+
+DISTRIBUTION:
+Eric Stamm
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+Deborah Piskura
+Jared Heck
+Jennifer Dalzell
+R3-DORS
+
+
+
+
+ADAMS Accession No.(s): ML26125A118
+PKG: ML26125A114
+e-Concurrence Case: 20260505-00022
+                        U.S. NUCLEAR REGULATORY COMMISSION
+                                   Inspection Report
+
+
+Docket Number:       05000255
+
+
+License Number:      DPR-20
+
+
+Report Number:       05000255/2026001
+
+
+Enterprise Identifier: I-2026-001-0088
+
+
+Licensee:            Palisades Energy, LLC
+
+
+Facility:            Palisades Nuclear Plant
+
+
+Location:            Covert, MI
+
+
+Inspection Dates:    January 1, 2026, to March 31, 2026
+
+
+Inspectors:          T. Briley, Senior Reactor Inspector
+                     J. Mancuso, Senior Resident Inspector
+                     T. Okamoto, Resident Inspector
+                     A. Shaikh, Senior Reactor Inspector
+                     C. St. Peters, Senior Project Engineer
+                     J. Winslow, Senior Project Engineer
+
+
+Approved By:         April M. Nguyen, Team Leader
+                     Palisades Restart Team
+                     Division of Operating Reactor Safety
+
+
+
+
+                                                              Enclosure
+                                           SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) continued monitoring the licensee’s
+performance by conducting an integrated inspection at Palisades Nuclear Plant,
+in accordance with the Reactor Oversight Process. The Reactor Oversight Process is
+the NRC’s program for overseeing the safe operation of commercial nuclear power reactors.
+Refer to https://www.nrc.gov/reactors/operating/oversight.html for more information.
+A licensee-identified non-cited violation is documented in report Section: 71111.20.
+
+                                List of Findings and Violations
+
+ Failure to Maintain Adequate Fire Protection System Functional Test Procedure
+ Cornerstone          Significance                                Cross-Cutting      Report
+                                                                  Area               Section
+ Mitigating Systems Green                                         Problem            71152A
+                    NCV 05000255/2026001-01                       Identification and
+                    Open/Closed                                   Resolution
+ The inspectors identified a finding of very-low safety significance and associated violation of
+ Technical Specification 5.4.1, “Procedures,” for the licensee’s failure to maintain fire protection
+ system functional test procedure. Specifically, the licensee failed to maintain Procedure RO-52,
+ “Fire Suppression Water System Functional Test and Fire Pump Capacity Test,” by failing to
+ include appropriate acceptance criteria in the procedure to demonstrate fire protection system
+ functionality.
+
+                                   Additional Tracking Items
+
+None.
+
+
+
+
+                                                2
+PLANT STATUS
+
+On August 25, 2025, Palisades notified the NRC that they rescinded their Title 10 of
+the Code of Federal Regulations (10 CFR) 50.82(a)(1) certification, which removed the
+prohibition on operation and emplacement of fuel in the reactor. Palisades also implemented
+the set of licensing actions to support reimplementation of their operational licensing basis.
+On August 25, 2025, the NRC transitioned oversight of Palisades to the Reactor Oversight
+Process (ROP).
+
+The NRC is conducting inspections to evaluate and assess the licensee’s activities for
+restoration to an operating status. The resident inspectors, as well as supplemental
+inspectors, continue to provide daily oversight of the restart activities occurring at the site.
+
+The unit ended the inspection period in a defueled status.
+
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the inspection procedures (IPs)
+in effect at the beginning of the inspection unless otherwise noted. Currently approved IPs with
+their attached revision histories are located on the public website at http://www.nrc.gov/reading-
+rm/doc-collections/insp-manual/inspection-procedure/index.html. Samples were declared
+complete when the IP requirements most appropriate to the inspection activity were met
+consistent with Inspection Manual Chapter (IMC) 2515, “Light-Water Reactor Inspection
+Program - Operations Phase.” The inspectors performed activities described in IMC 2515,
+Appendix D, “Plant Status,” observed risk-significant activities, and completed on-site portions
+of IPs. The inspectors reviewed selected procedures and records, observed activities, and
+interviewed personnel to assess licensee performance and compliance with Commission rules
+and regulations, license conditions, site procedures, and standards.
+
+REACTOR SAFETY
+
+71111.01 - Adverse Weather Protection
+
+Seasonal Extreme Weather Sample (IP Section 03.01) (1 Sample)
+
+   (1)    The inspectors evaluated readiness for seasonal extreme weather conditions prior to
+          the onset of seasonal cold temperatures for the following systems during the weeks
+          of January 5, 2026, and January 12, 2026:
+
+              •   service water system
+              •   emergency diesel generators
+
+71111.04 - Equipment Alignment
+
+Partial Walkdown Sample (IP Section 03.01) (2 Samples)
+
+   The inspectors evaluated system configurations during partial walkdowns of the following
+   systems/trains:
+
+   (1)    component cooling water system on January 27, 2026
+   (2)    shutdown cooling system on February 18, 2026
+
+                                                3
+71111.05 - Fire Protection
+
+Fire Area Walkdown and Inspection Sample (IP Section 03.01) (4 Samples)
+
+   The inspectors evaluated the implementation of the fire protection program by conducting a
+   walkdown and performing a review to verify program compliance, equipment functionality,
+   material condition, and operational readiness of the following fire areas:
+
+   (1)    Pre-Fire Plan Area 24 / Room 7: auxiliary feedwater pumps room, elevation 571'
+          on January 28, 2026
+   (2)    Pre-Fire Plan Area 23: turbine building north and south, elevations 580', 585', 590',
+          607' to 612', and 625' on January 15, 2026
+   (3)    Pre-Fire Plan Area 10: east engineered safeguards room, elevation 570' on
+          February 23, 2026
+   (4)    Pre-Fire Plan Area 14: reactor containment building, elevations 590', 607', 611', 625',
+          and 649' on March 10, 2026
+
+Fire Brigade Drill Performance Sample (IP Section 03.02) (1 Sample)
+
+   (1)    The inspectors evaluated the onsite fire brigade performance during a fire on a cable
+          to a temporary power pack supplying diving equipment in the protected area on
+          March 2, 2026.
+
+71111.07A - Heat Exchanger/Sink Performance
+
+Annual Review (IP Section 03.01) (1 Sample)
+
+   The inspectors evaluated readiness and performance of:
+
+   (1)    E-60B shutdown cooling heat exchanger on January 7, 2026
+
+71111.08P - Inservice Inspection Activities (PWR)
+
+The inspectors verified that the reactor coolant system boundary, reactor vessel internals,
+risk-significant piping system boundaries, and containment boundary are appropriately
+monitored for degradation and that repairs and replacements were appropriately fabricated,
+examined and accepted by reviewing the following activities.
+
+Inservice Inspection Activities (PWR) (1 Sample)
+
+   (1)       •   Reactor Vessel Closure Head Nozzle Post Weld Ultrasonic Examination,
+                 Liquid Penetrant Examination, and Eddy Current Testing
+             •   Reactor Core Shroud Assembly Alternate Bolting Pattern Analysis
+             •   Reactor Vessel Closure Head Design Analytical Report
+             •   Pressurizer Safety Valve Flange 1039 and 1041 Post Weld Liquid Penetrant
+                 Examination, Radiographic Examination, and Post Weld Heat Treatment
+             •   Pressurizer Spray Nozzle to Safe-End Post Weld Liquid Penetrant
+                 Examination, Radiographic Examination, and Post Weld Heat Treatment
+
+
+
+                                                4
+71111.11Q - Licensed Operator Requalification Program and Licensed Operator Performance
+
+Licensed Operator Performance in the Actual Plant/Main Control Room (IP Section 03.01)
+(1 Sample)
+
+   (1)    The inspectors observed and evaluated licensed operator performance in the control
+          room during plant heatup to normal operating pressure and temperature while
+          defueled to support primary cooling system (PCS) passivation activities from
+          February 23 to February 25, 2026.
+
+71111.15 - Operability Determinations and Functionality Assessments
+
+Operability Determination or Functionality Assessment (IP Section 03.01) (2 Samples)
+
+   The inspectors evaluated the licensee’s justifications and actions associated with the
+   following operability determinations and functionality assessments:
+
+   (1)    Engineering Change (EC) 93946, “EDG 1-1 and 1-2 Pre-Lube Pumps Motor FLA and
+          Overload Heater Re-Evaluation” on March 20, 2026
+   (2)    Emergency diesel generator (EDG) 1-2 fuel oil priming pump P-210B discharge check
+          valve non-quality part installed during movement of irradiated fuel in the spent fuel
+          pool during the week of January 12, 2026
+
+71111.18 - Plant Modifications
+
+Temporary Modifications and/or Permanent Modifications (IP Section 03.01 and/or 03.02)
+(1 Sample 1 Partial)
+
+   The inspectors evaluated the following temporary or permanent modifications:
+
+   (1)    (Partial)
+          EC-93378, permanent modification of the instrument air system on January 21, 2026
+   (2)    EC-93369, permanent modification for alternate component cooling water
+          connections to the spent fuel pool heat exchanger E-53A/E-53B on January 5, 2026
+
+71111.20 - Refueling and Other Outage Activities
+
+Refueling/Other Outage Sample (IP Section 03.01) (1 Partial)
+
+   (1)    (Partial)
+          The inspectors evaluated restart outage activities from January 1, 2026,
+          to March 31, 2026.
+
+
+
+
+                                               5
+71111.24 - Testing and Maintenance of Equipment Important to Risk
+
+The inspectors evaluated the following testing and maintenance activities to verify system
+operability and/or functionality:
+
+Post-Maintenance Testing (PMT) (IP Section 03.01) (1 Sample)
+
+   (1)    P-8B auxiliary feedwater pump overspeed trip test following governor and turbine
+          rotor overhaul on March 2, 2026
+
+OTHER ACTIVITIES – BASELINE
+
+71151 - Performance Indicator Verification
+
+The inspectors verified licensee performance indicators submittals listed below:
+
+PP01: Protected Area Security Equipment Performance Index Sample (IP Section 02.17)
+(1 Sample)
+
+   (1)    August 25 through December 31, 2025
+
+71152A - Annual Follow-up Problem Identification and Resolution
+
+Annual Follow-up of Selected Issues (IP Section 03.03) (3 Samples)
+
+   The inspectors reviewed the licensee’s implementation of its corrective action program
+   related to the following issues:
+
+   (1)        Issues that challenge operator performance including but not limited to
+              operator work arounds, operator burdens, Main Control Room deficiencies,
+              and adverse condition monitoring plans during the weeks of March 2, 2026,
+              and March 9, 2026.
+   (2)        Condition report (CR) 25015026 associated with procurement and receipt
+              inspection issues for safety-related material during the week of
+              February 16, 2026.
+   (3)        Corrective actions from NRC-identified NCV 05000255/2018011-01 associated
+              with the site’s fire protection suppression system functionality assessment during
+              the weeks of January 26, 2026, and February 2, 2026.
+
+
+
+
+                                                6
+71152S - Semiannual Trend Problem Identification and Resolution
+
+Semiannual Trend Review (IP Section 03.02) (1 Sample)
+
+   (1)    The inspectors reviewed the licensee’s corrective action program to identify potential
+          trends in security equipment that might be indicative of a more significant safety issue
+          on February 24, 2026.
+
+71153 - Follow-Up of Events and Notices of Enforcement Discretion
+
+Personnel Performance (IP Section 03.03) (1 Sample)
+
+   (1)    The inspectors evaluated the loss of 1D bus and automatic start of 1-2 DG and
+          licensee’s performance on February 5, 2026.
+
+OTHER ACTIVITIES – TEMPORARY INSTRUCTIONS, INFREQUENT AND ABNORMAL
+
+71152 - Problem Identification and Resolution (PI&R)
+
+During the inspection period, the inspectors continued reviews of Phases I and II of the
+licensee’s system return to service (SRTS) plans and associated topics. The SRTS plans
+document licensee activities to verify that the configuration and condition of systems, structures,
+and components (SSCs) are consistent with the design and licensing bases to support potential
+restart. The inspectors reviewed Phases I and II of the SRTS plans, which include areas
+such as licensing and design-basis functions, system material conditions, reviewing open and
+deferred work prior to shutdown, and program applicability. The inspectors conducted these
+reviews using IP 71152, “Problem Identification and Resolution,” and IP 71111.21M,
+“Comprehensive Engineering Team Inspection (CETI),” as applicable.
+The inspectors completed reviews of the SRTS plans for the following topics:
+
+Problem Identification and Resolution (PI&R)
+
+              •   environmental qualification of components
+              •   containment purge
+              •   cathodic protection
+              •   chemical and volume control
+              •   circulating water
+              •   engineered safety features - actuation
+              •   feedwater purity air
+              •   fire protection
+              •   480 volt AC power
+              •   main steam system
+              •   neutron monitoring system
+              •   120 volt preferred AC power
+              •   primary coolant
+              •   reactor vessel and reactor vessel internals
+              •   sequencers
+              •   safety injection tanks
+              •   safety injection and refueling water and containment sump
+              •   turbine generator
+
+                                                 7
+INSPECTION RESULTS
+
+ Licensee-Identified Non-Cited Violation                                           71111.20
+ This violation of very-low safety significance was identified by the licensee and has been
+ entered into the licensee corrective action program and is being treated as a non-cited
+ violation, consistent with Section 2.3.2 of the Enforcement Policy.
+ Violation: Title 10 of the Code of Federal Regulations (10 CFR) Part 26, “Fitness for Duty
+ Programs,” subpart 205, “Work Hours,” requires, in part, that licensees shall control work
+ hours so an individual’s hours worked do not exceed 16 hours in any 24-hour period, 26 hours
+ in any 48-hour period, and 72 hours in any 7-day period. Additionally, it requires, in part, that
+ licensees shall ensure that individuals have, at a minimum, a 34-hour break in any 9-day
+ period.
+
+ Contrary to the above, between February 24, 2026, and March 3, 2026, the licensee failed to
+ ensure that individuals subject to the requirements of 10 CFR Part 26 complied with the work
+ hour limitations and scheduling restrictions of Part 26. Specifically, the licensee failed to
+ adequately schedule and control the work hours of three individuals performing work covered
+ by the restrictions of 10 CFR Part 26 by not ensuring that the individuals’ work hours did not
+ exceed 72 hours in any 7-day period. Additionally, the licensee failed to ensure that the same
+ individuals received at least a 34-hour break in any 9-day period.
+ Significance/Severity: Green. The inspectors assessed the significance of the finding using
+ IMC 0609 Appendix A, “The Significance Determination Process (SDP) for Findings
+ At-Power.” Using Exhibit 2, “Mitigating Systems Screening Questions,” of IMC 0609
+ Appendix A, Section A, the inspectors answered “No” to all of the questions, screening the
+ finding to Green, as the work completed by the three individuals was verified by individuals
+ who did meet the requirements of the Part 26 work hours restrictions, ensuring that the
+ equipment maintained either its operability or functionality.
+ Corrective Action References: CR 26012156 - Violation of Fatigue Rule- ARC Pipefitters
+
+ Failure to Maintain Adequate Fire Protection System Functional Test Procedure
+ Cornerstone         Significance                               Cross-Cutting      Report Section
+                                                                Area
+ Mitigating          Green                                      Problem            71152A
+ Systems             NCV 05000255/2026001-01                    Identification and
+                     Open/Closed                                Resolution
+ The inspectors identified a finding of very-low safety significance and associated violation
+ of Technical Specification 5.4.1, “Procedures,” for the licensee’s failure to maintain fire
+ protection system functional test procedure. Specifically, the licensee failed to maintain
+ Procedure RO-52, “Fire Suppression Water System Functional Test and Fire Pump Capacity
+ Test,” by failing to include appropriate acceptance criteria in the procedure to demonstrate
+ fire protection system functionality.
+ Description:
+
+ As part of restart efforts, the inspectors reviewed the site’s fire protection suppression system
+ functionality assessment. Specifically, the inspectors reviewed the corrective action program
+ (CAP) documents associated with the firewater system to understand if prior unresolved
+
+                                                8
+conditions adverse to quality had been addressed. The inspectors also reviewed the most
+recent fire pump test data along with current fire protection system implementing procedures.
+During this review, the inspectors focused on the close-out actions from previous
+NRC-identified NCV 05000255/2018011-01. In response to the 2018 NCV, Palisades
+concluded that EA-FPS-2001-01, “Calculation of Fire Suppression System Flow Rate and
+Pressure Requirements,” already included sufficient margin to account for aging conditions on
+the pipes at the time. It was determined that EA-FPS-2001-01 and RO-52, “Fire Suppression
+Water System Functional Test and Fire Pump Capacity Test,” did not require revision.
+The inspectors noted that the current Palisades procedures had not been revised to consider
+aging conditions on the fire protection system piping since then.
+
+The inspectors questioned the validity of the acceptance criteria in those procedures in 2026,
+since approximately 8 years had passed from the prior issue being identified in 2018.
+The inspectors were concerned that the pipe condition may have degraded further and
+additional friction losses could have occurred due to the piping degrading. The most
+demanding fire suppression loads at Palisades are the start-up transformer deluge system that
+requires a fire pump discharge flow of 1869.1 gpm and pump discharge pressure of 85.6 psig,
+the turbine building sprinklers that require 1562.1 gpm at 103.5 psig, and intake structure
+sprinklers that require 1312.4 gpm at 94.6 psig to ensure adequate fire suppression per
+EA-FPS-2001-01 requirements. Calculation EA-FPS-2001-01 assumes a coefficient of friction
+(C-factor) of 120-100 for the buried fire protection piping and above ground piping that delivers
+fire suppression water from the pump discharge to various suppression loads throughout the
+plant. The fire pump discharge flow and pressure requirements as described above for the
+three most demanding suppression loads were incorporated into the acceptance criteria of
+Procedure RO-52 under Section 6.0. The inspectors questioned the continued appropriateness
+of this acceptance criteria given the age of the piping system, which degrades over time,
+because the calculations that determined the above acceptance criteria assumed a new pipe
+and used a new piping nominal C-factor of 120-100.
+
+The licensee documented the inspectors’ concern in corrective action document condition
+report (CR) 26011141. However, the licensee did not provide any additional data to support
+continued fire water system functionality. Additional information is needed to ensure that the
+system maintains sufficient margin to meet all the suppression loads, including the most
+limiting fire suppression loads at the site. Therefore, the inspectors determined that the current
+acceptance criteria in Section 6.0 of RO-52 were not adequate to ensure functionality of the
+fire pumps to meet fire suppression requirements.
+
+Corrective Actions: The licensee entered the NRC inspectors’ concern into its CAP under
+document CR 2601114. In addition, the licensee initiated corrective actions to perform a fire
+hydraulic model and calculation to determine functionality of the fire suppression system taking
+into consideration the actual degradation of the piping since the issue was first identified in
+2018 by the NRC.
+
+Corrective Action References: CR 26011141, “Follow up review of close-out actions from
+previous NCV 05000255/2018011-01.”
+Performance Assessment:
+
+Performance Deficiency: The licensee’s failure to include appropriate acceptance criteria
+in Procedure RO-52, revision 36, to ensure functionality of the fire suppression water system
+was a performance deficiency.
+
+                                               9
+Screening: The inspectors determined the performance deficiency was more-than-minor
+because it was associated with the Procedure Quality attribute of the Mitigating Systems
+cornerstone and adversely affected the cornerstone objective to ensure the availability,
+reliability, and capability of systems that respond to initiating events to prevent undesirable
+consequences. Specifically, the failure to include appropriate acceptance criteria into
+Procedure RO-52, resulted in a deficient procedure that could lead to the acceptance of
+degraded fire pump performance and subsequently, adversely impact the functionality of
+the fire suppression system.
+
+Significance: The inspectors assessed the significance of the finding using IMC 0609
+Appendix A, “The Significance Determination Process (SDP) for Findings At-Power.”
+The inspectors determined the finding affected the Mitigating Systems cornerstone.
+The finding degraded fire protection defense-in-depth strategies, and the inspectors
+determined, using Table 3, that it could be evaluated using Appendix F, “Fire Protection
+Significance Determination Process.” The inspectors screened the finding using IMC 0609,
+Appendix F, Attachment 1, “Part 1: Fire Protection SDP Phase 1 Worksheet,” dated
+September 20, 2013. The inspectors answered “yes” to Question 1.4.2 G, “Would the affected
+fixed fire suppression system still be able to suppress a fire such that no additional equipment
+important to safety would be affected by a fire?” in Task 1.4.2 of IMC 0609, Appendix F.
+Therefore, the inspectors determined that the finding screened as having very-low safety
+significance (Green).
+
+Cross-Cutting Area: Problem Identification and Resolution
+
+The licensee did not verify the adequacy of the acceptance criteria in RO-52 because the
+licensee failed to identify and evaluate site specific operating experience related to the effect of
+aging equipment on the calculations used as the basis for their procedures. Specifically, when
+updating RO-52 for the site’s reentry into the ROP, the licensee failed to address the corrective
+actions taken for previously NRC-identified issues associated with the basis for the procedure,
+leading to them failing to update the calculations or otherwise ensure there was sufficient basis
+for the acceptance criteria to support functionality of the fire suppression system.
+Enforcement:
+
+Violation: Technical Specification 5.4.1 requires, in part, that, written procedures shall be
+established, implemented, and maintained covering the activities referenced below:
+
+   •   The applicable procedures recommended in Regulatory Guide 1.33, Revision 2,
+       Appendix A, February 1978; and
+   •   Regulatory Guide 1.33, Revision 2, Appendix A, 1978 Section 8 (b)(1)(h) identifies
+       procedure for Fire Protection System Functional Test as an applicable procedure.
+
+Contrary to the above, since August 19, 2025, the licensee failed to maintain Procedure
+RO-52, “Fire Suppression Water System Functional Test and Fire Pump Capacity Test,”
+by failing to include appropriate acceptance criteria in the procedure to demonstrate Fire
+Protection System Functionality.
+
+Enforcement Action: This violation is being treated as a non-cited violation, consistent with
+Section 2.3.2 of the Enforcement Policy.
+
+
+
+                                               10
+Minor Violation                                                                      71152A
+Minor Violation: On February 16, 2026, the inspectors reviewed the licensee’s causal analysis
+(CR 25015026) and associated corrective actions related to the inadvertent installation of
+non-quality parts in the safety-related emergency diesel generators (EDGs) and main steam
+safety system. Specifically, on or about December 13, 2025, the licensee identified that
+multiple purchase orders that were issued for safety-related Swagelok check valves in
+the fuel and/or air start systems for EDG 1-1 and EDG 1-2, along with refurbishment of
+safety-related main steam safety valves in the main steam safety system, did not conform to
+the procurement documents to ensure quality. Several of the purchased items were received
+and installed in the plant, which included the EDG 1-1 fuel oil priming pump P-210A
+discharge check valve (CK-DE400), EDG 1-2 fuel oil priming pump P-210B discharge check
+valve (CK-DE401), and main steam safety valve (RV-0701).
+
+The EDGs supply backup electrical power to various safety-related buses that power
+plant equipment to ensure safe shut down and maintain core cooling if offsite power was lost.
+The main steam safety system (steam generated from steam generators) contains 12
+spring-loaded safety valves that function as overpressure protection in accordance with
+American Society of Mechanical Engineers (ASME) Boiler and Pressure Vessel (B&PV)
+code, Section III, Rules for Construction of Nuclear Facility Components. Title 10 of the
+Code of Federal Regulations (10 CFR) Part 50, Appendix B, Criterion VII, “Control of
+Purchased Material, Equipment, Services” requires, in part, that measures shall be
+established to assure that purchased material, equipment, and services, whether purchased
+directly or through contractors and subcontractors, conform to procurement documents.
+These quality assurance processes are essential to provide reasonable assurance that
+structures, systems, and/or components installed in the plant would perform their specified
+safety function(s).
+
+The licensee’s causal analysis concluded that procurement and receipt inspection processes
+that support implementation of the Palisades quality assurance program were not consistently
+performed with sufficient rigor to ensure safety-related components satisfy the quality
+objectives identified on the qualified suppliers list (QSL), safety-related purchase orders,
+and supporting quality documentation requirements prior to receipt acceptance or installation.
+Supply chain did not perform the required verification and validation of controls and
+procedures to ensure only qualified safety-related components were procured and installed.
+For EDG 1-1 and EDG 1-2, Swagelok valves were purchased directly from Swagelok.
+However, Swagelok was not specifically listed on the Palisades QSL to provide safety-related
+valves and, therefore, was considered an unqualified supplier. For the main steam safety
+valve refurbishments, although the supplier had maintained a quality assurance program, the
+specific facility where repair work had been performed was a satellite location that had not
+been audited and, therefore, should not have been on the Palisades QSL. A qualified supplier
+was a supplier who had undergone a quality and technical evaluation by responsible
+organizations and was approved to provide specific material or services as identified on the
+QSL. In addition, the main steam safety valve purchase order stated, in part, repairs and
+steam certification testing shall be performed in accordance with Holtec approved repair and
+testing procedures as approved by the Palisades Program Engineer. On October 28, 2025,
+the licensee identified that the repair plan had not been reviewed and approved by the
+responsible engineer.
+
+The inspectors determined that the licensee’s failure to assure that purchased material,
+equipment, and services conformed to procurement documents in accordance with
+
+                                             11
+10 CFR Part 50, Appendix B, Criterion VII, “Control of Purchased Material, Equipment,
+Services,” was a performance deficiency. Specifically, documentation associated with several
+emergency diesel generator and main steam safety system components, procured as
+safety-related, did not satisfy purchase order requirements upon receipt and were not
+identified during material receipt inspection. Licensee quality Procedure MP-120, “Material
+Receipt,” Revision 0, step 7.7.6 states, in part, for quality inspection “supplier documentation
+such as certificate of conformance, supporting documents or certificate of analysis attesting
+to acceptable test results shall be reviewed in a manner to ensure purchase order
+requirements are satisfied. Documentation received from a third-party dedicator and/or the
+CGD [commercial grade dedication] lab shall also be reviewed in a reasonable manner to
+verify accuracy, traceability to the purchase order, receipt lot/batch, etc. ensuring the CGD
+acceptance criteria is satisfied.”
+
+Screening: The inspectors determined the performance deficiency was minor. The main
+steam system and EDG 1-1 had not been returned to service since Palisades re-entered
+the Reactor Oversight Process on August 25, 2025, nor were required to be operable
+per technical specifications in the mode of applicability (plant was in defueled condition).
+EDG 1-2 was returned to service (operable) on November 11, 2025, to support irradiated
+fuel movements in the spent fuel pool in accordance with Technical Specification 3.8.2,
+Alternating Current Sources - Shutdown. Irradiated fuel movements commenced on
+November 17, 2025, and completed on December 9, 2025. The licensee performed a
+past operability evaluation regarding the installation of the non-quality (commercial grade,
+not safety-related) fuel oil priming pump P210-B check valve (CK-DE401) and reasonably
+concluded there were no operational impacts to EDG 1-2 during the periodic movement of
+irradiated fuel in the spent fuel pool and the EDG remained capable of performing its intended
+safety function. In addition, a supplier evaluation was performed on the main steam safety
+valve repair facility satellite location and demonstrated compliance with applicable technical
+and quality assurance requirements. Therefore, the inspectors determined the performance
+deficiency was not reasonably viewed as a precursor to a significant event; if left uncorrected,
+would not have the potential to lead to a more significant concern; was either not associated
+with or did not adversely impact any of the cornerstone objectives; and was similar to
+Inspection Manual Chapter 0612, Appendix E, “Examples of Minor Issues,” example 5.c.
+
+Enforcement: 10 CFR Part 50, Appendix B, Criterion VII, “Control of Purchased Material,
+Equipment, Services” states, in part, measures shall be established to assure that purchased
+material, equipment, and services, whether purchased directly or through contractors and
+subcontractors, conform to the procurement documents. These measures shall include
+provisions, as appropriate, for source evaluation and selection, objective evidence of quality
+furnished by the contractor or subcontractor, inspection at the contractor or subcontractor
+source, and examination of products upon delivery. Documentary evidence that material and
+equipment conform to the procurement requirements shall be available at the nuclear power
+plant site prior to installation or use of such material and equipment. This documentary
+evidence shall be retained at the nuclear power plant and shall be sufficient to identify the
+specific requirements, such as codes, standards, or specifications, met by the purchased
+material or equipment. The effectiveness of the control of quality by contractors and
+subcontractors shall be assessed by the applicant or designee at intervals consistent with
+the importance, complexity, and quantity of the product or services.
+
+Contrary to the above, from July 25, 2025, [date of first Swagelok valve receipt inspection -
+September 9, 2025, for main steam safety valve RV-0701] to December 13, 2025, [date CR
+for Swagelok check valves written - November 4, 2025, for RV-0701] the licensee failed to
+
+                                              12
+  assure that purchased material, equipment, and services conformed to procurement
+  documents. Specifically, documentation associated with several emergency diesel generator
+  and main steam safety system components procured as safety-related did not satisfy
+  purchase order requirements upon receipt and were not identified during material receipt
+  inspection.
+
+  This failure to comply with 10 CFR 50, Appendix B, Criterion VII, “Control of Purchased
+  Material, Equipment, Services” constitutes a minor violation that is not subject to enforcement
+  action in accordance with the NRC’s Enforcement Policy.
+
+ Observation: Issues that Challenge Operator Performance                               71152A
+ The inspectors reviewed issues that challenge operator performance including but not limited
+ to operator work arounds, operator burdens, Main Control Room deficiencies, and adverse
+ condition monitoring plans. While observing passivation activities in the Main Control Room
+ on February 23, 2026, through February 25, 2026, they noted some equipment issues that
+ warranted further review.
+
+ The inspectors reviewed site procedures associated with the programs, reviewed condition
+ reports and records associated with issues, walked down the control room panels, and
+ discussed issues with the operators. Additionally, they reviewed the current lists of operator
+ work-around, operator burdens, and Main Control Room deficiencies and their potential
+ impact.
+
+ No violations were identified.
+
+ Minor Violation                                                                           71152S
+ Minor Violation: Beginning on February 24, 2026, the NRC reviewed a selection of condition
+ reports that resulted in the identification of a minor violation associated with security
+ requirements. Details of this minor violation are withheld from public release. The licensee
+ entered the associated issues into its corrective action program.
+
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •   On April 13, 2026, the inspectors presented the integrated inspection results to
+       Michael Schultheis, Site Vice President, and other members of the licensee staff.
+
+
+
+
+                                                13
+DOCUMENTS REVIEWED
+
+Inspection   Type                Designation       Description or Title                                         Revision or
+Procedure                                                                                                       Date
+71111.01     Corrective Action   26010221          NRC ID: Outflow Water Line to T-41 Insulation Needs Repair   01/07/2026
+             Documents           2610219           NRC ID: Housekeeping Around T-58 (Safety Injection           01/07/2026
+             Resulting from                        Refueling Water Storage Tank) does not Meet Expectations
+             Inspection
+             Miscellaneous                         T-10A Diesel Fuel Oil Sample Results                         06/05/2025
+                                                   T-10A Diesel Fuel Oil Sample Results                         01/22/2026
+             Procedures          SOP-15            Service Water System                                         73
+             Work Orders         586612            Perform Cold Weather Checksheets                             10/20/2025
+71111.04     Corrective Action   26010547          E-54B CCW Heat Exchanger Endbell Still Leaking After         01/17/2026
+             Documents                             Retorquing
+             Procedures          SOP-16            Component Cooling Water System                               50
+                                 SOP-3             Safety Injection and Shutdown Cooling System                 111
+71111.05     Corrective Action   26010781          Aux Feedpump Room FME and Housekeeping                       01/24/2026
+             Documents           26012109          Fire outside of screenhouse on west road                     03/02/2026
+                                 26012354          Burnt-Out Low-Vol Air Sampler                                03/07/2026
+             Fire Plans          PFP               Pre Fire Plan                                                6
+             Procedures          DBD-7.10          Design Basis Document for NFPA 805 Fire Protection           4
+                                                   Program
+                                 EN-OP-139         Fire Watch Program                                           006
+                                 ENG-327           Control of Hot Work and Ignition Sources                     1
+                                 FPIP-2            Fire Emergency Responsibility and Response                   28
+71111.07A    Corrective Action   26010075          E-60B Tube Plugging                                          01/05/2026
+             Documents           26010169          E-60B Tube Plug                                              01/06/2026
+             NDE Reports         Eddy Current      Holtec International Palisades Power Plant Unit 1 Shutdown   0
+                                 Report            Heat Exchanger E-60B
+71111.08P    Engineering         157-9387315-001   Palisades Pressurizer Safety Nozzle Flange Replacement       001
+             Changes             50-9375076-0000   Palisades RVCH CRDM Nozzle IDTB Modifications                009
+                                 50-9381350        Palisades Pressurizer Spray Nozzle Alloy 600 Mitigation      002
+                                 93339             Reactor Vessel Closure Head Alloy 600 Mitigation             02/03/2026
+                                 93588             Reactor Core Shroud Assembly ABPA Evaluation                 01/27/2026
+             Engineering         CENC-1116         Analytical Report for Consumers Power Reactor Vessel         04/01/1969
+
+
+                                                             14
+Inspection   Type                Designation   Description or Title                                           Revision or
+Procedure                                                                                                     Date
+          Evaluations
+71111.11Q Procedures             SOP-1C        Primary Coolant System - Heatup                                25
+71111.15  Corrective Action      25011228      P-905A Pre-Lube Pump Tripped on Thermals                       08/19/2025
+          Documents              25011267      This CR Is to Document the Replacement Of EMB-0116D            08/18/2025
+                                               (Q1) With A Q4 Motor
+                                 25014235      Vendor Material Qualification Issue Resulting in Unqualified   11/12/2025
+                                               Item Installed
+                                 25015178      Non-Qualified Valves Installed in Safety-Related Systems       12/13/2025
+             Engineering         43407         Document Acceptable Replacement of P-905B and                  04/19/2013
+             Changes                           EMB-0216D, EDG 1-2 Lube Oil Pre-Lube Priming
+                                               Pump/Motor Assembly
+                                 93946         EDG 1-1 and 1-2 Pre-Lube Pumps Motor FLA and Overload          03/11/2026
+                                               Heater Re-Evaluation
+71111.18     Corrective Action   26013896      AOP-26 Entry                                                   04/16/2026
+             Documents
+             Engineering         93369         Alternate Component Cooling Water Connections to the SFP       0
+             Changes                           Heat Exchanger E-53A/E-53B
+                                 93378         Palisades Instrument Air Compressors and Dryer                 0
+                                               Replacement
+             Procedures          RA-100        Process Applicability Determination                            0
+                                 SOP-27        Fuel Pool System                                               78
+71111.20     Corrective Action   26011874      MV-ES3042 T-82A PRESSURE CONTROL CV-3042 INLET                 02/24/2026
+             Documents                         found LOCKED OPEN
+                                 26011885      PCS Leakage Update                                             04/21/2026
+                                 26012124      Gravel Pit LHRA Gate Is Not Opening                            03/03/2026
+                                 26012136      QC Inspector On Shift For 22 Hours                             03/03/2026
+                                 26012156      Violation of Fatigue Rule - ARC Pipefitters                    03/03/2026
+             Procedures          RA-023        Fatigue Management Program                                     1
+                                 RA-202        Personnel Expectations Related to Fatigue Management           0
+71111.24     Corrective Action   26010679      Damaged Trip Body Set Screw on P-8B Turbine                    01/21/2026
+             Documents           26010781      Aux Feedpump Room FME and Housekeeping                         01/24/2026
+                                 26012107      K-8 Gov. End Bearing Oil Bubbler Leaking                       03/02/2026
+             Procedures          WI-MA-395     Auxiliary Feedwater Turbine K-8 Overspeed Trip Test Using      08/07/2025
+
+
+                                                         15
+Inspection   Type                Designation     Description or Title                                          Revision or
+Procedure                                                                                                      Date
+                                                 TTOD Device
+             Work Orders         586176          K-8; OVERSPEED TRIP TEST USING TTOD                           03/03/2026
+                                                 (ENGINEERING)
+71151        Miscellaneous                       3rd Quarter 2025 NRC Performance Indicator                    10/07/2025
+                                                 Technique/Data Package
+                                                 4th Quarter 2025 NRC Performance Indicator                    01/06/2026
+                                                 Technique/Data Package
+71152A       Calculations        EA-FPP-96-024   System Hydraulic Analysis for Start Up Transformers 1-1, 1-   0B
+                                                 2, and 1-3 – Fire Suppression System
+                                 EA-FPP-96-011   System Hydraulic Analysis for the Intake Structure – Fire     0
+                                                 Suppression System
+                                 EA-FPP-96-015   System Hydraulic Analysis for the Turbine Building – Fire     0
+                                                 Suppression System
+                                 PLP-RPT-18-     Fire Protection Hydraulic Modeling and Analysis               0
+                                 00019
+             Corrective Action   25015026        Procurement Engineering (PE), Procurement Specialists         12/08/2025
+             Documents                           (PS), and Receipt Inspection (RI) personnel did not comply
+                                                 with Palisades Quality Assurance Program, resulting in the
+                                                 installation of unqualified materials and subsequent
+                                                 Operation Mode Holds
+             Corrective Action   26011141        Follow-up Review of Close Out Actions from Previous NCV       02/03/2026
+             Documents                           05000255/2018011-01
+             Resulting From
+             Inspection
+             Procedures          OPS-329         Adverse Condition Monitoring and Contingency Planning         0
+                                 OPS-412         Operator Work-Around Program                                  0
+                                 RO-52           Fire Suppression Water System Functional Test and Fire        36
+                                                 Pump Capacity Test
+71153        Corrective Action   26011187        Rear and Safeguards Bus Lost when Control Cables were         02/05/2026
+             Documents                           Hit
+                                 26011372        Testing Activities Result in Trip of Emergency Diesel         02/10/2026
+                                                 Generator
+             Procedures          AOP-9           Loss of Bus 1D                                                3
+
+
+                                                           16
+

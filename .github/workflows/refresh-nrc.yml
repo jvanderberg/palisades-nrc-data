@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['web/**', 'scripts/**', '.github/workflows/refresh-nrc.yml']
+    paths: ['web/**', 'scripts/**', 'config/**', 'tests/**', '.github/workflows/refresh-nrc.yml']
 
 permissions:
   contents: write
@@ -19,7 +19,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -28,23 +28,23 @@ jobs:
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
         with:
           node-version: '24'
-      - name: Fetch and validate NRC findings
-        run: node scripts/fetch-nrc.mjs
+      - name: Install PDF text extractor
+        run: sudo apt-get update -qq && sudo apt-get install -y poppler-utils
+      - name: Fetch and archive NRC reports
+        run: python3 scripts/archive.py
+      - name: Verify extraction and deterministic rendering
+        run: python3 -m unittest discover -s tests -v
+      - name: Render static dashboard
+        run: python3 scripts/build.py
       - name: Save successful snapshot
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/findings.json
+          git add data/archive.json archive/
           if ! git diff --cached --quiet; then
-            git commit -m 'Update NRC findings snapshot'
+            git commit -m 'Archive NRC reports and findings'
             git push
           fi
-      - name: Prepare static dashboard
-        run: |
-          mkdir -p _site/data
-          cp web/index.html web/app.js web/style.css _site/
-          cp data/findings.json _site/data/
-          touch _site/.nojekyll
       - name: Configure Pages
         uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b
       - name: Upload dashboard

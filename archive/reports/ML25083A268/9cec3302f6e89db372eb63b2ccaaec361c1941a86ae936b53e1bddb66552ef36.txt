@@ -1,0 +1,559 @@
+                                           March 26, 2025
+Mike Mlynarek
+Site Vice President
+Holtec Decommissioning
+International, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Highway
+Covert, MI 49043‑9530
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2025001 AND 07200007/2024001
+
+Dear Mike Mlynarek:
+
+On February 28, 2025, the U.S. Nuclear Regulatory Commission (NRC) completed an
+inspection at the Palisades Nuclear Plant. The enclosed inspection report documents the
+inspection results, which the inspectors discussed on March 5, 2025, with yourself and other
+members of your staff.
+
+One Severity Level IV violation without an associated finding is documented in this report.
+We are treating this violation as a non-cited violation (NCV) consistent with Section 2.3.2 of the
+Enforcement Policy.
+
+If you contest the violation or the significance or severity of the violation documented in this
+inspection report, you should provide a response within 30 days of the date of this inspection
+report, with the basis for your denial, to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001; with copies to the Regional
+Administrator, Region III; the Director, Office of Enforcement; and the NRC Resident Inspector
+at the Palisades Nuclear Plant.
+
+On June 13, 2022, Palisades ceased permanent power operations and subsequently removed
+all fuel from the reactor, as detailed in the letter from Entergy to the NRC, “Certifications of
+Permanent Cessation of Power Operations and Permanent Removal of Fuel from the Reactor
+Vessel,” (ADAMS Accession No. ML22164A067). On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of Title 10 of the Code of Federal
+Regulations (10 CFR) 50.82(a)(2) to pursue the potential reauthorization of power operations at
+Palisades (ADAMS Accession No. ML23271A140). The NRC’s initial acceptance to review
+Palisades’ request for exemptions was documented in ADAMS at Accession No. ML23291A440
+on November 3, 2023.
+M. Mlynarek                                     2
+
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public
+Inspections, Exemptions, Requests for Withholding.”
+
+                                              Sincerely,
+                                                                      Signed by Nguyen, April
+                                                                      on 03/26/25
+
+
+
+                                              April M. Nguyen, Lead
+                                              Palisades Restart Team
+                                              Division of Operating Reactor Safety
+
+Docket Nos. 05000255 and 07200007
+License No. DPR‑20
+
+Enclosure:
+As stated
+
+cc w/ encl: Distribution via LISTSERV®
+M. Mlynarek                                  3
+
+
+Letter to Mike Mlynarek from April Nguyen dated March 26, 2025.
+
+SUBJECT:       PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT
+               05000255/2025001 and 07200007/2024001
+
+DISTRIBUTION:
+Alejandro Alen Arias
+RidsNrrPMPalisades Resource
+RidsNrrDorlLpl3
+RidsNrrDroIrib Resource
+Jack Giessner
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+Harral Logaras
+Bryan Bergeon
+David Curtis
+Jared Heck
+R3-DORS
+
+
+
+
+ADAMS Accession Number: ML25083A268
+                             ☒ Non-Sensitive                      ☒ Publicly Available
+   ☒    SUNSI Review
+                             ☐ Sensitive                          ☐ Non-Publicly Available
+ OFFICE RIII               RIII
+ NAME    JWinslow:gl       ANguyen
+ DATE    03/26/2025        03/26/2025
+
+
+                                     OFFICIAL RECORD COPY
+                          U.S. NUCLEAR REGULATORY COMMISSION
+                                     Inspection Report
+
+
+Docket Numbers:              05000255 and 07200007
+
+
+License Number:              DPR‑20
+
+
+Report Numbers:              05000255/2025001 and 07200007/2024001
+
+
+Enterprise Identifiers:      I‑2025‑001-0078 and I‑2024‑001‑0149
+
+
+Licensee:                    Holtec Decommissioning International, LLC
+
+
+Facility:                    Palisades Nuclear Plant
+
+
+Location:                    Covert, MI
+
+
+Inspection Dates:            January 01, 2025 to February 28, 2025
+
+
+Inspectors:                  J. Austin, Senior Project Engineer, Region II
+                             B. Bergeon, Senior Operations Engineer
+                             D. Hoang, Senior Project Engineer
+                             B. Lin, Senior Health Physicist
+                             J. Mancuso, Senior Resident Inspector
+                             J. Nance, Operations Engineer
+                             T. Okamoto, Resident Inspector
+                             A. Sanchez, Senior Project Engineer, Region IV
+                             D. Sargis, Emergency Response Coordinator
+                             S. Schwind, Senior Resident Inspector, Callaway
+                             A. Shaikh, Senior Reactor Inspector
+                             C. Speer, Reactor Systems Engineer, NRR
+                             T. Steadham, Senior Resident Inspector, Browns Ferry
+                             D. Werkheiser, Senior Reactor Analyst, Region I
+                             J. Winslow, Senior Project Engineer, Restart Team
+
+
+Approved By:                 April M. Nguyen, Lead
+                             Palisades Restart Team
+                             Division of Operating Reactor Safety
+
+
+
+
+                                                                                    Enclosure
+                                          SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) performed inspections of the licensee’s
+activities to verify that the reactor coolant system boundary, reactor vessel head, and
+risk-significant piping system boundaries are appropriately monitored for degradation and that
+required repairs and replacements are appropriately examined and accepted; systems,
+structures, and components (SSCs) are appropriately inspected, maintained, and tested to
+ensure they can perform their required safety functions for potential restart; the licensed
+operator requalification training program and operator performance are appropriately performed;
+and independent spent fuel storage installation (ISFSI) cask loading activities are appropriately
+performed.
+
+                               List of Findings and Violations
+
+ Failure to Correct an Inadequate Surveillance on the Spent Fuel Pool Overhead Crane
+ Cornerstone          Severity                                   Cross-Cutting Report Section
+                                                                 Aspect
+ Not Applicable       Severity Level IV                          Not Applicable 60855
+                      NCV 07200007/2024001‑01
+                      Open/Closed
+ The inspectors identified a severity level IV non-cited violation of Title 10 of the Code of
+ Federal Regulations (10 CFR) Part 50, Appendix B, Criterion XVI, “Corrective Action,” for the
+ licensee’s failure to establish measures to assure a condition adverse to quality was
+ corrected. Specifically, the licensee did not take corrective action when they identified that
+ the spent fuel pool overhead crane annual surveillance was performed without calibrated
+ measuring and test equipment (M&TE). As a result, the safety-related work could not be
+ validated, and the site could not maintain traceability of equipment used to perform
+ measurements in the surveillance.
+
+
+                                  Additional Tracking Items
+
+None.
+
+
+
+
+                                                2
+PLANT STATUS
+
+The Palisades Nuclear Plant ceased power operations and subsequently removed all fuel from
+the reactor, as certified in a letter to the NRC on June 13, 2022. On September 28, 2023, Holtec
+Decommissioning International, LLC (Holtec) submitted a letter to the NRC requesting
+exemptions from certain portions of the requirements of 10 CFR 50.82(a)(2) to pursue the
+potential reauthorization of power operations. The NRC is conducting inspections to evaluate
+and assess the licensee’s activities for potential restoration to an operational status.
+
+The resident inspectors, as well as supplemental inspectors, continue to supply daily oversight
+of the restart activities occurring at the site.
+
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the referenced inspection
+procedures (IPs) in effect at the beginning of the inspection unless otherwise noted. Currently
+approved IPs with their attached revision histories are located on the public website at
+http://www.nrc.gov/reading-rm/doc-collections/insp-manual/inspection-procedure/index.html.
+
+REACTOR SAFETY CORNERSTONES
+
+71111.01 - Adverse Weather Protection
+
+Impending Severe Weather (IP Section 03.02)
+
+   (1)   The inspectors evaluated the adequacy of the overall preparations to protect
+         risk-significant systems from impending winter weather due to a winter weather
+         advisory during the week of January 20, 2025. The inspectors focused their reviews on
+         winter weather preparations for the service water system, plant boiler heating system,
+         and outdoor storage tanks.
+
+71111.05 - Fire Protection
+
+Fire Area Walkdown and Inspection (IP Section 03.01)
+
+   The inspectors evaluated the implementation of the fire protection program by conducting a
+   walkdown and performing a review to verify program compliance, equipment functionality,
+   material condition, and operational readiness of the following fire areas:
+
+   (1)   Pre-fire Plan Area 13G: Spent Fuel Pool Heat Exchanger Room, 590′ elevation on
+         February 19, 2025
+
+
+71111.08P - Inservice Inspection Activities (PWR)
+
+From January 7, 2025, to February 28, 2025, the inspectors observed and verified Holtec
+Palisades’ nondestructive examination (NDE) and repair/replacement activities of the reactor
+pressure vessel head and Alloy 600 welds, conducted in accordance with the requirements of
+the ASME Code Section XI. The purpose of these inspections was to verify that the reactor
+coolant system boundary, reactor pressure vessel head, and risk-significant piping system
+boundaries are appropriately monitored for degradation. The inspectors also verified that the
+
+
+                                                3
+examination results were thoroughly reviewed and appropriately evaluated, and that required
+corrective actions to address identified indications and defects will be appropriately
+implemented. During this inspection period, the licensee completed NDE activities and
+evaluation of data for both the reactor pressure vessel head and Alloy 600 welds in the primary
+coolant system and began repair/replacement activities in both areas. Further NRC inspections
+will monitor repair/replacement activities as they are conducted.
+
+The inspectors verified that the following nondestructive examination and repair/replacement
+activities were conducted appropriately per the ASME Code or required standard, and that any
+potential indications and defects were identified and evaluated at the proper thresholds:
+
+Nondestructive Examination and Welding Activities (IP Section 03.01)
+
+Alloy 600 Weld Inspection and Mitigation (January 7 through February 21, 2025)
+    • Surge Line Hot Leg Weld Overlay Fabrication
+    • Shutdown Cooling Hot Leg Weld Overlay Post Welding Ultrasonic Examination and
+       Liquid Penetrant Examination
+    • Surge Line Hot Leg Weld Overlay Post Welding Ultrasonic Examination
+    • Safety Injection Cold Leg 1A and 2B Weld Overlay Fabrication
+
+Vessel Upper Head Penetration Inspection Activities (IP Section 03.02)
+
+Reactor Pressure Vessel Head Nozzle Repairs and Examinations
+   • All penetrations nozzles except nozzle #5 final nozzle machining and surface
+      preparation (flapping to smooth out surface)
+   • All penetrations nozzles except nozzle #5 post-machining liquid penetrant examination
+   • Nozzle #5 inner diameter bore measurements
+
+71111.11Q - Licensed Operator Requalification Program and Licensed Operator Performance
+
+Licensed Operator Requalification Program and Licensed Operator Performance
+
+   (1)   The inspectors observed quarterly licensed operator requalification training during an
+         evaluated scenario on January 7, 2025.
+
+71111.13 - Maintenance Risk Assessments and Emergent Work Control
+
+Risk Assessment and Management Sample (IP Section 03.01)
+
+The inspectors evaluated the accuracy and completeness of risk assessments for the following
+planned work activities to ensure configuration changes and appropriate work controls were
+addressed:
+
+   (1)   Primary Coolant Pump ‘D’ lift activities during the work weeks of January 10 through
+         January 21, 2025
+   (2)   Dry Fuel Storage Cask lift activities on January 10, 2025
+   (3)   Turbine Generator Rotor lift activities on January 25, 2025
+   (4)   Low Pressure Turbine ‘B’ hood cover lift activities on February 4, 2025
+
+
+                                               4
+OTHER BASELINE ACTIVITIES
+
+71152 - Problem Identification and Resolution
+
+System Return to Service
+
+During the inspection period, the inspectors continued reviews of Phases I and II of the
+licensee’s system return to service (SRTS) plans. The SRTS plans document licensee activities
+to verify that the configuration and condition of Systems, Structures, and Components (SSCs)
+are consistent with the design and licensing bases to support potential restart. The inspectors
+reviewed Phases I and II of the SRTS plans, which include areas such as licensing and
+design-basis functions, system material conditions, reviewing open and deferred work prior to
+shutdown, and program applicability. The inspectors conducted these reviews using IP 71152,
+“Problem Identification and Resolution,” and IP 71111.21M, “Comprehensive Engineering Team
+Inspection (CETI),” as applicable.
+
+The inspectors commenced reviews of the SRTS plans for the following systems:
+   • Control Rod Drive System
+   • Dry Fuel Storage
+   • Containment and Fuel Pool Cranes
+
+The inspectors completed initial reviews of the SRTS plans for the following systems:
+   • Auxiliary Feedwater (AFW)
+   • AC Power Systems (4160 Volt and 2400 Volt)
+   • Service Water
+   • DC Power Systems (Vital and Non-vital)
+   • Emergency Diesel Generators (EDGs)
+   • Low Pressure Safety Injection and Shutdown Cooling
+
+These systems were selected based on the importance of the SSCs during normal and
+emergency plant operating conditions, risk significance and defense-in-depth of the SSC’s
+specific functions and required work/modifications of the SSCs scheduled prior to potential
+restart.
+
+The inspectors evaluated the initial SRTS plans for each system to identify if planned licensee
+activities will verify that the configuration and condition of the SSCs are consistent with the
+proposed operational design and licensing bases to support restart and verify readiness of the
+SSCs to support a return to service. The inspectors noted that the SRTS plans are intended to
+be living documents with a phased approach to SRTS. The initial plans were noted to be at a
+very high level and did not always provide specific details associated with inspection or testing
+plans. The inspectors noted that this specific level of detail is still in progress and, as the
+licensee progresses through the SRTS phases, the SRTS plans will undergo additional reviews
+by NRC inspector to ensure SSCs.
+
+
+
+
+                                                5
+OTHER ACTIVITIES – TEMPORARY INSTRUCTIONS, INFREQUENT AND ABNORMAL
+
+60855 - Operation of an ISFSI
+
+Operation of an ISFSI (1 Sample)
+
+   (1)   The inspectors evaluated the licensee’s independent spent fuel storage installation
+         (ISFSI) cask loading activities from December 16, 2024, through
+         January 10, 2025. Specifically, the inspectors observed the following activities during
+         the loading of multi-purpose canister (MPC) No. 426:
+             1. Fuel loading
+             2. Heavy load movement of loaded MPC out of the spent fuel pool
+             3. Canister lid welding
+             4. Nondestructive evaluation of canister welds
+             5. Radiological field surveys
+             6. Forced helium dehydration
+
+         The inspectors performed walkdowns of the ISFSI pads, walkdowns of the ISFSI haul
+         path, and independent radiation surveys.
+
+         The inspectors evaluated the following:
+            1. Spent fuel selected for loading into dry cask storage during this loading
+                campaign
+            2. Selected corrective action program documents
+            3. Selected 10 CFR 72.48 screenings and evaluations
+            4. Changes to the site's 10 CFR 72.212 report since the previous inspection
+
+
+
+INSPECTION RESULTS
+
+ Failure to Correct an Inadequate Surveillance on the Spent Fuel Pool Overhead Crane
+ Cornerstone Severity                                        Cross-        Report Section
+                                                             Cutting
+                                                             Aspect
+ Not            Severity Level IV                            Not           60855
+ Applicable     NCV 07200007/2024001‑01                      Applicable
+                Open/Closed
+
+ The inspectors identified a severity level IV non-cited violation of Title 10 of the Code of
+ Federal Regulations (10 CFR) Part 50, Appendix B, Criterion XVI, “Corrective Action,” for the
+ licensee’s failure to establish measures to assure a condition adverse to quality was
+ corrected. Specifically, the licensee did not take corrective action when they identified that the
+ spent fuel pool overhead crane annual surveillance was performed without calibrated
+ measuring and test equipment (M&TE). As a result, the safety-related work could not be
+ validated, and the site could not maintain traceability of equipment used to perform
+ measurements in the surveillance.
+
+
+
+
+                                                 6
+Description:
+
+On May 13, 2024, the licensee performed work order 50086009‑01‑01‑009 and procedure
+MSM-M‑13C, “Spent Fuel Pool Crane L‑3 Periodic Inspection.” Step 3.6.1 states specific
+M&TE to be used during the surveillance and lists a table to document the identification
+number and calibration due date for each piece of equipment. The licensee did not document
+any M&TE data for the ammeter, multimeter, or dial caliper. For the torque wrench, the
+licensee documented a torque wrench that was out of calibration. The work order was signed
+off as complete on May 13, 2024.
+
+On August 5, 2024, the licensee wrote corrective action document PAL‑02834. The licensee
+identified the failure to document the use of calibrated M&TE. The licensee also identified that
+M&TE traceability was not being maintained in accordance with the site quality assurance
+program. The licensee made a corrective action to perform a work group evaluation to
+determine the cause of the issue. The licensee subsequently created an action to inform other
+work groups of the vulnerability of not using calibrated M&TE. However, the licensee did not
+create any actions to address the fact that the surveillance was not done in accordance with
+the licensee’s procedure and the site quality assurance program. The corrective actions were
+closed out and the issue report was closed on December 2, 2024.
+
+During the cask loading campaign beginning in December 2024, the inspectors reviewed the
+spent fuel pool crane periodic inspection and associated corrective action documents and
+identified that the crane inspection still did not have traceability of M&TE used to perform the
+measurements. The licensee stopped work with the crane and performed work order
+00588078‑01 to re-do the portions of the annual crane inspection that required the use of
+calibrated M&TE. The licensee identified that the crane emergency brake torque was higher
+than the allowed tolerance. The licensee adjusted the brake torque to within the allowed
+tolerance and documented the condition in the corrective action program.
+
+The inspectors noted that the licensee had sufficient time to create and complete a corrective
+action to restore the crane to full compliance because 4 months elapsed from the
+identification of the issue and the closure of the issue report. Additionally, the licensee
+performed a heavy lift of a loaded spent fuel canister following the closure of the issue report
+that identified the crane inspection was done without calibrated M&TE. It was determined that
+there was no impact to lifting the canister or to the structural integrity of the crane during this
+heavy lift.
+
+Corrective Actions: The licensee performed work order 00588078‑01 “L-3 Return to
+Operability,” in order to re-do sections of the spent fuel crane annual surveillance that
+required calibrated M&TE. The licensee set the emergency brake torque to the correct
+tolerance.
+
+Corrective Action References: PAL-04948 and PAL-04960
+Performance Assessment: None
+Enforcement:
+
+Severity: The inspectors determined that the issue was more than minor because it was
+similar to example 4.c of Inspection Manual Chapter (IMC) 0612, Appendix E, “Examples of
+Minor Issues.” Specifically, the crane was used to perform a heavy lift of a loaded spent fuel
+canister and subsequent testing identified that the emergency brake torque measurement
+
+
+
+                                                 7
+ was outside of tolerance. The inspectors determined that the issue was of very low safety
+ significance because it did not affect the structural qualification of the crane and there were
+ no actual consequences as a result of this violation. Therefore, the violation was determined
+ to be a severity level (SL) IV non-cited violation (NCV).
+
+ Violation: Title 10 CFR Part 50, Appendix B, Criterion XVI, “Corrective Actions,” requires, in
+ part, that measures shall be established to assure that conditions adverse to quality, such as
+ failures, malfunctions, deficiencies, deviations, defective material and equipment, and
+ nonconformances are promptly identified and corrected.
+
+ Contrary to the above, from August 5, 2024 to January 18, 2025, the licensee failed to
+ establish measures to assure that conditions adverse to quality were promptly
+ corrected. Specifically, the licensee identified that the safety-related L-3 spent fuel pool
+ overhead crane annual surveillance was performed without calibrated measuring and test
+ equipment. The licensee entered the issue into the corrective action program as
+ PAL-02834. The licensee failed to correct or take corrective actions to address the improper
+ M&TE usage for the surveillance and closed PAL-02834 on December 2, 2024.
+
+ Enforcement Action: This violation is being treated as a non-cited violation, consistent with
+ Section 2.3.2 of the Enforcement Policy.
+
+
+
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •   On March 5, 2025, the inspectors presented the inspection results to M. Mlynarek,
+       Site Vice President, and other members of the licensee staff.
+   •   On January 30, 2025, the inspectors presented the ISFSI cask loading inspection results
+       to M. Mlynarek, Site Vice President, and other members of the licensee staff.
+
+
+
+
+                                                8
+DOCUMENTS REVIEWED
+
+Inspection   Type                Designation       Description or Title                                       Revision or
+Procedure                                                                                                     Date
+60855        ALARA Plans         EN-RP-105         ALARA Plan                                                 20
+             Corrective Action   PAL-02834         Quality Assurance (QA) Identified Finding                  08/05/2024
+             Documents           PAL-04592         FME in SFP                                                 12/16/2024
+                                 PAL-04834         Loss of Power to Helium Dehydration (FHD) Skid             01/10/2025
+             Corrective Action   PAL-04947         L-3 Spent Fuel Pool Overhead Crane                         01/16/2025
+             Documents           PAL-04948         Inadequate Disposition and Actions Related to              01/16/2025
+             Resulting from                        IR PAL-02834
+             Inspection          PAL-04949         NRC Identified - L-3 (Spent Fuel Pool Crane) Readings      01/16/2025
+                                 PAL-04960         L-3 Crane Emergency Brake Torque Out of Tolerance          01/17/2025
+             Engineering         24-0464           Perform Modification to Change East Trolley Limit Switch   0
+             Changes                               on L-3
+                                 24-0551           HPP-3226 Series Procedures Changes                         0
+                                 72.48 - 1677      Review of Design Change Package EC 93344 and All           0
+                                                   Holtec Reports Applicable to Palisades Nuclear Power
+                                                   Plant
+             Miscellaneous       HI-2241072        Palisades VCC & Pad Inspection 2024                        11/12/2024
+             NDE Reports         HSP-507           MPC #426 Lid to Shell Welds + Hydro                        01/07/2025
+             Procedures          ENG-423           Fuel Selection for Holtec Hi-Storm FW MPC Storage          11
+                                                   System
+                                 HPP-3226-0300     MPC Sealing, Drying, and Backfilling at Palisades          0
+                                 HPP-3226-0400     MPC Stack-Up and Transfer at Palisade                      0
+                                 MS LT-MPC-        Helium Leak Test Report for Multi Purpose Canister         3665-03
+                                 Holtec            (MPC) Vent and Drain Cover Plate
+             Radiation           2025-0101         Contamination Tech Spec Survey MPC #427                    01/21/2025
+             Surveys
+             Work Orders         00588078-01       L-3, Return to Operability                                 01/18/2025
+                                 50086009-01-01-   L-3, Inspect Fuel Pool Crane                               05/13/2024
+                                 0009
+71111.01     Corrective Action   PAL-05032         Frozen tube to service water compositor                    01/21/2025
+             Documents           PAL-05045         LIT-1336B, F-4B Bay Level West Side, Failed LOW            01/21/2025
+                                 PAL-05056         Cooling Tower Pump House Temperature                       01/22/2025
+
+
+                                                           9
+Inspection   Type            Designation       Description or Title                                       Revision or
+Procedure                                                                                                 Date
+                             PAL-05070         Hydrogen Monitor C-164 Heat Trace Panel Contactor          01/22/2025
+                                               Failed
+             Procedures      SOP-15,           Frazil Ice - Information/Prevention/Mitigation             Revision 73
+                             Attachment 10
+                             SOP-23,           Actions When Outside Temperatures Are Less Than 20F        Revision 71
+                             Attachment 14
+71111.05     Fire Plans      PFP               Pre-Fire Plan                                              Revision 6
+             Procedures      FPIP-1            Fire Protection Plan, Organization, and Responsibilities   Revision 28
+                             FPIP-4            Fire Protection and Fire Protection Equipment              Revision 44
+71111.08P    NDE Reports     HLSC 350-00-PT-   Liquid Penetrant Examination of Hot Leg Shutdown           01/21/2025
+                             001               Cooling Nozzle Weld Overlay
+                             HLSC 360-00-      Ultrasonic Examination of Elbow to Safe End to Nozzle      01/22/2025
+                             UT-001            Overlay
+             Procedures      54-ISI-864-007    Manual Phased Array Procedure for Weld Overlaid Similar    02/21/2019
+                                               and Dissimilar Metal Welds
+                             54-PT-200-026     Color Contrast Removable Liquid Penetrant Examination      10/31/2023
+                                               of Components
+                             LMT-10-PAUT-      Manual Phased Array Ultrasonic Examination of Dissimilar   019
+                             019               Metal Piping Welds
+71111.11Q    Miscellaneous   PLSEG-LOR-        Simulator Exercise Guide                                   0
+                             25A-06,
+                             Performance
+                             Exam
+71111.20     Procedures      MA-010            Material Handling Program                                  Revision 2
+71152        Engineering     EC 92577          Decommissioning Equipment Classification and FSAR          0
+             Changes                           Markups
+             Procedures      ENG-105           System Return to Service Plans                             1
+
+
+
+
+                                                      10
+
