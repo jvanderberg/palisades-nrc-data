@@ -16,6 +16,19 @@ export default function App() {
 	const [kind, setKind] = useState('All');
 	const [rating, setRating] = useState('All');
 	const [reportQuery, setReportQuery] = useState('');
+	const [copyStatus, setCopyStatus] = useState({ report: '', message: '' });
+	const copyReport = async (report: string, value: string, label: string) => {
+		try {
+			await navigator.clipboard.writeText(value);
+			setCopyStatus({ report, message: `${label} copied.` });
+		} catch {
+			setCopyStatus({
+				report,
+				message:
+					'Clipboard access failed. Use the source link or download instead.',
+			});
+		}
+	};
 	const refresh = useCallback(async (signal?: AbortSignal) => {
 		setLoading(true);
 		setError('');
@@ -274,8 +287,37 @@ export default function App() {
 								<div className="detail">
 									<div className="record-source">
 										<a href={r.url}>Original NRC PDF ↗</a>
-										<a href={`${base}${r.pdfPath}`}>Saved PDF ↗</a>
-										<a href={`${base}${r.textPath}`}>Source text ↗</a>
+										<a
+											href={`${base}${r.pdfPath}`}
+											download={`${r.number}-${r.accession}.pdf`}
+										>
+											Download PDF ↓
+										</a>
+										<a
+											href={`${base}${r.textPath}`}
+											download={`${r.number}-${r.accession}.txt`}
+										>
+											Download text ↓
+										</a>
+										<Button
+											variant="outline"
+											onClick={() =>
+												void copyReport(r.accession, r.url, 'Report link')
+											}
+										>
+											Copy link
+										</Button>
+										<Button
+											variant="outline"
+											onClick={() =>
+												void copyReport(r.accession, r.text, 'Report text')
+											}
+										>
+											Copy text
+										</Button>
+										{copyStatus.report === r.accession && (
+											<span role="status">{copyStatus.message}</span>
+										)}
 									</div>
 									<pre className="source-text full-report">{r.text}</pre>
 								</div>
