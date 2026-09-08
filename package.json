@@ -1,0 +1,40 @@
+{
+	"name": "palisades-record",
+	"version": "1.0.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"predev": "node scripts/prepare-public.mjs",
+		"build": "tsc -b && vite build",
+		"prebuild": "node scripts/prepare-public.mjs",
+		"preview": "vite preview",
+		"check": "biome check .",
+		"format": "biome check --write .",
+		"data:refresh": "python3 scripts/archive.py && python3 scripts/export_csv.py",
+		"data:export": "python3 scripts/export_csv.py"
+	},
+	"dependencies": {
+		"@base-ui/react": "1.7.0",
+		"@fontsource-variable/geist": "5.2.8",
+		"class-variance-authority": "0.7.1",
+		"clsx": "2.1.1",
+		"lucide-react": "1.4.0",
+		"papaparse": "5.5.3",
+		"react": "19.2.6",
+		"react-dom": "19.2.6",
+		"tailwind-merge": "3.6.0"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "2.4.7",
+		"@tailwindcss/vite": "4.2.1",
+		"@types/node": "22.19.19",
+		"@types/papaparse": "5.3.16",
+		"@types/react": "19.2.14",
+		"@types/react-dom": "19.2.3",
+		"@vitejs/plugin-react": "5.0.4",
+		"tailwindcss": "4.2.1",
+		"typescript": "5.9.3",
+		"vite": "7.3.6"
+	}
+}

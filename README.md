@@ -1,41 +1,40 @@
 # Palisades Record
 
-[Public dashboard](https://jvanderberg.github.io/palisades-nrc-data/) · [Nightly runs](https://github.com/jvanderberg/palisades-nrc-data/actions/workflows/refresh-nrc.yml) · [Archive JSON](https://jvanderberg.github.io/palisades-nrc-data/data/archive.json)
+[Dashboard](https://jvanderberg.github.io/palisades-nrc-data/) · [Nightly refresh](https://github.com/jvanderberg/palisades-nrc-data/actions/workflows/refresh-nrc.yml)
 
-An accumulating restart-era archive of NRC inspection reports published from January 1, 2024 onward. The initial backfill contains 25 reports and 22 explicitly labeled findings or violations. Full report text includes observations, tracking items and reports without extracted findings.
+React 19 + Vite + TypeScript SPA, using shadcn/Base UI, Tailwind v4, Lucide, and Biome. It loads CSV files on each visit with Papa Parse.
 
-## Deterministic pipeline
+## Data
 
-No model, AI service, generated summary, scraping relay, or API key is used.
+- `data/findings.csv`: findings and violations, NRC source text, classifications, report dates and links.
+- `data/reports.csv`: every archived report, including full extracted text and PDF links.
+- `data/status.csv`: last source-check timestamp and coverage start date.
 
-1. `scripts/archive.py` fetches the NRC Palisades plant index, the operating inspection-report JSON index, and the current-quarter findings JSON. The feed contributes report links; the findings displayed on the dashboard come from the PDFs.
-2. It merges discovered PDF links with `config/sources.json` and every previously archived report URL. Reports disappearing from current lists remain in the archive.
-3. `scripts/http.mjs` uses ordinary Node 24 HTTPS fetch. Poppler `pdftotext -layout` extracts text. PDFs and text are stored under SHA-256 content hashes; changed source files create new versions.
-4. Fixed parsing rules extract the NRC's finding tables, labeled minor violations, licensee-identified violations, and explicit finding statements in public cover letters and older executive summaries. These are source excerpts, not summaries. Full report text remains available for formats the extractor does not recognize.
-5. Entries merge by NRC issue number, or by report/section/ordinal for unnumbered labeled violations. Public cover statements use a content key. Previous entries are retained. These keys identify published entries, not a claim that each is a distinct underlying incident across all reports. Source revisions are retained for inspection.
-6. `scripts/build.py` merges `data/archive.json` into `web/template.html`. The resulting HTML already contains all findings and report text; JavaScript only filters, opens report links, and formats timestamps. The build makes no network requests or clock calls. The same archive and template produce byte-identical HTML.
+The initial restart-era backfill has 25 reports published since January 2024 and 22 explicitly labeled findings or violations. Reports without extracted entries remain available with their full text. Data is sourced from NRC reports, not generated prose.
 
-The source check time is fetch metadata. Source changes and newly discovered reports change the next archive. Dates in the interface are dates on NRC report cover letters. The coverage begins with reports published in 2024, including a report numbered 2023004 that was published in February 2024.
+## Nightly refresh
 
-## Nightly schedule and failures
+At **08:17 UTC** nightly (3:17 a.m. CDT / 2:17 a.m. CST), GitHub Actions:
 
-Actions runs every night at **08:17 UTC** (3:17 a.m. Central daylight time; 2:17 a.m. Central standard time), on relevant code pushes, and on manual dispatch. It fetches, validates, tests, renders, commits the archive, and deploys to GitHub Pages. A failed fetch or build prevents deployment, leaving the previous published site available. The page flags a source check older than 48 hours. GitHub scheduling and Pages propagation can be delayed.
+1. Fetches NRC's plant report index, inspection-report JSON index and current-quarter feed, plus URLs in `config/sources.json`.
+2. Downloads PDFs with Node and extracts source text with Poppler. Fixed parsing rules identify explicit findings and violations.
+3. Merges records into the persistent archive, retaining older entries and source versions, and exports the CSVs.
+4. Runs Biome and the TypeScript/Vite build, then publishes the SPA and data on GitHub Pages.
 
-## Add a source
+No AI service, inference, generated summaries, or private API keys are used. Failed updates preserve the previously published site. The UI flags data older than 48 hours. GitHub's scheduler and Pages propagation can be delayed.
 
-Add an NRC PDF URL to `config/sources.json` under `extraReports`, then push or run the workflow. The parser requires a Palisades report number and a cover-letter date. Inspection reports newly linked from the monitored NRC indexes are added automatically. This source inventory is not a claim to contain every NRC document in ADAMS; historical records before 2024 are outside the configured coverage.
+`data/archive.json` is the ingestion checkpoint; the SPA consumes CSVs. `archive/reports/` holds source PDFs and text under SHA-256 hashes. Entries are keyed by NRC issue ID or report/section/ordinal; older entries are retained rather than replaced by the current-quarter list. Full report text is available when extraction rules do not recognize an entry. Counts cover indexed public sources, not an all-time or currently-open violation total.
 
-## Local commands
-
-Requires Node 24, Python 3, and Poppler. No package installation is needed beyond those runtimes.
+## Development
 
 ```sh
-python3 scripts/archive.py
-python3 -m unittest discover -s tests -v
-python3 scripts/build.py
-python3 -m http.server --directory _site 8000
+npm ci
+npm run dev
+npm run check
+npm run format
+npm run build
 ```
 
-For an offline re-extraction from already saved text, use `python3 scripts/archive.py --offline`. It preserves the previous check timestamp. The static build only requires Python.
+To update the CSVs, install Node 24, Python 3 and Poppler, then run `npm run data:refresh`. To re-export existing archived data only, run `npm run data:export`.
 
-NRC source wording is retained; PDF extraction can change spacing or table layout. Original PDFs and saved source versions are linked. Counts describe indexed public records, not all-time or currently open violations.
+Add a report URL to `config/sources.json` and push to include another NRC report. Newly linked inspection reports are discovered automatically. The historical source inventory can be extended without editing the React application.

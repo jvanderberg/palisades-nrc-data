@@ -1,0 +1,528 @@
+id,title,kind,rating,text,reportAccession,reportNumber,reportDate,page,url,source,firstSeenAt
+05000255/2026090-02,Failure to Monitor Internal Dose,Finding / violation,Green,"Failure to Monitor Internal Dose
+ Cornerstone           Significance                          Cross-Cutting        Report Section
+                                                             Area
+ Occupational        Green                                   Human               71124.04
+ Radiation Safety    NCV 05000255/2026090-02                 Performance
+                     Open/Closed
+ The NRC identified a Green finding and associated Non-Cited Violation (NCV) of 10 CFR
+ 20.1502 when the licensee failed to assess internal dose for various individuals in elevated
+ airborne areas.",ML26245A104,2026090,2026-08-31,5,https://www.nrc.gov/docs/ML2624/ML26245A104.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+05000255/2026090-01,Failure to implement the radiation protection program for work activities with high alpha contamination levels,Finding / violation,Green,"Failure to implement the radiation protection program for work activities with high alpha
+ contamination levels
+ Cornerstone           Significance                          Cross-Cutting         Report Section
+                                                             Area
+ Occupational          Green                                 Problem               71124.01
+ Radiation Safety      NCV 05000255/2026090-01               Identification and
+                       Open/Closed                           Resolution
+ The inspectors identified a Green Finding and associated Non-Cited Violations (NCVs) of
+ T.S 5.4.1, 10 CFR 20.1501, 10 CFR 20.1702, 10 CFR 20.1902 and 10 CFR 20.1101 when the
+ licensee failed to implement its radiation protection program for work activities with high alpha
+ contamination levels.",ML26245A104,2026090,2026-08-31,5,https://www.nrc.gov/docs/ML2624/ML26245A104.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+ML26225A336:Licensee-identified violation:71152A:1,Licensee-Identified Non-Cited Violation · 71152A,Licensee-identified violation,Severity Level IV,"Licensee-Identified Non-Cited Violation                                            71152A
+This violation of very low safety significance was identified by the licensee and has been
+entered into the licensee corrective action program and is being treated as a non-cited
+violation, consistent with Section 2.3.2 of the Enforcement Policy.
+
+
+
+
+Violation:
+
+Title 10 of the Code of Federal Regulations (10 CFR) 55.25 requires that if, during the term of
+the license, the licensed reactor operator or senior reactor operator develops a permanent
+physical or mental condition that causes the licensee to fail to meet the requirements of
+10 CFR 55.21, the facility shall notify the Commission within 30 days of learning of the
+diagnoses, in accordance with 10 CFR 50.74(c). For conditions for which a conditional license
+(as described in 10 CFR 55.33(b)) where a license condition is requested, the facility licensee
+shall provide medical certification on Form NRC 396, “Certification of Medical Examination by
+Facility Licensee” (as described in 10 CFR 55.23).
+
+Contrary to the above, the facility licensee failed to notify the Commission within 30 days of the
+diagnoses of changes in medical conditions on three separate occasions for licensed
+operators that developed permanent physical conditions which caused the licensed operators
+to fail to meet the requirements of 10 CFR 55.21. Specifically, on March 31, 2025, a license
+class applicant informed the facility’s medical examiner that he was taking prescribed
+medication. When the medical examiner completed the physical examination report to the
+facility, the condition for the prescribed medication was not reported and the medical examiner
+recommended that no conditions be placed on the license when issued. Once licensed, the
+senior operator continued to take the medication as prescribed when performing licensed
+duties. The licensed operator was later evaluated by the medical examiner as no longer
+requiring the medication and the prescription was discontinued. As the operator no longer was
+prescribed medication, the facility licensee determined that the operator license was correct
+(no restrictions) and no report was now required.
+
+Subsequently, on January 20, 2026, and on February 12, 2026, during biennial license
+physical examinations the designated medical examiner determined that two licensed
+operators did not meet the near vision requirement in ANSI/ANS-3.4-1983, “Medical
+Certification and Monitoring of Personnel Requiring Operator Licenses for Nuclear Power
+Plants.” The two licensed operators were administratively restricted from performing licensed
+duties until they received and wore their prescription lenses.
+
+On April 1, 2026, the facility licensee identified that the NRC had not been notified, via
+Form 396, “Certification of Medical Examination by Facility Licensee,” about the permanent
+change in the two licensed operators’ vision and their need for prescription lenses to maintain
+their medical qualifications for their operator licenses. As noted, the facility did not determine
+that the missed “take medication as prescribed” license condition for the licensed operator in
+the first example must also be reported. The NRC was notified of the other two operators’
+conditions in a letter dated April 2, 2026, with the revised NRC Form 396s sent to the NRC on
+April 13, 2026.
+
+The inspectors verified that the licensed operators did not perform licensed duties from the
+time their changes in medical condition were identified until they received and wore their
+prescription lenses. The inspectors also verified that the three licensed operators did not
+commit any errors or been involved in any operational mishaps while performing licensed
+duties from the time they received and wore their prescription lenses until the NRC was
+notified and received the individuals updated NRC Form 396s with their lenses restriction.
+
+Significance/Severity: Severity Level IV. The inspectors determined the violation to be a
+Severity Level IV violation similar to Example 6.9.d.9 in the NRC Enforcement Policy.
+
+
+
+Specifically, the licensee failed to make a report required by 10 CFR 50.74(c) to inform the
+NRC of changes in operators’ medical conditions. In addition, the individuals adhered to the
+ANSI 3.4 requirements to mitigate the changes in their medical conditions while performing
+licensed duties.
+
+Corrective Action References: CR 26013325 and CR 26014029",ML26225A336,2026002,2026-08-12,15,https://www.nrc.gov/docs/ML2622/ML26225A336.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+ML26225A336:Licensee-identified violation:71111.20:1,Licensee-Identified Non-Cited Violation · 71111.20,Licensee-identified violation,Green,"Licensee-Identified Non-Cited Violation                                         71111.20
+ This violation of very low safety significance was identified by the licensee and has been
+ entered into the licensee corrective action program and is being treated as a non-cited
+ violation, consistent with Section 2.3.2 of the Enforcement Policy.
+ Violation:
+
+ Title 10 of the Code of Federal Regulations (CFR) Part 26, “Fitness for Duty Programs,”
+ Subpart 205, “Work Hours,” requires, in part, that licensees shall control work hours so an
+ individual’s hours worked do not exceed 16 hours in any 24-hour period, 26 hours in any
+ 48-hour period, and 72 hours in any 7-day period. Additionally, it requires, in part, that
+ licensees shall ensure that individuals have, at a minimum, a 34-hour break in any 9-day
+ period.
+
+ Contrary to the above, between March 28, 2026, and April 3, 2026, the licensee failed to
+ ensure that individuals subject to the requirements of 10 CFR Part 26 complied with the
+ work hour limitations and scheduling restrictions of Part 26. Specifically, the licensee failed
+ to adequately schedule and control the work hours of 3 individuals performing work
+ covered by the restrictions of 10 CFR Part 26 by not ensuring that the individuals ’ work
+ hours did not exceed 72 hours in any 7-day period. Additionally, the licensee failed to
+ ensure that the same individuals received at least a 34-hour break in any 9-day period.
+
+ Significance/Severity: Green. The inspectors assessed the significance of the finding
+ using IMC 0609 Appendix A, “The Significance Determination Process (SDP) for Findings
+ At-Power.” Using Exhibit 2, “Mitigating Systems Screening Questions,” of IMC 0609
+ Appendix A, Section A, the inspectors answered “No” to all of the questions, screening the
+ finding to Green, as the work completed by the three individuals was verified by individuals
+ who did meet the requirements of the Part 26 work hours restrictions, ensuring that the
+ equipment maintained either its operability or functionality.
+
+ Corrective Action References: CR 26013546, Fatigue Rule Violation",ML26225A336,2026002,2026-08-12,12,https://www.nrc.gov/docs/ML2622/ML26225A336.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+05000255/2026002-02,Failure to Submit a Licensee Event Report for a Condition that Resulted in an Emergency Diesel Generator Actuation,Finding / violation,Severity Level IV,"Failure to Submit a Licensee Event Report for a Condition that Resulted in an Emergency
+ Diesel Generator Actuation
+ Cornerstone          Severity                                     Cross-Cutting      Report
+                                                                   Area               Section
+ Not Applicable       Severity Level IV                            Not Applicable     71153
+                      NCV 05000255/2026002-02
+                      Open/Closed
+ An NRC-identified Severity Level IV non-cited violation (NCV) of 10CFR 50.73 (a)(2)(iv)(A) was
+ identified when the licensee failed to submit a licensee event report (LER) within 60 days from
+ the automatic actuation of emergency diesel generator (EDG) 1-2. Specifically, the licensee
+ failed to recognize that the automatic actuation of EDG 1-2 on February 5, 2026, met
+ reportability criteria based on plant conditions. The LER was submitted on May 4, 2026.",ML26225A336,2026002,2026-08-12,5,https://www.nrc.gov/docs/ML2622/ML26225A336.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+05000255/2026002-01,Failure to Provide Work Instructions Appropriate for Work Activities,Finding / violation,Green,"Failure to Provide Work Instructions Appropriate for Work Activities
+ Cornerstone          Significance                                 Cross-Cutting      Report
+                                                                   Area               Section
+ Mitigating Systems Green                                          Human              71152A
+                    NCV 05000255/2026002-01                        Performance
+                    Open/Closed
+ The inspectors identified a Green finding and associated non-cited violation (NCV) of Technical
+ Specification Section 5.4.1.a when the licensee failed to provide work instructions appropriate
+ for the work activities. Specifically, in the first example, Work Order (WO) 588976-09 lacked
+ sufficient detail for work near buried utilities. Second, troubleshooting activities were performed
+ on the failed cables without written work instructions.",ML26225A336,2026002,2026-08-12,5,https://www.nrc.gov/docs/ML2622/ML26225A336.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+ML26125A118:Minor violation:71152S:1,Minor Violation · 71152S,Minor violation,Minor,"Minor Violation                                                                           71152S
+ Minor Violation: Beginning on February 24, 2026, the NRC reviewed a selection of condition
+ reports that resulted in the identification of a minor violation associated with security
+ requirements. Details of this minor violation are withheld from public release. The licensee
+ entered the associated issues into its corrective action program.",ML26125A118,2026001,2026-05-05,16,https://www.nrc.gov/docs/ML2612/ML26125A118.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+ML26125A118:Minor violation:71152A:1,Minor Violation · 71152A,Minor violation,Minor,"Minor Violation                                                                      71152A
+Minor Violation: On February 16, 2026, the inspectors reviewed the licensee’s causal analysis
+(CR 25015026) and associated corrective actions related to the inadvertent installation of
+non-quality parts in the safety-related emergency diesel generators (EDGs) and main steam
+safety system. Specifically, on or about December 13, 2025, the licensee identified that
+multiple purchase orders that were issued for safety-related Swagelok check valves in
+the fuel and/or air start systems for EDG 1-1 and EDG 1-2, along with refurbishment of
+safety-related main steam safety valves in the main steam safety system, did not conform to
+the procurement documents to ensure quality. Several of the purchased items were received
+and installed in the plant, which included the EDG 1-1 fuel oil priming pump P-210A
+discharge check valve (CK-DE400), EDG 1-2 fuel oil priming pump P-210B discharge check
+valve (CK-DE401), and main steam safety valve (RV-0701).
+
+The EDGs supply backup electrical power to various safety-related buses that power
+plant equipment to ensure safe shut down and maintain core cooling if offsite power was lost.
+The main steam safety system (steam generated from steam generators) contains 12
+spring-loaded safety valves that function as overpressure protection in accordance with
+American Society of Mechanical Engineers (ASME) Boiler and Pressure Vessel (B&PV)
+code, Section III, Rules for Construction of Nuclear Facility Components. Title 10 of the
+Code of Federal Regulations (10 CFR) Part 50, Appendix B, Criterion VII, “Control of
+Purchased Material, Equipment, Services” requires, in part, that measures shall be
+established to assure that purchased material, equipment, and services, whether purchased
+directly or through contractors and subcontractors, conform to procurement documents.
+These quality assurance processes are essential to provide reasonable assurance that
+structures, systems, and/or components installed in the plant would perform their specified
+safety function(s).
+
+The licensee’s causal analysis concluded that procurement and receipt inspection processes
+that support implementation of the Palisades quality assurance program were not consistently
+performed with sufficient rigor to ensure safety-related components satisfy the quality
+objectives identified on the qualified suppliers list (QSL), safety-related purchase orders,
+and supporting quality documentation requirements prior to receipt acceptance or installation.
+Supply chain did not perform the required verification and validation of controls and
+procedures to ensure only qualified safety-related components were procured and installed.
+For EDG 1-1 and EDG 1-2, Swagelok valves were purchased directly from Swagelok.
+However, Swagelok was not specifically listed on the Palisades QSL to provide safety-related
+valves and, therefore, was considered an unqualified supplier. For the main steam safety
+valve refurbishments, although the supplier had maintained a quality assurance program, the
+specific facility where repair work had been performed was a satellite location that had not
+been audited and, therefore, should not have been on the Palisades QSL. A qualified supplier
+was a supplier who had undergone a quality and technical evaluation by responsible
+organizations and was approved to provide specific material or services as identified on the
+QSL. In addition, the main steam safety valve purchase order stated, in part, repairs and
+steam certification testing shall be performed in accordance with Holtec approved repair and
+testing procedures as approved by the Palisades Program Engineer. On October 28, 2025,
+the licensee identified that the repair plan had not been reviewed and approved by the
+responsible engineer.
+
+The inspectors determined that the licensee’s failure to assure that purchased material,
+equipment, and services conformed to procurement documents in accordance with
+
+
+10 CFR Part 50, Appendix B, Criterion VII, “Control of Purchased Material, Equipment,
+Services,” was a performance deficiency. Specifically, documentation associated with several
+emergency diesel generator and main steam safety system components, procured as
+safety-related, did not satisfy purchase order requirements upon receipt and were not
+identified during material receipt inspection. Licensee quality Procedure MP-120, “Material
+Receipt,” Revision 0, step 7.7.6 states, in part, for quality inspection “supplier documentation
+such as certificate of conformance, supporting documents or certificate of analysis attesting
+to acceptable test results shall be reviewed in a manner to ensure purchase order
+requirements are satisfied. Documentation received from a third-party dedicator and/or the
+CGD [commercial grade dedication] lab shall also be reviewed in a reasonable manner to
+verify accuracy, traceability to the purchase order, receipt lot/batch, etc. ensuring the CGD
+acceptance criteria is satisfied.”
+
+Screening: The inspectors determined the performance deficiency was minor. The main
+steam system and EDG 1-1 had not been returned to service since Palisades re-entered
+the Reactor Oversight Process on August 25, 2025, nor were required to be operable
+per technical specifications in the mode of applicability (plant was in defueled condition).
+EDG 1-2 was returned to service (operable) on November 11, 2025, to support irradiated
+fuel movements in the spent fuel pool in accordance with Technical Specification 3.8.2,
+Alternating Current Sources - Shutdown. Irradiated fuel movements commenced on
+November 17, 2025, and completed on December 9, 2025. The licensee performed a
+past operability evaluation regarding the installation of the non-quality (commercial grade,
+not safety-related) fuel oil priming pump P210-B check valve (CK-DE401) and reasonably
+concluded there were no operational impacts to EDG 1-2 during the periodic movement of
+irradiated fuel in the spent fuel pool and the EDG remained capable of performing its intended
+safety function. In addition, a supplier evaluation was performed on the main steam safety
+valve repair facility satellite location and demonstrated compliance with applicable technical
+and quality assurance requirements. Therefore, the inspectors determined the performance
+deficiency was not reasonably viewed as a precursor to a significant event; if left uncorrected,
+would not have the potential to lead to a more significant concern; was either not associated
+with or did not adversely impact any of the cornerstone objectives; and was similar to
+Inspection Manual Chapter 0612, Appendix E, “Examples of Minor Issues,” example 5.c.
+
+Enforcement: 10 CFR Part 50, Appendix B, Criterion VII, “Control of Purchased Material,
+Equipment, Services” states, in part, measures shall be established to assure that purchased
+material, equipment, and services, whether purchased directly or through contractors and
+subcontractors, conform to the procurement documents. These measures shall include
+provisions, as appropriate, for source evaluation and selection, objective evidence of quality
+furnished by the contractor or subcontractor, inspection at the contractor or subcontractor
+source, and examination of products upon delivery. Documentary evidence that material and
+equipment conform to the procurement requirements shall be available at the nuclear power
+plant site prior to installation or use of such material and equipment. This documentary
+evidence shall be retained at the nuclear power plant and shall be sufficient to identify the
+specific requirements, such as codes, standards, or specifications, met by the purchased
+material or equipment. The effectiveness of the control of quality by contractors and
+subcontractors shall be assessed by the applicant or designee at intervals consistent with
+the importance, complexity, and quantity of the product or services.
+
+Contrary to the above, from July 25, 2025, [date of first Swagelok valve receipt inspection -
+September 9, 2025, for main steam safety valve RV-0701] to December 13, 2025, [date CR
+for Swagelok check valves written - November 4, 2025, for RV-0701] the licensee failed to
+
+
+  assure that purchased material, equipment, and services conformed to procurement
+  documents. Specifically, documentation associated with several emergency diesel generator
+  and main steam safety system components procured as safety-related did not satisfy
+  purchase order requirements upon receipt and were not identified during material receipt
+  inspection.
+
+  This failure to comply with 10 CFR 50, Appendix B, Criterion VII, “Control of Purchased
+  Material, Equipment, Services” constitutes a minor violation that is not subject to enforcement
+  action in accordance with the NRC’s Enforcement Policy.",ML26125A118,2026001,2026-05-05,14,https://www.nrc.gov/docs/ML2612/ML26125A118.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+ML26125A118:Licensee-identified violation:71111.20:1,Licensee-Identified Non-Cited Violation · 71111.20,Licensee-identified violation,Green,"Licensee-Identified Non-Cited Violation                                           71111.20
+ This violation of very-low safety significance was identified by the licensee and has been
+ entered into the licensee corrective action program and is being treated as a non-cited
+ violation, consistent with Section 2.3.2 of the Enforcement Policy.
+ Violation: Title 10 of the Code of Federal Regulations (10 CFR) Part 26, “Fitness for Duty
+ Programs,” subpart 205, “Work Hours,” requires, in part, that licensees shall control work
+ hours so an individual’s hours worked do not exceed 16 hours in any 24-hour period, 26 hours
+ in any 48-hour period, and 72 hours in any 7-day period. Additionally, it requires, in part, that
+ licensees shall ensure that individuals have, at a minimum, a 34-hour break in any 9-day
+ period.
+
+ Contrary to the above, between February 24, 2026, and March 3, 2026, the licensee failed to
+ ensure that individuals subject to the requirements of 10 CFR Part 26 complied with the work
+ hour limitations and scheduling restrictions of Part 26. Specifically, the licensee failed to
+ adequately schedule and control the work hours of three individuals performing work covered
+ by the restrictions of 10 CFR Part 26 by not ensuring that the individuals’ work hours did not
+ exceed 72 hours in any 7-day period. Additionally, the licensee failed to ensure that the same
+ individuals received at least a 34-hour break in any 9-day period.
+ Significance/Severity: Green. The inspectors assessed the significance of the finding using
+ IMC 0609 Appendix A, “The Significance Determination Process (SDP) for Findings
+ At-Power.” Using Exhibit 2, “Mitigating Systems Screening Questions,” of IMC 0609
+ Appendix A, Section A, the inspectors answered “No” to all of the questions, screening the
+ finding to Green, as the work completed by the three individuals was verified by individuals
+ who did meet the requirements of the Part 26 work hours restrictions, ensuring that the
+ equipment maintained either its operability or functionality.
+ Corrective Action References: CR 26012156 - Violation of Fatigue Rule- ARC Pipefitters",ML26125A118,2026001,2026-05-05,11,https://www.nrc.gov/docs/ML2612/ML26125A118.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+05000255/2026001-01,Failure to Maintain Adequate Fire Protection System Functional Test Procedure,Finding / violation,Green,"Failure to Maintain Adequate Fire Protection System Functional Test Procedure
+ Cornerstone          Significance                                Cross-Cutting      Report
+                                                                  Area               Section
+ Mitigating Systems Green                                         Problem            71152A
+                    NCV 05000255/2026001-01                       Identification and
+                    Open/Closed                                   Resolution
+ The inspectors identified a finding of very-low safety significance and associated violation of
+ Technical Specification 5.4.1, “Procedures,” for the licensee’s failure to maintain fire protection
+ system functional test procedure. Specifically, the licensee failed to maintain Procedure RO-52,
+ “Fire Suppression Water System Functional Test and Fire Pump Capacity Test,” by failing to
+ include appropriate acceptance criteria in the procedure to demonstrate fire protection system
+ functionality.",ML26125A118,2026001,2026-05-05,5,https://www.nrc.gov/docs/ML2612/ML26125A118.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+ML26072A198:Finding / violation:7b3c8a27b966c067,One finding of very low security significance (Green) is documented in this report,Finding / violation,Green,"One finding of very low security significance (Green) is documented in this report. This finding
+involved a violation of NRC requirements. We are treating this violation as a non-cited violation
+(NCV) consistent with Section 2.3.2 of the Enforcement Policy.",ML26072A198,2026401,2026-03-17,1,https://www.nrc.gov/docs/ML2607/ML26072A198.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+ML26055A151:Minor violation:71111.21N.05:4,Minor Violation · 71111.21N.05,Minor violation,Minor,"Minor Violation                                                              71111.21N.05
+Minor Violation: During performance of Procedure FPSP-RO-10, “Fire Water Suppression
+System Flow Test,” on May 08, 2023, per WO 52965257-01, unexpected results were
+encountered during Section 5.4 and 5.5 for the inside loop path 2 and 3 when compared to
+the previous 2017 flow performance test. Path 2 was the branch connection to the turbine
+building fire hoses through valve MV-FP283 and MV-FP1162. Path 3 was the branch
+connection to the transformer deluge through valves MV-FP282 and MV-FP117.
+
+The flow tests for these two paths have only been performed twice since they were
+added to the procedure in 2016. In the 2017 tests, the inside loop path 2 flow was
+1099 gallon-per-minute (gpm) and the path 3 flow was 1135 gpm. In the 2023 tests,
+the inside loop path 2 flow was 832 gpm and the path 3 flow was 774 gpm. CR PAL-01124
+“FPSP-RO-10 Fire Suppression Water System Flow Test Degraded,” was initiated at that
+time and noted there maybe flow restrictions in the fire system cross tie or associated piping.
+
+
+
+The CR was closed to work request (WR) 01124 to inspect MV-FP283 internals to check
+for obstruction.
+
+During the inspectors’ review of Procedure FPSP-RO-10, the inspectors noticed that the
+procedure did not include acceptance criteria for testing the fire water suppression flow for
+these two paths.
+
+The site noted that WO 00589203 for WR 01124 was required to be completed during the
+fire protection system return-to-service plan or a justification would be needed.
+
+Screening: The inspectors determined that the performance deficiency for failure to include
+acceptance criteria in Procedure FPSP-RO-10 for testing inside loop paths 2 and 3 was minor
+because the unacceptable results for paths 2 and 3 were recognized by the licensee and
+documented in CR PAL-01124.
+
+Enforcement: License Condition 2.C.(3) stated that Palisades Energy shall implement
+and maintain in effect all previsions of the approved fire protection program. Procedure
+FPSP-RO-10 was the implementing procedure for testing the fire water suppression system
+flow.
+
+Contrary to the above, Procedure FPSP-RO-10 failed to include the acceptance criteria
+for the inside loop paths 2 and 3. The licensee documented this issue in CR 25015259
+“FPSP-RO-10 did not include Acceptance Criteria for Flow Test.”
+
+This failure to comply with the above requirements constitutes a minor violation that is
+not subject to enforcement action in accordance with the NRC’s Enforcement Policy.",ML26055A151,2025008,2026-02-26,7,https://www.nrc.gov/docs/ML2605/ML26055A151.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+ML26055A151:Minor violation:71111.21N.05:3,Minor Violation · 71111.21N.05,Minor violation,Minor,"Minor Violation                                                                  71111.21N.05
+
+Minor Violation: The inspectors requested the previous work orders documentation of the
+two diesel driven fire water pump (P-9B and P-41,) engine (K-5 and K-10) inspection, and
+preventive maintenance which was completed during the shutdown period. The site failed
+to locate three work orders in records including WO 00584081-01 for Pump P-9B, 2023
+WO 50083624-01 for P-41, and 2025 WO 52990823-01 for P-41. Upon further searching,
+two of the three missing WOs were located outside of the document control and records
+management process. The 2023 WO 50083624-01 for P-41/K-10 engine inspection was not
+located by the exit for this inspection.
+
+Screening: The inspectors determined that the performance deficiency was minor since the
+most recent completed work order in 2025 for P-41/K-10 was available and provided
+assurance that the engine was successfully inspected.
+
+Enforcement: License Condition 2.C.(3) stated Palisades Energy shall implement and
+maintain in effect all provisions of the approved fire protection program. Site Procedure
+FPIP-4, “Fire Protection Systems and Fire Protection Equipment,” Section 20.2 was the
+implementing procedure of the approved fire protection program and required records to
+be filed in accordance with the document control and records management process.
+
+Procedure DSP-RM-001, “Document Control and Records Management Process,”
+which required official records to be transmitted within 30 days after record completion.
+
+Contrary to the above requirements, the licensee failed to maintain the official records for
+WO 50083624-01 for P-41/K-10 fire engine inspection. The licensee entered this issue into
+their corrective action program and initiated CR 25015056 “Failure to meet Procedure
+DSP-RM-001 Requirement for Transmitting Official Records.”
+
+This failure to comply with DSP-RM-001 constitutes a minor violation that is not subject
+to enforcement action in accordance with the NRC’s Enforcement Policy.",ML26055A151,2025008,2026-02-26,7,https://www.nrc.gov/docs/ML2605/ML26055A151.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+ML26055A151:Minor violation:71111.21N.05:2,Minor Violation · 71111.21N.05,Minor violation,Minor,"Minor Violation                                                                 71111.21N.05
+Minor Violation: During a walkdown of the Auxiliary Feedwater Pump P-8D enclosure, the
+inspectors questioned the presence of combustibles in the 5-foot perimeter. Combustibles
+included a temporary metal office with windows within 3 feet of the east side of the P-8D
+enclosure/trailer and additional combustibles laying on the ground.
+
+Attachment 1 of Procedure ENG-329, “Control of Combustibles,” identified Fire Area 59,
+the auxiliary feedwater Pump P-8D enclosure/trailer, as Level 1 combustible area including
+a 5-foot perimeter surrounding this fire area. Compensatory measures were required for any
+transient combustibles in the area.
+
+Screening: The inspectors determined that the failure to maintain Level 1 combustible
+controls for P-8D was a minor performance deficiency since pump P-8D was not required to
+be functional for the current plant shutdown conditions.
+
+Enforcement: License Condition 2.C.(3) stated Palisades Energy shall implement and
+maintain in effect all provisions of the approved fire protection program. Site Procedure
+ENG-329, “Control of Combustibles,” Revision 2 was the implementing procedure of the
+approved fire protection program. Attachment 1 of ENG-329 identified Fire Area 59,
+Pump P-8D as a Level 1 combustible area including a 5-foot perimeter surrounding this
+fire area.
+
+Contrary to this requirement, as of December 9, 2025, transient combustibles were found
+within 3 feet of P-8D trailer, and no compensatory measures were established.
+
+In response to the inspectors’ concern, the site-initiated CR 25015052 “Combustible Materials
+were Found Contrary to ENG-329.” The site removed the combustible materials and planned
+to remove the office building prior to declaring the P-8D system functional.
+
+
+
+
+
+This failure to comply with ENG-329 constitutes a minor violation that is not subject to
+enforcement action in accordance with the NRC’s Enforcement Policy.",ML26055A151,2025008,2026-02-26,6,https://www.nrc.gov/docs/ML2605/ML26055A151.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+ML26055A151:Minor violation:71111.21N.05:1,Minor Violation · 71111.21N.05,Minor violation,Minor,"Minor Violation                                                                   71111.21N.05
+ Minor Violation: Palisades had the option of hydrostatically pressure testing fire hoses
+ every three years or replacing them with new fire hoses every five years. Work Order
+ (WO) 53007241-01 was initiated to replace all fire hoses prior to the site entering technical
+ specifications on August 26, 2025. Due to site procurement delays, all fire hoses were not
+ replaced or hydrostatically pressure tested as required with some fire hoses last replaced
+ in 2018.
+
+  Prior to this inspection, condition report (CR) 25014235, “Fire Hose Replacement or
+  Hydrostatic Test not Complete,” was initiated on November 11, 2025. This CR identified
+  scheduling conflicts prevented hydrostatic pressure testing of fire hoses which were not
+  replaced. At this time, the site failed to establish compensatory actions for the affected fire
+  hoses as required per Procedure FPIP-4, “Fire Protection Systems and Fire Protection
+  Equipment,” Revision 45.
+
+  The inspectors questioned the number and installed location of the expired fire hoses.
+  In response to the inspectors’ question, the site identified 30 fire hoses which failed to be
+  tested or replaced at the required frequency including some located inside the power block.
+
+
+
+
+
+Screening: The inspectors determined that the performance deficiency for the failure to test or
+replace fire hoses at the required frequency was a minor since the fire brigade were trained to
+bring a high-rise fire hose when responding to fire events. The installed expired fire hoses
+would still perform their function at some capacity, and due to the current defueled state of
+the plant there was no potential release from the core in event of fire.
+
+Enforcement: License Condition 2.C.(3) stated that Palisades Energy shall implement and
+maintain in effect all provisions of the approved fire protection program. Site Procedure
+FPIP-4, “Fire Protection Systems and Fire Protection Equipment,” Revision 45 was the
+implementing procedure of the approved fire protection program which required licensee to
+establish compensatory actions for the affected fire hoses.
+
+As a result of this inspection, all power block fire hoses were replaced upon discovery and
+compensatory measure, including fire tours, in accordance with FPIP-4 were established
+for the remaining fire hose locations. CR 25015303 “Fire Hose to be Hydrostatic Tested
+or Replaced,” was initiated on December 17, 2025, documenting this issue.
+
+This failure to comply with requirement of FPIP-4 and establish compensatory actions
+constitutes a minor violation that is not subject to enforcement action in accordance with
+the NRC’s Enforcement Policy.",ML26055A151,2025008,2026-02-26,5,https://www.nrc.gov/docs/ML2605/ML26055A151.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+ML25357A093:Licensee-identified violation:71124.08:1,Licensee-Identified Non-Cited Violation · 71124.08,Licensee-identified violation,Green,"Licensee-Identified Non-Cited Violation                                           71124.08
+This violation of very low safety significance was identified by the licensee and has been
+entered into the licensee corrective action program and is being treated as a non-cited
+violation, consistent with Section 2.3.2 of the Enforcement Policy.
+Violation: Title 10 of the Code of Federal Regulations (10 CFR) Part 71.5 requires, in part,
+that each licensee who transports licensed material outside the site of usage comply with the
+applicable requirements of the Department of Transportation (DOT) regulations in 49 CFR
+Parts 171 through 180. 49 CFR 173.441 requires, in part, that exclusive use shipment
+radiation levels not exceed 10 mrem/h at any point two meters from the outer lateral surfaces
+of the vehicle (excluding the top and underside of the vehicle). Contrary to the above,
+on September 23, 2025, the licensee failed to comply with the applicable requirements of the
+DOT regulations in 49 CFR Parts 171 through 180 as required by 10 CFR 71.5. Specifically,
+the licensee failed to comply with 49 CFR 173.441 when the licensee transported radioactive
+waste off-site via exclusive use with dose rates of up to 16.2 mrem/hr at two meters from the
+lateral surfaces (sides) of the vehicle.
+
+Significance/Severity: Green. The performance deficiency was assessed using Inspection
+Manual Chapter (IMC) 0609, Appendix D as a finding in transportation or Part 61. An external
+radiation limit was exceeded in a location accessible by the public. However, the IMC allows
+for other considerations to be taken into account when determining if an issue reaches the
+White threshold. In this instance, the shipment was an exclusive use shipment and surveys
+conducted upon return of the transport vehicle that were conducted with a survey instrument
+that averages dose rates over a larger cross-sectional area indicated maximum dose rates of
+10 mrem/hr at two meters from the lateral surfaces of the vehicle. With these considerations
+taken into account, this issue was determined to be of very low safety significance (Green).
+
+Corrective Action References: AR 25012715",ML25357A093,2025005,2025-12-23,15,https://www.nrc.gov/docs/ML2535/ML25357A093.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+05000255/2025005-01,License Amendment Required for Change of Critical Heat Flux Correlations Used in the Main Steam Line Break Analysis to Predict the Minimum Departure of Nucleate Boiling Ratio,Finding / violation,Green,"License Amendment Required for Change of Critical Heat Flux Correlations Used in the
+ Main Steam Line Break Analysis to Predict the Minimum Departure of Nucleate Boiling Ratio
+ Cornerstone         Significance/Severity                     Cross-Cutting Report Section
+                                                               Aspect
+ Barrier Integrity Green                                       None (NPP)        71111.21M
+                     Severity Level IV
+                     NCV 05000255/2025005‑01
+                     Open/Closed
+ The inspectors identified a very low safety significant (Green) and associated severity level IV
+ non-cited violation of Title 10 of the Code of Federal Regulations (10 CFR) 50.59 because
+ the licensee failed to obtain NRC approval prior to changing the critical heat flux correlations
+ applied in their main steam line break analysis to predict the minimum departure from
+ nucleate boiling ratio. Subsequently, the licensee submitted a license amendment request
+ which was approved by the NRC as license amendment number 279 (ADAMS Accession
+ No. ML25156A045).",ML25357A093,2025005,2025-12-23,5,https://www.nrc.gov/docs/ML2535/ML25357A093.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+ML25205A049:Finding / violation:60ad8ca1d969cf75,One Severity Level IV violation without an associated finding is documented in this report,Finding / violation,Severity Level IV,"One Severity Level IV violation without an associated finding is documented in this report. We are
+treating this violation as a non-cited violation (NCV) consistent with Section 2.3.2 of the
+Enforcement Policy.",ML25205A049,2025403,2025-07-24,1,https://www.nrc.gov/docs/ML2520/ML25205A049.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+07200007/2024001-01,Failure to Correct an Inadequate Surveillance on the Spent Fuel Pool Overhead Crane,Finding / violation,Severity Level IV,"Failure to Correct an Inadequate Surveillance on the Spent Fuel Pool Overhead Crane
+ Cornerstone          Severity                                   Cross-Cutting Report Section
+                                                                 Aspect
+ Not Applicable       Severity Level IV                          Not Applicable 60855
+                      NCV 07200007/2024001‑01
+                      Open/Closed
+ The inspectors identified a severity level IV non-cited violation of Title 10 of the Code of
+ Federal Regulations (10 CFR) Part 50, Appendix B, Criterion XVI, “Corrective Action,” for the
+ licensee’s failure to establish measures to assure a condition adverse to quality was
+ corrected. Specifically, the licensee did not take corrective action when they identified that
+ the spent fuel pool overhead crane annual surveillance was performed without calibrated
+ measuring and test equipment (M&TE). As a result, the safety-related work could not be
+ validated, and the site could not maintain traceability of equipment used to perform
+ measurements in the surveillance.",ML25083A268,2025001,2025-03-26,5,https://www.nrc.gov/docs/ML2508/ML25083A268.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+05000255/2024004-02,One Severity Level IV NCV of 10 CFR 50.82(a)(8)(i) was identified because Holtec Decommissioning International (HDI) used the Decommissioning Trust Fund (DTF) for expenses that were not legitimate decommissioning activities,Finding / violation,Severity Level IV,"One Severity Level IV NCV of 10 CFR 50.82(a)(8)(i) was identified because Holtec
+     Decommissioning International (HDI) used the Decommissioning Trust Fund (DTF) for
+     expenses that were not legitimate decommissioning activities. One Unresolved Item (URI)
+     was opened to address questions related to use of the DTF during a restart initiative.",ML25041A225,2024004,2025-02-14,5,https://www.nrc.gov/docs/ML2504/ML25041A225.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+05000255/2024012-01,Locked High Radiation Area Identified During Chemical Decontamination,Finding / violation,Severity Level IV,"Locked High Radiation Area Identified During Chemical Decontamination
+ Cornerstone          Severity                                   Cross-Cutting     Report
+                                                                 Aspect            Section
+ Not Applicable       Severity Level IV                          Not Applicable    71124.01
+                      NCV 05000255/2024012-01
+                      Open/Closed
+ A self-revealed Severity Level IV Non-Cited Violation (NCV) of Technical Specification
+ (TS) 5.7.2 was identified when the licensee failed to post and control an area meeting Locked
+ High Radiation Area (LHRA) conditions.",ML24317A041,2024012,2024-11-12,5,https://www.nrc.gov/docs/ML2431/ML24317A041.pdf,NRC report text,2026-09-08T22:12:23.417707Z
+05000255/2023004-01,The NRC identified one SL IV NCV of 10 CFR 50.82(a)(8)(i) for using the Palisades Decommissioning Trust Fund (DTF) for expenses that were not legitimate decommissioning activities.,Finding / violation,Severity Level IV,"The NRC identified one SL IV NCV of 10 CFR 50.82(a)(8)(i) for using the Palisades
+    Decommissioning Trust Fund (DTF) for expenses that were not legitimate decommissioning
+    activities.",ML24045A147,2023004,2024-02-20,5,https://www.nrc.gov/docs/ML2404/ML24045A147.pdf,NRC report text,2026-09-08T22:12:23.417707Z

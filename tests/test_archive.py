@@ -1,6 +1,3 @@
-import contextlib
-import hashlib
-import io
 import json
 import sys
 import tempfile
@@ -11,7 +8,6 @@ from unittest.mock import patch
 ROOT=Path(__file__).resolve().parent.parent
 sys.path.insert(0,str(ROOT/'scripts'))
 import archive
-import build
 
 class ArchiveTests(unittest.TestCase):
     @classmethod
@@ -60,17 +56,5 @@ class ArchiveTests(unittest.TestCase):
             archive.write_json(root/'data/archive.json',{'checkedAt':'2026-09-08T00:00:00Z','reports':[],'findings':[item]})
             with patch.object(archive,'ROOT',root): result=archive.refresh(offline=True)
             self.assertEqual(result['findings'],[item])
-
-    def test_static_build_is_reproducible_and_contains_records(self):
-        with contextlib.redirect_stdout(io.StringIO()): build.build()
-        one=(ROOT/'_site/index.html').read_bytes()
-        with contextlib.redirect_stdout(io.StringIO()): build.build()
-        two=(ROOT/'_site/index.html').read_bytes()
-        self.assertEqual(hashlib.sha256(one).digest(),hashlib.sha256(two).digest())
-        self.assertEqual(one.count(b'data-entry '),len(self.data['findings']))
-        self.assertEqual(one.count(b'data-report '),len(self.data['reports']))
-        self.assertNotIn(b'{{',one)
-        self.assertIn(b'05000255/2026090-01',one)
-        self.assertNotIn(b'is not in this feed',one)
 
 if __name__=='__main__': unittest.main()
