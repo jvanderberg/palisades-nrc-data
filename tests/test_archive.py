@@ -79,7 +79,8 @@ class ArchiveTests(unittest.TestCase):
             if url in feeds: return feeds[url]
             if url in pdfs: return pdfs[url]
             raise archive.FetchError(f'NRC HTTP 403: {url}')
-        with patch.object(archive,'ROOT',root),patch.object(archive,'download',fake_download):
+        # Silence warnings so simulated refusals don't become GitHub Actions annotations.
+        with patch.object(archive,'ROOT',root),patch.object(archive,'download',fake_download),patch.object(archive,'warn',lambda m:None):
             return archive.refresh()
 
     def test_blocked_pdfs_use_archive_then_adams_text_until_the_pdf_arrives(self):
