@@ -1,5 +1,5 @@
-accession,number,date,title,url,extractedCount,pdfPath,textPath,text
-ML26286A257,2026010,2026-10-13,PALISADES NUCLEAR PLANT – SAFETY-CONSCIOUS WORK ENVIRONMENT ISSUE OF CONCERN FOLLOW-UP INSPECTION REPORT 05000255/2026010 AND CHILLED WORK ENVIRONMENT FOR RAISING AND ADDRESSING SAFETY CONCERNS AT PALISADES NUCLEAR PLANT,https://www.nrc.gov/docs/ML2628/ML26286A257.pdf,0,archive/reports/ML26286A257/caddf97d0f4015d4489483e7e5d470b535e0a320940dd0e5c72cc609e4adacdb.pdf,archive/reports/ML26286A257/caddf97d0f4015d4489483e7e5d470b535e0a320940dd0e5c72cc609e4adacdb.txt,"                                        October 13, 2026
+accession,number,date,title,url,extractedCount,pdfPath,textPath,textSource,text
+ML26286A257,2026010,2026-10-13,PALISADES NUCLEAR PLANT – SAFETY-CONSCIOUS WORK ENVIRONMENT ISSUE OF CONCERN FOLLOW-UP INSPECTION REPORT 05000255/2026010 AND CHILLED WORK ENVIRONMENT FOR RAISING AND ADDRESSING SAFETY CONCERNS AT PALISADES NUCLEAR PLANT,https://www.nrc.gov/docs/ML2628/ML26286A257.pdf,0,archive/reports/ML26286A257/caddf97d0f4015d4489483e7e5d470b535e0a320940dd0e5c72cc609e4adacdb.pdf,archive/reports/ML26286A257/caddf97d0f4015d4489483e7e5d470b535e0a320940dd0e5c72cc609e4adacdb.txt,NRC report text,"                                        October 13, 2026
 
 EAF-RIII-2026-0081
 
@@ -412,7 +412,7 @@ Procedure                                                                       
 
                    7
 "
-ML26245A104,2026090,2026-08-31,PALISADES NUCLEAR PLANT - NRC INSPECTION REPORT 05000255/2026090,https://www.nrc.gov/docs/ML2624/ML26245A104.pdf,2,archive/reports/ML26245A104/5eace489af390fdd70e3c14a96cdec153fbb8eab416154a857484db9743c8c9b.pdf,archive/reports/ML26245A104/5eace489af390fdd70e3c14a96cdec153fbb8eab416154a857484db9743c8c9b.txt,"                                        August 31, 2026
+ML26245A104,2026090,2026-08-31,PALISADES NUCLEAR PLANT - NRC INSPECTION REPORT 05000255/2026090,https://www.nrc.gov/docs/ML2624/ML26245A104.pdf,2,archive/reports/ML26245A104/5eace489af390fdd70e3c14a96cdec153fbb8eab416154a857484db9743c8c9b.pdf,archive/reports/ML26245A104/5eace489af390fdd70e3c14a96cdec153fbb8eab416154a857484db9743c8c9b.txt,NRC report text,"                                        August 31, 2026
 
 Michael Schultheis
 Site Vice President
@@ -1206,7 +1206,7 @@ Procedures   RP-201        Dosimetry Administration          0
 
                       16
 "
-ML26225A336,2026002,2026-08-12,PALISADES NUCLEAR PLANT – INTEGRATED INSPECTION REPORT 05000255/2026002,https://www.nrc.gov/docs/ML2622/ML26225A336.pdf,4,archive/reports/ML26225A336/2ecfb9b91ae567b4bfe012cbc51b11e012b3860fd3c7f585a47903a443a351f1.pdf,archive/reports/ML26225A336/2ecfb9b91ae567b4bfe012cbc51b11e012b3860fd3c7f585a47903a443a351f1.txt,"                                        August 12, 2026
+ML26225A336,2026002,2026-08-12,PALISADES NUCLEAR PLANT – INTEGRATED INSPECTION REPORT 05000255/2026002,https://www.nrc.gov/docs/ML2622/ML26225A336.pdf,4,archive/reports/ML26225A336/2ecfb9b91ae567b4bfe012cbc51b11e012b3860fd3c7f585a47903a443a351f1.pdf,archive/reports/ML26225A336/2ecfb9b91ae567b4bfe012cbc51b11e012b3860fd3c7f585a47903a443a351f1.txt,NRC report text,"                                        August 12, 2026
 
 Michael Schultheis
 Site Vice President,
@@ -2317,7 +2317,7 @@ Procedure                                                                       
 
                                                       22
 "
-ML26125A118,2026001,2026-05-05,PALISADES NUCLEAR PLANT – INTEGRATED INSPECTION REPORT 05000255/2026001,https://www.nrc.gov/docs/ML2612/ML26125A118.pdf,4,archive/reports/ML26125A118/de2d863b754c2bd212dcee3065b5edf1daa1fc2acb150282dc7c750b68f53faa.pdf,archive/reports/ML26125A118/de2d863b754c2bd212dcee3065b5edf1daa1fc2acb150282dc7c750b68f53faa.txt,"                                          May 5, 2026
+ML26125A118,2026001,2026-05-05,PALISADES NUCLEAR PLANT – INTEGRATED INSPECTION REPORT 05000255/2026001,https://www.nrc.gov/docs/ML2612/ML26125A118.pdf,4,archive/reports/ML26125A118/de2d863b754c2bd212dcee3065b5edf1daa1fc2acb150282dc7c750b68f53faa.pdf,archive/reports/ML26125A118/de2d863b754c2bd212dcee3065b5edf1daa1fc2acb150282dc7c750b68f53faa.txt,NRC report text,"                                          May 5, 2026
 Michael Schultheis
 Site Vice President,
 Palisades Energy, LLC
@@ -3138,7 +3138,7 @@ Procedure                                                                       
 
                                                            16
 "
-ML26072A198,2026401,2026-03-17,PALISADES NUCLEAR PLANT – CYBER SECURITY INSPECTION REPORT 05000255/2026401,https://www.nrc.gov/docs/ML2607/ML26072A198.pdf,1,archive/reports/ML26072A198/322db7c92810e2826a9371e6ff56d1e665c755d79895765c1cc3e131a7451fbe.pdf,archive/reports/ML26072A198/322db7c92810e2826a9371e6ff56d1e665c755d79895765c1cc3e131a7451fbe.txt,"                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+ML26072A198,2026401,2026-03-17,PALISADES NUCLEAR PLANT – CYBER SECURITY INSPECTION REPORT 05000255/2026401,https://www.nrc.gov/docs/ML2607/ML26072A198.pdf,1,archive/reports/ML26072A198/322db7c92810e2826a9371e6ff56d1e665c755d79895765c1cc3e131a7451fbe.pdf,archive/reports/ML26072A198/322db7c92810e2826a9371e6ff56d1e665c755d79895765c1cc3e131a7451fbe.txt,NRC report text,"                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
 
 
 
@@ -3266,7 +3266,7 @@ e-Concurrence Case: 20260313-60012
 
                 OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
 "
-ML26069A362,2025007,2026-03-11,ANNUAL ASSESSMENT LETTER FOR PALISADES NUCLEAR PLANT (REPORT 05000255/2025007),https://www.nrc.gov/docs/ML2606/ML26069A362.pdf,0,archive/reports/ML26069A362/a655f5dc3973f29c12127ff66a299f70e8a5505dfb8945aca41352844b7d005e.pdf,archive/reports/ML26069A362/a655f5dc3973f29c12127ff66a299f70e8a5505dfb8945aca41352844b7d005e.txt,"                                        March 11, 2026
+ML26069A362,2025007,2026-03-11,ANNUAL ASSESSMENT LETTER FOR PALISADES NUCLEAR PLANT (REPORT 05000255/2025007),https://www.nrc.gov/docs/ML2606/ML26069A362.pdf,0,archive/reports/ML26069A362/a655f5dc3973f29c12127ff66a299f70e8a5505dfb8945aca41352844b7d005e.pdf,archive/reports/ML26069A362/a655f5dc3973f29c12127ff66a299f70e8a5505dfb8945aca41352844b7d005e.txt,NRC report text,"                                        March 11, 2026
 
 Michael Schultheis
 Site Vice President,
@@ -3519,7 +3519,7 @@ Palisades December 2027 Initial License Exam                                    
 
 Prepared on 3/2/2026 9:46:42 AM                                                                                                  3 of 3
 "
-ML26055A151,2025008,2026-02-26,PALISADES NUCLEAR PLANT – FIRE PROTECTION TEAM INSPECTION REPORT 05000255/2025008,https://www.nrc.gov/docs/ML2605/ML26055A151.pdf,4,archive/reports/ML26055A151/78a0d0a6feec95470d39b6602bec5a40afcbbf6c83906257b3c2e992c16bdf1d.pdf,archive/reports/ML26055A151/78a0d0a6feec95470d39b6602bec5a40afcbbf6c83906257b3c2e992c16bdf1d.txt,"                                           February 26, 2026
+ML26055A151,2025008,2026-02-26,PALISADES NUCLEAR PLANT – FIRE PROTECTION TEAM INSPECTION REPORT 05000255/2025008,https://www.nrc.gov/docs/ML2605/ML26055A151.pdf,4,archive/reports/ML26055A151/78a0d0a6feec95470d39b6602bec5a40afcbbf6c83906257b3c2e992c16bdf1d.pdf,archive/reports/ML26055A151/78a0d0a6feec95470d39b6602bec5a40afcbbf6c83906257b3c2e992c16bdf1d.txt,NRC report text,"                                           February 26, 2026
 Michael Mlynarek
 Site Vice President,
 Palisades Energy, LLC
@@ -4117,7 +4117,7 @@ Procedure                                                                       
 
                                                   14
 "
-ML26030A166,2025006,2026-02-02,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025006,https://www.nrc.gov/docs/ML2603/ML26030A166.pdf,0,archive/reports/ML26030A166/1465387ccfa5d3d5d09335da7823142aeafdcc752e8100ed778fed99e303e085.pdf,archive/reports/ML26030A166/1465387ccfa5d3d5d09335da7823142aeafdcc752e8100ed778fed99e303e085.txt,"                                           February 2, 2026
+ML26030A166,2025006,2026-02-02,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025006,https://www.nrc.gov/docs/ML2603/ML26030A166.pdf,0,archive/reports/ML26030A166/1465387ccfa5d3d5d09335da7823142aeafdcc752e8100ed778fed99e303e085.pdf,archive/reports/ML26030A166/1465387ccfa5d3d5d09335da7823142aeafdcc752e8100ed778fed99e303e085.txt,NRC report text,"                                           February 2, 2026
 Michael Mlynarek
 Site Vice President,
 Palisades Energy, LLC
@@ -4550,7 +4550,7 @@ Procedure                                                                       
 
                                                              8
 "
-ML26013A162,2025404,2026-01-20,PALISADES NUCLEAR PLANT - RESTART SECURITY INSPECTION REPORT 05000255/2025404,https://www.nrc.gov/docs/ML2601/ML26013A162.pdf,0,archive/reports/ML26013A162/ada464ccccd89eb8cbbc260c627cfa273b6798421ed8858ee9ee076b9a692aed.pdf,archive/reports/ML26013A162/ada464ccccd89eb8cbbc260c627cfa273b6798421ed8858ee9ee076b9a692aed.txt,"                                           January 20, 2026
+ML26013A162,2025404,2026-01-20,PALISADES NUCLEAR PLANT - RESTART SECURITY INSPECTION REPORT 05000255/2025404,https://www.nrc.gov/docs/ML2601/ML26013A162.pdf,0,archive/reports/ML26013A162/ada464ccccd89eb8cbbc260c627cfa273b6798421ed8858ee9ee076b9a692aed.pdf,archive/reports/ML26013A162/ada464ccccd89eb8cbbc260c627cfa273b6798421ed8858ee9ee076b9a692aed.txt,NRC report text,"                                           January 20, 2026
 Michael Mlynarek
 Site Vice President
 Palisades Energy, LLC
@@ -4811,7 +4811,7 @@ Procedure                                                                       
 
                                                                5
 "
-ML25357A093,2025005,2025-12-23,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025005,https://www.nrc.gov/docs/ML2535/ML25357A093.pdf,2,archive/reports/ML25357A093/c09a8d903b85a0bf78695dc3ad3e294b9d8284cb1b145cef6eafaaa5a99f4528.pdf,archive/reports/ML25357A093/c09a8d903b85a0bf78695dc3ad3e294b9d8284cb1b145cef6eafaaa5a99f4528.txt,"                                          December 23, 2025
+ML25357A093,2025005,2025-12-23,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025005,https://www.nrc.gov/docs/ML2535/ML25357A093.pdf,2,archive/reports/ML25357A093/c09a8d903b85a0bf78695dc3ad3e294b9d8284cb1b145cef6eafaaa5a99f4528.pdf,archive/reports/ML25357A093/c09a8d903b85a0bf78695dc3ad3e294b9d8284cb1b145cef6eafaaa5a99f4528.txt,NRC report text,"                                          December 23, 2025
 Michael Mlynarek
 Site Vice President,
 Palisades Energy, LLC
@@ -5707,7 +5707,7 @@ Procedure                                                                       
 
                                                             17
 "
-ML25351A275,2025405,2025-12-18,PALISADES NUCLEAR PLANT – CYBER SECURITY INSPECTION REPORT 05000255/2025405,https://www.nrc.gov/docs/ML2535/ML25351A275.pdf,0,archive/reports/ML25351A275/50eedf5eb7371df3ef9c553393a72af3b79046eecbdcae84bf8c9978c2db588e.pdf,archive/reports/ML25351A275/50eedf5eb7371df3ef9c553393a72af3b79046eecbdcae84bf8c9978c2db588e.txt,"                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+ML25351A275,2025405,2025-12-18,PALISADES NUCLEAR PLANT – CYBER SECURITY INSPECTION REPORT 05000255/2025405,https://www.nrc.gov/docs/ML2535/ML25351A275.pdf,0,archive/reports/ML25351A275/50eedf5eb7371df3ef9c553393a72af3b79046eecbdcae84bf8c9978c2db588e.pdf,archive/reports/ML25351A275/50eedf5eb7371df3ef9c553393a72af3b79046eecbdcae84bf8c9978c2db588e.txt,NRC report text,"                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
 
 
 
@@ -5858,7 +5858,7 @@ ADAMS ACCESSION NUMBER: ML25351A275 (Cover letter)
 
                   OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
 "
-ML25260A036,2025004,2025-09-17,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025004,https://www.nrc.gov/docs/ML2526/ML25260A036.pdf,0,archive/reports/ML25260A036/06895cbc5145b238b30d1299474061c321c26df0ed334901d0173190b68ab1dd.pdf,archive/reports/ML25260A036/06895cbc5145b238b30d1299474061c321c26df0ed334901d0173190b68ab1dd.txt,"                                          September 17, 2025
+ML25260A036,2025004,2025-09-17,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025004,https://www.nrc.gov/docs/ML2526/ML25260A036.pdf,0,archive/reports/ML25260A036/06895cbc5145b238b30d1299474061c321c26df0ed334901d0173190b68ab1dd.pdf,archive/reports/ML25260A036/06895cbc5145b238b30d1299474061c321c26df0ed334901d0173190b68ab1dd.txt,NRC report text,"                                          September 17, 2025
 Michael Mlynarek,
 Site Vice President,
 Palisades Energy, LLC
@@ -6311,7 +6311,7 @@ Procedure                                                                       
 
                                                             9
 "
-ML25241A323,2025501,2025-09-02,PALISADES NUCLEAR PLANT - EMERGENCY PREPAREDNESS BIENNIAL EXERCISE INSPECTION REPORT 05000255/2025501,https://www.nrc.gov/docs/ML2524/ML25241A323.pdf,0,archive/reports/ML25241A323/9e4dfc20b022db39ee23c7f6c29afadb4c8e178df78acdf6b7ec1e8ed04b7ec9.pdf,archive/reports/ML25241A323/9e4dfc20b022db39ee23c7f6c29afadb4c8e178df78acdf6b7ec1e8ed04b7ec9.txt,"                                           September 2, 2025
+ML25241A323,2025501,2025-09-02,PALISADES NUCLEAR PLANT - EMERGENCY PREPAREDNESS BIENNIAL EXERCISE INSPECTION REPORT 05000255/2025501,https://www.nrc.gov/docs/ML2524/ML25241A323.pdf,0,archive/reports/ML25241A323/9e4dfc20b022db39ee23c7f6c29afadb4c8e178df78acdf6b7ec1e8ed04b7ec9.pdf,archive/reports/ML25241A323/9e4dfc20b022db39ee23c7f6c29afadb4c8e178df78acdf6b7ec1e8ed04b7ec9.txt,NRC report text,"                                           September 2, 2025
 Mike Mlynarek
 Site Vice President
 Palisades Energy, LLC
@@ -6604,7 +6604,7 @@ The inspectors verified no proprietary information was retained or documented in
 
                                                            6
 "
-ML25205A049,2025403,2025-07-24,PALISADES NUCLEAR PLANT - RESTART SECURITY INSPECTION REPORT 05000255/2025403,https://www.nrc.gov/docs/ML2520/ML25205A049.pdf,1,archive/reports/ML25205A049/3049f96339e187f5e37c1878bc77b590e0327453681711e3cba69c5f560cb80b.pdf,archive/reports/ML25205A049/3049f96339e187f5e37c1878bc77b590e0327453681711e3cba69c5f560cb80b.txt,"                 OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+ML25205A049,2025403,2025-07-24,PALISADES NUCLEAR PLANT - RESTART SECURITY INSPECTION REPORT 05000255/2025403,https://www.nrc.gov/docs/ML2520/ML25205A049.pdf,1,archive/reports/ML25205A049/3049f96339e187f5e37c1878bc77b590e0327453681711e3cba69c5f560cb80b.pdf,archive/reports/ML25205A049/3049f96339e187f5e37c1878bc77b590e0327453681711e3cba69c5f560cb80b.txt,NRC report text,"                 OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
 
 
 
@@ -6760,7 +6760,7 @@ ADAMS Accession Number: ML25205A049 (Cover letter)
 
                 OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
 "
-ML25203A191,2025406,2025-07-23,PALISADES NUCLEAR PLANT – MATERIAL CONTROL AND ACCOUNTING PROGRAM INSPECTION REPORT 05000255/2025406,https://www.nrc.gov/docs/ML2520/ML25203A191.pdf,0,archive/reports/ML25203A191/84b2745ec985cb8e981a3330aa426bb80ebb7e0cb106931d4833a818ab5514d4.pdf,archive/reports/ML25203A191/84b2745ec985cb8e981a3330aa426bb80ebb7e0cb106931d4833a818ab5514d4.txt,"                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
+ML25203A191,2025406,2025-07-23,PALISADES NUCLEAR PLANT – MATERIAL CONTROL AND ACCOUNTING PROGRAM INSPECTION REPORT 05000255/2025406,https://www.nrc.gov/docs/ML2520/ML25203A191.pdf,0,archive/reports/ML25203A191/84b2745ec985cb8e981a3330aa426bb80ebb7e0cb106931d4833a818ab5514d4.pdf,archive/reports/ML25203A191/84b2745ec985cb8e981a3330aa426bb80ebb7e0cb106931d4833a818ab5514d4.txt,NRC report text,"                OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
 
 
 
@@ -6897,7 +6897,7 @@ ADAMS Accession Number: ML25203A191 (Cover letter)
 
                   OFFICIAL USE ONLY – SECURITY-RELATED INFORMATION
 "
-ML25203A098,2025009,2025-07-22,PALISADES NUCLEAR PLANT – BIENNIAL PROBLEM IDENTIFICATION AND RESOLUTION INSPECTION REPORT 05000255/2025009,https://www.nrc.gov/docs/ML2520/ML25203A098.pdf,0,archive/reports/ML25203A098/b420bf61b5fe72e622132c88e2e737ecd61accc2b26fd080ef01057765479324.pdf,archive/reports/ML25203A098/b420bf61b5fe72e622132c88e2e737ecd61accc2b26fd080ef01057765479324.txt,"                                          July 22, 2025
+ML25203A098,2025009,2025-07-22,PALISADES NUCLEAR PLANT – BIENNIAL PROBLEM IDENTIFICATION AND RESOLUTION INSPECTION REPORT 05000255/2025009,https://www.nrc.gov/docs/ML2520/ML25203A098.pdf,0,archive/reports/ML25203A098/b420bf61b5fe72e622132c88e2e737ecd61accc2b26fd080ef01057765479324.pdf,archive/reports/ML25203A098/b420bf61b5fe72e622132c88e2e737ecd61accc2b26fd080ef01057765479324.txt,NRC report text,"                                          July 22, 2025
 Mike Mlynarek
 Site Vice President
 Holtec Decommissioning
@@ -7261,7 +7261,7 @@ Procedure                                                                       
 
                                                          7
 "
-ML25197A764,2025003,2025-07-17,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025003,https://www.nrc.gov/docs/ML2519/ML25197A764.pdf,0,archive/reports/ML25197A764/f9ae1d33b4fb18d34fe2286bc67b5f3f91726dd7d8bb2459c07a0db9f029e571.pdf,archive/reports/ML25197A764/f9ae1d33b4fb18d34fe2286bc67b5f3f91726dd7d8bb2459c07a0db9f029e571.txt,"                                          July 17, 2025
+ML25197A764,2025003,2025-07-17,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025003,https://www.nrc.gov/docs/ML2519/ML25197A764.pdf,0,archive/reports/ML25197A764/f9ae1d33b4fb18d34fe2286bc67b5f3f91726dd7d8bb2459c07a0db9f029e571.pdf,archive/reports/ML25197A764/f9ae1d33b4fb18d34fe2286bc67b5f3f91726dd7d8bb2459c07a0db9f029e571.txt,NRC report text,"                                          July 17, 2025
 Mike Mlynarek
 Site Vice President
 Holtec Decommissioning
@@ -7884,7 +7884,7 @@ Procedure                                                                       
 
                                               14
 "
-ML25171A029,2025402,2025-06-23,ML25171A029,https://www.nrc.gov/docs/ML2517/ML25171A029.pdf,0,archive/reports/ML25171A029/540b05c341fea982956fcbc9402c15722afe156690e56c32556a4c902b639290.pdf,archive/reports/ML25171A029/540b05c341fea982956fcbc9402c15722afe156690e56c32556a4c902b639290.txt,"                                          June 23, 2025
+ML25171A029,2025402,2025-06-23,ML25171A029,https://www.nrc.gov/docs/ML2517/ML25171A029.pdf,0,archive/reports/ML25171A029/540b05c341fea982956fcbc9402c15722afe156690e56c32556a4c902b639290.pdf,archive/reports/ML25171A029/540b05c341fea982956fcbc9402c15722afe156690e56c32556a4c902b639290.txt,NRC report text,"                                          June 23, 2025
 Mike Mlynarek
 Site Vice President
 Holtec Decommissioning International, LLC
@@ -8165,7 +8165,7 @@ Procedure                                                                       
 
                                                              5
 "
-ML25140A945,2025002,2025-05-21,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025002,https://www.nrc.gov/docs/ML2514/ML25140A945.pdf,0,archive/reports/ML25140A945/88ca6be4410ed28bf25499d5157c4da9f07f85cfb9d4ef4dead54623cb52c408.pdf,archive/reports/ML25140A945/88ca6be4410ed28bf25499d5157c4da9f07f85cfb9d4ef4dead54623cb52c408.txt,"                                          May 21, 2025
+ML25140A945,2025002,2025-05-21,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025002,https://www.nrc.gov/docs/ML2514/ML25140A945.pdf,0,archive/reports/ML25140A945/88ca6be4410ed28bf25499d5157c4da9f07f85cfb9d4ef4dead54623cb52c408.pdf,archive/reports/ML25140A945/88ca6be4410ed28bf25499d5157c4da9f07f85cfb9d4ef4dead54623cb52c408.txt,NRC report text,"                                          May 21, 2025
 Mike Mlynarek
 Site Vice President
 Holtec Decommissioning
@@ -8597,7 +8597,7 @@ Procedure                                                                       
 
                                                          9
 "
-ML25083A268,2025001,2025-03-26,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025001 AND 07200007/2024001,https://www.nrc.gov/docs/ML2508/ML25083A268.pdf,1,archive/reports/ML25083A268/9cec3302f6e89db372eb63b2ccaaec361c1941a86ae936b53e1bddb66552ef36.pdf,archive/reports/ML25083A268/9cec3302f6e89db372eb63b2ccaaec361c1941a86ae936b53e1bddb66552ef36.txt,"                                           March 26, 2025
+ML25083A268,2025001,2025-03-26,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2025001 AND 07200007/2024001,https://www.nrc.gov/docs/ML2508/ML25083A268.pdf,1,archive/reports/ML25083A268/9cec3302f6e89db372eb63b2ccaaec361c1941a86ae936b53e1bddb66552ef36.pdf,archive/reports/ML25083A268/9cec3302f6e89db372eb63b2ccaaec361c1941a86ae936b53e1bddb66552ef36.txt,NRC report text,"                                           March 26, 2025
 Mike Mlynarek
 Site Vice President
 Holtec Decommissioning
@@ -9156,7 +9156,7 @@ Procedure                                                                       
 
                                                       10
 "
-ML25041A225,2024004,2025-02-14,PALISADES NUCLEAR PLANT - NRC INSPECTION REPORT NOS. 05000255/2024004,https://www.nrc.gov/docs/ML2504/ML25041A225.pdf,1,archive/reports/ML25041A225/b1885fa00027fd8534d7f893ac6b40018f6ab47db60aacec6c87696af77225bd.pdf,archive/reports/ML25041A225/b1885fa00027fd8534d7f893ac6b40018f6ab47db60aacec6c87696af77225bd.txt,"                                           February 14, 2025
+ML25041A225,2024004,2025-02-14,PALISADES NUCLEAR PLANT - NRC INSPECTION REPORT NOS. 05000255/2024004,https://www.nrc.gov/docs/ML2504/ML25041A225.pdf,1,archive/reports/ML25041A225/b1885fa00027fd8534d7f893ac6b40018f6ab47db60aacec6c87696af77225bd.pdf,archive/reports/ML25041A225/b1885fa00027fd8534d7f893ac6b40018f6ab47db60aacec6c87696af77225bd.txt,NRC report text,"                                           February 14, 2025
 Mike Mlynarek
 Site Vice President
 Holtec Decommissioning
@@ -9622,7 +9622,7 @@ URI            Unresolved Item
 
                                                  9
 "
-ML25024A083,2024013,2025-01-24,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2024013,https://www.nrc.gov/docs/ML2502/ML25024A083.pdf,0,archive/reports/ML25024A083/edd7f840a1bd4e0c9b75b2e9759836e429ee1d6e3f74f3998d9fd435957ef4b4.pdf,archive/reports/ML25024A083/edd7f840a1bd4e0c9b75b2e9759836e429ee1d6e3f74f3998d9fd435957ef4b4.txt,"                                          January 24, 2025
+ML25024A083,2024013,2025-01-24,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2024013,https://www.nrc.gov/docs/ML2502/ML25024A083.pdf,0,archive/reports/ML25024A083/edd7f840a1bd4e0c9b75b2e9759836e429ee1d6e3f74f3998d9fd435957ef4b4.pdf,archive/reports/ML25024A083/edd7f840a1bd4e0c9b75b2e9759836e429ee1d6e3f74f3998d9fd435957ef4b4.txt,NRC report text,"                                          January 24, 2025
 Mike Mlynarek
 Site Vice President
 Holtec Decommissioning
@@ -9976,7 +9976,7 @@ Procedure                                                                       
 
                                                      7
 "
-ML24317A041,2024012,2024-11-12,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2024012,https://www.nrc.gov/docs/ML2431/ML24317A041.pdf,1,archive/reports/ML24317A041/d01e2f3f9124d264455653cc3967ada49abeafa64243d25ff1e78a80572686b7.pdf,archive/reports/ML24317A041/d01e2f3f9124d264455653cc3967ada49abeafa64243d25ff1e78a80572686b7.txt,"                                           November 12, 2024
+ML24317A041,2024012,2024-11-12,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2024012,https://www.nrc.gov/docs/ML2431/ML24317A041.pdf,1,archive/reports/ML24317A041/d01e2f3f9124d264455653cc3967ada49abeafa64243d25ff1e78a80572686b7.pdf,archive/reports/ML24317A041/d01e2f3f9124d264455653cc3967ada49abeafa64243d25ff1e78a80572686b7.txt,NRC report text,"                                           November 12, 2024
 Mike Mlynarek
 Site Vice President
 Holtec Decommissioning
@@ -10459,7 +10459,7 @@ Procedure                                                                       
 
                                                      9
 "
-ML24197A185,2024011,2024-07-15,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2024011,https://www.nrc.gov/docs/ML2419/ML24197A185.pdf,0,archive/reports/ML24197A185/993d3c5241c99448f650dd3c772dc0f7d3d67854f26c5f421ed392bec33ad207.pdf,archive/reports/ML24197A185/993d3c5241c99448f650dd3c772dc0f7d3d67854f26c5f421ed392bec33ad207.txt,"                                           July 15, 2024
+ML24197A185,2024011,2024-07-15,PALISADES NUCLEAR PLANT – RESTART INSPECTION REPORT 05000255/2024011,https://www.nrc.gov/docs/ML2419/ML24197A185.pdf,0,archive/reports/ML24197A185/993d3c5241c99448f650dd3c772dc0f7d3d67854f26c5f421ed392bec33ad207.pdf,archive/reports/ML24197A185/993d3c5241c99448f650dd3c772dc0f7d3d67854f26c5f421ed392bec33ad207.txt,NRC report text,"                                           July 15, 2024
 Mike Mlynarek
 Site Vice President
 Holtec Decommissioning
@@ -10823,7 +10823,7 @@ Procedure                                                                       
 
                                                    8
 "
-ML24078A315,2024010,2024-03-20,PALISADES NUCLEAR PLANT – PLANT REFERENCE SIMULATOR INSPECTION REPORT 05000255/2024010,https://www.nrc.gov/docs/ML2407/ML24078A315.pdf,0,archive/reports/ML24078A315/14c0853ee754bbc41dadb08ef24edec66ccad8ffbff5728517de5ee60bc39897.pdf,archive/reports/ML24078A315/14c0853ee754bbc41dadb08ef24edec66ccad8ffbff5728517de5ee60bc39897.txt,"                                          March 20, 2024
+ML24078A315,2024010,2024-03-20,PALISADES NUCLEAR PLANT – PLANT REFERENCE SIMULATOR INSPECTION REPORT 05000255/2024010,https://www.nrc.gov/docs/ML2407/ML24078A315.pdf,0,archive/reports/ML24078A315/14c0853ee754bbc41dadb08ef24edec66ccad8ffbff5728517de5ee60bc39897.pdf,archive/reports/ML24078A315/14c0853ee754bbc41dadb08ef24edec66ccad8ffbff5728517de5ee60bc39897.txt,NRC report text,"                                          March 20, 2024
 Mike Mlynarek
 Site Vice President
 Holtec Decommissioning
@@ -11455,7 +11455,7 @@ SRB    Simulator Review Board
 
                                       12
 "
-ML24045A147,2023004,2024-02-20,"NRC INSPECTION REPORT NO. 05000255/2023004(DRSS) – HOLTEC DECOMMISSIONING INTERNATIONAL, LLC, PALISADES NUCLEAR PLANT",https://www.nrc.gov/docs/ML2404/ML24045A147.pdf,1,archive/reports/ML24045A147/12dce2d31541b65e7f02dd0a0367e515ba5e073c51a54b36e1f1d98be4574885.pdf,archive/reports/ML24045A147/12dce2d31541b65e7f02dd0a0367e515ba5e073c51a54b36e1f1d98be4574885.txt,"                                          February 20, 2024
+ML24045A147,2023004,2024-02-20,"NRC INSPECTION REPORT NO. 05000255/2023004(DRSS) – HOLTEC DECOMMISSIONING INTERNATIONAL, LLC, PALISADES NUCLEAR PLANT",https://www.nrc.gov/docs/ML2404/ML24045A147.pdf,1,archive/reports/ML24045A147/12dce2d31541b65e7f02dd0a0367e515ba5e073c51a54b36e1f1d98be4574885.pdf,archive/reports/ML24045A147/12dce2d31541b65e7f02dd0a0367e515ba5e073c51a54b36e1f1d98be4574885.txt,NRC report text,"                                          February 20, 2024
 Mike Mlynarek
 Site Vice President
 Holtec Decommissioning
