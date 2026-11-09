@@ -64,6 +64,11 @@ export default function App() {
 	const stale =
 		checkedAt && Date.now() - checkedAt.valueOf() > 48 * 60 * 60 * 1000;
 	const count = (value: number) => (data ? value : '—');
+	const blocked = Number(data?.status.blockedPdfs ?? 0);
+	const textOnly = Number(data?.status.textOnlyReports ?? 0);
+	const missing = Number(data?.status.missingReports ?? 0);
+	const plural = (n: number, word: string) =>
+		`${n} ${word}${n === 1 ? '' : 's'}`;
 	return (
 		<>
 			<header className="masthead">
@@ -103,6 +108,16 @@ export default function App() {
 				{stale && (
 					<p className="coverage-note" role="status">
 						The last successful source check was more than 48 hours ago.
+					</p>
+				)}
+				{blocked > 0 && (
+					<p className="coverage-note" role="status">
+						NRC's document server refused automated PDF downloads at the last
+						check.
+						{textOnly > 0 &&
+							` ${plural(textOnly, 'report')} use${textOnly === 1 ? 's' : ''} NRC's ADAMS search text until the PDF can be archived.`}
+						{missing > 0 &&
+							` ${plural(missing, 'newly listed report')} could not be retrieved yet.`}
 					</p>
 				)}
 				{error && (
@@ -269,12 +284,16 @@ export default function App() {
 								<div className="detail">
 									<div className="record-source">
 										<a href={r.url}>Original NRC PDF ↗</a>
-										<a
-											href={`${base}${r.pdfPath}`}
-											download={`${r.number}-${r.accession}.pdf`}
-										>
-											Download PDF ↓
-										</a>
+										{r.pdfPath ? (
+											<a
+												href={`${base}${r.pdfPath}`}
+												download={`${r.number}-${r.accession}.pdf`}
+											>
+												Download PDF ↓
+											</a>
+										) : (
+											<span>Text from NRC ADAMS · PDF not yet archived</span>
+										)}
 										<a
 											href={`${base}${r.textPath}`}
 											download={`${r.number}-${r.accession}.txt`}

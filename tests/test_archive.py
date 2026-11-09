@@ -57,4 +57,66 @@ class ArchiveTests(unittest.TestCase):
             with patch.object(archive,'ROOT',root): result=archive.refresh(offline=True)
             self.assertEqual(result['findings'],[item])
 
+    def adams(self,accession):
+        return json.loads((ROOT/'tests/fixtures/adams'/(accession+'.json')).read_text())['document']
+
+    def test_adams_text_extracts_like_the_pdf(self):
+        report=self.reports['ML26125A118']
+        document=self.adams('ML26125A118')
+        text=archive.paginate_adams(document['content'])
+        meta=archive.adams_metadata(document,text,report['url'])
+        self.assertEqual({k:meta[k] for k in ('number','date','title')},{k:report[k] for k in ('number','date','title')})
+        fields=lambda rows:[{k:r[k] for k in ('id','title','kind','rating','page')} for r in rows]
+        self.assertEqual(fields(archive.extract(text,report)),fields(self.parse('ML26125A118')))
+
+    def run_refresh(self,root,feeds,pdfs):
+        def fake_download(url,body=None):
+            if body is not None:
+                hits=[{'document':d} for d in feeds['adams'] if d['AccessionNumber']==body['q']]
+                return json.dumps({'count':len(hits),'results':hits}).encode()
+            if url.startswith(archive.ADAMS+'/docdetails/'):
+                return json.dumps({'document':next(d for d in feeds['adams'] if d['IdT']==url.rsplit('/',1)[1])}).encode()
+            if url in feeds: return feeds[url]
+            if url in pdfs: return pdfs[url]
+            raise archive.FetchError(f'NRC HTTP 403: {url}')
+        with patch.object(archive,'ROOT',root),patch.object(archive,'download',fake_download):
+            return archive.refresh()
+
+    def test_blocked_pdfs_use_archive_then_adams_text_until_the_pdf_arrives(self):
+        archived=self.reports['ML24045A147']; new=self.reports['ML25205A049']
+        feeds={
+            'https://www.nrc.gov/info-finder/reactors/pali':b'<html></html>',
+            archive.BASE+'/list-of-reports.json':json.dumps({'Sites':[{'SiteCode':'pali','Reports':[]}]}).encode(),
+            archive.BASE+'/current-quarter.json':json.dumps({'pimreport':{'Year':2026,'Abbreviation':'Q3'}}).encode(),
+            archive.BASE+'/2026q3/docketpim/pali.json':json.dumps({'DocketNum':'05000255'}).encode(),
+            'adams':[self.adams('ML25205A049')],
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            root=Path(directory)
+            archive.write_json(root/'config/sources.json',{'startDate':'2024-01-01','plantPage':'https://www.nrc.gov/info-finder/reactors/pali','extraReports':[{'url':new['url']}]})
+            text=root/archived['textPath']; text.parent.mkdir(parents=True)
+            text.write_text((ROOT/archived['textPath']).read_text())
+            archive.write_json(root/'data/archive.json',{'checkedAt':'2026-09-08T00:00:00Z','reports':[archived],'findings':[]})
+
+            # Every /docs/ PDF is refused: the archived report keeps its PDF, the new one comes from ADAMS.
+            first=self.run_refresh(root,feeds,{})
+            reports={r['accession']:r for r in first['reports']}
+            self.assertEqual(reports['ML24045A147']['lastCheckedAt'],archived['lastCheckedAt'])
+            self.assertEqual(reports['ML25205A049']['textSource'],archive.ADAMS_SOURCE)
+            self.assertEqual(reports['ML25205A049']['pdfPath'],'')
+            self.assertEqual({k:reports['ML25205A049'][k] for k in ('number','date')},{k:new[k] for k in ('number','date')})
+            self.assertEqual({(r['accession'],r['fallback']) for r in first['unavailableReports']},
+                             {('ML24045A147','archived PDF'),('ML25205A049','ADAMS text')})
+            provisional=[f for f in first['findings'] if f['reportAccession']=='ML25205A049']
+            self.assertEqual([(f['rating'],f['page'],f['source']) for f in provisional],[('Severity Level IV',1,archive.ADAMS_SOURCE)])
+
+            # Once the PDF downloads, its extraction replaces the provisional ADAMS entries.
+            second=self.run_refresh(root,feeds,{new['url']:(ROOT/new['pdfPath']).read_bytes()})
+            final=[f for f in second['findings'] if f['reportAccession']=='ML25205A049']
+            self.assertEqual([f['id'] for f in final],[f['id'] for f in self.parse('ML25205A049')])
+            self.assertEqual(final[0]['source'],archive.PDF_SOURCE)
+            report=next(r for r in second['reports'] if r['accession']=='ML25205A049')
+            self.assertEqual(report['textSource'],archive.PDF_SOURCE)
+            self.assertEqual([v['source'] for v in report['versions']],[archive.ADAMS_SOURCE,archive.PDF_SOURCE])
+
 if __name__=='__main__': unittest.main()

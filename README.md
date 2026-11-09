@@ -8,7 +8,7 @@ React 19 + Vite + TypeScript SPA, using shadcn/Base UI, Tailwind v4, Lucide, and
 
 - `data/findings.csv`: findings and violations, NRC source text, classifications, report dates and links.
 - `data/reports.csv`: every archived report, including full extracted text and PDF links.
-- `data/status.csv`: last source-check timestamp and coverage start date.
+- `data/status.csv`: last source-check timestamp, coverage start date, and how many report PDFs NRC refused at that check.
 
 The initial restart-era backfill has 25 reports published since January 2024 and 22 explicitly labeled findings or violations. Reports without extracted entries remain available with their full text. Data is sourced from NRC reports, not generated prose.
 
@@ -18,6 +18,7 @@ At **08:17 UTC** nightly (3:17 a.m. CDT / 2:17 a.m. CST), GitHub Actions:
 
 1. Fetches NRC's plant report index, inspection-report JSON index and current-quarter feed, plus URLs in `config/sources.json`.
 2. Downloads PDFs with Node and extracts source text with Poppler. Fixed parsing rules identify explicit findings and violations.
+   NRC's CDN refuses automated requests to `www.nrc.gov/docs/` (since November 2026). When a PDF is refused, an already-archived PDF is reused; a new report is instead read from the ADAMS Public Search backend (`adams-search.nrc.gov`), whose indexed text is re-paginated to match the PDF's page numbers. Those entries are marked `ADAMS indexed text` and are replaced by the PDF extraction once the PDF downloads.
 3. Merges records into the persistent archive, retaining older entries and source versions, and exports the CSVs.
 4. Runs Biome and the TypeScript/Vite build, then publishes the SPA and data on GitHub Pages.
 

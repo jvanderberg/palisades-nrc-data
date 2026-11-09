@@ -23,9 +23,18 @@ export type Report = {
 	extractedCount: string;
 	pdfPath: string;
 	textPath: string;
+	/** 'NRC report text' (from the PDF) or 'ADAMS indexed text' (PDF not yet downloadable). */
+	textSource?: string;
 	text: string;
 };
-export type Status = { checkedAt: string; startDate: string };
+export type Status = {
+	checkedAt: string;
+	startDate: string;
+	/** Counts from the last check; older CSVs omit them. */
+	blockedPdfs?: string;
+	textOnlyReports?: string;
+	missingReports?: string;
+};
 export type Archive = {
 	findings: Finding[];
 	reports: Report[];

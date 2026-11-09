@@ -15,8 +15,12 @@ def write(name, fields, rows):
     temp.replace(target)
 
 write('findings.csv',['id','title','kind','rating','text','reportAccession','reportNumber','reportDate','page','url','source','firstSeenAt'],data['findings'])
-write('reports.csv',['accession','number','date','title','url','extractedCount','pdfPath','textPath','text'],[
-    {**r,'text':(ROOT/r['textPath']).read_text()} for r in data['reports']
+write('reports.csv',['accession','number','date','title','url','extractedCount','pdfPath','textPath','textSource','text'],[
+    {**r,'textSource':r.get('textSource','NRC report text'),'text':(ROOT/r['textPath']).read_text()} for r in data['reports']
 ])
-write('status.csv',['checkedAt','startDate'],[data])
+unavailable=data.get('unavailableReports',[])
+write('status.csv',['checkedAt','startDate','blockedPdfs','textOnlyReports','missingReports'],[{**data,
+    'blockedPdfs':len(unavailable),
+    'textOnlyReports':sum(not r.get('pdfPath') for r in data['reports']),
+    'missingReports':sum(r['fallback']=='none' for r in unavailable)}])
 print(f"Exported {len(data['findings'])} findings and {len(data['reports'])} reports to CSV")

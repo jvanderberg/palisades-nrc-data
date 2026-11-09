@@ -3,6 +3,7 @@ import argparse
 import hashlib
 import html
 import json
+import os
 import re
 import subprocess
 import tempfile
@@ -13,6 +14,10 @@ from urllib.parse import urljoin
 
 ROOT = Path(__file__).resolve().parent.parent
 BASE = 'https://www.nrc.gov/sites/default/files/doc_library/cdn/data/performance-indicators'
+# Backend of NRC's ADAMS Public Search site; serves document text when /docs/ PDFs are refused.
+ADAMS = 'https://adams-search.nrc.gov/api/search'
+PDF_SOURCE = 'NRC report text'
+ADAMS_SOURCE = 'ADAMS indexed text'
 ISSUE = r'(?:NCV|FIN|NOV|AV)\s+(\d{8}/\d{7}[-‑–]\d{2})'
 
 def compact(s):
@@ -27,11 +32,75 @@ def write_json(path, value):
     temp.write_text(json.dumps(value, ensure_ascii=False, indent=2) + '\n')
     temp.replace(path)
 
-def download(url):
+class FetchError(Exception):
+    pass
+
+def download(url, body=None):
     with tempfile.TemporaryDirectory() as directory:
         target = Path(directory) / 'response'
-        subprocess.run(['node', str(ROOT/'scripts/http.mjs'), url, str(target)], check=True)
+        command = ['node', str(ROOT/'scripts/http.mjs'), url, str(target)] + ([json.dumps(body)] if body is not None else [])
+        run = subprocess.run(command, stderr=subprocess.PIPE, text=True)
+        if run.returncode: raise FetchError(run.stderr.strip() or f'Download failed: {url}')
         return target.read_bytes()
+
+def warn(message):
+    # Surface as a GitHub Actions annotation without failing the run.
+    print(('::warning::' if os.environ.get('GITHUB_ACTIONS') else 'warning: ')+message, flush=True)
+
+def adams_document(accession):
+    """Fetch one public ADAMS document's metadata and indexed text by accession number."""
+    query={'q':accession,'filters':[],'legacyLibFilter':True,'mainLibFilter':True,'content':False,
+           'anyFilters':[],'sort':'','sortDirection':1}
+    results=json.loads(download(ADAMS,query)).get('results') or []
+    hit=next((r['document'] for r in results if r['document'].get('AccessionNumber')==accession),None)
+    if not hit: raise FetchError('ADAMS has no public document '+accession)
+    document=json.loads(download(f"{ADAMS}/docdetails/{hit['IdT']}"))['document']
+    if document.get('AccessionNumber')!=accession or not (document.get('content') or '').strip():
+        raise FetchError('ADAMS returned no text for '+accession)
+    return document
+
+def paginate_adams(content):
+    """Rebuild PDF page breaks in ADAMS indexed text so page numbers match the PDF.
+
+    ADAMS emits each page's running header/footer before its body: cover-letter pages start with
+    "M. Name 2", the distribution page with "Letter to ... dated", the enclosure cover with
+    "Enclosure", and later enclosure pages with their bare printed page number.
+    """
+    lines=content.replace('\r\n','\n').split('\n')
+    header=re.compile(r"^[A-Z]\.(?: [A-Z]\.)? [A-Z][A-Za-z'’-]+ +(\d{1,2})$")
+    out=[]; letter=2; printed=2; enclosure=False; last_break=-99
+    def page_break():
+        nonlocal last_break
+        out.append('\f'); last_break=len(out)
+    for line in lines:
+        s=line.strip()
+        if not enclosure:
+            m=header.match(s)
+            if m and int(m[1])==letter:
+                page_break(); letter+=1
+            elif re.match(r'Letter to .+ dated ',s) and len(out)-last_break>4:
+                page_break(); letter+=1
+            elif s in ('Enclosure','U.S. NUCLEAR REGULATORY COMMISSION') and letter>2:
+                page_break(); enclosure=True
+            out.append(line)
+        elif s==str(printed):
+            page_break(); printed+=1
+        else:
+            out.append(line)
+    # Like pdftotext, start each page's first line directly after the form feed.
+    return re.sub(r'\f\n(?:[ \t]*\n)*','\f','\n'.join(out))
+
+def adams_metadata(document, text, url):
+    accession=document['AccessionNumber']
+    subject=re.search(r'SUBJECT:\s*(.*?)\n\s*Dear ',text[:9000],re.S)
+    title=compact(subject[1]) if subject else compact(document.get('DocumentTitle') or accession)
+    number=re.search(r'05000255\s*/\s*(20\d{5})',title) or re.search(r'05000255\s*/\s*(20\d{5})',text[:9000])
+    numbers=[m for n in document.get('DocumentReportNumber') or [] for m in re.findall(r'\b(20\d{5})\b',n)]
+    date=document.get('DocumentDate') or ''
+    if '05000255' not in (document.get('DocketNumber') or []) or not re.fullmatch(r'20\d{2}-\d{2}-\d{2}',date):
+        raise ValueError('Unrecognized Palisades ADAMS metadata: '+accession)
+    if not number and not numbers: raise ValueError('No report number in ADAMS document: '+accession)
+    return {'accession':accession,'number':number[1] if number else numbers[0],'date':date,'title':title,'url':url}
 
 class Links(HTMLParser):
     def __init__(self):
@@ -70,7 +139,7 @@ def extract(text, report):
                       'rating':significance or rating(body),'text':body,
                       'reportAccession':report['accession'],'reportNumber':report['number'],
                       'reportDate':report['date'],'page':clean[:offset].count('\f')+1,
-                      'url':report['url'],'source':'NRC report text'})
+                      'url':report['url'],'source':report.get('textSource',PDF_SOURCE)})
     start=clean.find('List of Findings and Violations')
     end=clean.find('Additional Tracking Items', start)
     if start>=0 and end>start:
@@ -82,8 +151,10 @@ def extract(text, report):
         for i,line in enumerate(lines):
             if line.strip().startswith('Cornerstone'):
                 j=i-1
+                while j>=0 and not lines[j].strip(): j-=1  # ADAMS text puts a blank line before the table
+                end=j+1
                 while j>=0 and lines[j].strip(): j-=1
-                blocks.append((j+1,i))
+                blocks.append((j+1,end))
         for n,(a,b) in enumerate(blocks):
             stop=blocks[n+1][0] if n+1<len(blocks) else len(lines)
             body=''.join(lines[a:stop]).strip(); title=' '.join(x.strip() for x in lines[a:b])
@@ -145,6 +216,29 @@ def metadata(text, accession, url):
         raise ValueError('Unrecognized Palisades report metadata: '+accession)
     return {'accession':accession,'number':number[1],'date':date,'title':title,'url':url}
 
+def fetch_pdf(url, accession):
+    pdf=download(url)
+    if not pdf.startswith(b'%PDF'): raise FetchError('Non-PDF response: '+url)
+    digest=hashlib.sha256(pdf).hexdigest()
+    folder=ROOT/'archive/reports'/accession; folder.mkdir(parents=True,exist_ok=True)
+    pdfpath=folder/(digest+'.pdf'); textpath=folder/(digest+'.txt')
+    if not pdfpath.exists(): pdfpath.write_bytes(pdf)
+    if not textpath.exists(): subprocess.run(['pdftotext','-layout',str(pdfpath),str(textpath)],check=True)
+    text=textpath.read_text()
+    version={'sha256':digest,'pdfPath':str(pdfpath.relative_to(ROOT)),'textPath':str(textpath.relative_to(ROOT)),'source':PDF_SOURCE}
+    return metadata(text,accession,url),text,version
+
+def fetch_adams(url, accession):
+    document=adams_document(accession)
+    content=document['content']
+    digest=hashlib.sha256(content.encode()).hexdigest()
+    folder=ROOT/'archive/reports'/accession; folder.mkdir(parents=True,exist_ok=True)
+    textpath=folder/(digest+'.adams.txt')
+    if not textpath.exists(): textpath.write_text(paginate_adams(content))
+    text=textpath.read_text()
+    version={'sha256':digest,'pdfPath':'','textPath':str(textpath.relative_to(ROOT)),'source':ADAMS_SOURCE}
+    return adams_metadata(document,text,url),text,version
+
 def refresh(offline=False):
     config=read_json(ROOT/'config/sources.json')
     previous=read_json(ROOT/'data/archive.json',{'reports':[],'findings':[]})
@@ -152,6 +246,7 @@ def refresh(offline=False):
     reports={r['accession']:r for r in previous['reports']}
     urls={r['url'] for r in reports.values()}|{r['url'] for r in config['extraReports']}
     rawdir=ROOT/'archive/sources'; rawdir.mkdir(parents=True,exist_ok=True)
+    unavailable=[]
     if not offline:
         page=download(config['plantPage']); (rawdir/'plant.html').write_bytes(page)
         listing=download(BASE+'/list-of-reports.json'); (rawdir/'report-index.json').write_bytes(listing)
@@ -181,25 +276,37 @@ def refresh(offline=False):
         match=re.fullmatch(r'https://www\.nrc\.gov/docs/ML\d{4}/(ML\d{5}[A-Z0-9]{4})\.pdf',url)
         if not match: raise ValueError('Unexpected NRC PDF URL: '+url)
         accession=match[1]
+        old=reports.get(accession,{})
         if offline:
+            fetched=None
+        else:
+            try:
+                fetched=fetch_pdf(url,accession)
+            except FetchError as error:
+                # NRC's CDN refuses automated /docs/ requests: keep an archived PDF if there is one,
+                # otherwise use ADAMS indexed text so new reports still arrive.
+                fetched=None; fallback='none'; message=str(error)
+                if old and old.get('textSource',PDF_SOURCE)==PDF_SOURCE:
+                    fallback='archived PDF'
+                else:
+                    try:
+                        fetched=fetch_adams(url,accession); fallback='ADAMS text'
+                    except FetchError as adams_error:
+                        message+=f'; {adams_error}'
+                        if old: fallback='archived ADAMS text'
+                unavailable.append({'url':url,'accession':accession,'fallback':fallback,'error':message})
+                warn(f"{message} (using {fallback})" if fallback!='none' else f"{message} (not yet archived; will retry next run)")
+        if fetched is None:
             if accession not in reports: continue
             record=reports[accession]
             text=(ROOT/record['textPath']).read_text()
         else:
-            pdf=download(url)
-            if not pdf.startswith(b'%PDF'): raise ValueError('Non-PDF response: '+url)
-            digest=hashlib.sha256(pdf).hexdigest()
-            folder=ROOT/'archive/reports'/accession; folder.mkdir(parents=True,exist_ok=True)
-            pdfpath=folder/(digest+'.pdf'); textpath=folder/(digest+'.txt')
-            if not pdfpath.exists(): pdfpath.write_bytes(pdf)
-            if not textpath.exists(): subprocess.run(['pdftotext','-layout',str(pdfpath),str(textpath)],check=True)
-            text=textpath.read_text(); record=metadata(text,accession,url)
+            record,text,version=fetched
             if record['date']<config['startDate']: continue
-            old=reports.get(accession,{})
             versions=list(old.get('versions',[]))
-            version={'sha256':digest,'pdfPath':str(pdfpath.relative_to(ROOT)),'textPath':str(textpath.relative_to(ROOT))}
-            if not any(v['sha256']==digest for v in versions): versions.append(version)
-            record.update(version,versions=versions,firstSeenAt=old.get('firstSeenAt',now),lastCheckedAt=now)
+            if not any(v['sha256']==version['sha256'] for v in versions): versions.append(version)
+            record.update({k:version[k] for k in ('sha256','pdfPath','textPath')},textSource=version['source'],
+                          versions=versions,firstSeenAt=old.get('firstSeenAt',now),lastCheckedAt=now)
         items=extract(text,record)
         record['extractedCount']=len(items)
         record['extractionStatus']='Extracted entries' if items else 'Full report text available'
@@ -207,13 +314,16 @@ def refresh(offline=False):
         reports[accession]=record
         print(f"{accession} {record['number']}: {len(items)} extracted entries",flush=True)
     # Merge rather than replace: disappearing sources and entries remain available.
-    findings={f['id']:f for f in previous['findings']}
+    # ADAMS-text entries are provisional: re-extraction (or the PDF arriving) supersedes them.
+    seen={f['id']:f['firstSeenAt'] for f in previous['findings'] if f.get('firstSeenAt')}
+    findings={f['id']:f for f in previous['findings']
+              if not (f.get('source')==ADAMS_SOURCE and f['reportAccession'] in reports)}
     for record in reports.values():
         for f in record.pop('findings',[]):
-            old=findings.get(f['id'],{})
-            findings[f['id']]={**f,'firstSeenAt':old.get('firstSeenAt',now)}
+            findings[f['id']]={**f,'firstSeenAt':seen.get(f['id'],now)}
     result={'schemaVersion':2,'startDate':config['startDate'],'checkedAt':now,
             'sources':[config['plantPage'],BASE+'/list-of-reports.json',BASE+'/current-quarter.json'],
+            'unavailableReports':unavailable if not offline else previous.get('unavailableReports',[]),
             'reports':sorted(reports.values(),key=lambda r:(r['date'],r['accession']),reverse=True),
             'findings':sorted(findings.values(),key=lambda f:(f['reportDate'],f['id']),reverse=True)}
     write_json(ROOT/'data/archive.json',result)
@@ -223,3 +333,7 @@ if __name__=='__main__':
     parser=argparse.ArgumentParser();parser.add_argument('--offline',action='store_true')
     result=refresh(parser.parse_args().offline)
     print(f"Archive: {len(result['reports'])} reports; {len(result['findings'])} entries")
+    blocked=result['unavailableReports']
+    if blocked:
+        counts={k:sum(r['fallback']==k for r in blocked) for k in ('archived PDF','ADAMS text','archived ADAMS text','none')}
+        warn(f"{len(blocked)} report PDFs could not be downloaded: "+', '.join(f'{v} {k}' for k,v in counts.items() if v))
