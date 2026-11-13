@@ -1,170 +1,13 @@
 {
   "schemaVersion": 2,
   "startDate": "2024-01-01",
-  "checkedAt": "2026-11-12T08:23:36.766087Z",
+  "checkedAt": "2026-11-13T08:23:37.897126Z",
   "sources": [
     "https://www.nrc.gov/info-finder/reactors/pali",
     "https://www.nrc.gov/sites/default/files/doc_library/cdn/data/performance-indicators/list-of-reports.json",
     "https://www.nrc.gov/sites/default/files/doc_library/cdn/data/performance-indicators/current-quarter.json"
   ],
-  "unavailableReports": [
-    {
-      "url": "https://www.nrc.gov/docs/ML2404/ML24045A147.pdf",
-      "accession": "ML24045A147",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2404/ML24045A147.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2407/ML24078A315.pdf",
-      "accession": "ML24078A315",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2407/ML24078A315.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2419/ML24197A185.pdf",
-      "accession": "ML24197A185",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2419/ML24197A185.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2431/ML24317A041.pdf",
-      "accession": "ML24317A041",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2431/ML24317A041.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2502/ML25024A083.pdf",
-      "accession": "ML25024A083",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2502/ML25024A083.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2504/ML25041A225.pdf",
-      "accession": "ML25041A225",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2504/ML25041A225.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2508/ML25083A268.pdf",
-      "accession": "ML25083A268",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2508/ML25083A268.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2514/ML25140A945.pdf",
-      "accession": "ML25140A945",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2514/ML25140A945.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2517/ML25171A029.pdf",
-      "accession": "ML25171A029",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2517/ML25171A029.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2519/ML25197A764.pdf",
-      "accession": "ML25197A764",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2519/ML25197A764.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2520/ML25203A098.pdf",
-      "accession": "ML25203A098",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2520/ML25203A098.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2520/ML25203A191.pdf",
-      "accession": "ML25203A191",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2520/ML25203A191.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2520/ML25205A049.pdf",
-      "accession": "ML25205A049",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2520/ML25205A049.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2524/ML25241A323.pdf",
-      "accession": "ML25241A323",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2524/ML25241A323.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2526/ML25260A036.pdf",
-      "accession": "ML25260A036",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2526/ML25260A036.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2535/ML25351A275.pdf",
-      "accession": "ML25351A275",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2535/ML25351A275.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2535/ML25357A093.pdf",
-      "accession": "ML25357A093",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2535/ML25357A093.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2601/ML26013A162.pdf",
-      "accession": "ML26013A162",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2601/ML26013A162.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2603/ML26030A166.pdf",
-      "accession": "ML26030A166",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2603/ML26030A166.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2605/ML26055A151.pdf",
-      "accession": "ML26055A151",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2605/ML26055A151.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2606/ML26069A362.pdf",
-      "accession": "ML26069A362",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2606/ML26069A362.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2607/ML26072A198.pdf",
-      "accession": "ML26072A198",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2607/ML26072A198.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2612/ML26125A118.pdf",
-      "accession": "ML26125A118",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2612/ML26125A118.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2622/ML26225A336.pdf",
-      "accession": "ML26225A336",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2622/ML26225A336.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2624/ML26245A104.pdf",
-      "accession": "ML26245A104",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2624/ML26245A104.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2628/ML26286A257.pdf",
-      "accession": "ML26286A257",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2628/ML26286A257.pdf"
-    }
-  ],
+  "unavailableReports": [],
   "reports": [
     {
       "accession": "ML26286A257",
@@ -175,6 +18,7 @@
       "sha256": "caddf97d0f4015d4489483e7e5d470b535e0a320940dd0e5c72cc609e4adacdb",
       "pdfPath": "archive/reports/ML26286A257/caddf97d0f4015d4489483e7e5d470b535e0a320940dd0e5c72cc609e4adacdb.pdf",
       "textPath": "archive/reports/ML26286A257/caddf97d0f4015d4489483e7e5d470b535e0a320940dd0e5c72cc609e4adacdb.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "caddf97d0f4015d4489483e7e5d470b535e0a320940dd0e5c72cc609e4adacdb",
@@ -183,7 +27,7 @@
         }
       ],
       "firstSeenAt": "2026-10-23T08:35:15.608423Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -196,6 +40,7 @@
       "sha256": "5eace489af390fdd70e3c14a96cdec153fbb8eab416154a857484db9743c8c9b",
       "pdfPath": "archive/reports/ML26245A104/5eace489af390fdd70e3c14a96cdec153fbb8eab416154a857484db9743c8c9b.pdf",
       "textPath": "archive/reports/ML26245A104/5eace489af390fdd70e3c14a96cdec153fbb8eab416154a857484db9743c8c9b.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "5eace489af390fdd70e3c14a96cdec153fbb8eab416154a857484db9743c8c9b",
@@ -204,7 +49,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 2,
       "extractionStatus": "Extracted entries"
     },
@@ -217,6 +62,7 @@
       "sha256": "2ecfb9b91ae567b4bfe012cbc51b11e012b3860fd3c7f585a47903a443a351f1",
       "pdfPath": "archive/reports/ML26225A336/2ecfb9b91ae567b4bfe012cbc51b11e012b3860fd3c7f585a47903a443a351f1.pdf",
       "textPath": "archive/reports/ML26225A336/2ecfb9b91ae567b4bfe012cbc51b11e012b3860fd3c7f585a47903a443a351f1.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "2ecfb9b91ae567b4bfe012cbc51b11e012b3860fd3c7f585a47903a443a351f1",
@@ -225,7 +71,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 4,
       "extractionStatus": "Extracted entries"
     },
@@ -238,6 +84,7 @@
       "sha256": "de2d863b754c2bd212dcee3065b5edf1daa1fc2acb150282dc7c750b68f53faa",
       "pdfPath": "archive/reports/ML26125A118/de2d863b754c2bd212dcee3065b5edf1daa1fc2acb150282dc7c750b68f53faa.pdf",
       "textPath": "archive/reports/ML26125A118/de2d863b754c2bd212dcee3065b5edf1daa1fc2acb150282dc7c750b68f53faa.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "de2d863b754c2bd212dcee3065b5edf1daa1fc2acb150282dc7c750b68f53faa",
@@ -246,7 +93,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 4,
       "extractionStatus": "Extracted entries"
     },
@@ -259,6 +106,7 @@
       "sha256": "322db7c92810e2826a9371e6ff56d1e665c755d79895765c1cc3e131a7451fbe",
       "pdfPath": "archive/reports/ML26072A198/322db7c92810e2826a9371e6ff56d1e665c755d79895765c1cc3e131a7451fbe.pdf",
       "textPath": "archive/reports/ML26072A198/322db7c92810e2826a9371e6ff56d1e665c755d79895765c1cc3e131a7451fbe.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "322db7c92810e2826a9371e6ff56d1e665c755d79895765c1cc3e131a7451fbe",
@@ -267,7 +115,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 1,
       "extractionStatus": "Extracted entries"
     },
@@ -280,6 +128,7 @@
       "sha256": "a655f5dc3973f29c12127ff66a299f70e8a5505dfb8945aca41352844b7d005e",
       "pdfPath": "archive/reports/ML26069A362/a655f5dc3973f29c12127ff66a299f70e8a5505dfb8945aca41352844b7d005e.pdf",
       "textPath": "archive/reports/ML26069A362/a655f5dc3973f29c12127ff66a299f70e8a5505dfb8945aca41352844b7d005e.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "a655f5dc3973f29c12127ff66a299f70e8a5505dfb8945aca41352844b7d005e",
@@ -288,7 +137,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -301,6 +150,7 @@
       "sha256": "78a0d0a6feec95470d39b6602bec5a40afcbbf6c83906257b3c2e992c16bdf1d",
       "pdfPath": "archive/reports/ML26055A151/78a0d0a6feec95470d39b6602bec5a40afcbbf6c83906257b3c2e992c16bdf1d.pdf",
       "textPath": "archive/reports/ML26055A151/78a0d0a6feec95470d39b6602bec5a40afcbbf6c83906257b3c2e992c16bdf1d.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "78a0d0a6feec95470d39b6602bec5a40afcbbf6c83906257b3c2e992c16bdf1d",
@@ -309,7 +159,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 4,
       "extractionStatus": "Extracted entries"
     },
@@ -322,6 +172,7 @@
       "sha256": "1465387ccfa5d3d5d09335da7823142aeafdcc752e8100ed778fed99e303e085",
       "pdfPath": "archive/reports/ML26030A166/1465387ccfa5d3d5d09335da7823142aeafdcc752e8100ed778fed99e303e085.pdf",
       "textPath": "archive/reports/ML26030A166/1465387ccfa5d3d5d09335da7823142aeafdcc752e8100ed778fed99e303e085.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "1465387ccfa5d3d5d09335da7823142aeafdcc752e8100ed778fed99e303e085",
@@ -330,7 +181,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -343,6 +194,7 @@
       "sha256": "ada464ccccd89eb8cbbc260c627cfa273b6798421ed8858ee9ee076b9a692aed",
       "pdfPath": "archive/reports/ML26013A162/ada464ccccd89eb8cbbc260c627cfa273b6798421ed8858ee9ee076b9a692aed.pdf",
       "textPath": "archive/reports/ML26013A162/ada464ccccd89eb8cbbc260c627cfa273b6798421ed8858ee9ee076b9a692aed.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "ada464ccccd89eb8cbbc260c627cfa273b6798421ed8858ee9ee076b9a692aed",
@@ -351,7 +203,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -364,6 +216,7 @@
       "sha256": "c09a8d903b85a0bf78695dc3ad3e294b9d8284cb1b145cef6eafaaa5a99f4528",
       "pdfPath": "archive/reports/ML25357A093/c09a8d903b85a0bf78695dc3ad3e294b9d8284cb1b145cef6eafaaa5a99f4528.pdf",
       "textPath": "archive/reports/ML25357A093/c09a8d903b85a0bf78695dc3ad3e294b9d8284cb1b145cef6eafaaa5a99f4528.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "c09a8d903b85a0bf78695dc3ad3e294b9d8284cb1b145cef6eafaaa5a99f4528",
@@ -372,7 +225,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 2,
       "extractionStatus": "Extracted entries"
     },
@@ -385,6 +238,7 @@
       "sha256": "50eedf5eb7371df3ef9c553393a72af3b79046eecbdcae84bf8c9978c2db588e",
       "pdfPath": "archive/reports/ML25351A275/50eedf5eb7371df3ef9c553393a72af3b79046eecbdcae84bf8c9978c2db588e.pdf",
       "textPath": "archive/reports/ML25351A275/50eedf5eb7371df3ef9c553393a72af3b79046eecbdcae84bf8c9978c2db588e.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "50eedf5eb7371df3ef9c553393a72af3b79046eecbdcae84bf8c9978c2db588e",
@@ -393,7 +247,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -406,6 +260,7 @@
       "sha256": "06895cbc5145b238b30d1299474061c321c26df0ed334901d0173190b68ab1dd",
       "pdfPath": "archive/reports/ML25260A036/06895cbc5145b238b30d1299474061c321c26df0ed334901d0173190b68ab1dd.pdf",
       "textPath": "archive/reports/ML25260A036/06895cbc5145b238b30d1299474061c321c26df0ed334901d0173190b68ab1dd.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "06895cbc5145b238b30d1299474061c321c26df0ed334901d0173190b68ab1dd",
@@ -414,7 +269,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -427,6 +282,7 @@
       "sha256": "9e4dfc20b022db39ee23c7f6c29afadb4c8e178df78acdf6b7ec1e8ed04b7ec9",
       "pdfPath": "archive/reports/ML25241A323/9e4dfc20b022db39ee23c7f6c29afadb4c8e178df78acdf6b7ec1e8ed04b7ec9.pdf",
       "textPath": "archive/reports/ML25241A323/9e4dfc20b022db39ee23c7f6c29afadb4c8e178df78acdf6b7ec1e8ed04b7ec9.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "9e4dfc20b022db39ee23c7f6c29afadb4c8e178df78acdf6b7ec1e8ed04b7ec9",
@@ -435,7 +291,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -448,6 +304,7 @@
       "sha256": "3049f96339e187f5e37c1878bc77b590e0327453681711e3cba69c5f560cb80b",
       "pdfPath": "archive/reports/ML25205A049/3049f96339e187f5e37c1878bc77b590e0327453681711e3cba69c5f560cb80b.pdf",
       "textPath": "archive/reports/ML25205A049/3049f96339e187f5e37c1878bc77b590e0327453681711e3cba69c5f560cb80b.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "3049f96339e187f5e37c1878bc77b590e0327453681711e3cba69c5f560cb80b",
@@ -456,7 +313,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 1,
       "extractionStatus": "Extracted entries"
     },
@@ -469,6 +326,7 @@
       "sha256": "84b2745ec985cb8e981a3330aa426bb80ebb7e0cb106931d4833a818ab5514d4",
       "pdfPath": "archive/reports/ML25203A191/84b2745ec985cb8e981a3330aa426bb80ebb7e0cb106931d4833a818ab5514d4.pdf",
       "textPath": "archive/reports/ML25203A191/84b2745ec985cb8e981a3330aa426bb80ebb7e0cb106931d4833a818ab5514d4.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "84b2745ec985cb8e981a3330aa426bb80ebb7e0cb106931d4833a818ab5514d4",
@@ -477,7 +335,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -490,6 +348,7 @@
       "sha256": "b420bf61b5fe72e622132c88e2e737ecd61accc2b26fd080ef01057765479324",
       "pdfPath": "archive/reports/ML25203A098/b420bf61b5fe72e622132c88e2e737ecd61accc2b26fd080ef01057765479324.pdf",
       "textPath": "archive/reports/ML25203A098/b420bf61b5fe72e622132c88e2e737ecd61accc2b26fd080ef01057765479324.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "b420bf61b5fe72e622132c88e2e737ecd61accc2b26fd080ef01057765479324",
@@ -498,7 +357,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -511,6 +370,7 @@
       "sha256": "f9ae1d33b4fb18d34fe2286bc67b5f3f91726dd7d8bb2459c07a0db9f029e571",
       "pdfPath": "archive/reports/ML25197A764/f9ae1d33b4fb18d34fe2286bc67b5f3f91726dd7d8bb2459c07a0db9f029e571.pdf",
       "textPath": "archive/reports/ML25197A764/f9ae1d33b4fb18d34fe2286bc67b5f3f91726dd7d8bb2459c07a0db9f029e571.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "f9ae1d33b4fb18d34fe2286bc67b5f3f91726dd7d8bb2459c07a0db9f029e571",
@@ -519,7 +379,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -532,6 +392,7 @@
       "sha256": "540b05c341fea982956fcbc9402c15722afe156690e56c32556a4c902b639290",
       "pdfPath": "archive/reports/ML25171A029/540b05c341fea982956fcbc9402c15722afe156690e56c32556a4c902b639290.pdf",
       "textPath": "archive/reports/ML25171A029/540b05c341fea982956fcbc9402c15722afe156690e56c32556a4c902b639290.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "540b05c341fea982956fcbc9402c15722afe156690e56c32556a4c902b639290",
@@ -540,7 +401,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -553,6 +414,7 @@
       "sha256": "88ca6be4410ed28bf25499d5157c4da9f07f85cfb9d4ef4dead54623cb52c408",
       "pdfPath": "archive/reports/ML25140A945/88ca6be4410ed28bf25499d5157c4da9f07f85cfb9d4ef4dead54623cb52c408.pdf",
       "textPath": "archive/reports/ML25140A945/88ca6be4410ed28bf25499d5157c4da9f07f85cfb9d4ef4dead54623cb52c408.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "88ca6be4410ed28bf25499d5157c4da9f07f85cfb9d4ef4dead54623cb52c408",
@@ -561,7 +423,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -574,6 +436,7 @@
       "sha256": "9cec3302f6e89db372eb63b2ccaaec361c1941a86ae936b53e1bddb66552ef36",
       "pdfPath": "archive/reports/ML25083A268/9cec3302f6e89db372eb63b2ccaaec361c1941a86ae936b53e1bddb66552ef36.pdf",
       "textPath": "archive/reports/ML25083A268/9cec3302f6e89db372eb63b2ccaaec361c1941a86ae936b53e1bddb66552ef36.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "9cec3302f6e89db372eb63b2ccaaec361c1941a86ae936b53e1bddb66552ef36",
@@ -582,7 +445,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 1,
       "extractionStatus": "Extracted entries"
     },
@@ -595,6 +458,7 @@
       "sha256": "b1885fa00027fd8534d7f893ac6b40018f6ab47db60aacec6c87696af77225bd",
       "pdfPath": "archive/reports/ML25041A225/b1885fa00027fd8534d7f893ac6b40018f6ab47db60aacec6c87696af77225bd.pdf",
       "textPath": "archive/reports/ML25041A225/b1885fa00027fd8534d7f893ac6b40018f6ab47db60aacec6c87696af77225bd.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "b1885fa00027fd8534d7f893ac6b40018f6ab47db60aacec6c87696af77225bd",
@@ -603,7 +467,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 1,
       "extractionStatus": "Extracted entries"
     },
@@ -616,6 +480,7 @@
       "sha256": "edd7f840a1bd4e0c9b75b2e9759836e429ee1d6e3f74f3998d9fd435957ef4b4",
       "pdfPath": "archive/reports/ML25024A083/edd7f840a1bd4e0c9b75b2e9759836e429ee1d6e3f74f3998d9fd435957ef4b4.pdf",
       "textPath": "archive/reports/ML25024A083/edd7f840a1bd4e0c9b75b2e9759836e429ee1d6e3f74f3998d9fd435957ef4b4.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "edd7f840a1bd4e0c9b75b2e9759836e429ee1d6e3f74f3998d9fd435957ef4b4",
@@ -624,7 +489,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -637,6 +502,7 @@
       "sha256": "d01e2f3f9124d264455653cc3967ada49abeafa64243d25ff1e78a80572686b7",
       "pdfPath": "archive/reports/ML24317A041/d01e2f3f9124d264455653cc3967ada49abeafa64243d25ff1e78a80572686b7.pdf",
       "textPath": "archive/reports/ML24317A041/d01e2f3f9124d264455653cc3967ada49abeafa64243d25ff1e78a80572686b7.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "d01e2f3f9124d264455653cc3967ada49abeafa64243d25ff1e78a80572686b7",
@@ -645,7 +511,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 1,
       "extractionStatus": "Extracted entries"
     },
@@ -658,6 +524,7 @@
       "sha256": "993d3c5241c99448f650dd3c772dc0f7d3d67854f26c5f421ed392bec33ad207",
       "pdfPath": "archive/reports/ML24197A185/993d3c5241c99448f650dd3c772dc0f7d3d67854f26c5f421ed392bec33ad207.pdf",
       "textPath": "archive/reports/ML24197A185/993d3c5241c99448f650dd3c772dc0f7d3d67854f26c5f421ed392bec33ad207.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "993d3c5241c99448f650dd3c772dc0f7d3d67854f26c5f421ed392bec33ad207",
@@ -666,7 +533,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -679,6 +546,7 @@
       "sha256": "14c0853ee754bbc41dadb08ef24edec66ccad8ffbff5728517de5ee60bc39897",
       "pdfPath": "archive/reports/ML24078A315/14c0853ee754bbc41dadb08ef24edec66ccad8ffbff5728517de5ee60bc39897.pdf",
       "textPath": "archive/reports/ML24078A315/14c0853ee754bbc41dadb08ef24edec66ccad8ffbff5728517de5ee60bc39897.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "14c0853ee754bbc41dadb08ef24edec66ccad8ffbff5728517de5ee60bc39897",
@@ -687,7 +555,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -700,6 +568,7 @@
       "sha256": "12dce2d31541b65e7f02dd0a0367e515ba5e073c51a54b36e1f1d98be4574885",
       "pdfPath": "archive/reports/ML24045A147/12dce2d31541b65e7f02dd0a0367e515ba5e073c51a54b36e1f1d98be4574885.pdf",
       "textPath": "archive/reports/ML24045A147/12dce2d31541b65e7f02dd0a0367e515ba5e073c51a54b36e1f1d98be4574885.txt",
+      "textSource": "NRC report text",
       "versions": [
         {
           "sha256": "12dce2d31541b65e7f02dd0a0367e515ba5e073c51a54b36e1f1d98be4574885",
@@ -708,7 +577,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-04T08:23:24.826578Z",
+      "lastCheckedAt": "2026-11-13T08:23:37.897126Z",
       "extractedCount": 1,
       "extractionStatus": "Extracted entries"
     }
