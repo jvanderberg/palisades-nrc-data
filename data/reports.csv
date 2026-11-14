@@ -1,4 +1,1131 @@
 accession,number,date,title,url,extractedCount,pdfPath,textPath,textSource,text
+ML26313A389,2026003,2026-11-09,PALISADES NUCLEAR PLANT - INTEGRATED INSPECTION REPORT 05000255/2026003 AND ASSESSMENT FOLLOW-UP LETTER,https://www.nrc.gov/docs/ML2631/ML26313A389.pdf,0,,archive/reports/ML26313A389/618aee16ce4fff520353e13f13a88e0bf0fd2d623749f53deb7cd6e6ecec28eb.adams.txt,ADAMS indexed text,"
+November 09, 2026
+
+Michael Schultheis 
+Site Vice President, 
+Palisades Energy, LLC 
+Palisades Nuclear Plant 
+27780 Blue Star Memorial Hwy 
+Covert, MI 49043-9530 
+
+SUBJECT: PALISADES NUCLEAR PLANT - INTEGRATED INSPECTION REPORT 
+05000255/2026003 AND ASSESSMENT FOLLOW-UP LETTER 
+
+Dear Michael Schultheis: 
+
+On September 30, 2026, the U.S. Nuclear Regulatory Commission (NRC) completed an 
+inspection at Palisades Nuclear Plant. On October 22, 2026, the NRC inspectors discussed the 
+results of this inspection with Fadi Diya, Chief Nuclear Officer, and other members of your staff. 
+The results of this inspection are documented in the enclosed report. 
+
+No findings or violations of more than minor significance were identified during this inspection.  
+
+As a result of the quarterly review of plant performance, which was completed on 
+September 30, 2026, the NRC updated its assessment of Palisades Nuclear Plant. The NRC’s 
+assessment evaluation consisted of a review of performance indicators and inspection results. 
+This letter informs you of the NRC’s assessment and its plans for a future inspection at your 
+facility.  
+
+The NRC’s review identified that the Occupational Exposure Control Effectiveness performance 
+indicator (OR01) had crossed the Green-to-White threshold. The performance issues 
+associated with this performance indicator included one instance of a Technical Specification 
+(TS) High Radiation Area (HRA) occurrence, when entry into a TS HRA was unintentionally left 
+unlocked, and three instances of Unintended Exposure Occurrences, when individuals received 
+100 mrem or more of unintended internal exposure. 
+
+As a result of this performance indicator crossing the threshold into White, the NRC determined 
+the performance of Palisades Nuclear Plant to be in the Regulatory Response Column of the 
+Reactor Oversight Process (ROP) Action Matrix effective first quarter of 2026 (when the 
+instances occurred). Therefore, we plan to conduct a supplemental inspection using Inspection 
+Procedure 95001, “Supplemental Inspection Response to Action Matrix Column 2 (Regulatory 
+Response) Inputs,” when your staff has notifies us of your readiness for this inspection. Through 
+this inspection, the NRC will review the root and contributing causes, ensure the extent of 
+condition and extent of causes are identified, ensure that completed corrective actions address 
+and preclude repetition, and verify that pending corrective action plans direct prompt and 
+effective resolution of issues identified. Upon notification of your readiness for the supplemental 
+inspection to review the actions taken to address the performance issues, the NRC will contact 
+you to schedule the supplemental inspection.  
+
+
+
+M. Schultheis 2 
+
+ 
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection 
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document 
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public Inspections, 
+Exemptions, Requests for Withholding.” 
+ 
+Please contact April Nguyen at 630-829-9587 with any questions you have regarding this letter. 
+ 
+
+Sincerely, 
+ 
+
+ Signed by Néstor J Feliz-Adorno on 
+
+11/09/26 
+ 
+ 
+Néstor J. Féliz Adorno, Director 
+Division of Reactor Projects 
+Region III 
+ 
+
+Docket No. 05000255 
+License No. DPR–20 
+ 
+Enclosure: 
+As stated 
+ 
+cc: w/ encl: distribution via digital 
+  communications platform 
+
+ 
+
+http://www.nrc.gov/reading-rm/adams.html
+
+
+M. Schultheis 3
+
+Letter to Michael Schultheis from Néstor J. Féliz Adorno dated November 09, 2026. 
+
+SUBJECT: PALISADES NUCLEAR PLANT - INTEGRATED INSPECTION REPORT 
+05000255/2026003 AND ASSESSMENT FOLLOW-UP LETTER 
+
+DISTRIBUTION: 
+Jason Schussler 
+RidsNrrPMPalisades Resource 
+RidsNrrDlp1Orlb3 
+RidsNrrDroIrib Resource 
+Jeremy Groom 
+Philip McKenna 
+Mohammed Shuaibi 
+Diana Betancourt-Roldan 
+Deborah Piskura 
+All-CNRI-R3DRS-Staff  
+All-CNRI-R3DRP-Staff  
+
+ADAMS Accession No.(s): ML26313A389
+PKG.: ML26309A235 
+
+e-Concurrence Case: 20261109-03280
+
+
+
+ 
+
+Enclosure 
+
+U.S. NUCLEAR REGULATORY COMMISSION 
+Inspection Report 
+
+ 
+
+Docket Number: 
+ 
+ 
+
+05000255 
+
+License Number: 
+ 
+ 
+
+DPR-20 
+
+Report Number: 
+ 
+ 
+
+05000255/2026003 
+
+Enterprise Identifier: 
+ 
+ 
+
+I-2026-003-0055 
+
+Licensee: 
+ 
+ 
+
+Palisades Energy, LLC 
+
+Facility: 
+ 
+ 
+
+Palisades Nuclear Plant 
+
+Location: 
+ 
+ 
+
+Covert, MI 
+
+Inspection Dates: 
+ 
+ 
+
+July 01, 2026, to September 30, 2026 
+
+Inspectors: 
+ 
+ 
+
+Angela Guieb, Resident Inspector  
+Benny Jose, Senior Reactor Inspector 
+Joseph Mancuso, Senior Resident Inspector  
+Takuma Okamoto, Resident Inspector 
+Valerie Myers, Senior Health Physicist  
+Atif Shaikh, Senior Reactor Inspector  
+Bob Walden, Reactor Inspector 
+Julie Winslow, Senior Project Engineer  
+ 
+ 
+
+Approved By: 
+ 
+ 
+
+Néstor J. Féliz Adorno, Director 
+Division of Reactor Projects 
+
+ 
+
+
+
+ 
+
+SUMMARY 
+ 
+
+The U.S. Nuclear Regulatory Commission (NRC) continued monitoring the licensee’s 
+performance by conducting an integrated inspection at Palisades Nuclear Plant, in accordance 
+with the Reactor Oversight Process. The Reactor Oversight Process is the NRC’s program  
+for overseeing the safe operation of commercial nuclear power reactors. Refer to 
+https://www.nrc.gov/reactors/operating/oversight.html for more information.  
+ 
+
+List of Findings and Violations 
+ 
+
+No findings or violations of more than minor significance were identified. 
+ 
+
+Additional Tracking Items 
+ 
+None. 
+
+ 
+
+https://www.nrc.gov/reactors/operating/oversight.html
+
+
+ 
+
+PLANT STATUS 
+ 
+On August 25, 2025, Palisades notified the NRC that they rescinded their Title 10 of the  
+Code of Federal Regulations (10 CFR) 50.82(a)(1) certification, which removed the prohibition 
+on operation and emplacement of fuel in the reactor. Palisades also implemented the set  
+of licensing actions to support reimplementation of their operational licensing basis.  
+On August 25, 2025, the NRC transitioned oversight of Palisades to the Reactor Oversight 
+Process (ROP).  
+ 
+The NRC is conducting inspections to evaluate and assess the licensee’s activities for 
+restoration to an operating status. The resident inspectors, as well as supplemental inspectors, 
+continue to provide daily oversight of the restart activities occurring at the site. 
+ 
+Palisades began reloading fuel in the reactor on August 31, 2026, and the unit ended the 
+inspection period in Mode 6. 
+ 
+INSPECTION SCOPES 
+ 
+Inspections were conducted using the appropriate portions of the inspection procedures (IPs)  
+in effect at the beginning of the inspection unless otherwise noted. Currently approved IPs with 
+their attached revision histories are located on the public website at http://www.nrc.gov/reading-
+rm/doc-collections/insp-manual/inspection-procedure/index.html. Samples were declared 
+complete when the IP requirements most appropriate to the inspection activity were met 
+consistent with Inspection Manual Chapter (IMC) 2515, “Light-Water Reactor Inspection 
+Program - Operations Phase.” The inspectors performed activities described in IMC 2515, 
+Appendix D, “Plant Status,” observed risk significant activities, and completed on-site portions  
+of IPs. The inspectors reviewed selected procedures and records, observed activities, and 
+interviewed personnel to assess licensee performance and compliance with Commission rules 
+and regulations, license conditions, site procedures, and standards.  
+ 
+REACTOR SAFETY 
+ 
+71111.04 - Equipment Alignment 
+ 
+Partial Walkdown (IP Section 03.01) (5 Samples) 
+ 
+The inspectors evaluated system configurations during partial walkdowns of the following 
+systems/trains: 
+ 
+
+(1) VC-10 control room ventilation system alignment during VC-11 troubleshooting  
+work window on July 14, 2026. 
+
+(2) Fire suppression following fire suppression valve alignment activities during the  
+week ending on August 8, 2026. 
+
+(3) Shutdown cooling with low pressure safety injection following valve replacement  
+work window on August 8, 2026. 
+
+(4) Auxiliary feedwater pump (AFW), P-8A, following the pump coupling inspection during 
+the week ending August 15, 2026. 
+
+(5) Emergency diesel generators (EDGs), 1-1 and 1-2, prior to fuel move readiness during 
+the week ending August 29, 2026. 
+
+ 
+
+http://www.nrc.gov/reading-rm/doc-collections/insp-manual/inspection-procedure/index.html
+
+
+ 
+
+71111.05 - Fire Protection 
+ 
+Fire Area Walkdown and Inspection (IP Section 03.01) (2 Samples) 
+ 
+The inspectors evaluated the implementation of the fire protection program by conducting a 
+walkdown and performing a review to verify program compliance, equipment functionality, 
+material condition, and operational readiness of the following fire areas: 
+ 
+
+(1) Pre Fire Plan #16, component cooling pump room, elevations 590', 607' 6,"" and 625' 
+on July 21, 2026. 
+
+(2) Pre Fire Plan #13B, charging pump rooms, elevation 590' on September 8, 2026. 
+ 
+71111.13 - Maintenance Risk Assessments and Emergent Work Control 
+ 
+Risk Assessment and Management (IP Section 03.01) (3 Samples) 
+ 
+The inspectors evaluated the accuracy and completeness of risk assessments for the following 
+planned and emergent work activities to ensure configuration changes and appropriate  
+work controls were addressed: 
+ 
+
+(1) Work management risk during pre-core alteration and first-time use of GOP-14 
+shutdown safety risk during week of August 24, 2026. 
+
+(2) Work management risk during Mode 6 core reload during the week of August 30, 2026. 
+(3) Work management risk during securement of tipped fuel assembly in reactor core  
+
+on September 23 and 24, 2026. 
+ 
+71111.15 - Operability Determinations and Functionality Assessments 
+ 
+Operability Determination or Functionality Assessment (IP Section 03.01) (9 Samples)  
+ 
+The inspectors evaluated the licensee’s justifications and actions associated with the following 
+operability determinations and functionality assessments: 
+ 
+
+(1) Field Change Request (FCR) 94065, “Acceptance for Functionality: Instrument Air 
+Various Changes Related to Mechanical, Electrical, and Instrument & Control (I&C)  
+in Engineering Change (EC) 93378,” on July 9, 2026. 
+
+(2) CR 26012305, “Bus 1A and Bus 1B breakers have insufficient short circuit interrupt 
+ratings,” on August 26, 2026. 
+
+(3) CR 26012310, “Legacy Issue Identified on Fast Bus Transfer Between XFMR SG 1-1 
+and SUT 1-2,” on August 26, 2026. 
+
+(4) CR 26017535, “P-52A, P-52B, and P-52C failed RO-146 Acceptance Criteria,” 
+on September 18, 2026. 
+
+(5) Condition Report (CR) 26012615, “Door 44 Deficiency Op-Eval Did Not Consider Flood 
+Implications,” on July 20, 2026. 
+
+(6) Operability Acceptance of 2400 VAC systems under EC Reply 94288 for operability  
+of systems during Mode 6. 
+
+(7) Operability Acceptance of EDGs and support systems under EC Reply 94286 for 
+operability of systems during Mode 6 and EC Reply 94288 for operability of systems 
+during movement of irradiated fuel assemblies. 
+
+(8) Operability Acceptance of Control Room Heating, Ventilation, and Air Conditioning 
+(CRHVAC) systems under EC Reply 94287 for operability of systems during core 
+
+
+
+ 
+
+alterations and EC Reply 94288 for operability of systems during movement of 
+irradiated fuel assemblies. 
+
+(9) Operability Acceptance of Containment Purge system under EC Reply 94287 for 
+operability of systems during core alterations and EC Reply 94288 for operability of 
+systems during movement of irradiated fuel assemblies. 
+ 
+
+Temporary and Permanent Modifications (IP Section 03.02) (1 Sample) 
+ 
+
+(1) EC 93618, permanent modification of service level 1 coatings  
+in containment on July 9, 2026. 
+
+ 
+71111.20 - Refueling and Other Outage Activities 
+ 
+Refueling/Other Outage Sample (IP Section 03.01) (1 Partial) 
+ 
+
+(1) (Partial) 
+The inspectors evaluated restart outage activities from July 1, 2026, to 
+September 30, 2026. 
+
+ 
+71111.24 - Testing and Maintenance of Equipment Important to Risk 
+ 
+The inspectors evaluated the following testing and maintenance activities to verify system 
+operability and/or functionality: 
+ 
+Post-Maintenance and Surveillance Testing (IP Section 03.01) (16 Samples 3 Partials) 
+ 
+
+(1) Post-maintenance testing of the safety injection tank valve, CV-3042, following  
+Work Order (WO) 52921080 to replace the actuator diaphragm stem and  
+compression nut on July 10, 2026. 
+
+(2) Post-maintenance testing of the high-pressure safety injection pump P-66A valves 
+following inspection and refurbishment on July 13, 2026. 
+
+(3) Post-maintenance testing of component cooling water pump P-52B following pump 
+work window on July 15, 2026. 
+
+(4) RT-92, Inspection of Containment Sump envelope on July 17, 2026. 
+(5) QO-16, Inservice Test Procedure - Containment Spray Pump P-54A/B,  
+
+on August 4, 2026. 
+(6) Post-maintenance testing of motor driven auxiliary feed pump P-8A following 
+
+WO 589158 inboard seal replacement on August 9, 2026. 
+(7) RO-97A, Auxiliary Feedwater System Automatic Initiation Test on Motor Driven  
+
+Aux Feedwater Pump P-8A, on August 10, 2026. 
+(8) RO-98, Low Pressure Safety Injection (LPSI) and Containment Spray Comprehensive 
+
+Pump Test and Check Valves Test, on August 18, 2026. 
+(9) RO-11, Containment High Radiation Test on August 29, 2026. 
+(10) Post-maintenance testing of low temperature over pressure protection B channel 
+
+following card replacement on September 11, 2026. 
+(11) Post-maintenance testing of right train control room HVAC, VC-11, filtration operability 
+
+following compressor replacement modification on September 12, 2026. 
+(12) Post-maintenance testing of the non-critical service water isolation valve, CV-1359, 
+
+following WO 606143 valve replacement on September 17, 2026. 
+(13) MO-7A-2, Emergency Diesel Generator 1-2 monthly surveillance run on  
+
+September 23, 2026. 
+
+
+
+ 
+
+(14) Engineered Safeguards System - Left Channel, RT-8C, on September 25, 2026. 
+(15) Engineered Safeguards System - Right Channel, RT-8D, on September 27, 2026. 
+(16) (Partial) 
+
+Functional Test of Bus 1D Undervoltage Relays, RT-130, on September 29, 2026. 
+(17) Post-maintenance testing of CV-3056 safety injection and refueling water tank recirc 
+
+valve following valve relapping and seating on September 30, 2026. 
+(18) (Partial) 
+
+RT-202, Control Room HVAC Heat Removal Capability - performed on train A, on 
+September 14, 2026. 
+
+(19) (Partial) 
+RO-216, Service Water Flow Verification, on September 16, 2026. 
+
+ 
+Inservice Testing (IST) (IP Section 03.01) (3 Samples) 
+ 
+
+(1) RO-146, P-52A, P-52B, and P-52C Component Cooling Water Pump Comprehensive 
+IST Test on July 15, 2026. 
+
+(2) P-66A IST Comprehensive Pump Test, RO-147, on July 15, 2026. 
+(3) P-8A AFW Comprehensive Pump IST Test, RO-145A, on August 9, 2026. 
+
+ 
+ Containment Isolation Valve (CIV) Testing (IP Section 03.01) (1 Sample) 
+ 
+
+(1) Local leak rate test for penetration MZ-19, MZ-50, and MZ-52; Procedures RO-32-19, 
+RO-32-50, and RO-32-52 on July 18, 2026. 
+
+ 
+Quality Control (IP Section 03.02) (1 Sample) 
+ 
+
+(1) Commercial grade dedication of copper tubing and associated connector and fittings 
+for VC-11, right train control room HVAC. 
+
+ 
+OTHER ACTIVITIES – BASELINE 
+ 
+71125.03 - Occupational Radiation Safety Onsite Inspection 
+ 
+ Occupational Calibration and Testing Program (IP Section 03.05) (1 Sample) 
+ 
+The inspectors evaluated the calibration and testing of the following radiation detection 
+instruments: 
+ 
+
+(1) RIA-2316 and 2317, Containment Refueling Radiation Monitors 
+ 
+71153 - Follow-Up of Events and Notices of Enforcement Discretion 
+ 
+Event Follow-up (IP Section 03.01) (1 Sample) 
+ 
+
+(1) The inspectors evaluated the tipped fuel assembly during fuel loading activities  
+and the licensee’s response on September 3, 2026. Per IMC 0309, “Reactive 
+Inspection Decision Basis for Power Reactors,” the NRC considered whether this 
+inspection sample should be the subject of a reactive inspection and determined  
+that a reactive inspection was not necessary, as documented in ADAMS Accession 
+No. ML26265A240. The inspectors evaluated the licensee’s resolution of this issue 
+
+
+
+ 
+
+under the baseline inspection program and will review the licensee’s root cause 
+evaluation and corrective actions as they are completed.   
+
+ 
+INSPECTION RESULTS 
+ 
+No findings were identified. 
+ 
+EXIT MEETINGS AND DEBRIEFS 
+ 
+The inspectors verified no proprietary information was retained or documented in this report.  
+ 
+
+• On October 22, 2026, the inspectors presented the integrated inspection results  
+to F. Diya, Chief Nuclear Officer, and other members of the licensee staff. 
+
+
+
+ 
+
+DOCUMENTS REVIEWED 
+
+Inspection 
+Procedure 
+
+Type Designation Description or Title Revision or 
+Date 
+
+71111.04 Corrective Action 
+Documents 
+
+26014991 Unable to Locate MV-FP736 (C/T E-30B FPS Header 
+Isolation) 
+
+05/17/2026 
+
+26015181 MV-FP726 Unable to Be Located During Test 05/21/2026 
+
+26017376 MV-ES3381 Leaks By 07/11/2026 
+
+26018286 FP799 Cannot Be Operated Due to Sand Intrusion 08/03/2026 
+
+Drawings M-207 Sht. 2 P&ID Auxiliary Feedwater System 45 
+
+Procedures FPIP-4 Fire Protection Systems and Fire Protection Equipment 47 
+
+FPSP-MO-1 Fire Suppression Water System Valve Alignment 26 
+
+SOP-12 Feedwater System 93 
+
+SOP-15 Service Water System 73 
+
+SOP-20 Emergency Diesel Generators 86 
+
+SOP-20 High Pressure Control Air System 40 
+
+SOP-24 Ventilation and Air Conditioning System 86 
+
+SOP-3 Safety Injection and Shutdown Cooling System 111 
+
+Work Orders 00269133 MV-ES3381; Replace E-60B Vent Valve 03/08/2011 
+
+00589706 VC-10 Condenser Overhaul PM 10/02/2025 
+
+00601841 FPSP-MO-1 Fire Supp Water Sys Valve Alignment 08/02/2026 
+
+71111.05 Fire Plans PFP Pre Fire Plans Manual 6 
+
+Procedures FPIP-1 Fire Protection Plan, Organization and Responsibilities 28 
+
+71111.13 Corrective Action 
+Documents 
+
+26019283 Bullet Noses on UGS Came Off During Flood Up 08/22/2026 
+
+26019523 VC-11, Control Room Chiller, Failed to Start 08/26/2026 
+
+26019593 RIA-1807 Containment Area Monitor Spurious alarm 08/26/2026 
+
+26020000 Fuel Assembly EE61 Would Not Seat in Designated Core 
+Location 
+
+09/02/2026 
+
+26020012 Work Scheduled Above Reactor Cavity Level 1 FME Zone 
+During Refueling Operations 
+
+09/02/2026 
+
+26020015 Foreign Material Discovered in Reactor Cavity 09/03/2026 
+
+26020016 NRC Identified, Mode Hold Administrative Error 09/03/2026 
+
+26020034 AOP-34, Fuel Handling Accident, Entry 09/02/2026 
+
+26020040 Fuel Assembly Fell Over After Installed in the Core 09/04/2026 
+
+
+
+ 
+
+Miscellaneous Outage Risk 
+Assessment 
+
+1R28 Rev. 1 Schedule Review 1 
+
+Procedures AOP-34 Fuel Handling Accident 2 
+
+FHSO-19 Securement of a Fuel Assembly DD41 0 
+
+GOP-14 Shutdown Cooling Operations 56 
+
+71111.15 Calculations EA-ELEC-EDSA-
+06 
+
+Palisades AC Power System - Short Circuit Analysis 2 
+
+EA-GOTHIC-04-
+02 
+
+Calculation of Palisades Containment Heat Sink Volumes 
+and Surface Areas for input to GOTHIC 7.1 Containment 
+Response Analysis 
+
+0 
+
+Corrective Action 
+Documents 
+
+25002052 Front Bus Indication Not Available After Restoration 04/29/2024 
+
+25010992 Breaker 152-107 Failed to Open at Desired Voltage 08/04/2025 
+
+25011942 152-205 Cubicle: Screws Found in Breaker Cubical 09/05/2025 
+
+25012340 Licensing Renewal Cable Testing for EX-07 To Breaker 
+152-401 
+
+09/16/2025 
+
+25013024 Exposed Wire For 152-203, 1D Feed from SFGDS Bus 10/03/2025 
+
+26011273 Relay Failure During Loss of Rear Bus Event 02/07/2026 
+
+26012149 Defer 50081930-3 152-110 Breaker Overhaul, online 03/03/2026 
+
+26012150 Frequency Change 50081930-3 152-110 Breaker 
+Overhaul, Online 
+
+03/03/2026 
+
+26012305 Bus 1A And Bus 1B Breakers Have Insufficient Short 
+Circuit Interrupt Ratings 
+
+03/05/2026 
+
+26012308 MCC-7 Breakers Have Insufficient Short Circuit Interrupt 
+Ratings 
+
+03/06/2026 
+
+26012310 Legacy Issue Identified on Fast Bus Transfer Between 
+XFMR SG 1-1 And SUT 1-2 
+
+03/05/2026 
+
+26012311 CRHVAC Damper PO-1711 And PO-1712 Voltage Rating 
+Not Consistent with Analysis 
+
+03/05/2026 
+
+26012358 Deferral PMCR For ECPM (System MAC Related to Maint 
+Rule) Due To Prolonged SD 
+
+03/07/2026 
+
+26012359 Deferral Of PMID Rqs (System MAC) Due To Prolonged 
+SD 
+
+03/07/2026 
+
+26012615 Door 44 Deficiency Op-Eval Did Not Consider Flood 
+Implications 
+
+07/17/2026 
+
+
+
+ 
+
+26013268 Deferral of 00020725.01 and 50081927.02 Due to Parts 
+Issues 
+
+03/31/2026 
+
+26013403 Deferral RSCT List, System MAC Related PM 04/02/2026 
+
+26014619 Instrument Air Conduit Attached to SR Cable Tray Supports 05/06/2026 
+
+26016331 Normal Voltage Was Not Found During Checks on D11-1 
+Control Power Schemes 
+
+06/17/2026 
+
+26016864 Deferral ELEC ECPM Sys MAC PMs UCR 1 Due to 2026 
+COD 
+
+06/29/2026 
+
+26016978 Deferral ELEC ECPM Sys MSM PM UCR 5 Due to 2026 
+COD 
+
+07/01/2026 
+
+26017213 Cable SWYD(C51)/J49C/2 and F23/C56/J49B/3 Megger 
+Results 
+
+07/07/2026 
+
+26017535 P-52A, P-52B, and P-52C failed RO-146 Acceptance 
+Criteria 
+
+07/16/2026 
+
+26018318 152-203 (1D Bus Feeder Breaker) Line Side of Vacuum 
+Bottles Appear Overheated 
+
+08/04/2026 
+
+26019216 Low Voltage Readings on Secondary Side of Potential 
+Transformer at EX-07 
+
+08/20/2026 
+
+Drawings E-1 Plant Single Line Meter 96 
+
+E-1 Single Line Meter & Relay Diagram - 480 Volt Motor 
+Control Centers 
+
+13 
+
+E-5 Plant Single Line Diagram 4 
+
+Engineering 
+Changes 
+
+7376 Structural Evaluation of Existing Door Jamb Frames for 
+Door 44 and 108 
+
+0 
+
+EC-93618 New Service Level 1 Coating Evaluation 0 
+
+EC-94018 Control Room HVAC 04/16/2026 
+
+EC-94030 Fast Bus Transfer Calculation Legacy Issues 0 
+
+EC-94054 Load Breakers on MCC-7 08/26/2026 
+
+EC-94104 Switchyard Buried Cable F25/C56-J49B/3 PT Circuit 
+Relocation to Cable SWYD(C51)/J49C/2 
+
+0 
+
+EC-94179 Reply EC on Potential Impact If 127X-6, 162-6, or 127-6 
+Failed to Operate 
+
+1 
+
+EC-94220 Determination On Stress Cone Damage/Repair for 
+Safeguards 1-1 
+
+0 
+
+EC-94282 Acceptability of CCW Flow to HPSI and Charging Pumps 0 
+
+
+
+ 
+
+FCR 94065 FCR For Various Changes Relating to Mechanical, 
+Electrical, and I&C in EC 93378 
+
+0 
+
+Engineering 
+Evaluations 
+
+EA-C-PAL-95-
+1526-01 
+
+Internal Flooding Evaluation for Plant Areas Outside of 
+Containment 
+
+3 
+
+Miscellaneous ANSI/NEMA 
+C50.41-2012 
+
+Polyphase Induction Motor for Power Generating Stations 07/17/2012 
+
+Carboguard 890N Product Data Sheet 0 
+
+Operability 
+Evaluations 
+
+26017535-03-P-
+52A 
+
+ENG-546 Attachment 5 - IST Pump Reference 
+Value/Range Change Form 
+
+0 
+
+26017535-03-P-
+52B 
+
+ENG-546 Attachment 5 - IST Pump Reference 
+Value/Range Change Form 
+
+0 
+
+26017535-03-P-
+52C 
+
+ENG-546 Attachment 5 - IST Pump Reference 
+Value/Range Change Form 
+
+0 
+
+EC 94210 Door 44 Bottom Gap Analysis 07/14/2026 
+
+Procedures DBD 7.08 Plant Protection Against Flooding 6 
+
+DWO-1 Operator’s Daily/Weekly Items Modes 1, 2, 3, and 4 117 
+
+DWO-2 Operator’s Daily/Weekly Items Modes 5 and 6 28 
+
+RO-146 Comprehensive Pump Test Procedure - Component 
+Cooling Water Pumps P-52A, P-52B and P-52C 
+
+13 
+
+RO-146 Basis Palisades Nuclear Plant Technical Specification 
+Surveillance Procedure Basis Document 
+
+1 
+
+WI-MA-111 Maintenance for 2400 Volt Siemens Switchgear 0 
+
+Work Orders 00586888 PM 152-107 BREAKER. (K-6A INCOMING BKR) 08/13/2026 
+
+00587307-12 NFPA 805; EC60699; ED-11-1; (OPS) Replace 72-112 
+Fuses 
+
+06/25/2026 
+
+00602948 Exposed Wire for 152-203, 1D Feed from SFGDS Bus 08/10/2026 
+
+00603559 152-205 Cubicle: Screws Found in Breaker Cubical 05/18/2026 
+
+00607563 EC 94104 CABLE F25/C56-J49B/3 Relocated to SWYD 
+(C51)/J49C/2 
+
+08/23/2026 
+
+00608109 152-203 (1D Bus Feeder Breaker) Line Side of Vacuum 
+Bottles Appear 
+
+08/14/2026 
+
+52931868-01 PM 152-203(1D BUS FM SG 1-1 OR STA 1-2) 08/05/2026 
+
+52946589 PM 152-205 Breaker. (Feeds P-7C Motor) 04/11/2026 
+
+71111.24 Corrective Action 
+Documents 
+
+26015730 No Conditional Release for Items Associated with VC-11 
+and CGD Package Issue 
+
+06/05/2026 
+
+
+
+ 
+
+26016145 P-52B Failed RO-146 Pump Differential Pressure 
+Acceptance Criteria 
+
+06/14/2026 
+
+26017535 P-52A, P-52C, and P-52C failed RO-146 acceptance 
+Criteria 
+
+07/16/2026 
+
+26017658 Air leak on CV-3042 07/19/2026 
+
+26017660 CV-3042 Limit Switch Not Contacting 07/19/2026 
+
+26017664 CV-3042, Safety Injection Tank T-82A Pressure Control, 
+Failed PMT and QO-6 
+
+07/19/2026 
+
+26017707 Containment Sump Inspection and Cleaning Results 07/20/2026 
+
+26018601 FIC-0727, P-8A/B Flow Control to E-50B, indicating flow in 
+error 
+
+08/08/2026 
+
+26018654 RO-97A Failed Acceptance Criteria 08/10/2026 
+
+26018857 CGD Process Performed Without Written Instruction 08/13/2026 
+
+26019069 Containment Spray Pump P-54C Inboard Motor Slinger 
+Ring Not Spinning 
+
+08/18/2026 
+
+26019071 RO-98 P-67A LPSI P2Y Pump Tangential Reading Alert 
+Range 
+
+08/18/2026 
+
+26019072 RO-98 P-54B Cont Spray Motor Points in Vibe Alarm 08/18/2026 
+
+26019073 RO-98 P-54C Spray Pump Motor Readings in Vibe Alert 08/18/2026 
+
+26019777 EK-1126 CIS INITIATED, Does Not Light During Lamp Test 08/28/2026 
+
+26019835 Partial RO-11 CHR Acceptance Criteria Not Met 08/30/2026 
+
+26020007 RO-32-19 LLRT MZ-19 Leakage Over 3,000 Sccm 09/02/2026 
+
+26020507 VC-11 Low Condenser Water Flow Alarm 09/12/2026 
+
+26020508 SOP-24 VC-11 Pre-Startup Oil Temperature Guidelines 09/12/2026 
+
+26020521 Heater Bank De-Energized During RT-202 09/14/2026 
+
+26020522 V-95 Heater Controls Did Not Respond as Expected 09/14/2026 
+
+26020580 VHX-95 Heaters Displayed Degraded Operation During 
+Performance Of RT-202A 
+
+09/14/2026 
+
+26020587 VHX-95 Heater Fluctuations During Performance of  
+RT-202A 
+
+09/14/2026 
+
+26020717 Air Leak on CV-1359 Non-Critical SW Header Isol Air 
+Supply Line 
+
+09/17/2026 
+
+26020947 During MO-7A-2 DPI-1486 DP Read High 09/23/2026 
+
+Corrective Action 
+Documents 
+
+26020016 NRC Identified, Mode Hold Administrative Error 09/03/2026 
+
+
+
+ 
+
+Resulting from 
+Inspection 
+
+Drawings M-204 SH 1A Containment Spray and Shutdown Cooling System 45 
+
+Engineering 
+Evaluations 
+
+PE Eval 224652 Commercial Grade Dedication for Tee, Tube and Union 
+Fittings (Cat ID 0004547238) 
+
+ 
+
+PE Eval 224653 Commercial Grade Dedication for Brass Connector (Cat ID 
+0004546818) 
+
+ 
+
+PE Eval 224655 Commercial Grade Dedication for Copper Tubing (Cat ID 
+0002879310) 
+
+ 
+
+Procedures MP-138 Commercial Grade Dedication Lab Conduct of Operation 09/06/2026 
+
+OPS-402 Control of Equipment 1 
+
+QO-16 Inservice Test Procedure - Containment Spray Pumps 44 
+
+RO-11 Containment High Radiation Test 28 
+
+RO-145 Comprehensive Pump Test Procedure Auxiliary Feedwater 
+Pumps P-8A, P-8B, and P-8C 
+
+28 
+
+RO-146 Comprehensive Pump Test Procedure - Component 
+Cooling Water P-52A, P-52B and P-52C 
+
+13 
+
+RO-147 Comprehensive Pump Test Procedure - HPSI Pumps P-
+66A and P-66B and ESS Check Valve Operability Test 
+
+13 
+
+RO-32-19 LLRT - Local Leak Rate Test Procedure for Personnel Air 
+Lock MZ-19 
+
+12 
+
+RO-32-50 LLRT - Local Leak Rate Test Procedure for Escape Air 
+Lock 
+
+10 
+
+RO-32-52 LLRT - Local Leak Rate Test Procedure for Penetration 
+MZ-52 
+
+33 
+
+RT-202 Control Room HVAC Heat Removal Capacity 08/25/2026 
+
+RT-202 BASIS Control Room HVAC Heat Removal Capacity 09/15/2026 
+
+RT-8C Engineered Safeguards System - Left Channel 40 
+
+RT-8D Engineered Safeguards System - Right Channel 42 
+
+RT-92 Inspection of Containment Sump Envelope 9 
+
+Work Orders 00583153 RO-32-52 - Penetration #52 - Containment Sump Drain 07/18/2026 
+
+00583887 CK-ES3186; (IST/CM Valve) Disassemble & Inspect 07/18/2026 
+
+00584050 CK-ES3340; Inspect Per ENG-527 (IST/CM Valve) Mech 08/10/2026 
+
+00585729 RO-11 - Containment High Radiation Test 08/25/2026 
+
+
+
+ 
+
+00585994 (PAL-02725) P-66A (HPSI Pump) Inspect/Repair for Flow 
+Requirement 
+
+07/13/2026 
+
+52871027 RT-8D - Eng Safeguards Sys-Right Channel 09/26/2026 
+
+52921080 CV-3042, Replace Actuator Diaphragm Stem and 
+Compression Nut 
+
+07/18/2026 
+
+52957668-08 RO-98 LPSI PMP Vib, Cont Spry Pmp Vib, Dis CK 08/17/2026 
+
+52984002-01 RO-97A - Aux Fwter Sys Automatic Initiation Test 08/10/2026 
+
+52984684-01 RO-145A P-8A AFW Comprehensive Pump Test 08/09/2026 
+
+52985863 RO-32-19 - Personnel Airlock Penetration 09/01/2026 
+
+52988649-01 RO-146 P-52B, IST CCW Pump Comprehensive 08/20/2026 
+
+52996137 RO-32-50 -MZ-50, Escape Air Lock LLRT 08/25/2026 
+
+53002716 RO-147A - P-66A IST Comprehensive Pump Test 07/18/2026 
+
+589158-02 P-8A Restore/PMT After Inboard Packing Maintenance 08/09/2026 
+
+593210-01 MO-33A CRHVAC Emergency Operation 09/13/2026 
+
+602215-01 MO-7A-2 Emergency Diesel Generator 1-2 (K-B) 09/23/2026 
+
+606143-09 CV-1359, PMT/RTS 09/17/2026 
+
+608507 CV-3056, Return to Service and PMT 09/29/2026 
+
+WO 00606757-03 PS-1807  
+
+71114.06 Procedures OPS-134 Palisades Nuclear Power Station Operations Notifications 0 
+
+71125.03 Engineering 
+Changes 
+
+94322 RE-2316/RE-2317 Model Upgrade 0 
+
+Work Orders 00583669 Refueling Isolation Monitor Calibration RI-86E-1 05/19/2026 
+
+00585729 Containment High Radiation Test RO-11 08/25/2026 
+
+00585735 Refueling Isolation Monitors Calibration RI-86E-2 05/12/2026 
+
+00602641 MI-6, Area Monitor Operational Check 09/17/2026 
+
+00607991 RIA-2317 Sporadic Alarms 08/21/2026 
+
+00608504 RIA-2316 Sporadic Reading 09/08/2026 
+
+00608505 RIA-2317 Sporadic Reading 09/08/2026 
+
+71153 Procedures AOP-34 Fuel Handling Accident 2 
+
+AOP-34 Basis Fuel Handling Accident 2 
+
+RFL-V-7 Fuel Movement 18 
+
+ 
+
+
+
+
+"
 ML26286A257,2026010,2026-10-13,PALISADES NUCLEAR PLANT – SAFETY-CONSCIOUS WORK ENVIRONMENT ISSUE OF CONCERN FOLLOW-UP INSPECTION REPORT 05000255/2026010 AND CHILLED WORK ENVIRONMENT FOR RAISING AND ADDRESSING SAFETY CONCERNS AT PALISADES NUCLEAR PLANT,https://www.nrc.gov/docs/ML2628/ML26286A257.pdf,0,archive/reports/ML26286A257/caddf97d0f4015d4489483e7e5d470b535e0a320940dd0e5c72cc609e4adacdb.pdf,archive/reports/ML26286A257/caddf97d0f4015d4489483e7e5d470b535e0a320940dd0e5c72cc609e4adacdb.txt,NRC report text,"                                        October 13, 2026
 
 EAF-RIII-2026-0081

@@ -1,14 +1,206 @@
 {
   "schemaVersion": 2,
   "startDate": "2024-01-01",
-  "checkedAt": "2026-11-13T08:23:37.897126Z",
+  "checkedAt": "2026-11-14T08:20:52.327971Z",
   "sources": [
     "https://www.nrc.gov/info-finder/reactors/pali",
     "https://www.nrc.gov/sites/default/files/doc_library/cdn/data/performance-indicators/list-of-reports.json",
     "https://www.nrc.gov/sites/default/files/doc_library/cdn/data/performance-indicators/current-quarter.json"
   ],
-  "unavailableReports": [],
+  "unavailableReports": [
+    {
+      "url": "https://www.nrc.gov/docs/ML2404/ML24045A147.pdf",
+      "accession": "ML24045A147",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2404/ML24045A147.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2407/ML24078A315.pdf",
+      "accession": "ML24078A315",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2407/ML24078A315.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2419/ML24197A185.pdf",
+      "accession": "ML24197A185",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2419/ML24197A185.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2431/ML24317A041.pdf",
+      "accession": "ML24317A041",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2431/ML24317A041.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2502/ML25024A083.pdf",
+      "accession": "ML25024A083",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2502/ML25024A083.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2504/ML25041A225.pdf",
+      "accession": "ML25041A225",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2504/ML25041A225.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2508/ML25083A268.pdf",
+      "accession": "ML25083A268",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2508/ML25083A268.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2514/ML25140A945.pdf",
+      "accession": "ML25140A945",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2514/ML25140A945.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2517/ML25171A029.pdf",
+      "accession": "ML25171A029",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2517/ML25171A029.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2519/ML25197A764.pdf",
+      "accession": "ML25197A764",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2519/ML25197A764.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2520/ML25203A098.pdf",
+      "accession": "ML25203A098",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2520/ML25203A098.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2520/ML25203A191.pdf",
+      "accession": "ML25203A191",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2520/ML25203A191.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2520/ML25205A049.pdf",
+      "accession": "ML25205A049",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2520/ML25205A049.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2524/ML25241A323.pdf",
+      "accession": "ML25241A323",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2524/ML25241A323.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2526/ML25260A036.pdf",
+      "accession": "ML25260A036",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2526/ML25260A036.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2535/ML25351A275.pdf",
+      "accession": "ML25351A275",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2535/ML25351A275.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2535/ML25357A093.pdf",
+      "accession": "ML25357A093",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2535/ML25357A093.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2601/ML26013A162.pdf",
+      "accession": "ML26013A162",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2601/ML26013A162.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2603/ML26030A166.pdf",
+      "accession": "ML26030A166",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2603/ML26030A166.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2605/ML26055A151.pdf",
+      "accession": "ML26055A151",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2605/ML26055A151.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2606/ML26069A362.pdf",
+      "accession": "ML26069A362",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2606/ML26069A362.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2607/ML26072A198.pdf",
+      "accession": "ML26072A198",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2607/ML26072A198.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2612/ML26125A118.pdf",
+      "accession": "ML26125A118",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2612/ML26125A118.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2622/ML26225A336.pdf",
+      "accession": "ML26225A336",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2622/ML26225A336.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2624/ML26245A104.pdf",
+      "accession": "ML26245A104",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2624/ML26245A104.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2628/ML26286A257.pdf",
+      "accession": "ML26286A257",
+      "fallback": "archived PDF",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2628/ML26286A257.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2631/ML26313A389.pdf",
+      "accession": "ML26313A389",
+      "fallback": "ADAMS text",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2631/ML26313A389.pdf"
+    },
+    {
+      "url": "https://www.nrc.gov/docs/ML2631/ML26314A314.pdf",
+      "accession": "ML26314A314",
+      "fallback": "none",
+      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2631/ML26314A314.pdf; ADAMS has no public document ML26314A314"
+    }
+  ],
   "reports": [
+    {
+      "accession": "ML26313A389",
+      "number": "2026003",
+      "date": "2026-11-09",
+      "title": "PALISADES NUCLEAR PLANT - INTEGRATED INSPECTION REPORT 05000255/2026003 AND ASSESSMENT FOLLOW-UP LETTER",
+      "url": "https://www.nrc.gov/docs/ML2631/ML26313A389.pdf",
+      "sha256": "618aee16ce4fff520353e13f13a88e0bf0fd2d623749f53deb7cd6e6ecec28eb",
+      "pdfPath": "",
+      "textPath": "archive/reports/ML26313A389/618aee16ce4fff520353e13f13a88e0bf0fd2d623749f53deb7cd6e6ecec28eb.adams.txt",
+      "textSource": "ADAMS indexed text",
+      "versions": [
+        {
+          "sha256": "618aee16ce4fff520353e13f13a88e0bf0fd2d623749f53deb7cd6e6ecec28eb",
+          "pdfPath": "",
+          "textPath": "archive/reports/ML26313A389/618aee16ce4fff520353e13f13a88e0bf0fd2d623749f53deb7cd6e6ecec28eb.adams.txt",
+          "source": "ADAMS indexed text"
+        }
+      ],
+      "firstSeenAt": "2026-11-14T08:20:52.327971Z",
+      "lastCheckedAt": "2026-11-14T08:20:52.327971Z",
+      "extractedCount": 0,
+      "extractionStatus": "Full report text available"
+    },
     {
       "accession": "ML26286A257",
       "number": "2026010",
