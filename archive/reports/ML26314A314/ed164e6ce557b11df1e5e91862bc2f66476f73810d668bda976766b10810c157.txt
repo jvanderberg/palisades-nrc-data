@@ -1,0 +1,288 @@
+                                        November 9, 2026
+
+Michael Schultheis
+Site Vice President
+Palisades Energy, LLC
+Palisades Nuclear Plant
+27780 Blue Star Memorial Hwy
+Covert MI 49043-9530
+
+SUBJECT:        Palisades Nuclear Plant – Security Baseline Inspection Report
+                05000255/2026402
+
+Dear Michael Schultheis:
+
+On October 22, 2026, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection
+at Palisades Nuclear Plant and discussed the results of this inspection with you and other
+members of your staff. The results of this inspection are documented in the enclosed report.
+
+No findings or violations of more than minor significance were identified during this inspection.
+
+This letter, its enclosure, and your response (if any) will be made available for public inspection
+and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document
+Room in accordance with Title 10 of the Code of Federal Regulations 2.390, “Public Inspections,
+Exemptions, Requests for Withholding.”
+
+                                             Sincerely,
+
+
+
+                                                             Signed by Nathan Egan on 11/09/26
+
+
+
+                                             Nathan T. Egan, Acting Chief
+                                             Division of Reactor Safety
+                                             Plant Support Branch
+                                             Region III
+
+Docket No. 05000255
+License No. DPR–20
+
+Enclosure:
+As stated
+
+cc: w/ encl: distribution via digital
+ communications platform
+Letter to Michael Schultheis from Nathan T. Egan dated November 9, 2026.
+
+SUBJECT:      PALISADES NUCLEAR PLANT – SECURITY BASELINE INSPECTION
+              REPORT 05000255/2026402
+
+DISTRIBUTION:
+Jason Schussler
+RidsNrrPMPalisades Resource
+RidsNrrDlp1Orlb3
+RidsNrrDroIrib Resource
+Mohammed Shuaibi
+Diana Betancourt-Roldan
+Deborah Piskura
+All-CNRI-R3DRS-Staff
+All-CNRI-R3DRP-Staff
+Brice Bickett
+Jannette Worosilo
+Mike Ordoyne
+RIBInspRptDistro@usnrc.onmicrosoft.com
+
+
+
+
+ADAMS Accession Number: ML26314A314
+PKG: ML26309A021
+e-Concurrence case: 20261105-03243
+                     U.S. NUCLEAR REGULATORY COMMISSION
+                                Inspection Report
+
+Docket Number:           05000255
+
+
+License Number:          DPR-20
+
+
+Report Number:           05000255/2026402
+
+
+Enterprise Identifier:   I-2026-402-0037
+
+
+Licensee:                Palisades Energy, LLC
+
+
+Facility:                Palisades Nuclear Plant
+
+
+Location:                Covert, MI
+
+
+Inspection Dates:        October 19, 2026, to October 22, 2026
+
+
+Inspectors:              Steven Cavanaugh, Physical Security Inspector
+                         Kevin Maloney, Senior Physical Security Inspector
+                         Damon Shuler, Physical Security Inspector
+
+
+Approved By:             Nathan T. Egan, Acting Chief
+                         Division of Reactor Safety
+                         Plant Support Branch
+                         Region III
+
+
+
+
+                                                                             Enclosure
+                                           SUMMARY
+
+The U.S. Nuclear Regulatory Commission (NRC) continued monitoring the licensee’s
+performance by conducting a security baseline inspection at Palisades Nuclear Plant,
+in accordance with the Reactor Oversight Process. The Reactor Oversight Process is the
+NRC’s program for overseeing the safe operation of commercial nuclear power reactors.
+Refer to https://www.nrc.gov/reactors/operating/oversight.html for more information.
+
+                                List of Findings and Violations
+
+No findings or violations of more than minor significance were identified.
+
+                                   Additional Tracking Items
+
+None.
+
+
+
+
+                                                2
+INSPECTION SCOPES
+
+Inspections were conducted using the appropriate portions of the inspection procedures (IPs)
+in effect at the beginning of the inspection unless otherwise noted. Currently approved IPs with
+their attached revision histories are located on the public website at http://www.nrc.gov/reading-
+rm/doc-collections/insp-manual/inspection-procedure/index.html. Samples were declared
+complete when the IP requirements most appropriate to the inspection activity were met
+consistent with Inspection Manual Chapter (IMC) 2201, “Security Inspection Program for
+Commercial Nuclear Power Reactors.” The inspectors reviewed selected procedures and
+records, observed activities, and interviewed personnel to assess licensee performance and
+compliance with Commission rules and regulations, license conditions, site procedures, and
+standards.
+
+SAFEGUARDS
+
+71130.16 - Security Performance
+
+Security Performance (IP Section 03.01) (3 Samples)
+
+The inspectors evaluated security performance during observations of the following activities:
+     (1)   Access Control
+
+               •   The inspectors evaluated the licensee’s implementation of access controls
+                   through observation of personnel, material, and vehicle searches.
+               •   The inspectors evaluated the licensee’s implementation of access controls
+                   through observation of access control points and control measures.
+               •   The inspectors evaluated the licensee’s information protection and Safeguards
+                   Information controls.
+
+    (2)    Equipment Testing and Maintenance
+
+           The inspectors evaluated the licensee’s security equipment testing and maintenance
+           program through review and observation of records and testing of the following
+           systems:
+                     1. Alarm station detection and assessment equipment (e.g., closed circuit
+                         television, video capture, alarm console)
+                     2. Special purpose detection equipment (i.e., metal detector, explosive
+                         detector, x-ray)
+                     3. Security Weapons
+                     4. Physical Barriers (e.g., door, turnstile, biometric reader testing)
+                     5. Surveillance, observation, and monitoring as identified in the PSP
+
+               •   The inspectors evaluated the licensee’s perimeter intrusion detection and
+                   assessment system testing and maintenance program through review and
+                   observation of records and testing.
+
+
+    (3)    Access Authorization and Fitness for Duty
+
+               •   The inspectors evaluated the licensee’s access authorization records for
+                   personnel granted unescorted access to Palisades NGP.
+
+                                                3
+                •   The inspectors evaluated the licensee’s fitness for duty records for personnel
+                    granted unescorted access to Palisades NGP.
+                •   The inspectors evaluated the licensee’s access authorization and fitness for
+                    duty program design and implementation.
+                •   The inspectors evaluated the licensee’s fitness for duty sample collection
+                    implementation at Palisades NGP.
+
+Problem Identification and Resolution (IP Section 03.02) (1 Sample)
+
+The inspectors reviewed the implementation of the problem identification and resolution
+program to identify and correct deficiencies in security risk-significant items.
+
+       (1)   The inspectors reviewed the licensee’s entries in the problem identification and
+             resolution program and security event log covering the period from 6/1/2025 to
+             10/15/2026.
+
+             The inspectors reviewed a selection of security program reviews conducted from
+             10/4/2024 to 12/23/2025.
+
+INSPECTION RESULTS
+
+No findings were identified.
+
+EXIT MEETINGS AND DEBRIEFS
+
+The inspectors verified no proprietary information was retained or documented in this report.
+
+   •     On October 22, 2026, the inspectors presented the security baseline inspection results
+         to Michael Schultheis and other members of the licensee staff.
+
+
+
+
+                                                 4
+DOCUMENTS REVIEWED
+
+Inspection   Type            Designation        Description or Title                                   Revision or
+Procedure                                                                                              Date
+71130.16     Miscellaneous                      ISC Infinity 2020 Testing and Maintenance Procedures   0
+                                                10 Completed Rifle Technical Inspection Forms          1
+                             50919 RBT # 4      Breathalyzer                                           09/30/2026
+                             Alarm/Event                                                               10/20/2026
+                             Report
+                             DOC # - PERI-      Perifield Testing Procedures                           09/11/2024
+                             0002
+                             PL0004             Security Equipment Test List for Month of July 2026    61
+                             PL0004             Security Equipment Test List for Month of November     61
+                                                2025
+                             PL004              Security Equipment Test List for March 2026            61
+                             PL0062             Perimeter Intrusion Detection System Alarm Testing     03/01/2026
+                                                Record
+                             PL0062             Perimeter Intrusion Detection System Alarm Testing     16
+                                                Record 10-2025 to 11-2025
+                             PL0062             Perimeter Intrusion Detection System Alarm Testing     16
+                                                Record for Month of June 2026
+                             PL0084             X-Ray Examination Device - Gemini 7555 for Month of    2
+                                                July 2026
+                             PL0084             X-Ray Examination Device - Gemini 7555 for Month of    2
+                                                March 2026
+                             PL0084             X-Ray Examination Device - Gemini 7555 for Month of    2
+                                                November 2025
+                             SEC-224            SOCA Access Controls                                   1
+                             Testing Document   Southwest Microwave Sensor Testing at Nuclear          05/28/2024
+                             702C               Generating or DOE Facilities
+             Procedures      FF-121             Consent to Test form                                   1
+                             FF-400             Holtec Palisades International Fitness For Duty        1
+                                                Program Policy Statement
+                             FORM PL0085        Warehouse X-Ray Checklist                              02
+                             PSP                Physical Security Plan                                 22
+
+
+                                                      5
+              RA-023            Fatigue Management Program                         2
+              SEC-212           Weapons Maintenance Accountability Program         0
+              SEC-232           General Employee Security Responsibilities         0
+              SEC-400           Unescorted Access Authorization Program            1
+              SEC-402           AA/FFD Training and Qualification Program          0
+              SEC-404           Processing Potentially Disqualifying Information   0
+              SEC-407           Fitness For Duty Program                           0
+              SEC-410           Processing Of Fitness For Duty Test Results        0
+              SIP 22            Emergency Services Personnel and Vehicle Access    16
+              SIP 3             Protected Areas                                    2
+              SIP 4             Personnel Access                                   43
+              SIP 41            Camera Controls for Access and Use                 2
+              SIP 44            Warehouse Material Search                          0
+              SIP 5             Search Procedures and Property Removal             49
+                                Requirements
+              SIP 6             Vehicle Control                                    38
+              SIP-18            Security Systems and Equipment Testing             62
+Self-         25888             Confidential Services Audit                        06/03/2026
+Assessments   Audit 2024-I-23   Security Program (Location: Palisades)             04/07/2025
+              QA-1-2026-PNP-    2026 Fitness for Duty/Access Authorization         09/14/2026
+              01
+              QA-16-2025-PNP-   Security (including Cyber Security)                12/23/2025
+              01
+              VA26A03           The Stress Center Physical                         04/29/2026
+
+
+
+
+                                     6
+
