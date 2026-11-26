@@ -1,62 +1,13 @@
 {
   "schemaVersion": 2,
   "startDate": "2024-01-01",
-  "checkedAt": "2026-11-25T08:24:38.374703Z",
+  "checkedAt": "2026-11-26T08:24:31.016084Z",
   "sources": [
     "https://www.nrc.gov/info-finder/reactors/pali",
     "https://www.nrc.gov/sites/default/files/doc_library/cdn/data/performance-indicators/list-of-reports.json",
     "https://www.nrc.gov/sites/default/files/doc_library/cdn/data/performance-indicators/current-quarter.json"
   ],
-  "unavailableReports": [
-    {
-      "url": "https://www.nrc.gov/docs/ML2606/ML26069A362.pdf",
-      "accession": "ML26069A362",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2606/ML26069A362.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2607/ML26072A198.pdf",
-      "accession": "ML26072A198",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2607/ML26072A198.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2612/ML26125A118.pdf",
-      "accession": "ML26125A118",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2612/ML26125A118.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2622/ML26225A336.pdf",
-      "accession": "ML26225A336",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2622/ML26225A336.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2624/ML26245A104.pdf",
-      "accession": "ML26245A104",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2624/ML26245A104.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2628/ML26286A257.pdf",
-      "accession": "ML26286A257",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2628/ML26286A257.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2631/ML26313A389.pdf",
-      "accession": "ML26313A389",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2631/ML26313A389.pdf"
-    },
-    {
-      "url": "https://www.nrc.gov/docs/ML2631/ML26314A314.pdf",
-      "accession": "ML26314A314",
-      "fallback": "archived PDF",
-      "error": "NRC HTTP 403: https://www.nrc.gov/docs/ML2631/ML26314A314.pdf"
-    }
-  ],
+  "unavailableReports": [],
   "reports": [
     {
       "accession": "ML26314A314",
@@ -77,7 +28,7 @@
         }
       ],
       "firstSeenAt": "2026-11-19T08:24:17.653594Z",
-      "lastCheckedAt": "2026-11-24T08:24:33.552522Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -106,7 +57,7 @@
         }
       ],
       "firstSeenAt": "2026-11-14T08:20:52.327971Z",
-      "lastCheckedAt": "2026-11-24T08:24:33.552522Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -128,7 +79,7 @@
         }
       ],
       "firstSeenAt": "2026-10-23T08:35:15.608423Z",
-      "lastCheckedAt": "2026-11-24T08:24:33.552522Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -150,7 +101,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-24T08:24:33.552522Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 2,
       "extractionStatus": "Extracted entries"
     },
@@ -172,7 +123,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-24T08:24:33.552522Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 4,
       "extractionStatus": "Extracted entries"
     },
@@ -194,7 +145,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-24T08:24:33.552522Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 4,
       "extractionStatus": "Extracted entries"
     },
@@ -216,7 +167,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-24T08:24:33.552522Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 1,
       "extractionStatus": "Extracted entries"
     },
@@ -238,7 +189,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-24T08:24:33.552522Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -260,7 +211,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 4,
       "extractionStatus": "Extracted entries"
     },
@@ -282,7 +233,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -304,7 +255,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -326,7 +277,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 2,
       "extractionStatus": "Extracted entries"
     },
@@ -348,7 +299,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -370,7 +321,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -392,7 +343,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -414,7 +365,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 1,
       "extractionStatus": "Extracted entries"
     },
@@ -436,7 +387,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -458,7 +409,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -480,7 +431,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -502,7 +453,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -524,7 +475,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -546,7 +497,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 1,
       "extractionStatus": "Extracted entries"
     },
@@ -568,7 +519,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 1,
       "extractionStatus": "Extracted entries"
     },
@@ -590,7 +541,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -612,7 +563,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 1,
       "extractionStatus": "Extracted entries"
     },
@@ -634,7 +585,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -656,7 +607,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 0,
       "extractionStatus": "Full report text available"
     },
@@ -678,7 +629,7 @@
         }
       ],
       "firstSeenAt": "2026-09-08T22:12:23.417707Z",
-      "lastCheckedAt": "2026-11-25T08:24:38.374703Z",
+      "lastCheckedAt": "2026-11-26T08:24:31.016084Z",
       "extractedCount": 1,
       "extractionStatus": "Extracted entries"
     }
